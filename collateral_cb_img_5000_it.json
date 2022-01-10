@@ -1,0 +1,98 @@
+{
+  "english": "collateral",
+  "phat_am": "kəˈlætərəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài sản thế chấp",
+          "definition": "property or other goods that you promise to give someone if you are unable to pay back a loan",
+          "world_new": [
+            "property",
+            "goods",
+            "promise",
+            "unable",
+            "pay",
+            "loan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Talk to an attorney, financial advisor, or someone else you trust before you make any decisions about borrowing money using your home as collateral.",
+              "world_new": [
+                "attorney",
+                "financial",
+                "else",
+                "trust",
+                "borrowing",
+                "money",
+                "your",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phụ thêm",
+          "definition": "accompanying, additional, or supporting",
+          "world_new": [
+            "additional",
+            "supporting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "collateral benefits"
+            },
+            {
+              "ex_of_definition": "collateral evidence.",
+              "world_new": [
+                "evidence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the absence of dual vessels, it would then seem reasonable to cede bronchial status to the collateral vessels.",
+    "In other instances, segments of lung can receive supply both from non-communicating collateral arteries and from intrapericardial pulmonary arteries.",
+    "Many large tortuous vessels with continuous flow patterns, which were thought to be collaterals were seen throughout the myocardium.",
+    "There were two small major aortopulmonary collateral arteries providing dual supply to various individual segments.",
+    "This schedule allows enough time for the patient to accommodate to this physiology, and yet obviate the ingrowth of aortopulmonary collateral arteries.",
+    "The sources of these extracardiac collateral vessels were the bronchial and internal mammary arteries.",
+    "There were three collateral arteries supplying the right lung.",
+    "This is far from the case in the presence of systemic-topulmonary collateral arteries."
+  ],
+  "list_see_also": [
+    "collateral damage"
+  ],
+  "list_browse": [
+    "collapse",
+    "collapsible",
+    "collar",
+    "collarbone",
+    "collateral",
+    "collateral damage",
+    "colleague",
+    "collect",
+    "collected"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437478_341a52b701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437478_daa2d7e84b_o.png",
+      "id_image": "collateral_2620251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677294_74154c9165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677294_28f77903a3_o.png",
+      "id_image": "collateral_5571336"
+    }
+  ]
+}

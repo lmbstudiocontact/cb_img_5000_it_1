@@ -1,0 +1,67 @@
+{
+  "english": "flipper",
+  "phat_am": "ˈflipə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "(động vật học) chân chèo",
+          "definition": "a limb for swimming, especially of a seal, walrus etc.",
+          "world_new": [
+            "limb",
+            "swimming",
+            "seal",
+            "walrus"
+          ]
+        },
+        {
+          "mean_english": "bàn chân người nhái",
+          "definition": "a kind of rubber or plastic shoe, worn when swimming, which is shaped like the flipper of a seal etc",
+          "world_new": [
+            "kind",
+            "rubber",
+            "plastic",
+            "shoe",
+            "worn",
+            "swimming",
+            "shaped",
+            "seal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of flippers.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flip-flops",
+    "flippancy",
+    "flippant",
+    "flippantly",
+    "flipper",
+    "flirt",
+    "flirtation",
+    "flirtatious",
+    "flirtatiously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058065_6ba243919a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058065_0ca0415d45_o.png",
+      "id_image": "flipper_390798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058020_f604762e4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058020_90ff1d6d9b_o.png",
+      "id_image": "flipper_4469309"
+    }
+  ]
+}

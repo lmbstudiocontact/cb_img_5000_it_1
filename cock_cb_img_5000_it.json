@@ -1,0 +1,157 @@
+{
+  "english": "cock",
+  "phat_am": "kok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gà trống",
+          "definition": "the male of birds, especially of the domestic fowl",
+          "world_new": [
+            "male",
+            "domestic",
+            "fowl"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cock and three hens"
+            },
+            {
+              "ex_of_definition": "(also adjective) a cock sparrow.",
+              "world_new": [
+                "sparrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái van",
+          "definition": "a kind of tap for controlling the flow of liquid, gas etc",
+          "world_new": [
+            "kind",
+            "tap",
+            "flow",
+            "liquid",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Once the stop cock was opened, gas flowed into the empty container.",
+              "world_new": [
+                "stop",
+                "gas",
+                "empty",
+                "container"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dương vật",
+          "definition": "a slang word for the penis.",
+          "world_new": [
+            "slang",
+            "penis"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dựng đứng lên",
+          "definition": "to cause to stand upright or to lift",
+          "world_new": [
+            "cause",
+            "stand",
+            "upright",
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog cocked its ears.",
+              "world_new": [
+                "dog",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên cò súng",
+          "definition": "to draw back the hammer of (a gun)",
+          "world_new": [
+            "draw",
+            "hammer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cocked his revolver and pointed it at Ted.",
+              "world_new": [
+                "revolver",
+                "pointed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hếch lên",
+          "definition": "to tilt up or sideways (especially a hat)",
+          "world_new": [
+            "tilt",
+            "sideways"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cocked his hat on one side.",
+              "world_new": [
+                "hat",
+                "side"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cockerel",
+    "cocky",
+    "cock-and-bull story",
+    "cockcrow",
+    "cockeyed",
+    "cocksure",
+    "cock-up",
+    "cock up"
+  ],
+  "list_browse": [
+    "cobbler",
+    "cobra",
+    "cobweb",
+    "cocaine",
+    "cock",
+    "cock-and-bull story",
+    "cock-up",
+    "cockade",
+    "cockatoo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441303_30184cc75d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441303_063e90798b_o.png",
+      "id_image": "cock_2281152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441393_1ee0d74c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441393_e5d3653bb5_o.png",
+      "id_image": "cock_311564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326346_c483797b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326346_1a07b849ed_o.png",
+      "id_image": "cock_3638425"
+    }
+  ]
+}

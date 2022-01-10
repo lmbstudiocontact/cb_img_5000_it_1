@@ -1,0 +1,143 @@
+{
+  "english": "entry",
+  "phat_am": "ˈentri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đi vào",
+          "definition": "(an) act of coming in or going in",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were silenced by the entry of the headmaster.",
+              "world_new": [
+                "headmaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đi vào",
+          "definition": "the right to enter",
+          "world_new": [
+            "right",
+            "enter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can’t go in – the sign says ‘No Entry’.",
+              "world_new": [
+                "sign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cửa vào",
+          "definition": "place of entrance, especially a passage or small entrance hall",
+          "world_new": [
+            "place",
+            "entrance",
+            "passage",
+            "small",
+            "entrance",
+            "hall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t bring your bike in here – leave it in the entry.",
+              "world_new": [
+                "bring",
+                "your",
+                "leave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đăng ký tên",
+          "definition": "a person or thing entered for a competition etc",
+          "world_new": [
+            "person",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are forty-five entries for the painting competition.",
+              "world_new": [
+                "painting",
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sổ sách",
+          "definition": "something written in a list in a book etc",
+          "world_new": [
+            "list",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some of the entries in the cashbook are inaccurate.",
+              "world_new": [
+                "inaccurate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first episode begins with a motif derived from the fugue's incipit, and there is a stretto in the middle entries.",
+    "There is also an index of all defined entries.",
+    "The entries in the manual are in alphabetical order with some being very long.",
+    "There are encyclopedic entries on prominent people and places.",
+    "Given the quality of the first entries, my advice to all linguists is to put yourselves down for standing orders for the ones to follow.",
+    "After untrailing and applying the above rules, a number of remembered sets might still contain some entries which are younger than the current choice point.",
+    "The entries are the estimated effect of imputed support for the independent (row) variable on support for the dependent (column) variable.",
+    "He treats nouns as having a ' qualia structure ' as part of their lexical entries which, among other things, specifies possible events associated with the entity."
+  ],
+  "list_see_also": [
+    "entry-level"
+  ],
+  "list_browse": [
+    "entrée",
+    "entrepot",
+    "entrepreneur",
+    "entrust",
+    "entry",
+    "entry-level",
+    "entwine",
+    "enumerate",
+    "enumeration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362212_49ec40e25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362212_7ff6450e86_o.png",
+      "id_image": "entry_1010333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317736_658f60a73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317736_86c06414ed_o.png",
+      "id_image": "entry_2049097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362142_b9f14574e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362142_30ffb4e6b9_o.png",
+      "id_image": "entry_5664092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362077_65863a2642_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362077_63ee549b55_o.png",
+      "id_image": "entry_6265006"
+    }
+  ]
+}

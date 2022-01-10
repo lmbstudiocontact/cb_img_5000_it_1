@@ -1,0 +1,75 @@
+{
+  "english": "dustpan",
+  "phat_am": "ˈdaspӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái hót rác",
+          "definition": "a type of flat container with a handle, used for holding dust swept from the floor",
+          "world_new": [
+            "type",
+            "flat",
+            "container",
+            "handle",
+            "dust",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dustpan and brush.",
+              "world_new": [
+                "brush"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Handheld dustpans may be used with either a full-size broom or with a smaller whisk broom or brush sometimes called a duster.",
+    "They must get their little dustpans and brushes out and clean up their own mess.",
+    "We are indeed a gilded dustpan and brush.",
+    "A variant on the dustpan is the silent butler, a handheld, lidded dustpan.",
+    "Spike appears and collects the dust using a dustpan and brush, and empties it into the bin.",
+    "On the first stair, a dustpan and brush quarrel with each other.",
+    "Streets were reportedly clean by 10 am, with volunteers having shown up with brooms and dustpans to clean the city.",
+    "She has to come here with a giant dustpan and brush."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dustbin",
+    "duster",
+    "dustiness",
+    "dustman",
+    "dustpan",
+    "dusty",
+    "dutiable",
+    "dutiful",
+    "duty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449163_7da7e48bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449163_e05de346ae_o.png",
+      "id_image": "dustpan_2912616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334231_613d28a111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334231_84c83aedf2_o.png",
+      "id_image": "dustpan_578003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449218_86895f3379_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449218_d427ec9c38_o.png",
+      "id_image": "dustpan_720886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071185_f0be55e9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071185_28c2185b0c_o.png",
+      "id_image": "dustpan_863006"
+    }
+  ]
+}

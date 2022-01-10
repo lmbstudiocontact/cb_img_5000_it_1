@@ -1,0 +1,157 @@
+{
+  "english": "drink",
+  "phat_am": "driŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "uống",
+          "definition": "to swallow (a liquid)",
+          "world_new": [
+            "swallow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She drank a pint of water",
+              "world_new": [
+                "pint",
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "He drank from a bottle.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "uống rượu",
+          "definition": "to take alcoholic liquids, especially in too great a quantity",
+          "world_new": [
+            "alcoholic",
+            "great",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He started drinking heavily and that’s when his problems began.",
+              "world_new": [
+                "heavily"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ uống",
+          "definition": "(an act of drinking) a liquid suitable for swallowing",
+          "world_new": [
+            "act",
+            "liquid",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had/took a drink of water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "Lemonade is a refreshing drink.",
+              "world_new": [
+                "refreshing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rượu",
+          "definition": "(a glassful etc of) alcoholic liquor",
+          "world_new": [
+            "glassful",
+            "alcoholic",
+            "liquor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes a drink when he returns home from work",
+              "world_new": [
+                "home",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "Have we any drink in the house?",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What one wore to dinner, where one sat and with whom, and what one ate and drank all served as indexes of class.",
+    "By bringing around food and drink he demonstrates that he is an open person and personally approachable by everybody.",
+    "Only one patient, a young female who drank heavily and binged, described trying to reduce her alcohol consumption.",
+    "One of the drinks was nutritionally balanced and contained tryptophan (placebo), the other was identical but contained no tryptophan.",
+    "After a rapid gaze at the other's clothes (to check for the minimum of respectability), a man would accept an invitation to drink.",
+    "The lessons are rather clear: the more people drink and smoke, the shorter they live!",
+    "Just why there should be such an avalanche of interest these days in food and drink is an interesting question.",
+    "In this apartment ad, a single woman in a casual outfit drinks coffee while listening to music quietly in her beautiful apartment."
+  ],
+  "list_see_also": [
+    "drinker",
+    "drink-driving",
+    "drink in",
+    "drink to / drink (to) the health of",
+    "drink up"
+  ],
+  "list_browse": [
+    "drifter",
+    "driftwood",
+    "drill",
+    "drily",
+    "drink",
+    "drink (to) someone’s health",
+    "drink in",
+    "drink to / drink (to) the health of",
+    "drink up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339041_f8da57356d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339041_0fe7961ac1_o.png",
+      "id_image": "drink_2488417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383937_c27f5e7a6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383937_3ac02b849d_o.png",
+      "id_image": "drink_2601014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076055_aaceb37aef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076055_47b37f512a_o.png",
+      "id_image": "drink_2738804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076000_f1e3099b1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076000_35c6bb690e_o.png",
+      "id_image": "drink_2921819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339091_13fa472f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339091_75bd1b59e1_o.png",
+      "id_image": "drink_722855"
+    }
+  ]
+}

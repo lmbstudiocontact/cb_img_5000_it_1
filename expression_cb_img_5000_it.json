@@ -1,0 +1,106 @@
+{
+  "english": "expression",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vẻ mặt",
+          "definition": "a look on one’s face that shows one’s feelings",
+          "world_new": [
+            "look",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always has a bored expression on his face.",
+              "world_new": [
+                "bored",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành ngữ",
+          "definition": "a word or phrase",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Dough’ is a slang expression for ‘money’.",
+              "world_new": [
+                "slang"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự diễn đạt",
+          "definition": "(a) showing of thoughts or feelings by words, actions etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This poem is an expression of his grief.",
+              "world_new": [
+                "poem",
+                "grief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự biểu hiện",
+          "definition": "the showing of feeling when eg reciting, reading aloud or playing a musical instrument",
+          "world_new": [
+            "feeling",
+            "reading",
+            "aloud",
+            "musical",
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put more expression into your playing!",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A rock singer is perhaps typically more concerned with direct visceral expression of the body.",
+    "As such it is, among other things, an expression of the kingdom's expansion and of genealogical distance or proximity to the current ruler.",
+    "It computes the symbolic size of each vector expression.",
+    "Calling a controversy \"pure\" imports a value judgment into a task that should be - if you will pardon the expression - purely descriptive.",
+    "Language can no longer be construed simply as a medium, relatively or potentially transparent, for the representation or expression of a reality outside itself.",
+    "Such a system would ultimately report biomarker expression as molecules per-cell or unit-area.",
+    "The efficiency is good if one considers that symbolic evaluation is employed on untyped expressions.",
+    "The expressions e and e do not contain any free variables, but they may contain free names."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exposition",
+    "exposure",
+    "expound",
+    "express",
+    "expression",
+    "expressionless",
+    "expressive",
+    "expressively",
+    "expressiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341121_7d4e0e1d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341121_c17ce79994_o.png",
+      "id_image": "expression_2529667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455893_cabefd8ac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455893_23a39cff9b_o.png",
+      "id_image": "expression_5760113"
+    }
+  ]
+}

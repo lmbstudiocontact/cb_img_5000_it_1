@@ -1,0 +1,89 @@
+{
+  "english": "constraint",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ràng buộc",
+          "definition": "something that limits your freedom to do what you would like to do",
+          "world_new": [
+            "your",
+            "freedom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "financial constraints.",
+              "world_new": [
+                "financial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kìm nén",
+          "definition": "control over the way you are allowed to behave",
+          "world_new": [
+            "control",
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We needed to find a place where we could talk without constraint.",
+              "world_new": [
+                "find",
+                "place",
+                "talk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The activity of other constraints yields the more general restriction of unreleased consonants to place-assimilated nasals.",
+    "Figures 10 and 11 show the response of the contact area position constraints.",
+    "We addressed this issue at the close of 7.1.1 : since individual constraints work to determine optimality, they cannot themselves depend on this property.",
+    "The resulting tool will allow specifying relations between groups and participants, and different interaction types and constraints over interactions.",
+    "The size variation of the reduplicant is a consequence of the interactions between constraints on the anchoring of the plural morpheme and stress assignment.",
+    "In particular, haptic perception is important to recognize local and dynamic properties of the environment and the physical constraints imposed on the end-effector.",
+    "To sketch this theory, we require better motivation for faithfulness constraints for stress and tone, as done directly below.",
+    "The capacity to use marked forms is a developmental step, but their use largely depends on contextual and pragmatic constraints."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "constitution",
+    "constitutional",
+    "constitutionally",
+    "constrain",
+    "constraint",
+    "constrict",
+    "construct",
+    "construction",
+    "construction site"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353392_e985f12f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353392_fbe139212f_o.png",
+      "id_image": "constraint_1900193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424318_3baefbf6ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424318_d40378eb25_o.png",
+      "id_image": "constraint_2844303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664444_6756c0bac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664444_153f4c1fd3_o.png",
+      "id_image": "constraint_2844384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353307_1554be8697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353307_935c15cb50_o.png",
+      "id_image": "constraint_4252352"
+    }
+  ]
+}

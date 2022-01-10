@@ -1,0 +1,74 @@
+{
+  "english": "confession",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thú tội",
+          "definition": "acknowledgment of a crime or fault",
+          "world_new": [
+            "crime",
+            "fault"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The youth made a confession to the police officer.",
+              "world_new": [
+                "youth",
+                "police",
+                "officer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xưng tội",
+          "definition": "(an) act of confessing one’s sins to a priest",
+          "world_new": [
+            "act",
+            "priest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went to confession every Friday.",
+              "world_new": [
+                "Friday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was neither a shortage of ' supergrasses ', nor of confessions of various kinds.",
+    "We also heard a number of interesting confessions during our long debate.",
+    "Our present law relating to confessions is not at all that bad.",
+    "Revivalists' public confessions of sin looked like cleansing ceremonies.",
+    "In each case, those confessions were not the truth.",
+    "I take it that the way those confessions were obtained will need to be established.",
+    "Such stories (or reports, confessions, films, series of photos/sketches, etc.) could be fully documentary or fictions closely following true events.",
+    "Critics from both confessions condemned the attempt to divine a certain future and attempted to draw a clear distinction between natural, diabolical and divine signs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "confer",
+    "conference",
+    "conference call",
+    "confess",
+    "confession",
+    "confessional",
+    "confessor",
+    "confetti",
+    "confide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049210_d3e1d4016b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049210_79f08a74db_o.png",
+      "id_image": "confession_4207665"
+    }
+  ]
+}

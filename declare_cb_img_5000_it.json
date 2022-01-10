@@ -1,0 +1,95 @@
+{
+  "english": "declare",
+  "phat_am": "diˈkleə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chính thức thông báo",
+          "definition": "to announce publicly or formally",
+          "world_new": [
+            "announce",
+            "publicly",
+            "formally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "War was declared this morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyên bố",
+          "definition": "to say firmly",
+          "world_new": [
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I don’t like him at all,’ she declared."
+            }
+          ]
+        },
+        {
+          "mean_english": "khai báo hàng hoá để đánh thuế",
+          "definition": "to make known (goods on which duty must be paid, income on which tax should be paid etc)",
+          "world_new": [
+            "duty",
+            "income",
+            "tax"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He decided to declare his untaxed earnings to the tax office.",
+              "world_new": [
+                "earnings",
+                "tax",
+                "office"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By the end of an employment relationship, an employer has to declare when (date and time) the employee in question leaves the company.",
+    "Each class declaring virtual slots contains a vector of virtual slots accessors.",
+    "By 1998, all the teachers in the sample declared that they included popular music.",
+    "Note that, contrary to usual practice, we insist on variables being declared at most once in a pseudo-context.",
+    "In the eighteenth and nineteenth centuries, this right meant that sales of inherited land to non-relatives could be declared invalid within a specified time period.",
+    "What is, however, the propositional attitude involved in utterances which declare facts as proven?",
+    "The introduction of the computer as a musical tool provided what seemed like the final justification for declaring that all sounds were possible.",
+    "Its declared purpose was to tax huge profits made through war-time profiteering, as well as to combat inflation."
+  ],
+  "list_see_also": [
+    "declaration"
+  ],
+  "list_browse": [
+    "deck",
+    "deckchair",
+    "declaim",
+    "declaration",
+    "declare",
+    "decline",
+    "decode",
+    "decoder",
+    "decompose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307266_57146639fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307266_b1b0c9d0f3_o.png",
+      "id_image": "declare_5361668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307251_1bb6002e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307251_7acf82f3b3_o.png",
+      "id_image": "declare_6159101"
+    }
+  ]
+}

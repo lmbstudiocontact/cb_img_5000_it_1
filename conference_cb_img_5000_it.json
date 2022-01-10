@@ -1,0 +1,71 @@
+{
+  "english": "conference",
+  "phat_am": "ˈkonfərəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội thảo",
+          "definition": "a meeting for discussion",
+          "world_new": [
+            "meeting",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The conference of heart specialists was held in New York.",
+              "world_new": [
+                "heart"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The discourse in written electronic conferences displayed greater lexical range, and students in these conferences produced more discourse demonstrating interactive competence.",
+    "These essays illustrate one of the important lessons of the conference.",
+    "This promises to be an exciting and innovative conference, which integrates sessions for postgraduate students, within and alongside the conference proper.",
+    "The papers were presented at an international conference in 2004 and were edited to form chapters in this book.",
+    "As conference volumes, many of their specific observations and examples will have a limited shelf-life.",
+    "He attended meetings in their homes, including press conferences.",
+    "Columnists wondered why a century-old conference paper came in for such blistering attacks.",
+    "The consistent typing makes these books more readable than many camera-ready conference proceedings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "confederacy",
+    "confederate",
+    "confederation",
+    "confer",
+    "conference",
+    "conference call",
+    "confess",
+    "confession",
+    "confessional"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312671_896a36061e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312671_94c92346a0_o.png",
+      "id_image": "conference_2083031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356697_e5bb420412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356697_02911056a5_o.png",
+      "id_image": "conference_2234719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049310_3dc3151fa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049310_4fef36eb7c_o.png",
+      "id_image": "conference_271302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312701_6f5d3ab6d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312701_f08f9813a1_o.png",
+      "id_image": "conference_296910"
+    }
+  ]
+}

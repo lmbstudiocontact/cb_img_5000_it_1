@@ -1,0 +1,77 @@
+{
+  "english": "ethics",
+  "phat_am": "ˈeθiks",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "đạo đức học",
+          "definition": "the study or the science of morals.",
+          "world_new": [
+            "study",
+            "science",
+            "morals"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "đạo lý",
+          "definition": "rules or principles of behaviour/behavior",
+          "world_new": [
+            "principles"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "medical ethics.",
+              "world_new": [
+                "medical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ethical",
+    "ethically"
+  ],
+  "list_browse": [
+    "eternity",
+    "ether",
+    "ethical",
+    "ethically",
+    "ethics",
+    "ethnic",
+    "ethnic cleansing",
+    "ethnicity",
+    "ethnological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669294_75b08c65fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669294_5522193c92_o.png",
+      "id_image": "ethics_2191171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314621_bfbe6cc2df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314621_e1dfbde2d4_o.png",
+      "id_image": "ethics_2631523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314581_13c872fd06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314581_79d3a74fbb_o.png",
+      "id_image": "ethics_4201345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429413_b515238c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429413_1390456267_o.png",
+      "id_image": "ethics_4635453"
+    }
+  ]
+}

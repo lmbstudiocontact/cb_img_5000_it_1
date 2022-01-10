@@ -1,0 +1,97 @@
+{
+  "english": "cosmetic",
+  "phat_am": "kozˈmetik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trang điểm",
+          "definition": "designed to increase the beauty and hide the defects of something, especially the face",
+          "world_new": [
+            "increase",
+            "beauty",
+            "hide",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had cosmetic surgery to improve the shape of her nose.",
+              "world_new": [
+                "surgery",
+                "improve",
+                "shape",
+                "nose"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỹ phẩm",
+          "definition": "a preparation for this purpose",
+          "world_new": [
+            "preparation",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s quite pretty – she does not need to wear so many cosmetics (= lipstick, eye-shadow etc).",
+              "world_new": [
+                "quite",
+                "pretty",
+                "wear",
+                "lipstick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cosmetician"
+  ],
+  "list_browse": [
+    "cortege",
+    "cos",
+    "cosily",
+    "cosiness",
+    "cosmetic",
+    "cosmetician",
+    "cosmic",
+    "cosmonaut",
+    "cosmopolitan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684844_84625f99c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684844_d6f3cda7b7_o.png",
+      "id_image": "cosmetics_3967354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444848_b3a1f80e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444848_a0b47940cb_o.png",
+      "id_image": "cosmetics_5662697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684789_51278b0ce0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684789_d8601030a5_o.png",
+      "id_image": "cosmetics_6036751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374682_a120967750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374682_c577714b9c_o.png",
+      "id_image": "cosmetic_4283413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444963_9593df4351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444963_639232bfd3_o.png",
+      "id_image": "cosmetic_5493227"
+    }
+  ]
+}

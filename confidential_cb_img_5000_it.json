@@ -1,0 +1,77 @@
+{
+  "english": "confidential",
+  "phat_am": "konfiˈdenʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tuyệt mật",
+          "definition": "secret; not to be told to others",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "confidential information.",
+              "world_new": [
+                "information"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được tin cậy",
+          "definition": "trusted to keep secrets",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a confidential secretary.",
+              "world_new": [
+                "secretary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were assured that the information collected would be anonymous and confidential.",
+    "One can just state whether a key is confidential or not, or whether a principal authenticates himself with another or not.",
+    "They were assured of the sole purpose of collecting the recordings from them and about the confidential treatment of the tapes.",
+    "Intuitively, a password ought to be \"more confidential\" than a session key.",
+    "As a result of these lists, pharmacists (and pharmacies) are also in a position to sell or keep confidential customers' medication use.",
+    "Confidential information is replaced by text in braces.",
+    "A few did not reply and some said the figures were confidential.",
+    "On the one hand, the survey interview is a private and confidential conversation between two people, suggesting that self-presentational rather than strategic considerations should predominate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "confetti",
+    "confide",
+    "confidence",
+    "confident",
+    "confidential",
+    "confidentiality",
+    "confidentially",
+    "confiding",
+    "confidingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356472_e4a556e5c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356472_431abc2044_o.png",
+      "id_image": "confidential_2170165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427213_57cd9c3ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427213_acc9936900_o.png",
+      "id_image": "confidential_2519390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048995_3288bda2ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048995_84e6498f9a_o.png",
+      "id_image": "confidential_4524038"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "english": "eclipse",
+  "phat_am": "iˈklips",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhật thực; nguyệt thực",
+          "definition": "the disappearance of the whole or part of the sun when the moon comes between it and the earth, or of the moon when the earth’s shadow falls across it",
+          "world_new": [
+            "disappearance",
+            "whole",
+            "part",
+            "sun",
+            "moon",
+            "earth",
+            "moon",
+            "shadow",
+            "falls",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When was the last total eclipse of the sun?",
+              "world_new": [
+                "total",
+                "sun"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhật thực, nguyệt thực",
+          "definition": "to obscure or cut off the light or sight of (the sun or moon)",
+          "world_new": [
+            "obscure",
+            "cut",
+            "light",
+            "sight",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sun was partially eclipsed at 9 a.m.",
+              "world_new": [
+                "sun",
+                "m"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lu mờ",
+          "definition": "to be much better than",
+          "world_new": [
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His great success eclipsed his brother’s achievements.",
+              "world_new": [
+                "great",
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Today, in spite of efforts, they are still second-class citizens, eclipsed by the marketing man or the accountant.",
+    "The sun shall be eclipsed.",
+    "However, their activities were in many ways eclipsed by the mipakati.",
+    "As women and consumer groups were eclipsed from this official public sphere of consumption by commercial organizations, the consumer interest came to be constructed by men and business groups.",
+    "We found, for example, that eclipses recorded for the years 1504, 1508, and 1510 would not have been par ticularly impressive events in this region.",
+    "One factor which may determine ' 'dominance' ' or cause a parallel grammar to be eclipsed, is the recognition of recursion.",
+    "While living in the shadow of war, the fear of tangible threats, to both property and people, has eclipsed abstract fears concerning the erosion of civil liberties.",
+    "Because it takes two passes through the divinatory calendar to commensurate the internodal cycle, eclipses took place in each segment of the divinatory calendar only on alternate returns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eclair",
+    "eclectic",
+    "eclectically",
+    "eclecticism",
+    "eclipse",
+    "eco-",
+    "eco-friendly",
+    "ecological",
+    "ecologically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686804_1fda056d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686804_fd8bc1ef4d_o.png",
+      "id_image": "eclipse_1945978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446768_974080657a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446768_764d416977_o.png",
+      "id_image": "eclipse_2204365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686734_6b5f5454eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686734_a4406152d3_o.png",
+      "id_image": "eclipse_2254642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331866_c54af99189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331866_8715f217e7_o.png",
+      "id_image": "eclipse_391538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068490_980ed86681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068490_fd131e5d1a_o.png",
+      "id_image": "eclipse_491267"
+    }
+  ]
+}

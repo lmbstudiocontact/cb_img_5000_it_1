@@ -1,0 +1,114 @@
+{
+  "english": "counsel",
+  "phat_am": "ˈkaunsəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời khuyên",
+          "definition": "advice",
+          "world_new": [
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll give you good counsel on your problems.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luật sư",
+          "definition": "a barrister or advocate",
+          "world_new": [
+            "barrister",
+            "advocate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the counsel for the defence.",
+              "world_new": [
+                "defence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khuyên",
+          "definition": "to advise; to recommend",
+          "world_new": [
+            "recommend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He counselled me on my career.",
+              "world_new": [
+                "my",
+                "career"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Patient adherence to counselling or support group recommendations and exercise programmes was low.",
+    "Such counselling differs from that needed for minor lesions as compared for more complex abnormalities where a fatal outcome may ensure.",
+    "First, the difficulty in arranging rooms for counselling sessions may have deterred practice staff from referring patients for counselling.",
+    "As a result, the communitarian counsels suggests that they must reign that tendency in when dealing with the content-laden value systems of other cultures.",
+    "Experience of service provision for adolescents with eating disorders counselling and support services to people suffering from eating disorders.",
+    "Problemsolving counseling for caregivers of the cognitively impaired : effective for whom ?",
+    "The patient should also be counselled regarding the potentially poor prognosis despite all attempts at treatment.",
+    "Her legal counsels could do nothing but observe the trial."
+  ],
+  "list_see_also": [
+    "counsellor"
+  ],
+  "list_browse": [
+    "could have",
+    "council",
+    "council estate",
+    "councillor",
+    "counsel",
+    "counsellor",
+    "count",
+    "count on",
+    "countable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372757_26124dcfe0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372757_73ca469303_o.png",
+      "id_image": "counseling_1686743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327966_bdfd42a3e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327966_498c0b9af5_o.png",
+      "id_image": "counseling_4899603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064600_baf4a7ab1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064600_48c5873441_o.png",
+      "id_image": "counseling_5526411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064555_4994cfbed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064555_d3aa8c3531_o.png",
+      "id_image": "counseling_6000924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328031_c09dcda1e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328031_bce7d4d642_o.png",
+      "id_image": "counsel_2905996"
+    }
+  ]
+}

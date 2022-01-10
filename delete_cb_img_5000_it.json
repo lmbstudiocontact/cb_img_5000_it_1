@@ -1,0 +1,75 @@
+{
+  "english": "delete",
+  "phat_am": "diˈliːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xóa bỏ",
+          "definition": "to rub or strike out (eg a piece of writing)",
+          "world_new": [
+            "rub",
+            "strike",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Delete his name from the list.",
+              "world_new": [
+                "name",
+                "list"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A receiver often deletes most messages as soon as he or she reads them.",
+    "Today such roles are often deleted or minimised and allocated to performers considered past their prime or of lesser ability.",
+    "One option for removing multicollinearity is to delete redundant markers.",
+    "The reason for this name is quite simple - using c to colour v forces c to be deleted from the lists of too many vertices.",
+    "In the next section, we define the discrete interval encoding tree with operations for inserting, deleting and searching for elements.",
+    "An 'ok' program can download programs but it can only write to the directory /tmp and cannot use system/1 to delete files.",
+    "Also, as unfold/fold transformations are equivalence preserving one needs a post-processing reachability analysis to delete dead code (for the queries under consideration).",
+    "Here, a mutation operator may delete an entire rule, whilst a recombination operator may lead to individuals with different numbers of rules."
+  ],
+  "list_see_also": [
+    "deletion"
+  ],
+  "list_browse": [
+    "dejection",
+    "delay",
+    "delegate",
+    "delegation",
+    "delete",
+    "deletion",
+    "deli",
+    "deliberate",
+    "deliberately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660944_f71a717c8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660944_5d09cd8be4_o.png",
+      "id_image": "delete_1083104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420558_e54983cfdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420558_ae2baae2a5_o.png",
+      "id_image": "delete_1265886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349667_7b7e57029d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349667_62ef2dff27_o.png",
+      "id_image": "delete_1364987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420583_cf3ddabde4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420583_662e281a41_o.png",
+      "id_image": "delete_216658"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "experiment",
+  "phat_am": "ikˈsperimənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thử nghiệm; cuộc thí nghiệm",
+          "definition": "a test done in order to find out something, eg if an idea is correct",
+          "world_new": [
+            "test",
+            "order",
+            "find",
+            "idea",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He performs chemical experiments",
+              "world_new": [
+                "chemical"
+              ]
+            },
+            {
+              "ex_of_definition": "experiments in traffic control",
+              "world_new": [
+                "traffic",
+                "control"
+              ]
+            },
+            {
+              "ex_of_definition": "We shall find out by experiment.",
+              "world_new": [
+                "find"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm thí nghiệm",
+          "definition": "(with onor with) to try to find out something by making tests",
+          "world_new": [
+            "try",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He experimented with various medicines to find the safest cure",
+              "world_new": [
+                "various",
+                "find",
+                "cure"
+              ]
+            },
+            {
+              "ex_of_definition": "The doctor experiments on animals.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The word permitted a nonscientific psychological preoccupation to reappear as the subject of scientific experiment.",
+    "The government has been reducing home-help services and experimenting with privatisation.",
+    "This shows agreement between the theoretical analysis and the experiment result.",
+    "So qualitative researchers are as likely to influence the nature of the research setting as are quantitative researchers in artificial experiments.",
+    "Our first experiment demonstrates that it is precisely the case.",
+    "He possibly tried the same experiment also with inclined planes in a spherical container with an equally negative result.",
+    "To assess the accuracy of these measures, two sets of experiments were planned.",
+    "For all experiment types, the number of tasks is 100."
+  ],
+  "list_see_also": [
+    "experimental",
+    "experimentally",
+    "experimentation"
+  ],
+  "list_browse": [
+    "expenses",
+    "expensive",
+    "experience",
+    "experienced",
+    "experiment",
+    "experimental",
+    "experimentally",
+    "experimentation",
+    "expert"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046905_1cbbe9f01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046905_49c1b29335_o.png",
+      "id_image": "experiment_2854718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309961_023ba0efe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309961_30846838d8_o.png",
+      "id_image": "experiment_3215972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309921_30dee2fddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309921_f5ba4e5974_o.png",
+      "id_image": "experiment_3335300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046885_5ec424f0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046885_23c2ff747c_o.png",
+      "id_image": "experiment_3335669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665219_37c44c3ef8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665219_5b312a0769_o.png",
+      "id_image": "experiment_710506"
+    }
+  ]
+}

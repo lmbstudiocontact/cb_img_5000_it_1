@@ -1,0 +1,93 @@
+{
+  "english": "environment",
+  "phat_am": "inˈvaiərənmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môi trường",
+          "definition": "(a set of) surrounding conditions, especially those influencing development or growth",
+          "world_new": [
+            "surrounding",
+            "development",
+            "growth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An unhappy home environment may drive a teenager to crime",
+              "world_new": [
+                "unhappy",
+                "home",
+                "drive",
+                "teenager",
+                "crime"
+              ]
+            },
+            {
+              "ex_of_definition": "We should protect the environment from destruction by modern chemicals etc.",
+              "world_new": [
+                "protect",
+                "destruction",
+                "modern"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, the maladaptive patterns of behavioral and emotional self-regulation, and reactivity to the demands of the surrounding environment, become more entrenched.",
+    "These potential risk scores represent the best estimate of a pesticide's impact on the surrounding environment.",
+    "Fuselages are the technical elements that deal with the fluid environment (wind and rain), and lattices are the technical elements that control the light.",
+    "I suspect that such factors as \"inter-reflections between surfaces,\" though certainly demonstrable and interesting, are of secondary importance even in most natural environments.",
+    "The cotton-manufacturing industry fulfilled different roles in each town, and consequently had a different impact on each political environment.",
+    "I would say that it is creating this environment that reinforces empirical research in so many different ways.",
+    "There are few studies reported on the problem of motion planning in dynamic environments.",
+    "Their restriction to shallow marine environments suggests that photosynthesis was the primary means of organic matter production for these benthic communities."
+  ],
+  "list_see_also": [
+    "environmental",
+    "environmentalist",
+    "environmentally friendly"
+  ],
+  "list_browse": [
+    "envelop",
+    "envelope",
+    "enviable",
+    "envious",
+    "environment",
+    "environmental",
+    "environmentalist",
+    "environmentally friendly",
+    "envisage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672079_e15a927f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672079_3af025fcfc_o.png",
+      "id_image": "environment_1075063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361667_e2b0ae6a66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361667_72573585d9_o.png",
+      "id_image": "environment_1530449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361782_82a8c59242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361782_b0a1d273fe_o.png",
+      "id_image": "environment_471515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053865_8f4c6493e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053865_20a86311bf_o.png",
+      "id_image": "environment_860463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053815_d2c1229d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053815_e44492f1f5_o.png",
+      "id_image": "environment_992266"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "fermentation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "(hành động hoặc quá trình) lên men",
+          "definition": "the chemical change occurring when something ferments or is fermented",
+          "world_new": [
+            "chemical",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fermentation of beer.",
+              "world_new": [
+                "beer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All fermentations gave a higher total cell count for the culture fluid of the biofilm fermenter as compared with that of the chemostat culture fluid.",
+    "The physico-chemistry of affinities and of fermentation, which concerns respiration, chyliation, glandular secretion, reproduction, etc., does not modify the givens of the problem.",
+    "The changes in black leaf quality due to variations of plucking standard and fermentation time.",
+    "400 using a mixture of biological and advanced engineering technologies: an initial and quite standard anaerobic fermentation process would have been used to obtain biogas.",
+    "The methods used were : multiple tube fermentation method for faecal contamination indicators and membrane filtration techniques for salmonella, aeromonas and vibrio.",
+    "Technologies include nitrogen fixation, biocontrol of pathogens and pests, fermentation, post harvest microbiology and more.",
+    "A 280 ml vessel was used for all chemostat fermentations.",
+    "Soon after he turned to the research on putrefaction and fermentation, which was published in 1843."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fencing",
+    "fend",
+    "fender",
+    "ferment",
+    "fermentation",
+    "fern",
+    "ferocious",
+    "ferociously",
+    "ferocity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447063_be7db9b413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447063_0fa6952908_o.png",
+      "id_image": "fermentation_2533960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376767_85504972af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376767_78f4d6f9ea_o.png",
+      "id_image": "fermentation_4185462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376717_45ce0813ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376717_1bf3c5d990_o.png",
+      "id_image": "fermentation_6286367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376692_f5e3565f5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376692_e18ab0fc71_o.png",
+      "id_image": "fermentation_6286376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068550_5b7d77d96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068550_3946df7f89_o.png",
+      "id_image": "fermentation_6286417"
+    }
+  ]
+}

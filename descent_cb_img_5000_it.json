@@ -1,0 +1,86 @@
+{
+  "english": "descent",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đi xuống",
+          "definition": "the act of descending",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The descent of the hill was quickly completed.",
+              "world_new": [
+                "hill",
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường dốc",
+          "definition": "a slope",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That is a steep descent.",
+              "world_new": [
+                "steep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng dõi",
+          "definition": "family; ancestry",
+          "world_new": [
+            "ancestry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is of royal descent.",
+              "world_new": [
+                "royal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, when an update to the descent graph of final descendants was chosen, 10-20 segregation indicators were changed.",
+    "Consequently, the pair [1.85]-[1.86] may be viewed as a realisation of the ascent-descent paradigm (or of its inverse).",
+    "As of 2006 there have been 25 self-contained attempts in a range of conditions, resulting in 15 successful descents.",
+    "His descent into hypocrisy and finally into openly acknowledged roguery outlines the corruptive effects of financial speculation.",
+    "Although the optimal rate of convergence of such a descent algorithm is relatively slow, the radius of convergence is rather large.",
+    "The dc function takes an arbitrary drawing procedure and a height, width, ascent, and descent for the pict.",
+    "The first objection is a general critique that can be addressed by any gradualist account of phylogenetic descent.",
+    "Civilian descents are very rarely from heights that require these devices to be used."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "desalinate",
+    "desalination",
+    "descend",
+    "descendant",
+    "descent",
+    "describe",
+    "description",
+    "desecrate",
+    "desecration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329721_caaa15b7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329721_f5fcb157e7_o.png",
+      "id_image": "descent_4344686"
+    }
+  ]
+}

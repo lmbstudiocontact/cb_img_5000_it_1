@@ -1,0 +1,176 @@
+{
+  "english": "fight",
+  "phat_am": "fait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấu tranh; chiến đấu",
+          "definition": "to act against (someone or something) with physical violence",
+          "world_new": [
+            "act",
+            "physical",
+            "violence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two boys are fighting over (= because of) some money they found.",
+              "world_new": [
+                "fighting",
+                "money",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đấu tranh chống",
+          "definition": "to resist strongly; to take strong action to prevent",
+          "world_new": [
+            "resist",
+            "strong",
+            "action",
+            "prevent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to fight a fire",
+              "world_new": [
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "We must fight against any attempt to deprive us of our freedom.",
+              "world_new": [
+                "attempt",
+                "deprive",
+                "our",
+                "freedom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cãi cọ hoặc tranh luận",
+          "definition": "to quarrel",
+          "world_new": [
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His parents were always fighting.",
+              "world_new": [
+                "fighting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động chiến đấu",
+          "definition": "an act of physical violence between people, countries etc",
+          "world_new": [
+            "act",
+            "physical",
+            "violence",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a fight going on in the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động đấu tranh",
+          "definition": "a struggle; action involving effort",
+          "world_new": [
+            "action",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fight for freedom of speech",
+              "world_new": [
+                "freedom",
+                "speech"
+              ]
+            },
+            {
+              "ex_of_definition": "the fight against disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý chí quyết tâm",
+          "definition": "the will or strength to resist",
+          "world_new": [
+            "strength",
+            "resist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was no fight left in him.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trận đấu quyền Anh",
+          "definition": "a boxing-match."
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fighter",
+    "fighting",
+    "fight back",
+    "fight it out",
+    "fight off",
+    "fight one’s way",
+    "fight shy of",
+    "put up a good fight"
+  ],
+  "list_browse": [
+    "fifty",
+    "fifty-fifty",
+    "fifty-year-old",
+    "fig",
+    "fight",
+    "fight back",
+    "fight it out",
+    "fight off",
+    "fight one’s way"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445283_5c770a3084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445283_6346055707_o.png",
+      "id_image": "fight_1256796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375117_42f67f7fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375117_6b6982f747_o.png",
+      "id_image": "fight_188982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330361_ef7157533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330361_419f3eef00_o.png",
+      "id_image": "fight_649628"
+    }
+  ]
+}

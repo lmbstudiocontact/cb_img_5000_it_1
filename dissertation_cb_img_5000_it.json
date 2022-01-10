@@ -1,0 +1,60 @@
+{
+  "english": "dissertation",
+  "phat_am": "disəˈteiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "luận văn",
+          "definition": "a long formal talk or piece of writing (for a university degree etc)",
+          "world_new": [
+            "long",
+            "formal",
+            "talk",
+            "piece",
+            "university",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Students have to submit a 20,000-word dissertation.",
+              "world_new": [
+                "submit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This dissertation analyzes and applies ideas from cakecutting to the design and analysis of negotiation protocols.",
+    "Even her doctoral dissertation was not detailed enough to do full justice to it.",
+    "Projects could range from a traditional recital or dissertation, but also allow for lecture recitals and performances of own compositions to be submitted.",
+    "Under normal circumstances the presider would be presumed the \"author\" of the dissertation.",
+    "All students in the concentration write a dissertation on a topic central to bioethics.",
+    "To get a doctor's degree you had subsequently to write a doctoral dissertation, which had to be a printed book.",
+    "Much is already appreciated by those of us who have used the dissertation as a point of reference in subsequent research.",
+    "You were at the same time working on your licentiate dissertation, which dealt with aspects of fiscal policy, right?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dissect",
+    "dissection",
+    "dissension",
+    "dissent",
+    "dissertation",
+    "disservice",
+    "dissidence",
+    "dissident",
+    "dissimilar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429668_56d3f22fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429668_f3d4bd7745_o.png",
+      "id_image": "dissertation_5352128"
+    }
+  ]
+}

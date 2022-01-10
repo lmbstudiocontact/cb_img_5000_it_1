@@ -1,0 +1,109 @@
+{
+  "english": "convert",
+  "phat_am": "kənˈvəːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyển đổi",
+          "definition": "to change from one thing into another",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has converted his house into four separate flats",
+              "world_new": [
+                "house",
+                "separate"
+              ]
+            },
+            {
+              "ex_of_definition": "This sofa converts into a bed.",
+              "world_new": [
+                "sofa",
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cải đạo",
+          "definition": "to change from one religion etc to another",
+          "world_new": [
+            "change",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was converted to Christianity.",
+              "world_new": [
+                "Christianity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người cải đạo",
+          "definition": "a person who has been converted to a particular religion etc",
+          "world_new": [
+            "person",
+            "particular",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a convert to Buddhism.",
+              "world_new": [
+                "Buddhism"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "convertible",
+    "convertibility"
+  ],
+  "list_browse": [
+    "conversational",
+    "converse",
+    "conversely",
+    "conversion",
+    "convert",
+    "convertibility",
+    "convertible",
+    "convex",
+    "convexity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660994_14abdcd7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660994_15d79a7a21_o.png",
+      "id_image": "convert_1579869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349712_63480bbee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349712_2aabac787c_o.png",
+      "id_image": "convert_3399737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420533_ee51a5b1f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420533_60aae46c95_o.png",
+      "id_image": "convert_4182916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660889_7531cb5808_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660889_d4d6d2b948_o.png",
+      "id_image": "convert_4524041"
+    }
+  ]
+}

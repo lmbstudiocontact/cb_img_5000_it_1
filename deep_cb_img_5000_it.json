@@ -1,0 +1,167 @@
+{
+  "english": "deep",
+  "phat_am": "diːp",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sâu",
+          "definition": "going or being far down or far into",
+          "world_new": [
+            "far",
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a deep lake",
+              "world_new": [
+                "lake"
+              ]
+            },
+            {
+              "ex_of_definition": "a deep wound.",
+              "world_new": [
+                "wound"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiều sâu",
+          "definition": "going or being far down by a named amount",
+          "world_new": [
+            "far",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We dug a hole six feet deep.",
+              "world_new": [
+                "hole"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chìm đắm vào",
+          "definition": "occupied or involved to a great extent",
+          "world_new": [
+            "involved",
+            "great",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is deep in debt.",
+              "world_new": [
+                "debt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "say; nặng",
+          "definition": "intense; strong",
+          "world_new": [
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sea is a deep blue colour/color",
+              "world_new": [
+                "sea",
+                "blue"
+              ]
+            },
+            {
+              "ex_of_definition": "They are in a deep sleep.",
+              "world_new": [
+                "sleep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trầm",
+          "definition": "low in pitch",
+          "world_new": [
+            "low",
+            "pitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His voice is very deep.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xa ở bên dưới hoặc ở trong",
+          "definition": "far down or into",
+          "world_new": [
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made their way deep into the wood.",
+              "world_new": [
+                "their",
+                "wood"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the physiological level, both depressive symptoms and deficits in deep memory processes may be associated with decreased prefrontal metabolism.",
+    "Rampant corruption and lack of public accountability has caused deep popular distrust of the state.",
+    "Seed distributions in the bucket experiment differed among species, with small seeds being buried deeper than large seeds.",
+    "There is, however, even a deeper sense in which the robot (and the simulations) are models for embodiment.",
+    "Further, one would also predict that these regions ultimately receive input from deep receptors in the muscles and joints.",
+    "All of these doubts are epistemologically permissible and quite understandable in view of the existing deep difficulties.",
+    "For scientific purposes, a cognitive universal is valuable because it can reflect the deep reasons why minds work the way that they do.",
+    "Equipment costs comprised operating, maintenance, and recovery costs of storage and deep freezers."
+  ],
+  "list_see_also": [
+    "deepen",
+    "deeply",
+    "deepness",
+    "deep-freeze",
+    "deep-fried",
+    "deep-sea",
+    "in deep water"
+  ],
+  "list_browse": [
+    "deduct",
+    "deduction",
+    "deed",
+    "deem",
+    "deep",
+    "deep-freeze",
+    "deep-fried",
+    "deep-sea",
+    "deepen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350462_799e37b199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350462_13d9fc7aac_o.png",
+      "id_image": "deep_1035461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306281_89f2d80495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306281_0f00c09b82_o.png",
+      "id_image": "deep_5538313"
+    }
+  ]
+}

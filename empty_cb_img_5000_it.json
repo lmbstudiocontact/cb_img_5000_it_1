@@ -1,0 +1,192 @@
+{
+  "english": "empty",
+  "phat_am": "ˈempti",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rỗng; trống không",
+          "definition": "having nothing inside",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an empty box",
+              "world_new": [
+                "box"
+              ]
+            },
+            {
+              "ex_of_definition": "an empty cup.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ không",
+          "definition": "unoccupied",
+          "world_new": [
+            "unoccupied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an empty house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn không có",
+          "definition": "(with of) completely without",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The street was quite empty of people.",
+              "world_new": [
+                "street",
+                "quite",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hão huyền",
+          "definition": "having no practical result; (likely to be) unfulfilled",
+          "world_new": [
+            "practical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "empty threats."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho trống rỗng",
+          "definition": "to make or become empty",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He emptied the jug",
+              "world_new": [
+                "jug"
+              ]
+            },
+            {
+              "ex_of_definition": "The cinema / movie theater emptied quickly at 10.30",
+              "world_new": [
+                "cinema",
+                "movie",
+                "quickly"
+              ]
+            },
+            {
+              "ex_of_definition": "He emptied out his pockets."
+            }
+          ]
+        },
+        {
+          "mean_english": "trút ra",
+          "definition": "to tip, pour, or fall out of a container",
+          "world_new": [
+            "tip",
+            "pour",
+            "fall",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She emptied the milk into a pan",
+              "world_new": [
+                "milk"
+              ]
+            },
+            {
+              "ex_of_definition": "The rubbish emptied onto the ground.",
+              "world_new": [
+                "rubbish",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỏ rỗng",
+          "definition": "an empty bottle etc",
+          "world_new": [
+            "bottle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take the empties back to the shop.",
+              "world_new": [
+                "shop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As there was no log-sheet kept for pool maintenance, it remained unclear if the whirlpool was emptied and the water disinfected daily.",
+    "Ironically, the final emptying out of local meaning coincided with the introduction of the typewriter.",
+    "Not until 1905 did the number of ashpails emptied in the year correspond to weekly emptying.",
+    "Her home bath was not a spa, and the bath water was emptied after use every day.",
+    "One grave had been emptied of all but a few pieces of disarticulated bone some time prior to the construction of the overlying path.",
+    "After another show of hands, and some hearty applause, the hall soon emptied.",
+    "Traps were either emptied where they were hanging, or sealed with tape and lowered to the ground.",
+    "The other breast was then emptied by a mechanical pump."
+  ],
+  "list_see_also": [
+    "emptiness",
+    "empty-handed",
+    "empty-headed"
+  ],
+  "list_browse": [
+    "employer",
+    "employment",
+    "emporium",
+    "emptiness",
+    "empty",
+    "empty-handed",
+    "empty-headed",
+    "emu",
+    "emulate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435778_16c6df770f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435778_b4a88e5048_o.png",
+      "id_image": "empty_1793180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057310_327df29022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057310_d0f87b4008_o.png",
+      "id_image": "empty_2244677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057270_7b6f30c2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057270_cff879f272_o.png",
+      "id_image": "empty_2254800"
+    }
+  ]
+}

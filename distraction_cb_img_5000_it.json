@@ -1,0 +1,80 @@
+{
+  "english": "distraction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sao lãng",
+          "definition": "something that takes the mind off other especially more serious affairs",
+          "world_new": [
+            "mind",
+            "serious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are too many distractions here to allow one to work properly.",
+              "world_new": [
+                "allow",
+                "work",
+                "properly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rối trí",
+          "definition": "anxiety and confusion",
+          "world_new": [
+            "anxiety",
+            "confusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Alice was in a state of complete distraction.",
+              "world_new": [
+                "state",
+                "complete"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, teaching professionals can focus on teaching without the distractions of facilities management and poor accommodation.",
+    "First, structured test settings minimize distractions that typically occur in naturalistic settings that may interfere or disrupt symbolic play in children with autism.",
+    "In addition, such pursuits also provide a feeling of time being altered and a state in which distractions are excluded from consciousness.",
+    "Moreover, within religious communities, worldly goods were equalized and diminished in order to lessen the distractions of temporal comforts and to deny them.",
+    "The effect of bilingualism on children's development is that it enhances their ability to attend to relevant information in the presence of misleading distractions.",
+    "Of itself, this may have resulted from the normal distractions that visit academic life.",
+    "Non-political reasons included exigencies of personal life, professional distractions, uncertain leadership and internal quarrels + all contributing to eventual breakup.",
+    "However, this and other small distractions could easily be rectified in a subsequent edition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "distort",
+    "distortion",
+    "distract",
+    "distracted",
+    "distraction",
+    "distraught",
+    "distress",
+    "distressing",
+    "distressingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428983_124e425283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428983_b0de649cde_o.png",
+      "id_image": "distracted_5965552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314041_4fa46f5062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314041_f6b5345ed3_o.png",
+      "id_image": "distraction_708635"
+    }
+  ]
+}

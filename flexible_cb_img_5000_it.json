@@ -1,0 +1,78 @@
+{
+  "english": "flexible",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dẻo; dễ uốn",
+          "definition": "that can be bent easily",
+          "world_new": [
+            "bent",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rattan is a very flexible material which can be used to make many different furniture shapes.",
+              "world_new": [
+                "material",
+                "furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "linh động; linh hoạt",
+          "definition": "able or willing to change according to circumstances etc",
+          "world_new": [
+            "willing",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My holiday plans are very flexible.",
+              "world_new": [
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, many of them can only carry out those less time-consuming and more flexible caring tasks.",
+    "To this end, they can use the plans and specifications provided by the architect as a flexible guideline for the application of their own technologies.",
+    "Our goal is to develop a generally applicable feedback method that is better suited for the flexible automation of microassembly processes.",
+    "The dynamic model describing the motion of the flexible manipulator is derived using the finite element method.",
+    "Tenacious goal pursuit and flexible goal adjustment : explication and age-related analysis of assimilative and accommodative strategies of coping.",
+    "An exper t system for scheduling robots in a flexible electroplating system with dynamically changing workloads.",
+    "Such gain control should reduce the effect of flexible coupling on the system.",
+    "Compared with the traditional interview-based knowledge acquisition, our approach is more flexible and requires a shor ter development cycle."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flesh and blood",
+    "fleshy",
+    "flex",
+    "flexibility",
+    "flexible",
+    "flexitime",
+    "flick",
+    "flicker",
+    "flight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676794_6f7782471a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676794_a24ba3bf89_o.png",
+      "id_image": "flexible_4207263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366582_3314eb0a3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366582_01b6bf5d20_o.png",
+      "id_image": "flexible_6135660"
+    }
+  ]
+}

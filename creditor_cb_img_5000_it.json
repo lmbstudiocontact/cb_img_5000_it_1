@@ -1,0 +1,67 @@
+{
+  "english": "creditor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ nợ",
+          "definition": "a person to whom a debt is owed",
+          "world_new": [
+            "person",
+            "debt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He does not have enough money to pay all his creditors.",
+              "world_new": [
+                "money",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Intuitively, the donor now avoids buying back old debt of countries that in any case default, thus reducing creditors' value of old debt.",
+    "In 1990, however, donors and creditors joined in the call for an end to one-party rule.",
+    "In the first 20 years after it was enacted, the law was widely used by these creditors and the majority of cases were business bankruptcies.",
+    "Conversely, a creditor will benefit from a positive wealth effect and raise his consumption level and leisure time.",
+    "When the agent is a creditor, both his consumption level and his leisure time may increase in the short run.",
+    "Those registers that name the creditors show that the bulk of the debt was owed to nobles.",
+    "Private loans include bonds, commercial banks, and other private creditors.",
+    "A critic of the data protection regime might note that the legislation protects debtors with more force than it does creditors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "credit",
+    "credit card",
+    "creditable",
+    "creditably",
+    "creditor",
+    "credits",
+    "credulous",
+    "credulousness",
+    "creed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366307_469ebf47dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366307_d19543ca7e_o.png",
+      "id_image": "creditor_2112459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676469_9e0d745eff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676469_7216754eb2_o.png",
+      "id_image": "creditor_2719729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436603_c2df7bc1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436603_a2e39ede1e_o.png",
+      "id_image": "creditor_3490110"
+    }
+  ]
+}

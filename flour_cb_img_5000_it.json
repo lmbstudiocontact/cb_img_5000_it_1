@@ -1,0 +1,80 @@
+{
+  "english": "flour",
+  "phat_am": "ˈflauə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bột mì",
+          "definition": "wheat, or other cereal, ground into a powder and used for cooking, baking etc",
+          "world_new": [
+            "wheat",
+            "cereal",
+            "ground",
+            "powder",
+            "cooking",
+            "baking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "self-raising flour.",
+              "world_new": [
+                "self-raising"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Data for each design were generated according to 21 different models that were chosen as being typical of flour yield data.",
+    "Flours made of other ingredients, like azuki, soybean or green pea and starches are often used too.",
+    "Imports of greaves, flours and meals, of meat or meat offal (including tankage), unfit for human consumption, are shown in the table.",
+    "Each seed pool can be ground into a homogeneous mix of flour, which is tested for the transgenic trait rather than testing each individual seed.",
+    "Infection of mammalian hosts, including humans, occurs when infected intermediate hosts (usually flour beetles) are inadvertently consumed in food.",
+    "From a small area of the dry seed surface the testa was removed and 5 mg of flour was scratched from the cotyledons.",
+    "Paulig imported salt, coffee, spices, flours, port wine and cognac.",
+    "He was not successful in selling the ground flours he produced in the mill, and changed over to producing ground cowfeeds and middlings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flotilla",
+    "flounce",
+    "flounced",
+    "flounder",
+    "flour",
+    "flourish",
+    "flourishing",
+    "flout",
+    "flow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056920_3dddd8449c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056920_0e19d6b43f_o.png",
+      "id_image": "flour_527760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056805_6a9b810d74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056805_b6b7165cf8_o.png",
+      "id_image": "flour_5816101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675059_a29a7c624b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675059_e94f57202a_o.png",
+      "id_image": "flour_5900498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675169_c5ef42f80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675169_815b2957e1_o.png",
+      "id_image": "flour_817293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675129_3bc34e6421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675129_0584d10146_o.png",
+      "id_image": "flour_823246"
+    }
+  ]
+}

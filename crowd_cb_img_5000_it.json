@@ -1,0 +1,129 @@
+{
+  "english": "crowd",
+  "phat_am": "kraud",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám đông",
+          "definition": "a number of persons or things gathered together",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A crowd of people gathered in the street.",
+              "world_new": [
+                "people",
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm người",
+          "definition": "a group of friends, usually known to one another",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John’s friends are a nice crowd.",
+              "world_new": [
+                "nice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tụ tập đông đúc",
+          "definition": "to gather in a large group",
+          "world_new": [
+            "gather",
+            "large",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They crowded round the injured motorcyclist.",
+              "world_new": [
+                "crowded",
+                "injured",
+                "motorcyclist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chen chúc",
+          "definition": "to fill too full by coming together in",
+          "world_new": [
+            "fill",
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sightseers crowded the building.",
+              "world_new": [
+                "crowded",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With crowding reduced, these grow and trigger a second antibody response, and so forth.",
+    "Flowing waters or teeming crowds: mental models of electricity.",
+    "The issue here is the value associated with maneuverability within the crowds.",
+    "Our data suggest that the crowding out hypothesis must be rejected.",
+    "Instead, agricultural capitalism, introduced into the province earlier than industrial capitalism, crowded out smallholders.",
+    "There among the crowds, however, was the figure of his father to whom he clung happily.",
+    "His home may have been crowded with treasures, but it was his art collection that she was investigating.",
+    "Individuals in crowds, it was argued, lost their reason and yielded to instinct."
+  ],
+  "list_see_also": [
+    "crowded"
+  ],
+  "list_browse": [
+    "crouton",
+    "crow",
+    "crow’s-nest",
+    "crowbar",
+    "crowd",
+    "crowded",
+    "crown",
+    "crown prince",
+    "crown princess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318396_0ac6a3cd38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318396_651f9a72ce_o.png",
+      "id_image": "crowd_1610480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362897_65ae4a6e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362897_0d4326ae86_o.png",
+      "id_image": "crowd_2529639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054905_851c2e1b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054905_950983b90a_o.png",
+      "id_image": "crowd_2707336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673134_a49f9928f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673134_48cfe59082_o.png",
+      "id_image": "crowd_3382573"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "encourage",
+  "phat_am": "inˈkaridʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khuyến khích",
+          "definition": "to give support, confidence or hope to",
+          "world_new": [
+            "support",
+            "confidence",
+            "hope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general tried to encourage the troops",
+              "world_new": [
+                "general",
+                "troops"
+              ]
+            },
+            {
+              "ex_of_definition": "You should not encourage him in his extravagance",
+              "world_new": [
+                "extravagance"
+              ]
+            },
+            {
+              "ex_of_definition": "I felt encouraged by his praise.",
+              "world_new": [
+                "I",
+                "felt",
+                "praise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thúc giục",
+          "definition": "to urge (a person) to do something",
+          "world_new": [
+            "urge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must encourage him to try again.",
+              "world_new": [
+                "try"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is encouraging for further elaboration of the underlying theoretical framework in future studies.",
+    "Teachers are encouraged to adopt this research process as a practical way of examining the impact of peer modelling with their own students.",
+    "Although, immediate complete angiographic success is unlikely to be achieved in ducts >3.5mm, short-term results are encouraging.",
+    "One effect of the lack of tenancy and land reform options was to encourage land invasion.",
+    "One problem is certainly motivation: the language is taught at school in a way that does not encourage active use or involvement.",
+    "The crucial characteristic of this method is that it encourages people to express dissent.",
+    "Intermediate floors are assumed to be the wide fair-faced slabs so common there, and internal wall or ceiling linings of timber are encouraged.",
+    "However, this process also encouraged elements within urban society to define themselves in opposition to rival 'communities' within their own walls."
+  ],
+  "list_see_also": [
+    "encouraging",
+    "encouragingly",
+    "encouragement"
+  ],
+  "list_browse": [
+    "enclosure",
+    "encode",
+    "encore",
+    "encounter",
+    "encourage",
+    "encouragement",
+    "encouraging",
+    "encouragingly",
+    "encroach"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365157_f654559d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365157_e0bc0d5773_o.png",
+      "id_image": "encourage_4462839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320276_10c10b1803_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320276_3f9209b798_o.png",
+      "id_image": "encourage_4576953"
+    }
+  ]
+}

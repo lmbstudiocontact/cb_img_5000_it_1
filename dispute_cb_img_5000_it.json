@@ -1,0 +1,95 @@
+{
+  "english": "dispute",
+  "phat_am": "diˈspjuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tranh luận",
+          "definition": "to argue against or deny",
+          "world_new": [
+            "argue",
+            "deny"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m not disputing what you say."
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn cãi",
+          "definition": "to argue (about)",
+          "world_new": [
+            "argue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They disputed the ownership of the land for years.",
+              "world_new": [
+                "ownership",
+                "land"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc tranh luận",
+          "definition": "(an) argument or quarrel",
+          "world_new": [
+            "argument",
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dispute over wages."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This could easily be disputed by a consequentionalist egalitarian (economist).",
+    "The dispute thus centred on the value of visual evidence from different observers during the famine and in the past.",
+    "What sort of disputes did ordinary people bring to court?",
+    "Eventually, this has created an apparent incongruity between the water dispute resolution mechanism and its operational environment, thereby adversely affecting the efficiency of the former.",
+    "The author was not only a privileged observer but also a secondary actor in the events of 1965 which sharpened the profile of this dispute.",
+    "It was also more centrally directed and so labour disputes easily became politicized.",
+    "Dubious weighing procedures set off countless disputes between planters and mill owners.",
+    "Here, we think, the dispute really is just about words."
+  ],
+  "list_see_also": [
+    "disputable",
+    "disputation"
+  ],
+  "list_browse": [
+    "disproportionately",
+    "disprove",
+    "disputable",
+    "disputation",
+    "dispute",
+    "disqualification",
+    "disqualify",
+    "disquiet",
+    "disregard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669729_7a3cd5b6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669729_955e4d5bcb_o.png",
+      "id_image": "dispute_5110046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051535_96b8964774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051535_2e3a6f0d29_o.png",
+      "id_image": "dispute_5110050"
+    }
+  ]
+}

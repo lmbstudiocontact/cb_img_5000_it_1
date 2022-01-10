@@ -1,0 +1,68 @@
+{
+  "english": "declaration",
+  "phat_am": "dekləˈreiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tuyên bố",
+          "definition": "a formal announcement",
+          "world_new": [
+            "formal",
+            "announcement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a declaration of marriage/war."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Program 21 contains the declarations of these new predicates, and two examples which use them.",
+    "Interfaces, or signatures, describe the components of a program unit through type declarations and sharing specifications.",
+    "Naish uses examples where, under the above assumption, delay declarations are unnecessary.",
+    "In particular a constant-time meet is achieved using difference lists and a quadratic-time entailment check is built using delay declarations.",
+    "Many declarations are made directly and electronically from employers' staff administration packs and accountancy packages.",
+    "In this paper we present methods for verifying programs with delay declarations.",
+    "The information is used to check type signatures, type declarations and instance declarations.",
+    "In this setting, we encode proofs as sets of type declarations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decisiveness",
+    "deck",
+    "deckchair",
+    "declaim",
+    "declaration",
+    "declare",
+    "decline",
+    "decode",
+    "decoder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351457_643f52faee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351457_ec81f74119_o.png",
+      "id_image": "declaration_2463834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044280_d37d684c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044280_98c6604fb9_o.png",
+      "id_image": "declaration_2688839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307311_f833680a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307311_7c3b2dcfdf_o.png",
+      "id_image": "declaration_3530058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307286_a741fe1185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307286_477db535d6_o.png",
+      "id_image": "declaration_3842673"
+    }
+  ]
+}

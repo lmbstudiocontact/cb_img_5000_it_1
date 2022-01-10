@@ -1,0 +1,128 @@
+{
+  "english": "clutch",
+  "phat_am": "klatʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chộp",
+          "definition": "(with at) to try to take hold of",
+          "world_new": [
+            "try",
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I clutched at a floating piece of wood to save myself from drowning.",
+              "world_new": [
+                "I",
+                "piece",
+                "wood",
+                "save"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ chặt",
+          "definition": "to hold tightly (in the hands)",
+          "world_new": [
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was clutching a 50–cent piece.",
+              "world_new": [
+                "piece"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nanh vuốt",
+          "definition": "control or power",
+          "world_new": [
+            "control",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell into the clutches of the enemy.",
+              "world_new": [
+                "fell",
+                "enemy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "côn",
+          "definition": "(the pedal operating) a device by means of which two moving parts of an engine may be connected or disconnected",
+          "world_new": [
+            "pedal",
+            "device",
+            "means",
+            "moving",
+            "engine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He released the clutch and the car started to move.",
+              "world_new": [
+                "car",
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each clutch was digitally photographed and individually marked.",
+    "A second experiment assessed the relationship between host size and brood (clutch) size based on numbers of parasitoid eggs allocated per host.",
+    "The net was sprayed every three days with water to prevent egg clutches from drying out.",
+    "Every 4 days the oviposition height of 18 egg clutches per site was measured as vertical height.",
+    "For example, consider the following two text spans: given that the clutch was functional, and it is unlikely that the engine was driving the starter.",
+    "It was impractical to establish control lines with clutches obtained from mating pairs collected in copula.",
+    "Freed from the clutches of local traditions, they are now open to diverse universalising, expert discourses.",
+    "Developmental rate and variation in embryo colour were assessed for a subset of clutches."
+  ],
+  "list_see_also": [
+    "clutch at straws"
+  ],
+  "list_browse": [
+    "clumsily",
+    "clumsiness",
+    "clumsy",
+    "cluster",
+    "clutch",
+    "clutch at straws",
+    "clutter",
+    "cluttered",
+    "cm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442938_b1a077ccc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442938_cea42b38f7_o.png",
+      "id_image": "clutch_1336422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372592_95a240b45e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372592_cca658547e_o.png",
+      "id_image": "clutch_1352306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442993_6771db637b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442993_dab5661288_o.png",
+      "id_image": "clutch_659336"
+    }
+  ]
+}

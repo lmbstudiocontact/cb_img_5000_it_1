@@ -1,0 +1,87 @@
+{
+  "english": "edit",
+  "phat_am": "ˈedit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biên tập",
+          "definition": "to prepare (a book, manuscript, newspaper, programme/program, film etc) for publication, or for broadcasting etc, especially by correcting, altering, shortening etc",
+          "world_new": [
+            "prepare",
+            "book",
+            "manuscript",
+            "newspaper",
+            "film",
+            "publication",
+            "broadcasting",
+            "shortening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spent six months editing the film.",
+              "world_new": [
+                "spent",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main text was not rewritten or edited, and no new literature was incorporated into the discussion.",
+    "The book is well written, illustrated and edited and is packed with valuable information for researchers, growers and consumers.",
+    "Readers will remember that a collection with the same title, edited by the same two editors, appeared in 1980.",
+    "All of the published papers have been peer-reviewed and rigorously edited.",
+    "Each piece of writing is meticulously edited, and provided with a useful but unobtrusive commentary.",
+    "The book is edited, for example, at a moment of economic and political crisis.",
+    "The transcript was extensively revised by the composer and edited by the present writer to produce the current version.",
+    "All the essays are worthwhile and well edited."
+  ],
+  "list_see_also": [
+    "edition",
+    "editor",
+    "editorial"
+  ],
+  "list_browse": [
+    "edification",
+    "edifice",
+    "edify",
+    "edifying",
+    "edit",
+    "edition",
+    "editor",
+    "editorial",
+    "educate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066830_43283d6350_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066830_105bf36fa1_o.png",
+      "id_image": "edit_2419268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374717_5eee7653c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374717_5ddefaaa36_o.png",
+      "id_image": "edit_2491509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066895_25ed63e68e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066895_515a6ba998_o.png",
+      "id_image": "edit_269074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444993_1c907a4eb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444993_31c2a0d847_o.png",
+      "id_image": "edit_2912868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444958_2305a97fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444958_fcf64b022d_o.png",
+      "id_image": "edit_2991636"
+    }
+  ]
+}

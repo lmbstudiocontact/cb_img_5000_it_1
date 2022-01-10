@@ -1,0 +1,99 @@
+{
+  "english": "cradle",
+  "phat_am": "ˈkreidl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nôi",
+          "definition": "a child’s bed especially one in which it can be rocked.",
+          "world_new": [
+            "bed"
+          ]
+        },
+        {
+          "mean_english": "giàn đỡ tàu",
+          "definition": "a frame of similar shape, eg one under a ship that is being built or repaired.",
+          "world_new": [
+            "frame",
+            "similar",
+            "shape",
+            "ship"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bế, ẵm",
+          "definition": "to hold or rock as if in a cradle",
+          "world_new": [
+            "hold",
+            "rock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cradled the child in her arms.",
+              "world_new": [
+                "child",
+                "arms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two additional frontal ridges are clearly recognizable on the lateral surface of the frontal cradle.",
+    "There were some things in the house, such as a cradle.",
+    "Following this logic, then it seems that the lessening of cradling contact might contribute to excessive crying.",
+    "A welldeveloped crest is visible along the entire base of the frontal cradle.",
+    "We shall use cat's cradles to construct new cordons from old.",
+    "Thermoplastic cradles must tie up to patient bony pelvis anatomy, yet lateral tattoos are tied in with alignment marks drawn on the cradles.",
+    "Radiation from radioactive sources in nature hits us twenty-fours hours a day from cradle to grave.",
+    "Based on clinical experience, this author notes that anteriorly encasing thermoplastic cradles pose additional technical problems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crackers",
+    "crackle",
+    "crackling",
+    "crackly",
+    "cradle",
+    "craft",
+    "craftily",
+    "craftiness",
+    "craftsman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061415_b8a8af0d12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061415_e6d4bfe82e_o.png",
+      "id_image": "cradle_1606459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679744_ea29f81c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679744_16b10c1f89_o.png",
+      "id_image": "cradle_191530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061440_156633e01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061440_8aed78a1db_o.png",
+      "id_image": "cradle_191535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324441_ccba7562d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324441_85b592823c_o.png",
+      "id_image": "cradle_2917459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439458_31732215e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439458_871be8fbb1_o.png",
+      "id_image": "cradle_5233840"
+    }
+  ]
+}

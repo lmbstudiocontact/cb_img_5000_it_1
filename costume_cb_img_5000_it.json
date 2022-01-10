@@ -1,0 +1,93 @@
+{
+  "english": "costume",
+  "phat_am": "ˈkostjuːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trang bị",
+          "definition": "an outfit, especially for a particular purpose",
+          "world_new": [
+            "outfit",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swimming costume.",
+              "world_new": [
+                "swimming"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trang phục",
+          "definition": "dress, clothes",
+          "world_new": [
+            "dress",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actors were wearing eighteenth-century costume.",
+              "world_new": [
+                "wearing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Her husband told me that she was responsible for sewing most of the puppet costumes and was passing on the skill to her daughterin-law.",
+    "The costumes are made to be appropriate for them, for something uniquely theirs that they bring to the character they are playing.",
+    "The costumes and props were contemporary, but the play of light on the ripples in the pool on stage added a metaphoric dimension to the setting.",
+    "Dressed in their straw costumes, in a long procession with music and dance, a hundred of them occupied the town.",
+    "Astonishingly, the only palpable danger he faces in all this is a tiger; only in the encounter with the \"natural\" world does his costuming fail to operate.",
+    "Takers of inventories enumerated costumes, stage sets and machines for operas and balletpantomimes in the same inventory booklets.",
+    "In addition to financial exigencies, these editions may reflect last-minute changes made after the libretto went to press, perhaps stemming from production problems with sets, costumes, or personnel.",
+    "Each of the five pages that follow has three color illustrations depicting elaborately costumed human figures, and in one case a deer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cost",
+    "costliness",
+    "costly",
+    "costs",
+    "costume",
+    "cosy",
+    "cot",
+    "cot death",
+    "cottage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329146_2b11255554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329146_5ff6193d8a_o.png",
+      "id_image": "costume_5854350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684089_6b81744e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684089_c8ea973f8a_o.png",
+      "id_image": "costume_5864683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329011_1c0fb6bfc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329011_80648ac00e_o.png",
+      "id_image": "costume_6236158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443918_8106233b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443918_7f5125eebd_o.png",
+      "id_image": "costume_6347602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329166_82751eae7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329166_c3eb9f27a4_o.png",
+      "id_image": "costume_722852"
+    }
+  ]
+}

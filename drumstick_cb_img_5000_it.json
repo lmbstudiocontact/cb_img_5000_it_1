@@ -1,0 +1,80 @@
+{
+  "english": "drumstick",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dùi trống",
+          "definition": "a stick used for beating a drum",
+          "world_new": [
+            "stick",
+            "beating",
+            "drum"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of drumsticks.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cẳng gà",
+          "definition": "the lower part of the leg of a cooked chicken etc",
+          "world_new": [
+            "lower",
+            "part",
+            "leg",
+            "chicken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "chicken drumsticks.",
+              "world_new": [
+                "chicken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tabor drum is the earliest known example of its kind and the drumstick of a previously unknown design.",
+    "Played with a nylon tip drumstick they sound rather like the coil chimes in a mantle clock.",
+    "Tenor players use matched grip and generally play with mallets with plastic disc-shaped heads, though traditional drumsticks and softer mallets are commonly used to achieve different timbres.",
+    "Rounded drumsticks containing the seeds appear later, formed from the old flower parts.",
+    "The length of the drumsticks is 25-27 cm.",
+    "He tries to hit it away with his drumstick, yet this only topples the mic into the other, with both crashing to the ground.",
+    "Drumsticks were introduced in 1957.",
+    "Care is needed in placing all the drumstick alliums, since their withered leaves are unattractive at flowering time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drugstore",
+    "drum",
+    "drum in/into",
+    "drummer",
+    "drumstick",
+    "drunk",
+    "drunkard",
+    "drunken",
+    "drunken driving"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336411_574c19ab6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336411_a352abdcf5_o.png",
+      "id_image": "drumstick_478797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691664_21eee55b5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691664_a7b6389301_o.png",
+      "id_image": "drumstick_6043795"
+    }
+  ]
+}

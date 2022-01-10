@@ -1,0 +1,84 @@
+{
+  "english": "continuity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự liên tục",
+          "definition": "the state of being continuous or logically related",
+          "world_new": [
+            "state",
+            "continuous",
+            "logically",
+            "related"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is important to children to have some continuity in their education.",
+              "world_new": [
+                "important",
+                "their",
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kịch bản điện ảnh",
+          "definition": "the detailed arrangement of the parts of a story etc for a film script etc",
+          "world_new": [
+            "detailed",
+            "arrangement",
+            "story",
+            "film",
+            "script"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a continuity girl.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, evidence is accumulating that the psychopathologies of childhood are rarely single episodes but frequently show powerful continuities throughout childhood and into adulthood.",
+    "I would contend that the continuities persisted much further into the 1830s than this. 15.",
+    "Much of the essential detail - continuities, context, the force of personality - is lost when subsumed under the paradigm.",
+    "However, more significant were the continuities that persisted in the show, not least the maintenance of violence.",
+    "Not surprisingly, the transition to democracy has incorporated many institutional continuities with the past.",
+    "In the process, he implicitly asks the question: what continuities and discontinuities can be observed as every generation seems to rediscover its own 'underclass'?",
+    "Rather than search for continuities, other critics have preferred to concentrate on analyzing individual ensembles or arias instead.",
+    "Our particular interest is to identify (dis)continuities in the transformation from a colonial to an independent state."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "continual",
+    "continually",
+    "continuation",
+    "continue",
+    "continuity",
+    "continuous",
+    "continuously",
+    "contort",
+    "contortion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+      "id_image": "continuous_1768935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306721_a00399215b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306721_27d597b8df_o.png",
+      "id_image": "continuous_4098110"
+    }
+  ]
+}

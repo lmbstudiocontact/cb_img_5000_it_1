@@ -1,0 +1,64 @@
+{
+  "english": "firewood",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "củi",
+          "definition": "wood that is suitable for burning as fuel",
+          "world_new": [
+            "wood",
+            "suitable",
+            "fuel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I went into the garden to cut some firewood.",
+              "world_new": [
+                "I",
+                "garden",
+                "cut"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These production figures do not take into account off-cuts, sawdust and leaf biomass being used as firewood.",
+    "Between the bank face and occupied rooms is a firewood drying room, protecting inner walls from the damp ground, using stored logs as additional insulation.",
+    "The sides of the pit appeared to have been burned, and we found a large amount of firewood carbon at the bottom of the pit.",
+    "Based on survey data, the gross market value of crabs collected in 1996 was about $550, 000/year, almost twice the value of firewood.",
+    "Firewood was broken and snapped rather than cut.",
+    "For commodities such as firewood and drinking and cooking water, the matter is more complex: they are inputs in household production.",
+    "Most firewood is collected from households' own land and from 'other private' land.",
+    "Cutting firewood was the most often reported type of forest management activity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fireman",
+    "fireplace",
+    "fireproof",
+    "fireside",
+    "firewood",
+    "firework",
+    "firing-squad",
+    "firm",
+    "firmament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440893_d7cfc460fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440893_e55c97b659_o.png",
+      "id_image": "firewood_1399472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680999_ee35379f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680999_98b463d4f3_o.png",
+      "id_image": "firewood_1732431"
+    }
+  ]
+}

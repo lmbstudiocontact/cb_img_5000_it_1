@@ -1,0 +1,62 @@
+{
+  "english": "fertility",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng màu mỡ; khả năng sinh sản",
+          "definition": "the state or condition of being fertile",
+          "world_new": [
+            "state",
+            "condition",
+            "fertile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Diet among girls can affect fertility.",
+              "world_new": [
+                "affect"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The decline of fertility during the war contributed to the further expansion of the percentage of employed persons.",
+    "On many occasions attempts have been made to explain differences in fertility levels between different populations in terms of different breastfeeding practices.",
+    "As a result, they cannot consider the impact of cropping activities on the natural processes that support fertility recovery.",
+    "The remainder (10%), therefore, is to be attributed to changes in marital fertility.",
+    "Farmers tend to reduce planting density as soil fertility decreases so that they obtain ears of a reasonable size.",
+    "Note that our definition of child quality is somewhat different from the common definition used in the fertility literature.",
+    "It is described as a manual for research in agroforestry with emphasis on the effects of trees on soil and soil fertility.",
+    "Legumes for sustaining soil fertility in lowland rice."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ferret (about)",
+    "ferric",
+    "ferry",
+    "fertile",
+    "fertility",
+    "fertilization",
+    "fertilize",
+    "fertilizer",
+    "fervent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446583_1da0e9e454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446583_529935d9b0_o.png",
+      "id_image": "fertility_1742011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686644_457325a87c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686644_6a9cbd5be7_o.png",
+      "id_image": "fertility_527028"
+    }
+  ]
+}

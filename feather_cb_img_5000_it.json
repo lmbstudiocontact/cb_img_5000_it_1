@@ -1,0 +1,96 @@
+{
+  "english": "feather",
+  "phat_am": "ˈfeðə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lông vũ; lông (chim)",
+          "definition": "one of the things that grow from a bird’s skin that form the covering of its body",
+          "world_new": [
+            "grow",
+            "skin",
+            "form",
+            "covering",
+            "its",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They cleaned the oil off the seagull’s feathers.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trang hoàng bằng lông",
+          "definition": "to line, cover or decorate with feathers",
+          "world_new": [
+            "line",
+            "cover",
+            "decorate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The eagle feathers its nest with down from its own breast.",
+              "world_new": [
+                "eagle",
+                "its",
+                "nest",
+                "its",
+                "breast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, reviews of such massive works cannot be of equal nature (or length) or the reviewers risk the academic equivalent of tar and feathers.",
+    "The north masonry facade of the causeway, capped by a parapet, was significantly more formal than the southern edge of the causeway, where the ballast feathered out.",
+    "In and of itself the normative critique ruffles relatively few liberal feathers.",
+    "He smelt strongly of perfumed oil and carried with him a number of peacock feathers and a bundle of grubby charms.",
+    "Suddenly, out of the sky slid two, four, 10, 20 teal, the wind whistling through their feathers as they side-slipped into the flash.",
+    "Edible birds' nests, beeswax, feathers of birds of paradise, and hornbill ivory were also in demand as were products from the mangrove forests such as cutch and nipah.",
+    "When feathers were a primary exaptation, they presumably did not possess such design.",
+    "Birds of many feathers: the formation and structure of mixed species flocks of forest birds."
+  ],
+  "list_see_also": [
+    "feathered",
+    "feathery",
+    "a feather in one’s cap",
+    "feather one’s (own) nest"
+  ],
+  "list_browse": [
+    "feasibility",
+    "feasible",
+    "feast",
+    "feat",
+    "feather",
+    "feather one’s (own) nest",
+    "feathered",
+    "feathery",
+    "feature"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333606_7fc0ed80aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333606_acde68565d_o.png",
+      "id_image": "feather_420279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070465_332b6ae1b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070465_3b5a0a7ed2_o.png",
+      "id_image": "feather_5833251"
+    }
+  ]
+}

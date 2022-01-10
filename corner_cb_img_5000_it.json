@@ -1,0 +1,166 @@
+{
+  "english": "corner",
+  "phat_am": "ˈkoːnə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "góc",
+          "definition": "a point where two lines, walls, roads etc meet",
+          "world_new": [
+            "point",
+            "lines",
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the corners of a cube",
+              "world_new": [
+                "cube"
+              ]
+            },
+            {
+              "ex_of_definition": "the corner of the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi kín đáo",
+          "definition": "a place, usually a small quiet place",
+          "world_new": [
+            "place",
+            "small",
+            "quiet",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a secluded corner.",
+              "world_new": [
+                "secluded"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả phạt góc",
+          "definition": "in football/soccer, a free kick from the corner of the field",
+          "world_new": [
+            "free",
+            "kick",
+            "field"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve been awarded a corner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dồn vào chân tường",
+          "definition": "to force (a person or animal) into a place from which it is difficult to escape",
+          "world_new": [
+            "force",
+            "person",
+            "place",
+            "difficult",
+            "escape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief was cornered in an alley.",
+              "world_new": [
+                "thief",
+                "cornered",
+                "alley"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vào cua",
+          "definition": "to turn a corner",
+          "world_new": [
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cornered on only three wheels",
+              "world_new": [
+                "cornered"
+              ]
+            },
+            {
+              "ex_of_definition": "This car corners very well.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The simplest examples of flows in corners and past wedges have been presented.",
+    "There is drug selling on the corners and the people on the corners mess with the kids.",
+    "Any process that pushes mid vowels towards the corners of vowel space is thus straightforwardly expressible as element simplification.",
+    "To maintain the number of points moderate, we allowed the formation of corners a t these regions.",
+    "Cut your nails in the shape of the toes, not too short and not into the corners.",
+    "As n increases, the modes become more packed into the corners of the shear layer.",
+    "A reflection model for several targets, such as corners, edges, and walls, was suggested,14 and it became a fundamental model for many other researches.",
+    "Near the corners, singularities in the derivatives begin to appear; we do not give the details here."
+  ],
+  "list_see_also": [
+    "cornered",
+    "cut corners",
+    "turn the corner"
+  ],
+  "list_browse": [
+    "corn",
+    "corn on the cob",
+    "cornea",
+    "corned beef",
+    "corner",
+    "cornered",
+    "cornet",
+    "cornflakes",
+    "cornflour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686754_70ea76878a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686754_ef3a995b63_o.png",
+      "id_image": "corner_1031450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446893_f60734bf3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446893_340bd334aa_o.png",
+      "id_image": "corner_165030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331851_3db79bb2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331851_ab623d8c07_o.png",
+      "id_image": "corner_593514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331731_5c9eb17e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331731_89b1a9b10b_o.png",
+      "id_image": "corner_6224313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446798_57ecf6320b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446798_5701ce4df4_o.png",
+      "id_image": "corner_939243"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "education",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giáo dục",
+          "definition": "instruction and teaching, especially of children and young people in schools, universities etc",
+          "world_new": [
+            "instruction",
+            "teaching",
+            "young",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "secondary education",
+              "world_new": [
+                "secondary"
+              ]
+            },
+            {
+              "ex_of_definition": "His lack of education prevented him from getting a good job.",
+              "world_new": [
+                "lack",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On another occasion, the paper attributed similar powers to technical education.",
+    "There are a number of obstacles, then, that can short-circuit the connection between democracy and the resources governments allocate to education.",
+    "By the time they enter secondary education (13 years old), students have a vocabulary of 16,000 words.",
+    "In several instances, he returns to subjects treated earlier in the book, such as children's education and the evolution from scrolls to codices.",
+    "The recent theoretical literature attributes the increased education premium of the last decades to skill-biased technological progress.",
+    "Municipalities in charge of organizing services (thereby determining the need for staff) have no say in higher education policy.",
+    "Section 1 reviews the relevant literature on retirement plans and saving, education and saving, and behavioral economics.",
+    "The study was designed to assess the effects of two-way bilingual education on students' academic development."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "editorial",
+    "educate",
+    "educated",
+    "educated guess",
+    "education",
+    "educational",
+    "educationalist",
+    "eel",
+    "eerie"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065900_532bee8442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065900_a93897c10a_o.png",
+      "id_image": "education_1328242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329016_640578b663_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329016_8e7e37eb5d_o.png",
+      "id_image": "education_2831157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065975_7daf6c1218_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065975_bdd504535e_o.png",
+      "id_image": "education_325670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684119_738d3d64c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684119_c4ea6c0f33_o.png",
+      "id_image": "education_992622"
+    }
+  ]
+}

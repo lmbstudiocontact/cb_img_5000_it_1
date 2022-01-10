@@ -1,0 +1,95 @@
+{
+  "english": "cocktail",
+  "phat_am": "ˈkokteil",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cốc tai",
+          "definition": "an alcoholic drink mixed from various spirits etc",
+          "world_new": [
+            "alcoholic",
+            "drink",
+            "mixed",
+            "various",
+            "spirits"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A bloody Mary is a cocktail made from tomato juice, vodka, and Worcester sauce.",
+              "world_new": [
+                "bloody",
+                "tomato",
+                "juice",
+                "vodka",
+                "sauce"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự pha trộn hợp chất",
+          "definition": "a mixed dish of a number of things",
+          "world_new": [
+            "mixed",
+            "dish",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fruit cocktail.",
+              "world_new": [
+                "fruit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Efficient three-drug cocktail for disease induced by mutant superoxide dismutase.",
+    "She required a cocktail of drugs to compensate, and doctors estimated her life expectancy in months.",
+    "We were unable to consistently obtain stable recordings from spontaneously active retinal neurons that displayed calcium transients in the presence of the cocktail of neurotransmitter antagonists.",
+    "People were invited for cocktails, there was coffee served in the lobby.",
+    "However, such vectors are necessary to achieve protection against the individual agents of widely used 'chemotherapeutic cocktails'.",
+    "The repertoire of pharmacologically active components in this cocktail is impressive as well as the number of targets they specifically affect.",
+    "A fairly obvious extension of the application to cocktail parties is to the elimination of crosstalk in communication networks.",
+    "Furthermore, it is now clearly established that cocktails of chemicals can have interactive effects in mediating these endocrine changes in fish."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cockney",
+    "cockpit",
+    "cockroach",
+    "cocksure",
+    "cocktail",
+    "cocky",
+    "cocoa",
+    "coconut",
+    "cocoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326031_8f91dbe0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326031_dc5f494f54_o.png",
+      "id_image": "cocktail_282728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370777_53b0d71e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370777_6f7e70bde6_o.png",
+      "id_image": "cocktail_282741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325961_d74a1fc21d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325961_3606ddd61d_o.png",
+      "id_image": "cocktail_545080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325916_8ce767f28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325916_6bf232dc6f_o.png",
+      "id_image": "cocktail_545093"
+    }
+  ]
+}

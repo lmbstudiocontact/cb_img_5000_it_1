@@ -1,0 +1,85 @@
+{
+  "english": "ecology",
+  "phat_am": "iˈkolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh thái",
+          "definition": "(the study of) living things considered in relation to their environment",
+          "world_new": [
+            "study",
+            "living",
+            "relation",
+            "their",
+            "environment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pollution has a disastrous effect on the ecology of a region.",
+              "world_new": [
+                "disastrous",
+                "effect",
+                "region"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further data on the ecology and population genetics of mice from the vicinity of the zone are needed to distinguish between them.",
+    "A comparison of the germination ecology of related species might show adaptations of germination requirements to specific habitat conditions or correlations with life history.",
+    "The ecology and sociology of the area cannot be separated from its political history.",
+    "However, very little information is available on their biology and ecology, rendering it difficult to develop suitable conservation programmes for these endangered species.",
+    "Ecology of seed and seedling growth for conservation and restoration of tropical dry forest: a review.",
+    "The ecology of hostfinding behavior and parasite transmission : past and future perspectives.",
+    "Thirteen chapters cover taxonomy and distribution, production volumes, ecology and agronomy, harvesting, processing, economics and marketing.",
+    "Towards an ecology of retail financial services : understanding the persistence of door-to-door credit and insurance providers."
+  ],
+  "list_see_also": [
+    "ecological",
+    "ecologically",
+    "ecologist"
+  ],
+  "list_browse": [
+    "eco-friendly",
+    "ecological",
+    "ecologically",
+    "ecologist",
+    "ecology",
+    "economic",
+    "economical",
+    "economically",
+    "economics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067920_43e2072a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067920_2e19664074_o.png",
+      "id_image": "ecology_1974306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331196_84dda12cdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331196_4ac7e2dfc5_o.png",
+      "id_image": "ecology_2666713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331161_c9aac07d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331161_a1042b57c0_o.png",
+      "id_image": "ecology_3381168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067855_8a8c767c80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067855_767eb98d0e_o.png",
+      "id_image": "ecology_4178784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331091_865221ef78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331091_444ae3c67c_o.png",
+      "id_image": "ecology_5928108"
+    }
+  ]
+}

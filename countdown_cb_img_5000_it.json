@@ -1,0 +1,71 @@
+{
+  "english": "countdown",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đếm ngược",
+          "definition": "(used originally of a rocket) a counting backwards to check the time remaining until the beginning of an event, regarded as zero",
+          "world_new": [
+            "backwards",
+            "check",
+            "time",
+            "beginning",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s five minutes to countdown."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During the countdown, various holds took 2 hours and 38 minutes.",
+    "Depicting a girl counting petals plucked from a daisy, the voiceover changes to a countdown that ends with the mushroom cloud of a muclear explosion.",
+    "Once at the launch site, the rocket is erected on the platform, and a three-day countdown is initiated.",
+    "Each includes video demos and audio instructions, countdowns and motivational commentary.",
+    "Under some circumstances, a countdown may be recycled to an earlier time.",
+    "Depending on the type of vehicle used, countdowns can start from 72 to 96 hours before launch time.",
+    "Most notably, the countdowns were shorter, with 10 to 15 songs, as opposed to the standard 20 on the current incarnation.",
+    "During communications for a countdown, the launch team uses acronyms to keep channels open as much as possible."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "counsellor",
+    "count",
+    "count on",
+    "countable",
+    "countdown",
+    "countenance",
+    "counter",
+    "counter-attack",
+    "counteract"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372297_fd99cfa1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372297_e29f205183_o.png",
+      "id_image": "countdown_2217651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064325_3971331cf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064325_f0ec0c8f6b_o.png",
+      "id_image": "countdown_327942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442563_2888c3fa01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442563_70b93e2dc2_o.png",
+      "id_image": "countdown_6347599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682604_4a7bd3493f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682604_9dcdd2aa82_o.png",
+      "id_image": "countdown_6420865"
+    }
+  ]
+}

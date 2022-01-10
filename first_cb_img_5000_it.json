@@ -1,0 +1,114 @@
+{
+  "english": "first",
+  "phat_am": "fəːst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thứ nhất; đầu tiên",
+          "definition": "before all others in place, time or rank",
+          "world_new": [
+            "place",
+            "time",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was the first person to arrive",
+              "world_new": [
+                "I",
+                "person",
+                "arrive"
+              ]
+            },
+            {
+              "ex_of_definition": "The boy spoke first.",
+              "world_new": [
+                "boy",
+                "spoke"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trước hết",
+          "definition": "before doing anything else",
+          "world_new": [
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Shall we eat now?’ ‘Wash your hands first!",
+              "world_new": [
+                "eat",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đầu tiên; vật đầu tiên",
+          "definition": "the person, animal etc that does something before any other person, animal etc",
+          "world_new": [
+            "person",
+            "animal",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who was the first to finish?",
+              "world_new": [
+                "finish"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "firstly",
+    "first aid",
+    "first-born",
+    "first-class",
+    "first floor",
+    "first-hand",
+    "first language",
+    "first name",
+    "first-rate",
+    "at first",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "firing-squad",
+    "firm",
+    "firmament",
+    "firmly",
+    "first",
+    "first aid",
+    "first and foremost",
+    "first floor",
+    "first language"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062460_59a62b927c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062460_7204d0269f_o.png",
+      "id_image": "first_207307"
+    }
+  ]
+}

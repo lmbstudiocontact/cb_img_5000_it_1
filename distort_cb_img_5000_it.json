@@ -1,0 +1,93 @@
+{
+  "english": "distort",
+  "phat_am": "diˈstoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm méo mó",
+          "definition": "to make or become twisted out of shape",
+          "world_new": [
+            "become",
+            "twisted",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her face was distorted with pain",
+              "world_new": [
+                "face",
+                "pain"
+              ]
+            },
+            {
+              "ex_of_definition": "Metal distorts under stress.",
+              "world_new": [
+                "stress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bóp méo",
+          "definition": "to make (sound) indistinct and unnatural",
+          "world_new": [
+            "indistinct",
+            "unnatural"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her voice sounded distorted on the telephone.",
+              "world_new": [
+                "voice",
+                "telephone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although various internal representations are an important type of representations, they are typically compressed, segmented, and distorted forms of the represented entity but not emulations.",
+    "These are caused by atmospheric refraction, which distorts and magnifies distant objects.",
+    "These surfaces are distorted by hydrostatic balance toward negative anomalies of pressure produced by the bend of the low-pressure vortex cores.",
+    "They act to distort surfaces between nearly pure fluid regions which are marked by compressed contours.",
+    "In each case the fruit of this toxicity is something that is disjointed, distorted and disrupting.",
+    "However, the internal dropout for these questions was small and therefore it is unlikely that it distorted the results.",
+    "Even the angular measure of orthogonality is distorted somewhat by this transformation.",
+    "The army's political power distorted rights protection and market fairness."
+  ],
+  "list_see_also": [
+    "distortion"
+  ],
+  "list_browse": [
+    "distinctness",
+    "distinguish",
+    "distinguishable",
+    "distinguished",
+    "distort",
+    "distortion",
+    "distract",
+    "distracted",
+    "distraction"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314176_81df7f0d47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314176_5cd24a5f0d_o.png",
+      "id_image": "distort_232940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429063_fc4c28f465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429063_16c30ed3c1_o.png",
+      "id_image": "distort_4410223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314131_680ea088f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314131_7a7ca12ea2_o.png",
+      "id_image": "distort_4410235"
+    }
+  ]
+}

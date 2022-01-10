@@ -1,0 +1,121 @@
+{
+  "english": "distress",
+  "phat_am": "diˈstres",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nỗi đau buồn",
+          "definition": "great sorrow, trouble or pain",
+          "world_new": [
+            "great",
+            "sorrow",
+            "trouble",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was in great distress over his disappearance",
+              "world_new": [
+                "great",
+                "disappearance"
+              ]
+            },
+            {
+              "ex_of_definition": "Is your leg causing you any distress?",
+              "world_new": [
+                "your",
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "The loss of all their money left the family in acute distress.",
+              "world_new": [
+                "loss",
+                "their",
+                "money",
+                "left",
+                "family",
+                "acute"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiến buồn bã",
+          "definition": "a cause of sorrow",
+          "world_new": [
+            "cause",
+            "sorrow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My inability to draw has always been a distress to me.",
+              "world_new": [
+                "inability",
+                "draw"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm buồn phiền",
+          "definition": "to cause pain or sorrow to",
+          "world_new": [
+            "cause",
+            "pain",
+            "sorrow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news of Bob’s accident had greatly distressed her.",
+              "world_new": [
+                "news",
+                "accident",
+                "greatly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In contrast, the assessment may have had less impact on distressing behaviours other than depression, which were less amenable to treatment.",
+    "The considerable costs of her earlier treatment had been futile, distressing, and wasteful.",
+    "There may be conflict between the family's ready assumption that the formerly intelligent sophisticate feels most distressed in the intellectual decline of dementia.",
+    "We can all cite distressing examples of the failures of systems and of workers to respond in a timely and appropriate way.",
+    "Many experienced as distressing this new picture of human grasping unleashed.",
+    "When children who are easily aroused and distressed also anticipate hostility and rejection in social interactions, their response may be aggressive or destructive.",
+    "Admission to an inpatient hospice and dy ing there may become a necessary and appropr iate solution to distressing patients or exhausted families.",
+    "To be cut off from this feed stock during the height of his productive hours would be distressing."
+  ],
+  "list_see_also": [
+    "distressing",
+    "distressingly"
+  ],
+  "list_browse": [
+    "distract",
+    "distracted",
+    "distraction",
+    "distraught",
+    "distress",
+    "distressing",
+    "distressingly",
+    "distribute",
+    "distribution"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668764_8e9d50b713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668764_2431a2d1ac_o.png",
+      "id_image": "distress_4525473"
+    }
+  ]
+}

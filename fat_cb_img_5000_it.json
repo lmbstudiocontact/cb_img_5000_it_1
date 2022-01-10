@@ -1,0 +1,133 @@
+{
+  "english": "fat",
+  "phat_am": "fӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỡ; chất béo",
+          "definition": "an oily substance made by the bodies of animals and by some plants",
+          "world_new": [
+            "oily",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This meat has got a lot of fat on it.",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dầu; mỡ ăn",
+          "definition": "a kind of such substance, used especially for cooking",
+          "world_new": [
+            "kind",
+            "substance",
+            "cooking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several good cooking fats on the market.",
+              "world_new": [
+                "cooking",
+                "market"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "béo mập",
+          "definition": "having a lot of fat on one’s body; large, heavy and round in shape",
+          "world_new": [
+            "large",
+            "heavy",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a very fat child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều về số lượng; giá trị",
+          "definition": "large or abundant",
+          "world_new": [
+            "large",
+            "abundant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her business made a fat profit",
+              "world_new": [
+                "business",
+                "profit"
+              ]
+            },
+            {
+              "ex_of_definition": "A fat lot of good that is! (= That is no good at all)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Among the important features of the new system is a corporate mentality in which much of the \"fat\" of traditional medical education seems disposable.",
+    "After treatment, dosed birds showed higher values for fat index, pectoral angle and residual body weights than control birds (fig. 2).",
+    "There were no differences between pupae from control and selection lines in fat reserves (measured by ether extraction ; unpublished data).",
+    "We measured 5 variables in each experimental animal - haemocyte concentration, anti-bacterial activity, phenoloxidase activity, fat body size and ovary development.",
+    "The fat element holds ei entries, and we assume that our tree lookup algorithm takes at most kr log ei amortized time.",
+    "The effect of the transgene was dependent on the genetic background for almost all body weights and relative gonadal-fat-pad weights, but less for fat content.",
+    "Some workers had their body cavities filled with iridescent fat globules, a condition suggesting the presence of an iridescent virus.",
+    "No significant group differences were found in body mass index and percent body fat."
+  ],
+  "list_see_also": [
+    "fatness",
+    "fatten",
+    "fattening",
+    "fatty",
+    "fattiness",
+    "fat-head"
+  ],
+  "list_browse": [
+    "fastidiously",
+    "fastidiousness",
+    "fasting",
+    "fastness",
+    "fat",
+    "fat-head",
+    "fatal",
+    "fatalism",
+    "fatalist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334876_d52c398cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334876_38532b72c5_o.png",
+      "id_image": "fat_2376394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071845_684eb464cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071845_b025e1817a_o.png",
+      "id_image": "fat_2843563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071790_3a594bc1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071790_e4969ec332_o.png",
+      "id_image": "fat_3703381"
+    }
+  ]
+}

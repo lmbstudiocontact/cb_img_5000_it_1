@@ -1,0 +1,117 @@
+{
+  "english": "composition",
+  "phat_am": "kompəˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác phẩm",
+          "definition": "something composed, eg music",
+          "world_new": [
+            "composed",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His latest composition is a piano concerto.",
+              "world_new": [
+                "piano",
+                "concerto"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sáng tác",
+          "definition": "the act of composing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the technical difficulties of composition.",
+              "world_new": [
+                "technical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài tiểu luận",
+          "definition": "an essay written as a school exercise",
+          "world_new": [
+            "essay",
+            "school",
+            "exercise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children had to write a composition about their holiday.",
+              "world_new": [
+                "their",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành phần",
+          "definition": "the parts of which a thing is made",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you studied the composition of the chemical?",
+              "world_new": [
+                "chemical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thirteen compositions contain pre-recorded male singing voices, eighteen compositions pre-recorded female singing voices.",
+    "Their recorded compositions are then placed alongside music especially created by me as the specialist composer/teacher involved in the project.",
+    "A technical review of the equipment and construction methods necessary for each of these compositions is included when helpful in understanding the overall work.",
+    "Frequently these types of compositions are in groups, a group of centralized ones and then a group of linear ones.",
+    "Obviously, they drew on their actual technical possibilities to produce the compositions.",
+    "He presented a descriptive analysis of twenty-nine compositions created by children aged between eleven and fourteen years in groups containing four to six children.",
+    "The musical excerpts in the first part of the installation were taken from well-known compositions of the electroacoustic repertoire and are listed in the table.",
+    "Moreover, this formalism is closed under spatial and sequential compositions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "component",
+    "compose",
+    "composed",
+    "composer",
+    "composition",
+    "compost",
+    "composure",
+    "compound",
+    "comprehend"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315251_280b61ba96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315251_8d71039b5c_o.png",
+      "id_image": "composition_1488104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430108_e47d00aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430108_726a271a81_o.png",
+      "id_image": "composition_1589534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315171_522b4a57d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315171_d1023b6933_o.png",
+      "id_image": "composition_4005487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669819_005d39e477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669819_0d2150b80b_o.png",
+      "id_image": "composition_6347978"
+    }
+  ]
+}

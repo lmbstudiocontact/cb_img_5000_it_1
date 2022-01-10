@@ -1,0 +1,209 @@
+{
+  "english": "court",
+  "phat_am": "koːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tòa án",
+          "definition": "a place where legal cases are heard",
+          "world_new": [
+            "place",
+            "legal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a magistrates’ court"
+            },
+            {
+              "ex_of_definition": "the High Court."
+            }
+          ]
+        },
+        {
+          "mean_english": "quan tòa",
+          "definition": "the judges and officials of a legal court",
+          "world_new": [
+            "legal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The accused is to appear before the court on Friday.",
+              "world_new": [
+                "appear",
+                "Friday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sân chơi",
+          "definition": "a marked-out space for certain games",
+          "world_new": [
+            "space",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tennis court",
+              "world_new": [
+                "tennis"
+              ]
+            },
+            {
+              "ex_of_definition": "a squash court.",
+              "world_new": [
+                "squash"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "triều thần",
+          "definition": "the officials, councillors etc of a king or queen",
+          "world_new": [
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the court of King James."
+            }
+          ]
+        },
+        {
+          "mean_english": "cung điện",
+          "definition": "the palace of a king or queen",
+          "world_new": [
+            "palace",
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hampton Court."
+            }
+          ]
+        },
+        {
+          "mean_english": "phố cụt",
+          "definition": "an open space surrounded by houses or by the parts of one house.",
+          "world_new": [
+            "open",
+            "space",
+            "house"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tán tỉnh",
+          "definition": "to try to win the love of; to woo",
+          "world_new": [
+            "try",
+            "win",
+            "love",
+            "woo"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been courting her for over a year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm cách đạt được",
+          "definition": "to try to gain (admiration etc)",
+          "world_new": [
+            "try",
+            "gain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been accused of using his charity work to court popularity.",
+              "world_new": [
+                "charity",
+                "work",
+                "popularity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đón lấy",
+          "definition": "to seem to be deliberately risking (disaster etc)",
+          "world_new": [
+            "seem",
+            "deliberately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The President may be courting disaster by offering budget cuts.",
+              "world_new": [
+                "disaster",
+                "offering",
+                "budget"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "courtier",
+    "courtly",
+    "courtliness",
+    "courtship",
+    "courthouse",
+    "court-martial",
+    "courtroom",
+    "courtyard"
+  ],
+  "list_browse": [
+    "courier",
+    "course",
+    "coursebook",
+    "coursework",
+    "court",
+    "court-martial",
+    "courteous",
+    "courteously",
+    "courteousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062830_d16d5afd29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062830_d7904e9fd4_o.png",
+      "id_image": "court_1548368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370787_a6a564ef16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370787_93013428f5_o.png",
+      "id_image": "court_1750509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062770_c5fa2e117f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062770_5fdac48d61_o.png",
+      "id_image": "court_2322900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370672_b241a95049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370672_7c6ee406cf_o.png",
+      "id_image": "court_4253282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440848_02b81daa2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440848_fed0135239_o.png",
+      "id_image": "court_4751284"
+    }
+  ]
+}

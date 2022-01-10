@@ -1,0 +1,51 @@
+{
+  "english": "exterminate",
+  "phat_am": "ikˈstəːmineit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiêu diệt",
+          "definition": "to get rid of or destroy completely",
+          "world_new": [
+            "rid",
+            "destroy",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rats must be exterminated from a building or they will cause disease.",
+              "world_new": [
+                "building",
+                "cause",
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "extermination"
+  ],
+  "list_browse": [
+    "extension",
+    "extensive",
+    "extent",
+    "exterior",
+    "exterminate",
+    "extermination",
+    "external",
+    "externalization",
+    "externalize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078000_06a5bfd40d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078000_1606964c80_o.png",
+      "id_image": "exterminate_2297384"
+    }
+  ]
+}

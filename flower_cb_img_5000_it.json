@@ -1,0 +1,104 @@
+{
+  "english": "flower",
+  "phat_am": "ˈflauə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoa",
+          "definition": "the part of a plant or tree from which fruit or seed grows, often brightly coloured and sometimes including the stem on which it grows",
+          "world_new": [
+            "part",
+            "plant",
+            "tree",
+            "fruit",
+            "seed",
+            "brightly",
+            "coloured",
+            "including",
+            "stem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bunch of flowers.",
+              "world_new": [
+                "bunch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đơm hoa; nở hoa",
+          "definition": "(of plants etc) to produce flowers",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This plant flowers in early May.",
+              "world_new": [
+                "plant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both fertilization and drought conditions before or after flowering can lead to large increases in the concentration of glucosinolates in rapeseed seed78.",
+    "Methods of achieving this include bringing flowering forward, reducing the amount of light reflected by the flowering layer and increasing the leaf area.",
+    "The capability is consistent with the specialized diet of the honey possum, enabling the assessment of the maturity of nectar-producing flowers.",
+    "The visits we recorded at inflorescences without open flowers indicate that bats may monitor inflorescences they have visited on previous nights.",
+    "If humans could hybridize or select flowers and grow them, they could not create flowers from scratch.",
+    "Such an inconsistency b etween the flowering pattern and pollinator type makes it d ifficult to specify the ecological significance of flowering synchrony.",
+    "The ecological consequences of flowering asynchrony in monoecious figs: a simulation study.",
+    "However, some insects are beneficial and have a role in pollinating flowers, thus enabling fruit set."
+  ],
+  "list_see_also": [
+    "flowered",
+    "flowery",
+    "flower-bed",
+    "flower-pot",
+    "in flower"
+  ],
+  "list_browse": [
+    "flourishing",
+    "flout",
+    "flow",
+    "flow chart",
+    "flower",
+    "flower-bed",
+    "flower-pot",
+    "flowered",
+    "flowery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056565_84b4d08446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056565_ac765821c0_o.png",
+      "id_image": "flower_209197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435028_b70a2ee99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435028_5abfb7cac3_o.png",
+      "id_image": "flower_256870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674829_a89d6c2d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674829_22bd262186_o.png",
+      "id_image": "flower_326334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674784_209ea16241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674784_dff1c60c26_o.png",
+      "id_image": "flower_350958"
+    }
+  ]
+}

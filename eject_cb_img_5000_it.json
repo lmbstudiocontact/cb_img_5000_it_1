@@ -1,0 +1,86 @@
+{
+  "english": "eject",
+  "phat_am": "iˈdʒekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đẩy ra",
+          "definition": "to throw out with force; to force to leave",
+          "world_new": [
+            "throw",
+            "force",
+            "leave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were ejected from their house for not paying the rent.",
+              "world_new": [
+                "their",
+                "house",
+                "rent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bật dù nhảy ra",
+          "definition": "to leave an aircraft in an emergency by causing one’s seat to be ejected",
+          "world_new": [
+            "leave",
+            "aircraft",
+            "emergency",
+            "seat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pilot had to eject when his plane caught fire.",
+              "world_new": [
+                "pilot",
+                "plane",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One can only speculate on the proportion of youths that were ejected from the town.",
+    "463 plasma that produces the acceleration of the ions ejected from the non-equilibrium plasma.",
+    "We then recoded study members who were missing the variable to the mean of that variable so that they would not be ejected from analysis.",
+    "Once ejected from a planet, the heliocentric orbit of a body can be calculated and extrapolated forward in time.",
+    "The carbon vapour ejected into the circumstellar medium by the carbon-rich giant stars is made by polyynes chains.",
+    "The mass of the plume slab is determined by the amount of material ejected from the target when thermalized by the electron beam.",
+    "A droplet extrusion system using either a thermal or a piezoelectric technique to eject sample droplets for analysis of chemical composition.",
+    "The aspirated cytoplasm and the spermatozoon were then gently ejected into the cytoplasm and the needle was withdrawn."
+  ],
+  "list_see_also": [
+    "ejection"
+  ],
+  "list_browse": [
+    "either … or",
+    "either way",
+    "ejaculate",
+    "ejaculation",
+    "eject",
+    "ejection",
+    "eke",
+    "elaborate",
+    "elaborately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372112_ff7758c3a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372112_b27851cb0e_o.png",
+      "id_image": "eject_183624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327401_9f563a04dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327401_514deffe37_o.png",
+      "id_image": "eject_5869939"
+    }
+  ]
+}

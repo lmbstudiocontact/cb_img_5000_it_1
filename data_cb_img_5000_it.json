@@ -1,0 +1,64 @@
+{
+  "english": "data",
+  "phat_am": "ˈdeitə",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "dữ liệu",
+          "definition": "or noun singular facts or information (especially the information given to a computer)",
+          "world_new": [
+            "information",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the data has/have been entered into the computer.",
+              "world_new": [
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "database",
+    "data-processing"
+  ],
+  "list_browse": [
+    "dash",
+    "dash off",
+    "dashboard",
+    "dashing",
+    "data",
+    "data-processing",
+    "database",
+    "date",
+    "dated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309771_fe501d28d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309771_d9492bb456_o.png",
+      "id_image": "data_1076320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046760_523e767914_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046760_2b65350330_o.png",
+      "id_image": "data_1262738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309876_95f3c60da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309876_bf238f89fc_o.png",
+      "id_image": "data_860250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309816_4282d924e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309816_f6dc0e4dee_o.png",
+      "id_image": "data_984433"
+    }
+  ]
+}

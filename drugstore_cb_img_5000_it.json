@@ -1,0 +1,58 @@
+{
+  "english": "drugstore",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hàng dược phẩm",
+          "definition": "a shop which sells various articles (eg cosmetics, newspapers and soft drinks) as well as medicines",
+          "world_new": [
+            "shop",
+            "various",
+            "soft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had gone to the drugstore for cold medication.",
+              "world_new": [
+                "cold",
+                "medication"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The callers complained that the drugstore was not accessible to provincial residents.",
+    "A drugstore or a pharmacy is one of those conveniences that we presume we cannot do without.",
+    "We were left with only $3 per day to eat in the drugstores, having had to spend $11 per day in keeping a decent roof over our heads.",
+    "Coty products were being marketed to franchised accounts, including distributors, independent drugstores, mass merchandisers, and department stores.",
+    "The proposed ban within the draft regulations on advertising to the grocery and drugstore trade will deny industry an important communication channel with its distributors.",
+    "By 1870, the town had two grocery stores, a drugstore and a blacksmith shop.",
+    "Some commercial businesses improved: textiles, restoration, drugstores, bookstores and coal supply and other power sources.",
+    "The product is presented as an atomizer to be taken orally, and it will be delivered at drugstores inside some hospitals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drudgery",
+    "drug",
+    "drug addict",
+    "druggist",
+    "drugstore",
+    "drum",
+    "drum in/into",
+    "drummer",
+    "drumstick"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336706_20330b0131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336706_162be93233_o.png",
+      "id_image": "drugstore_4290074"
+    }
+  ]
+}

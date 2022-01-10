@@ -1,0 +1,79 @@
+{
+  "english": "cognitive",
+  "phat_am": "ˈkoɡnitiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhận thức",
+          "definition": "connected with the mental processes of recognizing and understanding things",
+          "world_new": [
+            "mental",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cognitive psychology",
+              "world_new": [
+                "psychology"
+              ]
+            },
+            {
+              "ex_of_definition": "cognitive skills."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, cognitive recovery may not be complete even when depressive symptoms resolve.",
+    "The changing nature of the cognitive representation of words as reading acquisition took place was discussed.",
+    "Rather than either pictorial or symbolic, it might better serve cognitive science to recast this debate into a problem in both pictorial and symbolic terms.",
+    "A cognitive modeling approach to teaching critique to nonnative speakers.",
+    "He is a cognitive neuroscientist studying the roles of sleep and dreaming in off-line memory reprocessing, including off-line memory consolidation, transfer, integration, and erasure.",
+    "Unfortunately, many cognitive scientists have opted for a preferred cognitive paradigm while ignoring or misinterpreting critical technical issues.",
+    "As is too common among cognitive scientists, they equate mental representations with representations of external physical objects.",
+    "Their theoretical model outlines a causal link between various cognitive and social processes and the resulting behaviour."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cogent",
+    "cogitate",
+    "cogitation",
+    "cognac",
+    "cognitive",
+    "cohabit",
+    "cohabitation",
+    "coherence",
+    "coherent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439428_a56e57b7fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439428_18c3dd4f52_o.png",
+      "id_image": "cognitive_1476237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324346_30b290bfaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324346_7c4533937e_o.png",
+      "id_image": "cognitive_1671630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324276_e61f046d87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324276_d4f3ca04dd_o.png",
+      "id_image": "cognitive_2244658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324256_d40f548861_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324256_fd1a13a5c9_o.png",
+      "id_image": "cognitive_4525456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061115_976037aa7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061115_4c5b2cdca6_o.png",
+      "id_image": "cognitive_4525458"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "elderly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cao tuổi",
+          "definition": "(rather) old",
+          "world_new": [
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an elderly lady.",
+              "world_new": [
+                "lady"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How do mid-life adults divide their efforts between helping elderly parents and adult children?",
+    "Since local elderly mortality indicates movements in need, we can test for changes to access due to rationing.",
+    "During the first half of the 20th century, the public care of elderly people and its supervisors were solely institution-based.",
+    "Aging and the relationship between functional status and self-rated health in elderly men.",
+    "In this way, 607 'frail elderly people' remained.",
+    "Our conclusion is that social relations, functional ability and activities may influence the quality of life of elderly people as much as health status.",
+    "The village chief was, after all, one of the elderly males of the community.",
+    "A controlled study of repetitive transcranial magnetic stimulation as a treatment of depression in the elderly."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "elation",
+    "elbow",
+    "elbow room",
+    "elder",
+    "elderly",
+    "eldest",
+    "elect",
+    "election",
+    "electioneer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326701_14f1c3b41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326701_f0b3292bf8_o.png",
+      "id_image": "elderly_2395173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063565_1a427128e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063565_f96976eed5_o.png",
+      "id_image": "elderly_4561061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441603_fc54f5a5c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441603_21cf7d11d9_o.png",
+      "id_image": "elderly_4561109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681639_516a7bab0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681639_a075e169ce_o.png",
+      "id_image": "elderly_5256081"
+    }
+  ]
+}

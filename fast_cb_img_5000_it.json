@@ -1,0 +1,206 @@
+{
+  "english": "fast",
+  "phat_am": "faːst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhanh",
+          "definition": "quick-moving",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fast car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh",
+          "definition": "quick",
+          "world_new": [
+            "quick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fast worker.",
+              "world_new": [
+                "worker"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(đồng hồ) chạy nhanh",
+          "definition": "(of a clock, watch etc) showing a time in advance of the correct time",
+          "world_new": [
+            "clock",
+            "watch",
+            "time",
+            "advance",
+            "correct",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My watch is five minutes fast.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vững vàng; chắc chắn",
+          "definition": "quickly",
+          "world_new": [
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She speaks so fast I can’t understand her.",
+              "world_new": [
+                "I",
+                "understand"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn chay; nhịn đói",
+          "definition": "to go without food, especially for religious or medical reasons",
+          "world_new": [
+            "food",
+            "religious",
+            "medical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Muslims fast during the festival of Ramadan.",
+              "world_new": [
+                "festival",
+                "Ramadan"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời kỳ nhịn ăn, ăn chay, ăn kiêng",
+          "definition": "a time or act of fasting",
+          "world_new": [
+            "time",
+            "act",
+            "fasting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has just finished two days’ fast.",
+              "world_new": [
+                "finished"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bền; không phai",
+          "definition": "(of a dye) fixed; that will not come out of a fabric when it is washed.",
+          "world_new": [
+            "fabric"
+          ]
+        },
+        {
+          "mean_english": "chắc chắn",
+          "definition": "firm; fixed",
+          "world_new": [
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made her end of the rope fast to a tree.",
+              "world_new": [
+                "rope",
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, the tree automaton approach is clearly the fastest.",
+    "We choose the fastest stable solution in the family as the physically significant one.",
+    "Table 2 shows the fastest parallel runtime and the speedup for the number of processors at which that time was achieved for each program.",
+    "Behind the slower one the steady state prevails and ahead of the faster the fluid does not know the plate has a front edge.",
+    "The faster the state changes, the more frequent the update should be.",
+    "A third, faster and more 'panoramic' movement is then superimposed with a characteristic filtering.",
+    "If participants were able to predict the gender of a noun on the basis of its suffix their answers were faster and more often correct.",
+    "Now r a t large times ci grows like t and so a cannot decrease faster than t-:."
+  ],
+  "list_see_also": [
+    "fastness",
+    "fast food",
+    "fast-forward",
+    "fast lane"
+  ],
+  "list_browse": [
+    "fascist",
+    "fashion",
+    "fashionable",
+    "fashionably",
+    "fast",
+    "fast asleep",
+    "fast food",
+    "fast lane",
+    "fast-forward"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072080_5a6c0fc309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072080_cbeb096a61_o.png",
+      "id_image": "fast_1455324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380177_e2cbef623d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380177_24f56cac58_o.png",
+      "id_image": "fast_1476721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690244_c9dda8eaef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690244_b38094891c_o.png",
+      "id_image": "fast_1652556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690209_0288de1ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690209_37a9f39db9_o.png",
+      "id_image": "fast_3043536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335006_9b8fa8c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335006_d97ed4de7a_o.png",
+      "id_image": "fast_6316099"
+    }
+  ]
+}

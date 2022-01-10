@@ -1,0 +1,92 @@
+{
+  "english": "density",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mật độ",
+          "definition": "the number of items, people etc found in a given area compared with other areas especially if large",
+          "world_new": [
+            "number",
+            "people",
+            "found",
+            "area",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the density of the population.",
+              "world_new": [
+                "population"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ trọng",
+          "definition": "the quantity of matter in each unit of volume",
+          "world_new": [
+            "quantity",
+            "matter",
+            "unit",
+            "volume"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the density of a gas.",
+              "world_new": [
+                "gas"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Competition seems an unlikely explanation for this pattern, considering the low densities of epiphytes (less than 1 individual m-2).",
+    "The types, densities, and sizes of teleost photoreceptors can be related to the habitat or period of activity of the species.",
+    "The densities of macroinvertebrates ranged from 0.2 to 1.6 individuals ml-1 (mean: 0.8 individual ml-1).",
+    "The densities in the dendrites ranged from 0.25 to 4 times that found in the soma.",
+    "Plant and leaf densities are the number m-2 of ground along the transects.",
+    "Since there is no inertia, the growth rate is independent of the fluid densities.",
+    "With the aid of a camera lucida, photoreceptor densities were determined from the toluidine blue-stained sections.",
+    "Such variation in population densities did not lead to extirpation because there was sufficient habitat in other parts of the marsh."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "denote",
+    "denounce",
+    "dense",
+    "densely",
+    "density",
+    "dent",
+    "dental",
+    "dentist",
+    "dentistry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332356_0098b2890e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332356_2d2656916d_o.png",
+      "id_image": "density_4176615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069045_2978524407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069045_1cd04eb58e_o.png",
+      "id_image": "density_5825237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377012_748d9cc4c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377012_66741992cb_o.png",
+      "id_image": "density_5931534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068985_c575f02248_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068985_c74e58d016_o.png",
+      "id_image": "density_6080884"
+    }
+  ]
+}

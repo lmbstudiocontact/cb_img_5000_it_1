@@ -1,0 +1,123 @@
+{
+  "english": "coil",
+  "phat_am": "koil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cuộn",
+          "definition": "to wind into loops",
+          "world_new": [
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The snake coiled (itself) round the tree.",
+              "world_new": [
+                "snake",
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộn",
+          "definition": "a length of something wound into a loop or loops",
+          "world_new": [
+            "length",
+            "wound",
+            "loop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coil of rope",
+              "world_new": [
+                "rope"
+              ]
+            },
+            {
+              "ex_of_definition": "a coil of hair.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộn dây",
+          "definition": "a wound length of wire for conducting electricity",
+          "world_new": [
+            "wound",
+            "length",
+            "wire",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the coil in an electric fire.",
+              "world_new": [
+                "electric",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The output of this coil is amplified using a differential amplifier and a scaling amplifier.",
+    "These consisted of loose bundles of fine human hair contained within an open coil of thin aluminium wire about 1 inch long.",
+    "Combining the internal plasma current and external coil currents, we generate twisted magnetic field lines in the plasma.",
+    "The search coil was placed at 10 locations around the coil.",
+    "Stimulation of the human nervous system using the magnetic coil.",
+    "This reactor has magnetic coil which has similarity to mirror machine of magnetic confinement fusion.",
+    "Successful transcatheter closure of ventricular septal defects with retrievable coils is feasible even in close proximity to cardiac valves.",
+    "The electrical pulses are directed through a copper coil, shaped in a figure eight, which is placed against the human's scalp."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coherent",
+    "coherently",
+    "cohort",
+    "coiffure",
+    "coil",
+    "coin",
+    "coinage",
+    "coincide",
+    "coincidence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679359_ffb463a9fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679359_0f366d4ef5_o.png",
+      "id_image": "coil_1686314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439173_e3e5b09f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439173_864044ace5_o.png",
+      "id_image": "coil_2399565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679304_a331116a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679304_771b28c57e_o.png",
+      "id_image": "coil_2861566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679274_68140626cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679274_47ea61ce2c_o.png",
+      "id_image": "coil_4152056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679189_28a769cbef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679189_494061848b_o.png",
+      "id_image": "coil_5387159"
+    }
+  ]
+}

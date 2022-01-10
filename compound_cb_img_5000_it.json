@@ -1,0 +1,115 @@
+{
+  "english": "compound",
+  "phat_am": "ˈkompaund",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phức hợp",
+          "definition": "composed of a number of parts",
+          "world_new": [
+            "composed",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a compound substance.",
+              "world_new": [
+                "substance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kép",
+          "definition": "a substance, word etc formed from two or more elements",
+          "world_new": [
+            "substance",
+            "elements"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The word racetrack is a compound",
+              "world_new": [
+                "racetrack"
+              ]
+            },
+            {
+              "ex_of_definition": "chemical compounds.",
+              "world_new": [
+                "chemical"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hợp chất",
+          "definition": "a fenced or walled-in area, eg round a factory, school etc",
+          "world_new": [
+            "area",
+            "factory",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rebels have seized a military compound.",
+              "world_new": [
+                "military"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also represent the syntactic relations in the result of nominal compound parsing, which will be useful for nominal interpretation.",
+    "For each subject, a total of 16 compounds was possible.",
+    "However, it has to be realized that synthetic compounds as such date back to the earliest recorded stages of the language.",
+    "The eleven-yearolds and adults no longer show a bias toward selecting a compound interpretation regardless of stress.",
+    "The clinicians' difficulties are further compounded by the older adult often having internalised the media version, so pushing down and distorting their own experiences.",
+    "Not all domains in these compounds can be derived cyclically and merged under pressure from stress clash.",
+    "Since this was a kind of truck, it was counted as a left-headed compound.",
+    "Thus, either the children had not realized that the compounds consist of three parts, or they had used other information."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "composer",
+    "composition",
+    "compost",
+    "composure",
+    "compound",
+    "comprehend",
+    "comprehensible",
+    "comprehension",
+    "comprehensive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359097_1d9f983ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359097_ff2f61d267_o.png",
+      "id_image": "compound_2927559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314976_3a9368126d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314976_70be719c26_o.png",
+      "id_image": "compound_5966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051475_88eb3276e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051475_4824fe41b4_o.png",
+      "id_image": "compound_6257174"
+    }
+  ]
+}

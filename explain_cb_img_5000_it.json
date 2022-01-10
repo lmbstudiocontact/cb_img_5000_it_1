@@ -1,0 +1,87 @@
+{
+  "english": "explain",
+  "phat_am": "ikˈsplein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giải thích",
+          "definition": "to make (something) clear or easy to understand",
+          "world_new": [
+            "clear",
+            "easy",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you explain the bus timetable to me?",
+              "world_new": [
+                "bus",
+                "timetable"
+              ]
+            },
+            {
+              "ex_of_definition": "Did she explain why she was late?"
+            }
+          ]
+        },
+        {
+          "mean_english": "giải thích",
+          "definition": "to give, or be, a reason for",
+          "world_new": [
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cannot explain his failure",
+              "world_new": [
+                "I",
+                "failure"
+              ]
+            },
+            {
+              "ex_of_definition": "That explains his silence.",
+              "world_new": [
+                "silence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The age disparity is also explained to some extent by ageing effects, however.",
+    "All changes in social support were fully explained by depression.",
+    "Among them, torque based control is explained but it does not deal with the issue of coupling effect among interaction forces themselves and motion control.",
+    "The simulation suggests that our experimental results can be explained by the following scenario. 1!",
+    "We cannot determine the effect of the magnetic field with this inequality, as explained above.",
+    "Two asymmetries in the process are identified and explained.",
+    "Correlations of the factors explaining pension fund performance.",
+    "The contrast between (32a) and (32b) is explained in terms of a cyclic derivation of stress."
+  ],
+  "list_see_also": [
+    "explanation",
+    "explanatory",
+    "explain away"
+  ],
+  "list_browse": [
+    "expertness",
+    "expiration",
+    "expire",
+    "expiry",
+    "explain",
+    "explain away",
+    "explanation",
+    "explanatory",
+    "expletive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309596_215e28c2f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309596_e13789b870_o.png",
+      "id_image": "explain_5956443"
+    }
+  ]
+}

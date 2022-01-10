@@ -1,0 +1,65 @@
+{
+  "english": "delicious",
+  "phat_am": "diˈliʃəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thơm ngon",
+          "definition": "highly pleasing to the taste",
+          "world_new": [
+            "highly",
+            "pleasing",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a delicious meal.",
+              "world_new": [
+                "meal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The same is true of the petrels, the skuas, the terns, and many of their eggs make quite delicious eating.",
+    "There was a full turnout, not least because the prisoners had heard that sandwiches and delicious home baking would be available.",
+    "They are all delicious but not one is allowed to be called champagne.",
+    "In truth, the discomfiture of political opponents can be delicious, but this matter goes far beyond the cheap discomfiting of political opponents.",
+    "He tucked in to the most delicious-looking cooked meat, bread and chillies.",
+    "The fact that in all there are three volumes of this great tome is itself a delicious irony or a paradox.",
+    "I represent part of an area where this delicious fruit is grown.",
+    "We cannot continue with the delicious debates between professional people trying this nuance or that recommendation at conferences of accountants and seminars of experts that never lead to any conclusion."
+  ],
+  "list_see_also": [
+    "deliciously",
+    "deliciousness"
+  ],
+  "list_browse": [
+    "delicacy",
+    "delicate",
+    "delicately",
+    "delicatessen",
+    "delicious",
+    "deliciously",
+    "deliciousness",
+    "delight",
+    "delightful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042370_bba3de0b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042370_d75ebc0c66_o.png",
+      "id_image": "delicious_2965079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305416_c838eac5cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305416_622a42d2c4_o.png",
+      "id_image": "delicious_3508661"
+    }
+  ]
+}

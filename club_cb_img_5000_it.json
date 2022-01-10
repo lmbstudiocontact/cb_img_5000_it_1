@@ -1,0 +1,152 @@
+{
+  "english": "club",
+  "phat_am": "klab",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dùi cui",
+          "definition": "a heavy stick etc used as a weapon",
+          "world_new": [
+            "heavy",
+            "stick",
+            "weapon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man was allegedly beaten with a club.",
+              "world_new": [
+                "allegedly",
+                "beaten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gậy",
+          "definition": "a bat or stick used in certain games (especially golf)",
+          "world_new": [
+            "bat",
+            "stick",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a set of golf clubs.",
+              "world_new": [
+                "golf",
+                "clubs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội",
+          "definition": "a number of people meeting for study, pleasure, games etc",
+          "world_new": [
+            "number",
+            "people",
+            "meeting",
+            "study",
+            "pleasure",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the local tennis club.",
+              "world_new": [
+                "local",
+                "tennis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "câu lạc bộ",
+          "definition": "the place where these people meet",
+          "world_new": [
+            "place",
+            "people",
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He goes to the club every Friday.",
+              "world_new": [
+                "Friday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân nhép",
+          "definition": "one of the playing cards of the suit clubs.",
+          "world_new": [
+            "cards",
+            "suit",
+            "clubs"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bằng dùi cui",
+          "definition": "to beat or strike with a club",
+          "world_new": [
+            "beat",
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They clubbed him to death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "clubs"
+  ],
+  "list_browse": [
+    "cloven hoof",
+    "clover",
+    "clown",
+    "clownish",
+    "club",
+    "clubs",
+    "cluck",
+    "clue",
+    "clueless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065085_670841b664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065085_32f8311cc0_o.png",
+      "id_image": "club_1624372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683369_dd5158d88f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683369_81b2ce723a_o.png",
+      "id_image": "club_1809767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372972_deb31b5607_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372972_b8f51ff93d_o.png",
+      "id_image": "club_3544398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443238_782399dbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443238_da685ec915_o.png",
+      "id_image": "club_6381778"
+    }
+  ]
+}

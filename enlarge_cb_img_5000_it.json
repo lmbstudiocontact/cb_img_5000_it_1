@@ -1,0 +1,92 @@
+{
+  "english": "enlarge",
+  "phat_am": "inˈlaːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mở rộng",
+          "definition": "to make larger",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He enlarged the garden.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phóng to",
+          "definition": "to reproduce on a larger scale (a photograph etc)",
+          "world_new": [
+            "reproduce",
+            "scale",
+            "photograph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had the photograph enlarged.",
+              "world_new": [
+                "photograph"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With development, the egg substantially enlarges before hatching.",
+    "Taken together, the results indicate that the average area of the aged retina is enlarged relative to the young retina.",
+    "The structure of scientific revolutions (2nd edn., enlarged).",
+    "To improve upon this, a classification with adjusted maximum likelihood probabilities was applied, that enlarged the probability of the underestimated type, and vice versa.",
+    "Therefore, the stretching operation is applied once again for possibly enlarging the ellipsoid.",
+    "At the same time its scope has been enlarged to give greater prominence to experimental morphology.",
+    "The explanation for stopping eight years ago is that ' ' ... more recent findings ... have to be confirmed and\\or enlarged ... ' '.",
+    "Only one child had a particularly enlarged right atrium."
+  ],
+  "list_see_also": [
+    "enlargement",
+    "enlarge on"
+  ],
+  "list_browse": [
+    "enjoy",
+    "enjoy oneself",
+    "enjoyable",
+    "enjoyment",
+    "enlarge",
+    "enlarge on",
+    "enlargement",
+    "enlighten",
+    "enlightened"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433903_69f2730730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433903_f3c28884c3_o.png",
+      "id_image": "enlarge_1891357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673499_5e8de90d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673499_40d4b55175_o.png",
+      "id_image": "enlarge_2142330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673464_17f234c01f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673464_3b6c887fa9_o.png",
+      "id_image": "enlarge_2460094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363167_c6a6a7f413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363167_7bbbb4b158_o.png",
+      "id_image": "enlarge_3058427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055310_b06bc0bb2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055310_ddc7112e29_o.png",
+      "id_image": "enlarge_847654"
+    }
+  ]
+}

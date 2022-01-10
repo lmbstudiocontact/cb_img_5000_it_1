@@ -1,0 +1,76 @@
+{
+  "english": "contractor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thầu",
+          "definition": "a person or firm that promises to do work or supply goods at a fixed rate",
+          "world_new": [
+            "person",
+            "firm",
+            "work",
+            "supply",
+            "goods",
+            "fixed",
+            "rate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a building contractor.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More production processes are being outsourced to outside contractors, making supply chains longer and more convoluted.",
+    "The paper does not include the other categories of independent contractor (dentists, optometrists and pharmacists) as no individuals from these groups were interviewed.",
+    "It is likely that weaving prospered and partly relocated towards areas within easy reach of the army contractors.",
+    "Independent contractors do not wish to be managed, hence their choice of independence.",
+    "Fourth-class postmasters and star-route contractors lobbied heavily against rural delivery.",
+    "They also learn to interact with clients, public authorities, craftsmen, manufacturers and building contractors.",
+    "Contracting requires assets that are specific to the commodity produced on both sides of the transaction (producers and contractors).",
+    "The recruiting agents went to the villages to recruit the workers who were then handed over to the labour contractors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contraception",
+    "contraceptive",
+    "contract",
+    "contraction",
+    "contractor",
+    "contradict",
+    "contradiction",
+    "contradictory",
+    "contraption"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421763_1e9d410b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421763_76c26fbdf2_o.png",
+      "id_image": "contractor_2590488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661909_7cc63da5c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661909_bdf8e524bd_o.png",
+      "id_image": "contractor_4647586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043595_9a5af323ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043595_6f1e322aae_o.png",
+      "id_image": "contractor_4647606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421723_4ff66dd32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421723_577c309d49_o.png",
+      "id_image": "contractor_6027085"
+    }
+  ]
+}

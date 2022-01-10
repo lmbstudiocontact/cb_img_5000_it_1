@@ -1,0 +1,123 @@
+{
+  "english": "contest",
+  "phat_am": "ˈkontest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thi",
+          "definition": "a struggle, competition etc to gain an advantage or victory",
+          "world_new": [
+            "struggle",
+            "competition",
+            "gain",
+            "advantage",
+            "victory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sporting contest.",
+              "world_new": [
+                "sporting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tham gia cuộc thi",
+          "definition": "to take part in a competition or election and attempt to win it",
+          "world_new": [
+            "part",
+            "competition",
+            "election",
+            "attempt",
+            "win"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Five candidates are contesting the by-election."
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh luận",
+          "definition": "to state formally that you do not accept something because you disagree with it or think that it is wrong",
+          "world_new": [
+            "state",
+            "formally",
+            "accept",
+            "disagree",
+            "think",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His wife is planning to contest the will.",
+              "world_new": [
+                "wife",
+                "planning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The inclusiveness of the public sphere greatly depended on the concept of public science current in a particular social setting, even though contested.",
+    "Rather, some of them talk about and present themselves as having the capacity to inform public opinion about hotly contested religious and moral matters.",
+    "Like symbolic meaning, value is contested by members of society.",
+    "What constitutes acceptable moral ends for morally significant social mechanisms such as criminal process is - and always has been - highly contested terrain.",
+    "In 1936, for example, there was much excitement in the profession when a number of public works were to be contested through competitions.",
+    "In other respects as well, the papers differ in approach and argument, illustrating how this history is still contested.",
+    "Rectifying losses in athletic contests is not in the core of what an egalitarian society owes its members.",
+    "First, election contests in both chambers have tapered off considerably since the beginning of the twentieth century."
+  ],
+  "list_see_also": [
+    "contestant"
+  ],
+  "list_browse": [
+    "contention",
+    "contentious",
+    "contentment",
+    "contents",
+    "contest",
+    "contestant",
+    "context",
+    "continence",
+    "continent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351337_10549a77b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351337_302355596f_o.png",
+      "id_image": "contest_1999359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044200_42fb9be635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044200_07569e8d72_o.png",
+      "id_image": "contest_2132592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307231_03042ef760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307231_bbd07f6ffe_o.png",
+      "id_image": "contest_2534496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662479_5eabe7cb32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662479_79fe6be6e7_o.png",
+      "id_image": "contest_2621842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307176_b67515b6fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307176_b1b01364ba_o.png",
+      "id_image": "contest_4350623"
+    }
+  ]
+}

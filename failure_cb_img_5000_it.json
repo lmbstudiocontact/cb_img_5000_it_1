@@ -1,0 +1,113 @@
+{
+  "english": "failure",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng không thích hợp, không hoạt động như mong đợi",
+          "definition": "the state or act of failing",
+          "world_new": [
+            "state",
+            "act",
+            "failing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was upset by her failure in the exam",
+              "world_new": [
+                "upset"
+              ]
+            },
+            {
+              "ex_of_definition": "the failure of the electricity supply.",
+              "world_new": [
+                "electricity",
+                "supply"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người, sự thất bại",
+          "definition": "an unsuccessful person or thing",
+          "world_new": [
+            "unsuccessful",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He felt he was a failure.",
+              "world_new": [
+                "felt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thiếu khả năng",
+          "definition": "inability, refusal etc to do something",
+          "world_new": [
+            "inability",
+            "refusal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was disappointed by his failure to reply.",
+              "world_new": [
+                "I",
+                "disappointed",
+                "reply"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In organic farming there are even some years with complete crop failures, which must be included in the calculation.",
+    "When cultured blastocysts are transferred to recipients, the lack of mucin coat might account in part for subsequent failure of pregnancy.",
+    "There are many possible explanations for the students' failure.",
+    "Repeated failures of this nature may ultimately result in decay of the irrigation system and subsequent decline of the local economy.",
+    "In addition to the diagnoses of cardiac failure, training level of admitting physicians in emergency depar tments was an independent risk factor for early readmission.",
+    "This leads to continued growth of the acardiac fetus and haemodynamic demands on the pump twin, ultimately leading to cardiac failure, polyhydramnios and preterm delivery.",
+    "These results support the claim that a failure of self-monitoring may underlie the core symptoms of schizophrenia.",
+    "The first is the recognition that the failure of foundationalism in philosophy makes any attempt to claim a monopoly on truth, methodology etc. untenable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fagged out",
+    "Fahrenheit",
+    "fail",
+    "failing",
+    "failure",
+    "faint",
+    "faintly",
+    "faintness",
+    "fair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692959_f94ded01ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692959_9a030d6bbb_o.png",
+      "id_image": "failure_3447965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452513_390a28af31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452513_7aa68b0642_o.png",
+      "id_image": "failure_3449452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452463_343208ef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452463_288f3a7dcc_o.png",
+      "id_image": "failure_5520914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452393_70db1556a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452393_25a9fa4983_o.png",
+      "id_image": "failure_5521012"
+    }
+  ]
+}

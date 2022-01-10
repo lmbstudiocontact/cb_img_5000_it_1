@@ -1,0 +1,89 @@
+{
+  "english": "detail",
+  "phat_am": "ˈdiːteil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chi tiết",
+          "definition": "a small part or an item",
+          "world_new": [
+            "small",
+            "part",
+            "item"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She paid close attention to the small details.",
+              "world_new": [
+                "close",
+                "attention",
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặc điểm",
+          "definition": "all the small features and parts considered as a whole",
+          "world_new": [
+            "small",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Look at the amazing detail in this drawing!",
+              "world_new": [
+                "amazing",
+                "drawing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In doing so, the author shows how the details of language use feed into larger frameworks of meaning and legal practice.",
+    "The variationist paradigm has excelled not only at identifying these but also at detailing their considerable intricacies.",
+    "The next section offers more details and examples.",
+    "One can do a similar check to handle all isogenies of degree 14 (we omit the details).",
+    "The full details of this proof are highly formal and voluminous, and hence beyond the scope of this paper.",
+    "As with the lists of suppliers, the incidental details emerging from such microhistorical scrutiny bring as much enlightenment as the raw financial data.",
+    "Section 2 details the formalism of addressed term rewriting systems and establishes a general relation between addressed term rewriting systems and first-order term rewriting systems.",
+    "I don't know the details about whom he got in touch with to make it happen, but it was his idea."
+  ],
+  "list_see_also": [
+    "detailed",
+    "in detail"
+  ],
+  "list_browse": [
+    "detach",
+    "detachable",
+    "detached",
+    "detachment",
+    "detail",
+    "detailed",
+    "detain",
+    "detainee",
+    "detect"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372162_f3555a60cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372162_c9551268d4_o.png",
+      "id_image": "detail_3527250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372107_9f738248dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372107_4fc219ebbd_o.png",
+      "id_image": "detail_3534606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372052_712ed9d220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372052_18bd06d4a2_o.png",
+      "id_image": "detail_5673243"
+    }
+  ]
+}

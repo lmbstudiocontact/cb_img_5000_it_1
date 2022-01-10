@@ -1,0 +1,96 @@
+{
+  "english": "decree",
+  "phat_am": "diˈkriː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sắc lệnh",
+          "definition": "an order or law",
+          "world_new": [
+            "order",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A decree was issued by the king.",
+              "world_new": [
+                "king"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản án",
+          "definition": "a ruling of a court of civil law.",
+          "world_new": [
+            "ruling",
+            "court",
+            "civil",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra sắc lệnh; tuyên án",
+          "definition": "to order, command or decide (something)",
+          "world_new": [
+            "order",
+            "command",
+            "decide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The court decreed that he should pay the fine in full.",
+              "world_new": [
+                "court",
+                "pay",
+                "fine",
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What underlay this abandonment of the enthusiastic reformation doctrine of absolute decrees was a very significant change in the philosophical underpinning of religion.",
+    "Therefore, he decreed, by means of explicit assumption, that everyone would live on dividend income, thus maximizing the possibility of spatial mobility.",
+    "Between 1919 and 1922 government introduced a series of short-term decrees establishing the right to automatic contract extensions and a maximum percentage by which the rent could be raised.",
+    "At the same time, he supported his local allies by decreeing states of siege to allow electoral manipulation.",
+    "In the first two of these countries pension privatisation was not even legislated by congress, but enacted by the executive by means of emergency decrees.",
+    "He ordered an examination of the situation, and decreed that pensions were to be reduced if they were excessive.",
+    "The texts of laws, regulations, and decrees that have been issued by the state are valuable.",
+    "The influence and status of regulatory decrees depended upon managed publicity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decorously",
+    "decorum",
+    "decoy",
+    "decrease",
+    "decree",
+    "decrepit",
+    "dedicate",
+    "dedicated",
+    "dedication"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421608_ae13fde8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421608_196d9ab04f_o.png",
+      "id_image": "decree_1428282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043485_4071cb616d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043485_ae6485547b_o.png",
+      "id_image": "decree_476758"
+    }
+  ]
+}

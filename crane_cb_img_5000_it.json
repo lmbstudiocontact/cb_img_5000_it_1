@@ -1,0 +1,91 @@
+{
+  "english": "crane",
+  "phat_am": "krein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cần cẩu",
+          "definition": "a machine with a long arm and a chain, for raising heavy weights",
+          "world_new": [
+            "machine",
+            "long",
+            "arm",
+            "chain",
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crates are lifted by crane onto a truck.",
+              "world_new": [
+                "truck"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vươn cổ",
+          "definition": "to stretch out (the neck, to see round or over something)",
+          "world_new": [
+            "stretch",
+            "neck",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He craned his neck in order to see round the corner.",
+              "world_new": [
+                "neck",
+                "order",
+                "see",
+                "corner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is a mixture of the most modern cranes and motor lorries being used to handle the traffic, alongside horses and simple manhandling.",
+    "We are now fitting our ships, for example, with much more powerful cranes and derricks to enable them to handle abnormal lifts, such as tanks.",
+    "I asked about safety and skill training and, specifically, about training in the use of cranes, vehicles, forklifts and so on.",
+    "We want to ensure that the cranes shall be replaced by the most modern available, which frankly, could not go on the existing quay.",
+    "Most sites going to high building in this country now have tower cranes and use all sorts of other advanced management techniques as well.",
+    "One of the worst industries in the world for accidents are cranes.",
+    "They are cranes which can move only under their own steam.",
+    "I happen to know that there are from this country working in other countries large numbers of operative engineers, constructing cranes and various other things."
+  ],
+  "list_see_also": [
+    "crane driver"
+  ],
+  "list_browse": [
+    "cram",
+    "cramp",
+    "cramped",
+    "cranberry",
+    "crane",
+    "crane driver",
+    "crank",
+    "crankiness",
+    "cranky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438828_c42127a672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438828_2b61074d39_o.png",
+      "id_image": "crane_2002985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060600_201e6c2edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060600_476eb036db_o.png",
+      "id_image": "crane_3462111"
+    }
+  ]
+}

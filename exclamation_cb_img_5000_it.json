@@ -1,0 +1,69 @@
+{
+  "english": "exclamation",
+  "phat_am": "ekskləˈmeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thán từ",
+          "definition": "an expression of surprise or other sudden feeling",
+          "world_new": [
+            "expression",
+            "surprise",
+            "sudden",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shook his fist in an exclamation of anger.",
+              "world_new": [
+                "fist",
+                "anger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The assertion flag (exclamation mark beside the node) indicates that the system believes that this proposition is true.",
+    "Frequently she uses exclamation marks to emphasize her personal perspective.",
+    "Martineau can only disclose so much about the properties that provoke wonder before she displaces their source or resorts to uninformative exclamations of amazement.",
+    "These expressions are often in slogan forms accompanied by exclamation marks.",
+    "The speaker persistently employs the present tense, with expressions recalling the spoken language and frequent exclamations.",
+    "Throughout the writer addresses the reader in a series of short exclamations and questions.",
+    "An exclamation mark means that the candidate has been eliminated.",
+    "As she wrote, she erupted in little woeful exclamations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "excitedly",
+    "excitement",
+    "exciting",
+    "exclaim",
+    "exclamation",
+    "exclamation mark",
+    "exclude",
+    "excluding",
+    "exclusion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312296_ec619372ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312296_4709a9fd21_o.png",
+      "id_image": "exclamation_228377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048905_ff34ce812a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048905_59076ae16b_o.png",
+      "id_image": "exclamation_258359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667184_1f28bd5973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667184_e2f8a28399_o.png",
+      "id_image": "exclamation_594646"
+    }
+  ]
+}

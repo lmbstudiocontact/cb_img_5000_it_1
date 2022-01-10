@@ -1,0 +1,87 @@
+{
+  "english": "entertainment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc giải trí",
+          "definition": "something that entertains, eg a theatrical show etc.",
+          "world_new": [
+            "theatrical"
+          ]
+        },
+        {
+          "mean_english": "buổi biểu diễn",
+          "definition": "the act of entertaining.",
+          "world_new": [
+            "act",
+            "entertaining"
+          ]
+        },
+        {
+          "mean_english": "sự thích thú",
+          "definition": "amusement; interest",
+          "world_new": [
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is no lack of entertainment in the city at night.",
+              "world_new": [
+                "lack",
+                "city",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "That time has passed, and now the dominant force is the entertainment sector developing animated films and computer games.",
+    "In the survey, bands accounted for one-third of venue entertainment in both pubs and clubs, with jukeboxes more popular in hotels.",
+    "More media outlets cover major political events than in the past, including the entertainment-oriented soft news media.",
+    "It will also include a special category of liquor license for music and entertainment venues separate from hotel licenses.",
+    "But why is such television of political concern and formal innovation and dramatic entertainment the exception?",
+    "During the 2000 and 2004 primary and general presidential election campaigns, virtually all candidates appeared on daytime and late-night, entertainment-oriented talk shows.",
+    "Individuals desire some news just for its entertainment value, the pure pleasure associated with knowledge.",
+    "Speaking bodies appeared in literary entertainments as well, and from these materials we might glean interpretive strategies of, or precedents for, these bodily texts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "enterprising",
+    "entertain",
+    "entertainer",
+    "entertaining",
+    "entertainment",
+    "enthral",
+    "enthralling",
+    "enthralment",
+    "enthrone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433373_ba30019444_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433373_3ceca0d89c_o.png",
+      "id_image": "entertainment_5683994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433338_3eaafcaab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433338_9e752b1232_o.png",
+      "id_image": "entertainment_5684006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433298_80c4df4eab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433298_b865e6be07_o.png",
+      "id_image": "entertainment_5684018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362567_53c9381483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362567_f48c1fb280_o.png",
+      "id_image": "entertainment_5684027"
+    }
+  ]
+}

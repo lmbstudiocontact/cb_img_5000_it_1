@@ -1,0 +1,203 @@
+{
+  "english": "drag",
+  "phat_am": "drӕɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lôi kéo",
+          "definition": "to pull, especially by force or roughly",
+          "world_new": [
+            "pull",
+            "force",
+            "roughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was dragged screaming from her car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo lê",
+          "definition": "to pull (something) slowly (usually because heavy)",
+          "world_new": [
+            "pull",
+            "slowly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dragged the heavy table across the floor.",
+              "world_new": [
+                "heavy",
+                "table",
+                "across",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lê",
+          "definition": "to (cause to) move along the ground",
+          "world_new": [
+            "move",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His coat was so long that it dragged on the ground at the back.",
+              "world_new": [
+                "coat",
+                "long",
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mò bằng lưới",
+          "definition": "to search (the bed of a lake etc) by using a net or hook",
+          "world_new": [
+            "search",
+            "bed",
+            "lake",
+            "net",
+            "hook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Police are dragging the canal to try to find the body.",
+              "world_new": [
+                "canal",
+                "try",
+                "find",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo dài quá",
+          "definition": "to be slow-moving and boring",
+          "world_new": [
+            "boring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The evening dragged a bit.",
+              "world_new": [
+                "evening",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngáng trở",
+          "definition": "something which slows something down",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He felt that his lack of education was a drag on his progress.",
+              "world_new": [
+                "felt",
+                "lack",
+                "education",
+                "progress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rít một hơi thuốc lá",
+          "definition": "an act of drawing in smoke from a cigarette etc",
+          "world_new": [
+            "act",
+            "drawing",
+            "smoke",
+            "cigarette"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took a long drag at his cigarette.",
+              "world_new": [
+                "long",
+                "cigarette"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hoặc vật gây buồn chán",
+          "definition": "something or someone that is dull and boring",
+          "world_new": [
+            "dull",
+            "boring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Washing-up is a drag."
+            }
+          ]
+        },
+        {
+          "mean_english": "quần áo phụ nữ do người đàn ông mặc",
+          "definition": "a slang word for women’s clothes when worn by men",
+          "world_new": [
+            "slang",
+            "clothes",
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was dressed in drag.",
+              "world_new": [
+                "dressed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "drag and drop"
+  ],
+  "list_browse": [
+    "drachma",
+    "draft",
+    "draft dodger",
+    "draft evasion",
+    "drag",
+    "drag and drop",
+    "dragon",
+    "dragonfly",
+    "drain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307051_5178710213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307051_c3e34d3219_o.png",
+      "id_image": "drag_1196456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351192_bb7b80f606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351192_fd6a4cf576_o.png",
+      "id_image": "drag_247733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422188_7787547394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422188_9d80c85424_o.png",
+      "id_image": "drag_4430332"
+    }
+  ]
+}

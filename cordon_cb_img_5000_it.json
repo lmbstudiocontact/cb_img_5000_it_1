@@ -1,0 +1,57 @@
+{
+  "english": "cordon",
+  "phat_am": "ˈkoːdn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng rào cảnh sát",
+          "definition": "a line of sentries or policemen to prevent people from entering an area",
+          "world_new": [
+            "line",
+            "prevent",
+            "people",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ve put a cordon round the house where the crime was committed.",
+              "world_new": [
+                "house",
+                "crime",
+                "committed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cordon off"
+  ],
+  "list_browse": [
+    "cordial",
+    "cordiality",
+    "cordially",
+    "cordless",
+    "cordon",
+    "cordon off",
+    "core",
+    "coriander",
+    "cork"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447658_ab361a3515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447658_2dd8f23dfb_o.png",
+      "id_image": "cordon_1890709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332581_d0904792ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332581_9f51677406_o.png",
+      "id_image": "cordon_3580817"
+    }
+  ]
+}

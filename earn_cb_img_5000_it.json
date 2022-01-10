@@ -1,0 +1,95 @@
+{
+  "english": "earn",
+  "phat_am": "əːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiếm được tiền do làm việc",
+          "definition": "to gain (money, wages, one’s living) by working",
+          "world_new": [
+            "gain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He earns $200 a week",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "He earns his living by cleaning shoes",
+              "world_new": [
+                "living"
+              ]
+            },
+            {
+              "ex_of_definition": "You can afford a car now that you’re earning.",
+              "world_new": [
+                "afford",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được hưởng",
+          "definition": "to deserve",
+          "world_new": [
+            "deserve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve earned a rest.",
+              "world_new": [
+                "rest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Expertise and habits of regular members are slowly revealed to other members of the community, and an implicit or explicit status is earned.",
+    "Would he be earning, if not $20 million a year, still far more than anyone else?",
+    "One can, to some extent, translate the above analysis of earned and unearned income into an evaluation of types of tax.",
+    "The comparison of the long-run performance of the rational and boundedly rational agents shows little difference in terms of the average utilities earned over time.",
+    "Their profits depend on this spread and the size of the premium on which it is earned.",
+    "However, these arrangements pose a problem for women, who are likely to have worked and contributed for fewer years and earned lower wages when working.",
+    "He also earned himself a reputation for ' moderation ', which increased his usefulness in confrontations with the crown.",
+    "When a household has earned enough money on, for example, the apricot harvest, there is no need to sell last summer's lambs."
+  ],
+  "list_see_also": [
+    "earnings"
+  ],
+  "list_browse": [
+    "early",
+    "early bird",
+    "early/late riser",
+    "earmark",
+    "earn",
+    "earnest",
+    "earnestly",
+    "earnestness",
+    "earnings"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378147_f86a02f20a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378147_dc70a1b583_o.png",
+      "id_image": "earn_1401644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333241_5d8484670d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333241_e24cbefcc0_o.png",
+      "id_image": "earn_2273068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070120_384513c13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070120_7bb95e6b52_o.png",
+      "id_image": "earn_6303321"
+    }
+  ]
+}

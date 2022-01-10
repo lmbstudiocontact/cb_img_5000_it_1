@@ -1,0 +1,65 @@
+{
+  "english": "communion",
+  "phat_am": "kəˈmjuːnjən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đồng cảm",
+          "definition": "the sharing of thoughts and feelings; fellowship",
+          "world_new": [
+            "fellowship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Each of the colonies in Washington strove to build a sense of communion among its people.",
+              "world_new": [
+                "build",
+                "sense",
+                "its",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "(Holy) Communion"
+  ],
+  "list_browse": [
+    "communication cord",
+    "communications",
+    "communications satellite",
+    "communicative",
+    "communion",
+    "communiqué",
+    "communism",
+    "communist",
+    "community"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054420_86f516c340_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054420_184a907263_o.png",
+      "id_image": "communion_2052265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672744_ee7a521b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672744_9a7fdd41ba_o.png",
+      "id_image": "communion_443574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433063_70dac9fec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433063_83ed22cb00_o.png",
+      "id_image": "communion_443575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672679_b26f6345f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672679_a7145d2150_o.png",
+      "id_image": "communion_443580"
+    }
+  ]
+}

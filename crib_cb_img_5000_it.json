@@ -1,0 +1,104 @@
+{
+  "english": "crib",
+  "phat_am": "krib",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giường cũi của trẻ con",
+          "definition": "a cradle.",
+          "world_new": [
+            "cradle"
+          ]
+        },
+        {
+          "mean_english": "cái nôi",
+          "definition": "a child’s cot.",
+          "world_new": [
+            "cot"
+          ]
+        },
+        {
+          "mean_english": "bài dịch để quay cóp",
+          "definition": "a translation used when studying a text in a foreign language.",
+          "world_new": [
+            "translation",
+            "text",
+            "foreign",
+            "language"
+          ]
+        },
+        {
+          "mean_english": "máng ăn",
+          "definition": "a manger.",
+          "world_new": [
+            "manger"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quay cóp",
+          "definition": "to copy",
+          "world_new": [
+            "copy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cribbed the answer from her friend’s work.",
+              "world_new": [
+                "answer",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "crib death"
+  ],
+  "list_browse": [
+    "cretin",
+    "crevasse",
+    "crevice",
+    "crew",
+    "crib",
+    "crib death",
+    "cricket",
+    "cricketer",
+    "crime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435808_f0686ffd33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435808_8d19629bca_o.png",
+      "id_image": "crib_2123664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320576_5780207de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320576_0d88eba9b0_o.png",
+      "id_image": "crib_2504110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057450_7acd1d8b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057450_07e996e007_o.png",
+      "id_image": "crib_288054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675579_27e02c9227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675579_02fd9007ea_o.png",
+      "id_image": "crib_5101261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365597_9eded3eeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365597_5c363bc610_o.png",
+      "id_image": "crib_819097"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "elevator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thang máy",
+          "definition": "a lift or machine for raising persons, goods etc to a higher floor",
+          "world_new": [
+            "lift",
+            "machine",
+            "goods",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is no elevator in this shop – you will have to climb the stairs.",
+              "world_new": [
+                "shop",
+                "climb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho thóc lúa",
+          "definition": "a tall storehouse for grain.",
+          "world_new": [
+            "tall",
+            "storehouse",
+            "grain"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The elevators were frequently not working, increasing the sense of isolation, especially for the elderly.",
+    "Can it discover optimal strategies for dispatching elevators in skyscrapers and for channel allocation in cellular telephone systems?",
+    "One doesn't feel anything strange in an elevator in smooth, steady motion - no acceleration.",
+    "The emphasis, however, remains with the noisy aspects of the elevator.",
+    "Examples of this would include vacation, executive, relocate, concertise, elevator and medication.",
+    "One may also find it very hard to detect an elevator that is smoothly accelerating.",
+    "The 1888, 1889, and 1897 investigations covered a variety of industries, including sugar, oil, rubber, grain elevators, and transportation of dairy products.",
+    "The installation of elevators in the early 1900s no doubt helped with handling the blood."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "elephant",
+    "elevate",
+    "elevating",
+    "elevation",
+    "elevator",
+    "eleven",
+    "eleven-year-old",
+    "elevenses",
+    "eleventh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324246_e6edc906cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324246_5d3a7562fa_o.png",
+      "id_image": "elevator_1432474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679389_494fb7f2d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679389_fd64065167_o.png",
+      "id_image": "elevator_2832782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369142_bdcc237081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369142_b110b989a4_o.png",
+      "id_image": "elevator_998306"
+    }
+  ]
+}

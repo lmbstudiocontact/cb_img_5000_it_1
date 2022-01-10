@@ -1,0 +1,67 @@
+{
+  "english": "doorknob",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nắm đấm cửa",
+          "definition": "a knob-shaped handle for opening and closing a door",
+          "world_new": [
+            "handle",
+            "opening",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She slowly turned the doorknob.",
+              "world_new": [
+                "slowly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During his teens, he began to obsess over his personal hygiene and began doing things such as operating doorknobs and light-switches with a handkerchief.",
+    "Much of the interior woodwork and hardware, including brass doorknobs, disappeared at this time.",
+    "The eight doorknobs were formed of moulded gold.",
+    "Also, objects such as metal measuring spoons hung from a doorknob will rattle and awaken the care provider if a patient attempts to leave a room.",
+    "Unvarnished brass doorknobs therefore tend to be more sanitary than stainless or aluminium doorknobs.",
+    "The exception is the red thread, which is tied to the front doorknob of the guest's house to ward off bad luck.",
+    "She has irrational fears of doorknobs, stoves, refrigerators, realtors and the telephone.",
+    "It follows multiple but interconnected storylines, is peppered with photographs of doorknobs and other such oddities, and ends with a 14-page flipbook."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doodle",
+    "doom",
+    "door",
+    "doorbell",
+    "doorknob",
+    "doorman",
+    "doormat",
+    "doorstep",
+    "doorway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353622_3b1ee0bcc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353622_4076aae786_o.png",
+      "id_image": "doorknob_1606448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046335_001231114f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046335_2109d9f856_o.png",
+      "id_image": "doorknob_1660244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309351_7e4978079d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309351_297e940a13_o.png",
+      "id_image": "doorknob_2236368"
+    }
+  ]
+}

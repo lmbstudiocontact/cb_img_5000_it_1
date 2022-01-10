@@ -1,0 +1,156 @@
+{
+  "english": "display",
+  "phat_am": "diˈsplei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trưng bày",
+          "definition": "to set out for show",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The china was displayed in a special cabinet.",
+              "world_new": [
+                "china",
+                "special",
+                "cabinet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để lộ ra",
+          "definition": "to show",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She displayed a talent for mimicry.",
+              "world_new": [
+                "talent",
+                "mimicry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trưng bày",
+          "definition": "(an) act of showing or making clear",
+          "world_new": [
+            "act",
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a display of military strength.",
+              "world_new": [
+                "military",
+                "strength"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thể hiện",
+          "definition": "an entertainment etc intended to show the ability etc of those taking part",
+          "world_new": [
+            "entertainment",
+            "ability",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dancing display.",
+              "world_new": [
+                "dancing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ vật trưng bày",
+          "definition": "something which shows or sets out something else",
+          "world_new": [
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an advertising display.",
+              "world_new": [
+                "advertising"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiển thị",
+          "definition": "the part of a video recorder, calculator, digital watch etc that shows numbers, the date, time, or other information",
+          "world_new": [
+            "part",
+            "video",
+            "recorder",
+            "calculator",
+            "digital",
+            "watch",
+            "date",
+            "time",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The alarm clock has a digital display.",
+              "world_new": [
+                "alarm",
+                "clock",
+                "digital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When the territory boundary is breached, males confront the invader with species-typical aggressive displays and threats.",
+    "The threat of displaying sovereignty in this light runs through the opinions, and in every case the threat has to be displaced.",
+    "Not every chapter displayed such audacity in the running of its vestry.",
+    "They would then see \"jite jight\" displayed in the middle of the screen.",
+    "However, the primary cause of form fixation seems to be a change in causation of displays.",
+    "The morphological groups displayed a different pattern to the previous experiments.",
+    "Although languages displaying rich inflectional paradigms usually possess strong finite features, the reverse is not necessarily true.",
+    "Here there is little site competition, little aggression, and a development of displays based on locomotion."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dispirited",
+    "displace",
+    "displaced person",
+    "displacement",
+    "display",
+    "displease",
+    "displeased",
+    "displeasure",
+    "disposable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669879_e47d00aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669879_08c3b66ab2_o.png",
+      "id_image": "display_1473085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359372_a762c20811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359372_a014439706_o.png",
+      "id_image": "display_4456340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315241_1bf10db7b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315241_ae6d9550c9_o.png",
+      "id_image": "display_994137"
+    }
+  ]
+}

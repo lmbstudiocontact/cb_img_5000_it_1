@@ -1,0 +1,112 @@
+{
+  "english": "coin",
+  "phat_am": "koin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng xu",
+          "definition": "a piece of metal used as money",
+          "world_new": [
+            "piece",
+            "metal",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a handful of coins.",
+              "world_new": [
+                "handful"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đúc tiền",
+          "definition": "to make metal into (money)",
+          "world_new": [
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The recently-formed country soon started to coin its own money.",
+              "world_new": [
+                "country",
+                "soon",
+                "its",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tạo ra",
+          "definition": "to invent (a word, phrase etc)",
+          "world_new": [
+            "invent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Scientists coined a word for the new process.",
+              "world_new": [
+                "process"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A few people were busy collecting the grains and the coins.",
+    "Men can pay in two broad currencies: material benefits and genetic benefits (as an analogy, call them \"paper\" and \"coins\").",
+    "Since the 1970s when the terms were first coined, they have been plagued by a great deal of imprecision in their usage.",
+    "We have coined the phrase 'neurovascular instability' to encompass these autonomic disorders in older adults.",
+    "The official sums were stated in pure coins, but this did not necessarily mean that actual payments were to be made in pure coins.",
+    "In actuality, inferior coins circulated within a limited locality sustained the local monetary market.",
+    "However, he returned that night with a pocketful of silver and gold coins.",
+    "He also coined the word ' de-affectualization ' to refer to ' emotional numbing ', a frequent complaint amongst patients suffering with the condition."
+  ],
+  "list_see_also": [
+    "coinage"
+  ],
+  "list_browse": [
+    "coherently",
+    "cohort",
+    "coiffure",
+    "coil",
+    "coin",
+    "coinage",
+    "coincide",
+    "coincidence",
+    "coincidental"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323846_8d8350169e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323846_e460987f25_o.png",
+      "id_image": "coin_1055866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060880_0d3919d910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060880_50427d980f_o.png",
+      "id_image": "coin_445250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439018_3253c6d308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439018_44396ebba2_o.png",
+      "id_image": "coin_855396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679084_58be945e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679084_4e6d754c96_o.png",
+      "id_image": "coin_868212"
+    }
+  ]
+}

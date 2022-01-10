@@ -1,0 +1,97 @@
+{
+  "english": "event",
+  "phat_am": "iˈvent",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kiện",
+          "definition": "something that happens; an incident or occurrence",
+          "world_new": [
+            "incident",
+            "occurrence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That night a terrible event occurred.",
+              "world_new": [
+                "night",
+                "terrible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "môn thi đấu",
+          "definition": "an item in a programme of sports etc",
+          "world_new": [
+            "item",
+            "programme",
+            "sports"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The long jump was to be the third event of the competition.",
+              "world_new": [
+                "long",
+                "jump",
+                "competition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unforeseeable events occurred, the contract was exceeded and re-negotiations were necessary.",
+    "What is the causal story behind these events ?",
+    "Patients in this sample described two different events leading up to diagnosis.",
+    "Semiexperimental evidence consists of reports of similar events that occur repeatedly, but cannot be obtained at will.",
+    "Six users related some species to speci®c events in their youth and nine users related some species to an experience in a foreign country.",
+    "Which patients talk about stressful life events and social problems to the general practitioner ?",
+    "Around a half of the control group reported one or more negative events in the previous 6 months.",
+    "Ideally, study of a causal role for life events in depressive disorder would commence around the time of first onset."
+  ],
+  "list_see_also": [
+    "eventful",
+    "at all events / at any event",
+    "in that event",
+    "in the event",
+    "in the event of"
+  ],
+  "list_browse": [
+    "evening class",
+    "evening dress",
+    "evenly",
+    "evenness",
+    "event",
+    "eventful",
+    "eventual",
+    "eventuality",
+    "eventually"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668454_1baab1a755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668454_0a5a921808_o.png",
+      "id_image": "event_2974648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050230_531e646a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050230_e70c5c04de_o.png",
+      "id_image": "event_3120761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357742_bc30ff1229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357742_9b5b815369_o.png",
+      "id_image": "event_4515712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050175_66ecb94100_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050175_687809fe3b_o.png",
+      "id_image": "event_6079964"
+    }
+  ]
+}

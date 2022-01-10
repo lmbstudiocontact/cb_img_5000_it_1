@@ -1,0 +1,117 @@
+{
+  "english": "curl",
+  "phat_am": "kəːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "uốn quăn",
+          "definition": "to twist or turn (especially hair) into small coils or rolls",
+          "world_new": [
+            "twist",
+            "turn",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My hair curls easily.",
+              "world_new": [
+                "hair",
+                "easily"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "co tròn",
+          "definition": "(sometimes with up) to move in curves; to bend or roll",
+          "world_new": [
+            "move",
+            "bend",
+            "roll"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The paper curled (up) at the edges.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quăn",
+          "definition": "a coil of hair etc",
+          "world_new": [
+            "coil",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wears her hair in long curls.",
+              "world_new": [
+                "hair",
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tóc xoăn",
+          "definition": "the quality of being curled",
+          "world_new": [
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My hair has very little curl in it.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From these grow several naked green stems, each with a few withering, curling leaves.",
+    "The eager boy-men are crouched over its curling exhaust formed by the electric-car track,34 with the electrical toy the satirical equivalent of the electronic countermeasures in the real bomber.",
+    "When the rigid object is moved, it appears to flex and change shape, and be more or less curled as the elevation above eye level is increased or decreased.",
+    "They employ 1,500 workpeople and the whole production of curled hair is of the value of £360,000.",
+    "In skins curling, teams compete for skins rather than points.",
+    "The north and south boundaries remain free, but we shall confine our attention t o a region between latitudes of zero wind stress curl.",
+    "She curled 85%, which was 6th out of the 10 leads.",
+    "He wears serpent-earrings or asymmetrical earrings and has curled hair."
+  ],
+  "list_see_also": [
+    "curler",
+    "curly",
+    "curliness",
+    "curl up"
+  ],
+  "list_browse": [
+    "curio",
+    "curiosity",
+    "curious",
+    "curiously",
+    "curl",
+    "curl up",
+    "curler",
+    "curliness",
+    "curly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430013_f15114e9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430013_a934ac7c66_o.png",
+      "id_image": "curl_1403050"
+    }
+  ]
+}

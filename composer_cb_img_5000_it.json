@@ -1,0 +1,62 @@
+{
+  "english": "composer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người soạn",
+          "definition": "a writer, especially of a piece of music",
+          "world_new": [
+            "writer",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a classical composer.",
+              "world_new": [
+                "classical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are almost no technological grounds to withhold wax tablets from the hands of composers of polyphony anytime from the eleventh to the fifteenth century.",
+    "This paper addresses the overwhelming importance which computer music composers usually place on the structural elements of their music.",
+    "The composer has devoted numerous essays, articles, as well as his book to exposing his ideas on the aesthetics 'of sonorous naturalism'.",
+    "The composer's role was here to write the piece and the other parties provided advice on how the concepts underlying the piece might be realized.",
+    "Probably, once the 'affirmation of life' has been tamed, composers will find it more useful.",
+    "I hope for a new renaissance of collaborations between composers and artists from other media, utilising the potentials of electronic sound.",
+    "This idea constitutes a basic compositional premise that can be observed in works written by 20th-century composers operating under a number of different artistic assumptions.",
+    "All relied on whatever artists were available and these frequently lacked the vision of the composer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "comply",
+    "component",
+    "compose",
+    "composed",
+    "composer",
+    "composition",
+    "compost",
+    "composure",
+    "compound"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359582_149f1d45ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359582_e931b6369d_o.png",
+      "id_image": "composer_1194520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051860_53b19ea0a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051860_d6e88c1452_o.png",
+      "id_image": "composer_4752523"
+    }
+  ]
+}

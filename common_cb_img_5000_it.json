@@ -1,0 +1,179 @@
+{
+  "english": "common",
+  "phat_am": "ˈkomən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thông thường",
+          "definition": "seen or happening often; quite normal or usual",
+          "world_new": [
+            "happening",
+            "quite",
+            "normal",
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a common occurrence",
+              "world_new": [
+                "occurrence"
+              ]
+            },
+            {
+              "ex_of_definition": "These birds are not so common nowadays.",
+              "world_new": [
+                "nowadays"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phổ biến",
+          "definition": "belonging equally to, or shared by, more than one",
+          "world_new": [
+            "equally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This knowledge is common to all of us",
+              "world_new": [
+                "knowledge"
+              ]
+            },
+            {
+              "ex_of_definition": "We share a common language.",
+              "world_new": [
+                "share",
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chung",
+          "definition": "publicly owned",
+          "world_new": [
+            "publicly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "common property.",
+              "world_new": [
+                "property"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầm thường",
+          "definition": "coarse or impolite",
+          "world_new": [
+            "coarse",
+            "impolite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She uses some very common expressions."
+            }
+          ]
+        },
+        {
+          "mean_english": "bình thường",
+          "definition": "of ordinary, not high, social rank",
+          "world_new": [
+            "ordinary",
+            "social",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the common people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữ viết thường",
+          "definition": "of a noun, not beginning with a capital letter (except at the beginning of a sentence), for example ’house’ in the sentence ’The house is empty’.",
+          "world_new": [
+            "noun",
+            "beginning",
+            "capital",
+            "letter",
+            "beginning",
+            "example",
+            "sentence",
+            "house"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đất công",
+          "definition": "(a piece of) public land for everyone to use, with few or no buildings",
+          "world_new": [
+            "piece",
+            "public",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the village common.",
+              "world_new": [
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The area of commons enclosed in 1621 can be calculated at about 4,500 acres.",
+    "One broad category, well worth exploring, involves making the global commons quasi-private.",
+    "Given the high population growth, especially in rural areas, this contributed substantially to lessen the push effects towards the commons.",
+    "Freedom in the commons brings ruin to all.",
+    "The house of commons, by law, would have to confirm sanctions.",
+    "The commonest haematological problem in pregnancy is anaemia resulting from iron de®ciency.",
+    "The establishment of clearer property rights over resources is often proposed as a solution to the problem of the 'tragedy of the commons'.",
+    "Bettereducated households may have better earning opportunities outside the village commons, and forest extraction activities may be less attractive for those households."
+  ],
+  "list_see_also": [
+    "commoner",
+    "common ground",
+    "common knowledge",
+    "common law",
+    "common-law",
+    "commonplace",
+    "common room",
+    "common sense",
+    "the Common Market",
+    "the (House of) Commons",
+    ""
+  ],
+  "list_browse": [
+    "committee",
+    "commodious",
+    "commodity",
+    "commodore",
+    "common",
+    "common ground",
+    "common knowledge",
+    "common law",
+    "common room"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054925_36c5c49fbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054925_a092684e3f_o.png",
+      "id_image": "common_5541816"
+    }
+  ]
+}

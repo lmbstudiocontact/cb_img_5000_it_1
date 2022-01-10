@@ -1,0 +1,107 @@
+{
+  "english": "dirty",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bẩn",
+          "definition": "not clean",
+          "world_new": [
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "dirty clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xấu xa",
+          "definition": "mean or unfair",
+          "world_new": [
+            "mean",
+            "unfair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dirty trick.",
+              "world_new": [
+                "trick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thô bỉ",
+          "definition": "offensive; obscene",
+          "world_new": [
+            "obscene"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "dirty books."
+            }
+          ]
+        },
+        {
+          "mean_english": "(thời tiết) xấu",
+          "definition": "(of weather) stormy.",
+          "world_new": [
+            "stormy"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bẩn",
+          "definition": "to make or become dirty",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dirtied his hands/shoes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dirt",
+    "dirt cheap",
+    "dirt track",
+    "dirtiness",
+    "dirty",
+    "dis-",
+    "disability",
+    "disability payment",
+    "disable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055910_6372ca4f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055910_4b457b5ff7_o.png",
+      "id_image": "dirty_2873662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055880_0916c28a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055880_99fc9c5336_o.png",
+      "id_image": "dirty_3027497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674149_f8bd80cb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674149_17280bcef4_o.png",
+      "id_image": "dirty_5256932"
+    }
+  ]
+}

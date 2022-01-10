@@ -1,0 +1,75 @@
+{
+  "english": "diagram",
+  "phat_am": "ˈdaiəɡrӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biểu đồ",
+          "definition": "a drawing used to explain something that is difficult to understand",
+          "world_new": [
+            "drawing",
+            "explain",
+            "difficult",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This book has diagrams showing the parts of a car engine.",
+              "world_new": [
+                "book",
+                "car",
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, the phase diagrams look similar to those shown above, except for a different steady state level.",
+    "Perhaps then more explanations, diagrams and a glossary could be included to improve a separate guide to syntactic analysis.",
+    "As the diagram shows, there are two different loading conditions but the larger of the resulting stresses may be taken for each condition.",
+    "The 28 color photographs add to the explanations in the text, and the numerous diagrams and geologic maps, all in colour, deserve much attention.",
+    "Since we are not assuming weak purity, the vertical map on the right of this diagram need not be injective.",
+    "The proof is a routine diagram paste based on the definitions.",
+    "Takes the value of 1 if there was an organizational diagram of the proposed management and delivery structure of the bid, 0 otherwise.",
+    "The first part, called an action (or system) description, specifies the transition diagram representing possible trajectories of the system."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diagnose",
+    "diagnosis",
+    "diagonal",
+    "diagonally",
+    "diagram",
+    "dial",
+    "dialect",
+    "dialectic",
+    "dialectical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324371_3d0161131c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324371_0f2c941764_o.png",
+      "id_image": "diagram_407437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439388_e89a9be0b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439388_ef1d363773_o.png",
+      "id_image": "diagram_413687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061230_8b06513253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061230_7bb37ac53a_o.png",
+      "id_image": "diagram_675740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061175_0aab325ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061175_37c468318c_o.png",
+      "id_image": "diagram_975043"
+    }
+  ]
+}

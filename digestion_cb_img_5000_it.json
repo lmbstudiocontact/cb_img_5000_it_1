@@ -1,0 +1,76 @@
+{
+  "english": "digestion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiêu hóa",
+          "definition": "the act of digesting food",
+          "world_new": [
+            "act",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stomach manufactures acid as an aid to digestion.",
+              "world_new": [
+                "stomach",
+                "acid",
+                "aid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng tiêu hóa thức ăn",
+          "definition": "the ability of one’s body to digest food",
+          "world_new": [
+            "ability",
+            "body",
+            "digest",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "poor digestion.",
+              "world_new": [
+                "poor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Endozoochorous dispersal can affect seed viability through the digestion process and also after defecation, when seeds are returned to the soil amongst the dung.",
+    "Similar muscle fibres were observed in the present study, but we consider that they represent incompletely separated fibres following digestion.",
+    "We have also included several exercises to support digestion of the material and to stimulate further experiments.",
+    "Digestion by cattle, and storage within a manure heap for 6 months or longer, further reduced seed germination.",
+    "Moreover, the natural digestion of infected meat could prepare larvae for future incidents.",
+    "After digestion and ligation reactions, each sample was diluted ten-fold and used as a template for the preselective and selective amplification.",
+    "The parasites appeared to be merely digested by the bug, the rate of digestion being governed by the temperature at which the insects were maintained.",
+    "In vitro digestion reduced seed germination of all the species tested compared to the untreated controls."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dig out",
+    "dig up",
+    "digest",
+    "digestible",
+    "digestion",
+    "digestive",
+    "digger",
+    "digicam",
+    "digit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366832_237d5fba4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366832_f4fe54cd2a_o.png",
+      "id_image": "digestion_5601046"
+    }
+  ]
+}

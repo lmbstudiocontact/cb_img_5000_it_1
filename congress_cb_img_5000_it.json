@@ -1,0 +1,75 @@
+{
+  "english": "congress",
+  "phat_am": "ˈkoŋɡres",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc họp",
+          "definition": "a formal meeting, especially an assembly of delegates",
+          "world_new": [
+            "formal",
+            "meeting",
+            "assembly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the annual meeting of the Trades Union Congress.",
+              "world_new": [
+                "annual",
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Quốc hội",
+          "definition": "a law-making body or parliament, especially that of the United States",
+          "world_new": [
+            "body",
+            "parliament"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been elected to Congress."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "congressional",
+    "congressman",
+    "congresswoman"
+  ],
+  "list_browse": [
+    "congratulation",
+    "congratulatory",
+    "congregate",
+    "congregation",
+    "congress",
+    "congressional",
+    "congressman",
+    "congresswoman",
+    "congruent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666679_b204e6bee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666679_70a68051f6_o.png",
+      "id_image": "congress_3967513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666644_4cd1185977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666644_7eb4dac970_o.png",
+      "id_image": "congress_5978938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666589_9582f6efa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666589_2a775e3c79_o.png",
+      "id_image": "congress_5979057"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "expend",
+  "phat_am": "ikˈspend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiêu dùng",
+          "definition": "to use or spend (supplies etc)",
+          "world_new": [
+            "spend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the funds have been expended.",
+              "world_new": [
+                "funds"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many participants felt that they were expending ever greater efforts at work, but receiving ever decreased feedback in terms of their achievements.",
+    "The idea of diminishing returns to effort expended upon the land became generally accepted in economics.",
+    "The computing power available per dollar expended is currently doubling each 18 months.",
+    "Few empiric studies have directly measured the amount of time patients expend participating in healthcare interventions.",
+    "The total amount of output produced is determined by the least effort expended by any member of the team, which creates a bottleneck.",
+    "Perennial grain plants should be selected to expend less energy on competition and more on seed production.",
+    "Considerable effort has also been expended in compiling an extensive bibliography, which covers the literature from works published in 1806 through to recent 2004 publications.",
+    "Thus, the force distribution created by an activated motile flagellum will be affected by fluid viscoelasticity, as will the hydrodynamic power expended."
+  ],
+  "list_see_also": [
+    "expenditure",
+    "expense",
+    "expenses",
+    "expensive",
+    "at the expense of"
+  ],
+  "list_browse": [
+    "expeditionary",
+    "expeditious",
+    "expeditiously",
+    "expel",
+    "expend",
+    "expenditure",
+    "expense",
+    "expenses",
+    "expensive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665474_2858104c4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665474_d0ee5b3b11_o.png",
+      "id_image": "expend_5821971"
+    }
+  ]
+}

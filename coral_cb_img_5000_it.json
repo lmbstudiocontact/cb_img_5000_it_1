@@ -1,0 +1,91 @@
+{
+  "english": "coral",
+  "phat_am": "ˈkorəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "san hô",
+          "definition": "(of) a hard substance of various colours, made up of skeletons of a kind of tiny sea animal",
+          "world_new": [
+            "substance",
+            "various",
+            "colours",
+            "kind",
+            "tiny",
+            "sea",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a necklace made of coral",
+              "world_new": [
+                "necklace"
+              ]
+            },
+            {
+              "ex_of_definition": "a coral reef.",
+              "world_new": [
+                "reef"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như màu san hô",
+          "definition": "(of) an orange-pink colour/color",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The walls were painted in coral."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are new chapters on corals, ser pulid worms and nautiloids, three groups left out of the first edition.",
+    "In contrast, coquina accumulations are common along the upper bedding planes, where they are formed by bivalves, productid brachiopod shells, fenestellid bryozoans, small solitary corals, crinoid stems and blastoids.",
+    "The dominant colonial organisms are corals.",
+    "She built the first stable sustained marine aquarium in 1846 and maintained corals and sponges for over three years.",
+    "Ocular media transmission of coral reef fish- can coral reef fish see ultraviolet light?",
+    "In many places, the nearshore corals have died and have been covered with silt to form sandy flats.",
+    "In the absence of a host, it may adopt corals of a tank to reside.",
+    "Corals are more abundant in this environment than towards the poles where the waters are cold."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "copulate",
+    "copulation",
+    "copy",
+    "copyright",
+    "coral",
+    "cord",
+    "cordial",
+    "cordiality",
+    "cordially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688029_b8f14a5d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688029_3d1659fbab_o.png",
+      "id_image": "coral_2333710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687994_8d62ebc828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687994_cb7c61cef0_o.png",
+      "id_image": "coral_3860075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377817_f47e3b54b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377817_b18279d393_o.png",
+      "id_image": "coral_4545245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377742_04f4d2324c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377742_835ba7dbc5_o.png",
+      "id_image": "coral_4751234"
+    }
+  ]
+}

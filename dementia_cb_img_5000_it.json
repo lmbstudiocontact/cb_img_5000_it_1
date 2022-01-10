@@ -1,0 +1,54 @@
+{
+  "english": "dementia",
+  "phat_am": "diˈmenʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chứng mất trí",
+          "definition": "a serious illness that affects a person’s brain and memory, gradually causing them to lose the ability to think and behave normally",
+          "world_new": [
+            "serious",
+            "illness",
+            "brain",
+            "memory",
+            "gradually",
+            "lose",
+            "ability",
+            "think",
+            "behave",
+            "normally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from senile dementia.",
+              "world_new": [
+                "senile"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deluxe",
+    "demand",
+    "demanding",
+    "demeanour",
+    "dementia",
+    "demo",
+    "democracy",
+    "democrat",
+    "democratic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378787_0ca7da1e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378787_dab8408126_o.png",
+      "id_image": "dementia_5705165"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "combine",
+  "phat_am": "kəmˈbain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết hợp",
+          "definition": "to join together in one whole; to unite",
+          "world_new": [
+            "join",
+            "unite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They combined (forces) to fight the enemy",
+              "world_new": [
+                "fight",
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "The chemist combined calcium and carbon.",
+              "world_new": [
+                "chemist",
+                "calcium",
+                "carbon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "một hiệp hội các công ty thương mại",
+          "definition": "an association of trading companies",
+          "world_new": [
+            "association"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a large manufacturing combine.",
+              "world_new": [
+                "large",
+                "manufacturing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, the data sets of the two studies were combined and analysed jointly.",
+    "Binary classifiers are combined into multiclass classifiers using a voting scheme.",
+    "By combining features from the same context, learning is also more robust to word sense ambiguity problem that might occur in the mapping.",
+    "Even these lifestyle options can be combined in various ways by an individual.",
+    "When combining several of the oscillators together within the same structure, a situation for harmonic interaction was realised.",
+    "To further explore this question we combined sequences of all 11 proteins with a full representation of eubacterial taxa (11 species).",
+    "When homonymy is combined with contrast, it results in a \"one form/one meaning\" view of language.",
+    "We discuss the structure of the grammar, and a model for robust parsing which combines linguistic sources of information and statistical sources of information."
+  ],
+  "list_see_also": [
+    "combination",
+    "combine harvester"
+  ],
+  "list_browse": [
+    "comb",
+    "combat",
+    "combatant",
+    "combination",
+    "combine",
+    "combine harvester",
+    "combustible",
+    "combustion",
+    "come"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675209_0ed73b994c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675209_cdc18c6910_o.png",
+      "id_image": "combine_5360345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365087_db9a91e6ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365087_9df82de756_o.png",
+      "id_image": "combine_5376807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320176_22302617cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320176_99f9f2f1c4_o.png",
+      "id_image": "combine_5379833"
+    }
+  ]
+}

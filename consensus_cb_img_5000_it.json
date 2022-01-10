@@ -1,0 +1,63 @@
+{
+  "english": "consensus",
+  "phat_am": "kənˈsensəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đồng lòng",
+          "definition": "the feeling of most people",
+          "world_new": [
+            "feeling",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The consensus of opinion is that we should go ahead with the operation.",
+              "world_new": [
+                "opinion",
+                "ahead",
+                "operation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ritual communication produces what it is assumed to portray, recreating the world by symbolic action, reinscribing the communication's participants within a world sustained by consensus.",
+    "This variable controls for the effect of the degree of consensus in a given period on the propensity of groups to vote together.",
+    "Even before the episode of the empty chair, most major questions had been decided by consensus.",
+    "While definitions of the cognitive framing exercise generate much consensus, the literature does use the term in a second, fundamentally different way.",
+    "All of the other parties either did not believe in consensus, or they were unsure.",
+    "Second, it tells us that our intuitions about what would make a political consensus possible are on the right track.",
+    "For definite programs, the consensus amongst these authors is that the minimum model is the meaning (the set of true atoms).",
+    "Inclusion criteria were applied independently by two reviewers, and in case of disagreement, a consensus was reached."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consecrate",
+    "consecration",
+    "consecutive",
+    "consecutively",
+    "consensus",
+    "consent",
+    "consequence",
+    "consequently",
+    "conservation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354777_07b5612c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354777_335d37d67e_o.png",
+      "id_image": "consensus_1349750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354742_7b90dedf73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354742_039af6f9d6_o.png",
+      "id_image": "consensus_2191453"
+    }
+  ]
+}

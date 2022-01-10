@@ -1,0 +1,130 @@
+{
+  "english": "entrance",
+  "phat_am": "ˈentrəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cổng vào, lối vào",
+          "definition": "a place of entering, eg an opening, a door etc",
+          "world_new": [
+            "place",
+            "opening",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the entrance to the tunnel",
+              "world_new": [
+                "tunnel"
+              ]
+            },
+            {
+              "ex_of_definition": "The church has an impressive entrance.",
+              "world_new": [
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đi vào",
+          "definition": "(an) act of entering",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hamlet now makes his second entrance."
+            }
+          ]
+        },
+        {
+          "mean_english": "quyền gia nhập",
+          "definition": "the right to enter",
+          "world_new": [
+            "right",
+            "enter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has applied for entrance to university",
+              "world_new": [
+                "applied",
+                "university"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an entrance exam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm say mê",
+          "definition": "to fill with great delight",
+          "world_new": [
+            "fill",
+            "great",
+            "delight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The audience were entranced by her singing.",
+              "world_new": [
+                "audience",
+                "singing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The diameter at entrance is 30 mm and diameter at tip is varied as 0, 3, 5, and 10 mm.",
+    "Active burrows, defined by freshly excavated soil surrounding open entrances, were also counted.",
+    "Residents usually pay a hefty entrance fee as well as monthly payments.",
+    "Several sets of spears and shields would hang on the walls of the entrance hall.",
+    "From there first arose poisonous kind, spread widely, those which surging now through poisonous breath make spacious the entrance.",
+    "In the entrance hall, there is a notice board with information on the programmes for the day, the week and the month.",
+    "It is a beautifully proportioned composition and, with its angled entrance and rounded south-west corner, it sits on the site as if it grew there.",
+    "The present study requires no prescribed entrance conditions, and permits solution for completely arbitrary shape."
+  ],
+  "list_see_also": [
+    "entrant"
+  ],
+  "list_browse": [
+    "entitle",
+    "entitlement",
+    "entourage",
+    "entrails",
+    "entrance",
+    "entrant",
+    "entreat",
+    "entreaty",
+    "entrée"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433103_41fecc8b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433103_9d18e122bb_o.png",
+      "id_image": "entrance_2394551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672714_411f4fb8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672714_1af8b0549c_o.png",
+      "id_image": "entrance_2858870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054550_295bcef1b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054550_d030214ba0_o.png",
+      "id_image": "entrance_493461"
+    }
+  ]
+}

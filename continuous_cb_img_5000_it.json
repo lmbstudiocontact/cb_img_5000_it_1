@@ -1,0 +1,82 @@
+{
+  "english": "continuous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "liên tục",
+          "definition": "joined together, or going on, without interruption",
+          "world_new": [
+            "interruption"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a continuous series",
+              "world_new": [
+                "series"
+              ]
+            },
+            {
+              "ex_of_definition": "continuous rain",
+              "world_new": [
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "continuous movement.",
+              "world_new": [
+                "movement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Are the developmental trajectories smooth and continuous, or are there jumps corresponding to timelinked events in the child's life?",
+    "This ambivalence was reflected in the continuous violation of the cease-fire agreement by both parties.",
+    "Since the antiphoner was in continuous revision no absolute tally is practical for most chant-forms.",
+    "We do not use data prior to 1975 because tenure has been recorded as a continuous measure only since 1975.",
+    "Thereby, a continuous supply of urea and amino acids to an open reaction system would be expected to overcome this limitation.",
+    "Key examples are systems combining no-till seeding, crop-rotations including legumes, plus maintenance of continuous crop-residue cover to the soil.",
+    "The study area is surrounded by large expanses (>200 km) of mainly continuous forest to the west, north and east.",
+    "However, the succession is cut by a number of small faults so that the section is not continuous."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "continually",
+    "continuation",
+    "continue",
+    "continuity",
+    "continuous",
+    "continuously",
+    "contort",
+    "contortion",
+    "contortionist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+      "id_image": "continuous_1768935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043800_5b13ff71cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043800_1baf350282_o.png",
+      "id_image": "continuous_2631389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662139_fc3fb92f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662139_70043891f5_o.png",
+      "id_image": "continuous_3079125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421908_804dcaaf49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421908_3c7caf2aa3_o.png",
+      "id_image": "continuous_3475493"
+    }
+  ]
+}

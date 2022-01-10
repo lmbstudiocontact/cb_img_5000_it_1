@@ -1,0 +1,172 @@
+{
+  "english": "colour",
+  "phat_am": "ˈkalə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu sắc",
+          "definition": "a quality which objects have, and which can be seen, only when light falls on them",
+          "world_new": [
+            "quality",
+            "light",
+            "falls"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What colour/color is her dress?",
+              "world_new": [
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "Red, blue and yellow are colours/colors.",
+              "world_new": [
+                "blue",
+                "yellow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuốc màu",
+          "definition": "paint(s)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That artist uses watercolours/watercolors.",
+              "world_new": [
+                "artist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu da",
+          "definition": "(a) skin-colour/-color varying with race",
+          "world_new": [
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "people of all colours/colors.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều màu sắc",
+          "definition": "vividness; interest",
+          "world_new": [
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s plenty of colour/color in his stories."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có màu",
+          "definition": "(of photographs etc) in colour/color, not black and white",
+          "world_new": [
+            "black",
+            "white"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "colour/color film",
+              "world_new": [
+                "film"
+              ]
+            },
+            {
+              "ex_of_definition": "colour/color television.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tô màu",
+          "definition": "to put colour/color on; to paint",
+          "world_new": [
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They coloured/colored the walls yellow.",
+              "world_new": [
+                "yellow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "coloured",
+    "colourful",
+    "colouring",
+    "colourless",
+    "colours",
+    "colourblind",
+    "colour scheme",
+    "off-colour",
+    "colour in",
+    "show oneself in one’s true colours",
+    ""
+  ],
+  "list_browse": [
+    "colonize",
+    "colonnade",
+    "colony",
+    "colossal",
+    "colour",
+    "colour in",
+    "colour scheme",
+    "colourblind",
+    "coloured"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320966_c50ac5f70b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320966_aaa042fef1_o.png",
+      "id_image": "colour_2071524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365887_b7d876ca3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365887_c46b59fa1e_o.png",
+      "id_image": "colour_2271571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675979_0669d3bd5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675979_8b948d0b59_o.png",
+      "id_image": "colour_2598703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436108_de2a925105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436108_b6698db9db_o.png",
+      "id_image": "colour_3253227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057615_18b836ed33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057615_35d0f3e5d0_o.png",
+      "id_image": "colour_6301241"
+    }
+  ]
+}

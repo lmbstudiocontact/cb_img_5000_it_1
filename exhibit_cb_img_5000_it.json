@@ -1,0 +1,121 @@
+{
+  "english": "exhibit",
+  "phat_am": "iɡˈzibit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "triển lãm",
+          "definition": "to show; to display to the public",
+          "world_new": [
+            "display",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My picture is to be exhibited in the art gallery.",
+              "world_new": [
+                "picture",
+                "art",
+                "gallery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu lộ",
+          "definition": "to show (a quality etc)",
+          "world_new": [
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He exhibited a complete lack of concern for others.",
+              "world_new": [
+                "complete",
+                "lack",
+                "concern"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật triển lãm",
+          "definition": "an object displayed publicly (eg in a museum)",
+          "world_new": [
+            "object",
+            "publicly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the exhibits is missing.",
+              "world_new": [
+                "missing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tang vật",
+          "definition": "an object or document produced in court as part of the evidence",
+          "world_new": [
+            "object",
+            "document",
+            "court",
+            "part",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blood-stained scarf was exhibit number one in the murder trial.",
+              "world_new": [
+                "scarf",
+                "number",
+                "murder",
+                "trial"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a second issue, take a one-parameter family of maps that exhibits bifurcations and add small bounded noise to it.",
+    "Each price series exhibited an upward trend over the period and distinct seasonal patterns.",
+    "At pre- and posttreatment, parents were asked to indicate whether, and to what degree, their child exhibited a list of symptoms.",
+    "Only two words fell out of the range exhibited by the individual suffix types.",
+    "If matter still exhibits [r], then it would constitute a second exception.",
+    "Although both groups exhibited comparable behavioral performance, betweengroup differences were evident in brain activation.",
+    "Couples who engaged in high levels of hostile - withdrawn coparenting exhibited negativity toward each other in the form of tension, anger, irritation, or frustration.",
+    "At the bottom was the kaso kaikyu (the lower class) which exhibited a good deal of continuity with the late-nineteenthcentury kaso shakai."
+  ],
+  "list_see_also": [
+    "exhibition",
+    "exhibitor"
+  ],
+  "list_browse": [
+    "exhausted",
+    "exhausting",
+    "exhaustion",
+    "exhaustive",
+    "exhibit",
+    "exhibition",
+    "exhibitor",
+    "exhilarate",
+    "exhilarating"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426078_61dc59728a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426078_6223dc1e33_o.png",
+      "id_image": "exhibit_223257"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "dance",
+  "phat_am": "daːns",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khiêu vũ",
+          "definition": "to move in time to music by ma-king a series of rhythmic steps",
+          "world_new": [
+            "move",
+            "time",
+            "music",
+            "series",
+            "rhythmic",
+            "steps"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She began to dance"
+            },
+            {
+              "ex_of_definition": "Can you dance the waltz?",
+              "world_new": [
+                "waltz"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấc lên nhấc xuống",
+          "definition": "to move quickly up and down",
+          "world_new": [
+            "move",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The father was dancing the baby on his knee.",
+              "world_new": [
+                "father",
+                "dancing",
+                "baby",
+                "knee"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhảy múa",
+          "definition": "a series of fixed steps made in time to music",
+          "world_new": [
+            "series",
+            "fixed",
+            "steps",
+            "time",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you done this dance before?"
+            },
+            {
+              "ex_of_definition": "(also adjective) dance music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vũ hội",
+          "definition": "a social gathering at which people dance",
+          "world_new": [
+            "social",
+            "gathering",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re going to a dance next Saturday.",
+              "world_new": [
+                "Saturday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The masker had amply padded his derriere and bust, and when he performed he periodically punctuated his slow dance movements with exaggerated hip thrusts.",
+    "It encompasses a variety of artistic expressions : instrumental music, songs, dancing and theatre.",
+    "In it, twelve dancers, dressed as twelve princes, danced in imitation of the deities, accompanied by songs in their praise.",
+    "Free outdoor events for the large crowds included music concerts, roving performances, and dance, physical theatre, and new circus shows.",
+    "Then, to thunderous drumming of the big drum and clashing of the large cymbals, they dance past each other and exit in separate directions.",
+    "Only the politicians who paid for the dance floor came to the community and received votes.",
+    "Here the latest trends in music and dance could be enjoyed, and the latest fashions flaunted.",
+    "I watched the fans of the singers who was dancing about throughout the concert."
+  ],
+  "list_see_also": [
+    "dancer",
+    "dancing"
+  ],
+  "list_browse": [
+    "damper",
+    "dampness",
+    "damsel",
+    "damselfly",
+    "dance",
+    "dancer",
+    "dancing",
+    "dandelion",
+    "dandruff"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666239_d3cfd9c713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666239_9e283700e4_o.png",
+      "id_image": "dance_1430772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426133_03504986a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426133_a00afcbbcc_o.png",
+      "id_image": "dance_1430774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426108_9159e1a325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426108_39a4730b73_o.png",
+      "id_image": "dance_1902269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355277_0a43845ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355277_1cee27660e_o.png",
+      "id_image": "dance_6280362"
+    }
+  ]
+}

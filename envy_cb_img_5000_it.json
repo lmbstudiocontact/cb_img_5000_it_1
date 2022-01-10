@@ -1,0 +1,117 @@
+{
+  "english": "envy",
+  "phat_am": "ˈenvi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thèm muốn",
+          "definition": "a feeling of discontent at another’s good fortune or success",
+          "world_new": [
+            "feeling",
+            "discontent",
+            "fortune",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She could not conceal her envy of me / at my success.",
+              "world_new": [
+                "conceal",
+                "my",
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thèm muốn",
+          "definition": "to feel envy towards (someone)",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He envied me"
+            },
+            {
+              "ex_of_definition": "She envied him his money.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm thấy thèm muốn",
+          "definition": "to feel envy because of",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve always envied that dress of yours.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then the above specification of envy-freeness is not applicable because the two are unequally entitled to the inheritance.",
+    "It is the envy of many other countries that wish that they could establish a similar practice in their own schools.",
+    "In an attempt to better differentiate jealousy from envy in children, investigators devised two different situations within a social triad to distinctly elicit jealousy.",
+    "Christians are martyred to satiate the mob's class envy, economic, and social dissatisfaction, even desire for yet further sensational entertainments.",
+    "The suffering of grief, envy, and anxiety, for example, do not relate to the nervous system.",
+    "T he envy test forbids both of these results.",
+    "This might cause me to envy you + a belief together with a relevant desire triggers an emotion.",
+    "In contemporary society, there are strong social norms against such envy."
+  ],
+  "list_see_also": [
+    "enviable",
+    "envious",
+    "the envy of"
+  ],
+  "list_browse": [
+    "environmentalist",
+    "environmentally friendly",
+    "envisage",
+    "envoy",
+    "envy",
+    "enzyme",
+    "ephemeral",
+    "epic",
+    "epicentre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053570_7a71d7bb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053570_61335c4220_o.png",
+      "id_image": "envy_3362436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671819_5a6385e4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671819_f4f8aacedc_o.png",
+      "id_image": "envy_6000894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432158_596ab818fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432158_7efbd3847d_o.png",
+      "id_image": "envy_6002668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361457_03778b5aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361457_ccc557e032_o.png",
+      "id_image": "envy_708644"
+    }
+  ]
+}

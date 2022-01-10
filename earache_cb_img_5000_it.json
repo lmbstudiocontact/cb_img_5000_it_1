@@ -1,0 +1,64 @@
+{
+  "english": "earache",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đau tai",
+          "definition": "pain in the inner part of the ear",
+          "world_new": [
+            "pain",
+            "inner",
+            "part",
+            "ear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s been suffering from a severe earache.",
+              "world_new": [
+                "suffering",
+                "severe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The most commonly used ear drop medicine for earache was a prescription drug in 1998, whereas in 2002, the same medication could be purchased over the counter.",
+    "A small child has an earache, a complaint which is often trivial and transitory.",
+    "Between 10:10am and 11:39am, she states that she drove her daughter around town in an attempt to use the motion of the vehicle to soothe the toddler's earache.",
+    "Greater emphasis could also be put on the need to feed babies on the descent to prevent them getting severe earache.",
+    "The bark is used to treat toothache and earache.",
+    "Zappa was often sick as a child, suffering from asthma, earaches and sinus problems.",
+    "They are called to treat a variety of ailments, including: earaches, toothaches, warts, tumors, angina, and bleeding.",
+    "Often patients will complain of earache or tinnitus rather than admit to being deaf in an effort to be referred to the appropriate centre for hearing assessment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eagerly",
+    "eagerness",
+    "eagle",
+    "ear",
+    "earache",
+    "eardrum",
+    "earl",
+    "earliness",
+    "earlobe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688474_a355c74a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688474_16f5c10947_o.png",
+      "id_image": "earache_2999165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333416_a62b53ecce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333416_96d852d8cc_o.png",
+      "id_image": "earache_5745992"
+    }
+  ]
+}

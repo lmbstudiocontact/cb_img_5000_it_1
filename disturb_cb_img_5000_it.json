@@ -1,0 +1,112 @@
+{
+  "english": "disturb",
+  "phat_am": "diˈstəːb",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phiền",
+          "definition": "to interrupt or take attention away from",
+          "world_new": [
+            "interrupt",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m sorry, am I disturbing you?",
+              "world_new": [
+                "sorry",
+                "I",
+                "disturbing"
+              ]
+            },
+            {
+              "ex_of_definition": "Sorry to disturb you, have you seen Alan anywhere?",
+              "world_new": [
+                "anywhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lo âu",
+          "definition": "to worry or make anxious",
+          "world_new": [
+            "worry",
+            "anxious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This news has disturbed me very much.",
+              "world_new": [
+                "news",
+                "disturbed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm náo động",
+          "definition": "to stir up or throw into confusion",
+          "world_new": [
+            "stir",
+            "throw",
+            "confusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A violent storm disturbed the surface of the lake.",
+              "world_new": [
+                "violent",
+                "storm",
+                "disturbed",
+                "surface",
+                "lake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am especially disturbed by the dilemma faced by resident doctors with no apparent solution in sight that spares patients harm.",
+    "We regularly disturbed the surface layer to maximize emergence and ascertain the total viable seed content in the control samples.",
+    "We called this behavior \"self-reanimating chaos,\" as dominating chaotic state was temporarily disturbed by a quasiperiodic one and could reanimate itself.",
+    "Access to this area should also be restricted to avoid the fragile defibrated wood being disturbed and possibly dispersed within the hut.",
+    "A logging gap was defined as the area of ground disturbed beneath an opening in the canopy descending to within 12 m of the ground.",
+    "Both revision and alteration imply changes to the actual notes of the composition, as opposed to rescoring without fundamentally disturbing pitches, rhythms or form.",
+    "One disturbing aspect of the present healthcare situation is the lack of opposition to investor-owned, for-profit healthcare corporations.",
+    "During hand hoeing only the top 40+50 mm of soil was disturbed and the ground was walked over to give a -at compacted surface."
+  ],
+  "list_see_also": [
+    "disturbance",
+    "disturbed",
+    "disturbing",
+    "disturbingly"
+  ],
+  "list_browse": [
+    "distrust",
+    "distrustful",
+    "distrustfully",
+    "distrustfulness",
+    "disturb",
+    "disturbance",
+    "disturbed",
+    "disturbing",
+    "disturbingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050205_963fd59673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050205_25a51c6ae3_o.png",
+      "id_image": "disturb_1207877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050170_d13c4d1202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050170_199bae55ae_o.png",
+      "id_image": "disturb_3508251"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "disability",
+  "phat_am": "disəˈbiləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tàn tật; sự bất lực",
+          "definition": "something which disables",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a disability which prevents him from walking very far.",
+              "world_new": [
+                "far"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dirt track",
+    "dirtiness",
+    "dirty",
+    "dis-",
+    "disability",
+    "disability payment",
+    "disable",
+    "disabled",
+    "disablement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434373_050970b5da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434373_02fa614467_o.png",
+      "id_image": "disability_2223899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319206_d9d0a37dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319206_94d544340c_o.png",
+      "id_image": "disability_2472589"
+    }
+  ]
+}

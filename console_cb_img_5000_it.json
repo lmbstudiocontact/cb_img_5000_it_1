@@ -1,0 +1,135 @@
+{
+  "english": "console",
+  "phat_am": "kənˈsəul",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "an ủi",
+          "definition": "to comfort",
+          "world_new": [
+            "comfort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She could not console the weeping child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảng điều khiển",
+          "definition": "a flat board with the controls and buttons for a machine or a piece of electronic equipment",
+          "world_new": [
+            "flat",
+            "board",
+            "machine",
+            "piece",
+            "electronic",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the flight console of an aircraft.",
+              "world_new": [
+                "flight",
+                "aircraft"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết bị chơi game cầm tay",
+          "definition": "a small piece of electronic equipment which is connected to a screen for playing video games",
+          "world_new": [
+            "small",
+            "piece",
+            "electronic",
+            "equipment",
+            "screen",
+            "video",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a games console.",
+              "world_new": [
+                "games"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giá để",
+          "definition": "a cupboard for a piece of electronic equipment such as a television.",
+          "world_new": [
+            "cupboard",
+            "piece",
+            "electronic",
+            "equipment",
+            "television"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not think that we are very much consoled by that assurance, because as a matter of fact we knew it all along.",
+    "The taxpayer is consoled by being told that the rate of interest is to be kept low.",
+    "I am consoled by having access to quantities of music which was composed in an era when these lopsided artistic values did not obtain.",
+    "We fought hard against those changes at the time, but when we lost the fight we consoled ourselves with the thought that at least we still had our hospital.",
+    "I am quite sure that miners will feel in no way consoled by the fact that a £2,500 mink coat can now be bought for £2,300.",
+    "I make no apology for harassing or embarrassing them or for not consoling them in their dilemma.",
+    "However, he consoled me by saying that the fundamental basis of government policy was to encourage people to give to charities.",
+    "Assuager of my cares, softly consoling clavichord!"
+  ],
+  "list_see_also": [
+    "consolation"
+  ],
+  "list_browse": [
+    "consistency",
+    "consistent",
+    "consistently",
+    "consolation",
+    "console",
+    "consolidate",
+    "consolidation",
+    "consonant",
+    "consort"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665024_915320fbf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665024_f28291ff57_o.png",
+      "id_image": "console_1142707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664989_afac596b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664989_3223089d75_o.png",
+      "id_image": "console_1191102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424748_17c550770b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424748_494ff53dff_o.png",
+      "id_image": "console_1519456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046625_dc597af393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046625_f42b415956_o.png",
+      "id_image": "console_2637947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309566_f2e1aef8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309566_3c70834b44_o.png",
+      "id_image": "console_2727101"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "fireplace",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lò sưởi",
+          "definition": "a space in a room (usually in a wall) with a chimney above, for a fire",
+          "world_new": [
+            "space",
+            "room",
+            "chimney",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wide stone fireplace.",
+              "world_new": [
+                "wide",
+                "stone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The artist dwelling is designed to foster creativity, through spatial development and sequences reinforced by light - daylight and the firelight emanating from fireplaces.",
+    "That the museum does not receive daylight, and the fireplace is in the bedroom's darkest spot against the party wall, additionally links the two.",
+    "Downstairs are the stable, the storage rooms and sometimes a fireplace.",
+    "In both studio-residences, fireplaces and related elements such as flues are key components in spaces designed to engender and reinforce creativity.",
+    "In contrast, the cottage range dwellings of the farm labourers appear to be undivided and there is usually little evidence for an end-wall fireplace.",
+    "A string stretched before the fireplace displayed 'a quantity of black woollen stockings, almost footless for want of repair'.",
+    "A fireplace is surrounded by a scatter of finds.",
+    "Each domain enjoys its own fireplace expression, carefully detailed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "firecracker",
+    "firefighter",
+    "fireguard",
+    "fireman",
+    "fireplace",
+    "fireproof",
+    "fireside",
+    "firewood",
+    "firework"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062900_424286f4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062900_5a7f44ef00_o.png",
+      "id_image": "fireplace_1043342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326096_e6bbb3811e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326096_886fbf7daf_o.png",
+      "id_image": "fireplace_1395941"
+    }
+  ]
+}

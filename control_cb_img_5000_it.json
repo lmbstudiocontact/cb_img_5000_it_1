@@ -1,0 +1,212 @@
+{
+  "english": "control",
+  "phat_am": "kənˈtrəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiểm soát",
+          "definition": "the right of directing or of giving orders; power or authority",
+          "world_new": [
+            "right",
+            "power",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has control over all the decisions in that department",
+              "world_new": [
+                "department"
+              ]
+            },
+            {
+              "ex_of_definition": "She has no control over that dog.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quản lý",
+          "definition": "the act of holding back or restraining",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "government control of prices",
+              "world_new": [
+                "government"
+              ]
+            },
+            {
+              "ex_of_definition": "I know you’re angry but you must not lose control (of yourself).",
+              "world_new": [
+                "I",
+                "know",
+                "angry",
+                "lose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ điều khiển",
+          "definition": "a lever, button etc which operates (a machine etc)",
+          "world_new": [
+            "lever",
+            "button",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The clutch and accelerator are foot controls in a car.",
+              "world_new": [
+                "clutch",
+                "accelerator",
+                "foot",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi kiểm tra",
+          "definition": "a point or place at which an inspection takes place",
+          "world_new": [
+            "point",
+            "place",
+            "inspection",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "passport control.",
+              "world_new": [
+                "passport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có quyền lực đối với ai/cái gì",
+          "definition": "to direct or guide; to have power or authority over",
+          "world_new": [
+            "direct",
+            "power",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The captain controls the whole ship",
+              "world_new": [
+                "captain",
+                "whole",
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "Control your dog!",
+              "world_new": [
+                "your",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kìm nén",
+          "definition": "to hold back; to restrain (oneself or one’s emotions etc)",
+          "world_new": [
+            "hold",
+            "restrain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Control yourself!"
+            }
+          ]
+        },
+        {
+          "mean_english": "quản lý",
+          "definition": "to keep to a fixed standard",
+          "world_new": [
+            "keep",
+            "fixed",
+            "standard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government is controlling prices.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The environment passes control to an ordinary text-editor of the user's choice, post-processing the resulting file.",
+    "It appears then that the planning - control model may require modification in order to accommodate these recent findings.",
+    "There are two distinct aspects of controlling a highly redundant robot such that it reaches its goal whilst avoiding all obstacles.",
+    "In this sense, then, control relies on planning to provide an adequate efference copy.",
+    "When the tracker is not sure that a sequence is being repeated, or when the tracked sequence finishes, it returns control to the neural network.",
+    "This evidence suggests that planning and control each serve a specialized purpose utilizing distinct visual representations.",
+    "Finally, planning will time the movement such that a sufficient period of time is available for the control system to operate.",
+    "Because we did not tell the control group participants the form that the comprehension questions would take, this reviewer's point remains a possibility."
+  ],
+  "list_see_also": [
+    "controller",
+    "control tower",
+    "in control (of)",
+    "out of control",
+    "under control"
+  ],
+  "list_browse": [
+    "contrite",
+    "contriteness",
+    "contrivance",
+    "contrive",
+    "control",
+    "control tower",
+    "controller",
+    "controversial",
+    "controversially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043300_f5a5b0c0c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043300_8d13e37e92_o.png",
+      "id_image": "control_1753698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350392_9bd3964a3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350392_3763a75fa0_o.png",
+      "id_image": "control_2752821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043240_a5412183ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043240_617bc8becf_o.png",
+      "id_image": "control_2825524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350357_f721d3b871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350357_4ee8d807fb_o.png",
+      "id_image": "control_4801783"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421303_b78286d741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421303_1efe439396_o.png",
+      "id_image": "control_5664428"
+    }
+  ]
+}

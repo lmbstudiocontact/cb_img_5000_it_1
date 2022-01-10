@@ -1,0 +1,171 @@
+{
+  "english": "cream",
+  "phat_am": "kriːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kem",
+          "definition": "the yellowish-white oily substance that forms on the top of milk, and from which butter and cheese are made",
+          "world_new": [
+            "oily",
+            "substance",
+            "top",
+            "milk",
+            "butter",
+            "cheese"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "single/double cream."
+            }
+          ]
+        },
+        {
+          "mean_english": "loại thực phẩm có hoặc giốngnhư kem",
+          "definition": "any of many substances made of, or similar to, cream",
+          "world_new": [
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ice-cream"
+            },
+            {
+              "ex_of_definition": "face cream.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh hoa",
+          "definition": "the best part; the top people",
+          "world_new": [
+            "best",
+            "top",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the cream of the medical profession.",
+              "world_new": [
+                "medical",
+                "profession"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu kem",
+          "definition": "(also adjective) (of) a yellowish-white colour/color",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cream paint.",
+              "world_new": [
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm thành kem",
+          "definition": "to make into a cream-like mixture",
+          "world_new": [
+            "mixture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cream the eggs, butter and sugar together.",
+              "world_new": [
+                "butter",
+                "sugar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trộn",
+          "definition": "to take the cream off",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She creamed the milk.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gạn lấy",
+          "definition": "(with off) to select (the best)",
+          "world_new": [
+            "select"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The best pupils will be creamed off for special training.",
+              "world_new": [
+                "best",
+                "special",
+                "training"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One factor may be the amount of spermicidal cream or jelly required.",
+    "The outcome measure was who were playing in a park and met an ice the number of correct answers to the behav- cream seller.",
+    "However, the options are not always as neatly categorical as the ice-cream flavors of the above example, nor as easily represented in a label.",
+    "The desire to eat ice cream is so overwhelming as to be effectively non-volitional.",
+    "The dessert sets included plates, cups, saucers, sugar and creamer sets, console bowls, and tid-bit sets.",
+    "She chooses a large chocolate eclair filled with fresh cream.",
+    "One seven-course menu included peace ice cream, made with a hand-cranked icecream maker.",
+    "The other residents get ice cream for lunch every day, and he wants it served to him as well."
+  ],
+  "list_see_also": [
+    "creamy",
+    "creaminess",
+    "cream cheese",
+    "cream of tartar",
+    "cream tea"
+  ],
+  "list_browse": [
+    "crazy",
+    "creak",
+    "creakiness",
+    "creaky",
+    "cream",
+    "cream cheese",
+    "cream of tartar",
+    "cream tea",
+    "creaminess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677784_8bc64cddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677784_b9a646bf11_o.png",
+      "id_image": "cream_209723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677734_b419488244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677734_16bf0dc8af_o.png",
+      "id_image": "cream_410420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437848_8cded3fd07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437848_2593ee96d6_o.png",
+      "id_image": "cream_5578304"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "english": "dog",
+  "phat_am": "doɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con chó",
+          "definition": "a domestic, meat-eating animal related to the wolf and fox",
+          "world_new": [
+            "domestic",
+            "animal",
+            "related",
+            "wolf",
+            "fox"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s time to take the dog for a walk.",
+              "world_new": [
+                "time",
+                "walk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cáo đực",
+          "definition": "(usually of members of the dog family) male",
+          "world_new": [
+            "male"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dog-fox."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "theo ai nhằng nhẵng",
+          "definition": "to follow closely as a dog does",
+          "world_new": [
+            "follow",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dogged his footsteps.",
+              "world_new": [
+                "dogged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "dogged",
+    "doggedly",
+    "doggedness",
+    "dog biscuit",
+    "dog collar",
+    "dog-eared",
+    "dog-tired",
+    "a dog’s life",
+    "go to the dogs",
+    "in the doghouse",
+    ""
+  ],
+  "list_browse": [
+    "dodge the draft",
+    "dodgy",
+    "doe",
+    "doer",
+    "dog",
+    "dog biscuit",
+    "dog collar",
+    "dog-eared",
+    "dog-tired"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426333_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426333_44f93e9e06_o.png",
+      "id_image": "dog_1049341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355632_302354b221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355632_deb5423f47_o.png",
+      "id_image": "dog_421604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426363_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426363_d3d4d26318_o.png",
+      "id_image": "dog_877112"
+    }
+  ]
+}

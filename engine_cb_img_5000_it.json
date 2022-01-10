@@ -1,0 +1,95 @@
+{
+  "english": "engine",
+  "phat_am": "ˈendʒin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy, động cơ",
+          "definition": "a machine in which heat or other energy is used to produce motion",
+          "world_new": [
+            "machine",
+            "heat",
+            "energy",
+            "produce",
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car has a new engine.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu máy xe lửa",
+          "definition": "a railway/railroad locomotive",
+          "world_new": [
+            "locomotive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes to sit in a seat facing the engine.",
+              "world_new": [
+                "sit",
+                "seat",
+                "facing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were three engines that drove detainees to create new cultural forms.",
+    "When looking for answers to specific questions, people may refer to corporate and individual documents or use search engines with indexing approaches.",
+    "The engines analyse, predict, optimize and adapt to solve challenging business problems while creating tangible business benefits.",
+    "Preferences centred on academic support, search engines and personal interest sites; with a plus for wealth of functions/content, ease of use and appearance.",
+    "Thus, here, we have excited energy exchange in various forms: running motors and engines, flowing and cascading water, networks of sluices and funnels, electricity.",
+    "Once the page was picked up by search engines, the number of new and one-time visitors increased significantly.",
+    "When the captain tied down the boiler safety valve, the engines generated enormous and sometimes boiler-exploding power.",
+    "The report says that at maximum power the engines turn at 25,000 rpm."
+  ],
+  "list_see_also": [
+    "engine driver",
+    "engineer",
+    "engineering"
+  ],
+  "list_browse": [
+    "engage",
+    "engaged",
+    "engagement",
+    "engaging",
+    "engine",
+    "engine driver",
+    "engineer",
+    "engineering",
+    "English"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674349_7888fb260f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674349_42389c4977_o.png",
+      "id_image": "engine_1643498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674304_5bbd2569f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674304_4a60422596_o.png",
+      "id_image": "engine_3211840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674429_7d8cf556e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674429_6215449790_o.png",
+      "id_image": "engine_998313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319471_1e81ae323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319471_6451be391f_o.png",
+      "id_image": "engine_998316"
+    }
+  ]
+}

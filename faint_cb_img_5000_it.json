@@ -1,0 +1,132 @@
+{
+  "english": "faint",
+  "phat_am": "feint",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mờ nhạt",
+          "definition": "lacking in strength, brightness, courage etc",
+          "world_new": [
+            "strength",
+            "brightness",
+            "courage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sound grew faint",
+              "world_new": [
+                "sound"
+              ]
+            },
+            {
+              "ex_of_definition": "a faint light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yếu ớt",
+          "definition": "physically weak and about to lose consciousness",
+          "world_new": [
+            "physically",
+            "weak",
+            "lose",
+            "consciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suddenly he felt faint.",
+              "world_new": [
+                "felt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngất",
+          "definition": "to lose consciousness",
+          "world_new": [
+            "lose",
+            "consciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fainted on hearing the news.",
+              "world_new": [
+                "hearing",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn ngất; sự ngất",
+          "definition": "loss of consciousness",
+          "world_new": [
+            "loss",
+            "consciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His faint gave everybody a fright.",
+              "world_new": [
+                "fright"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lass could afford so little food that she fainted twice at work.",
+    "I have already made it clear that no disciplinary action should be taken against a soldier who faints.",
+    "He runs after her but is so grieved over her death that he faints.",
+    "If the blood pressure is not adequately maintained during standing, faints may develop.",
+    "The object is typically fainter than visual magnitude 16.",
+    "Many people thought she had merely fainted.",
+    "Muna faints from the noxious fumes of the fire and is badly burnt.",
+    "He fainted, and when he came to himself, tried to cycle home, but fell off the machine."
+  ],
+  "list_see_also": [
+    "faintly",
+    "faintness"
+  ],
+  "list_browse": [
+    "Fahrenheit",
+    "fail",
+    "failing",
+    "failure",
+    "faint",
+    "faintly",
+    "faintness",
+    "fair",
+    "fair and square"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337531_43dc2d590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337531_f91063564f_o.png",
+      "id_image": "faint_3997839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692779_8f1363d5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692779_e7a07c7dd0_o.png",
+      "id_image": "faint_4444887"
+    }
+  ]
+}

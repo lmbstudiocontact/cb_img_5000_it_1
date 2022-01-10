@@ -1,0 +1,129 @@
+{
+  "english": "far",
+  "phat_am": "faː",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xa; xa xưa;",
+          "definition": "indicating distance, progress etc",
+          "world_new": [
+            "distance",
+            "progress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How far is it from here to his house?",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xa",
+          "definition": "at or to a long way away",
+          "world_new": [
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went far away/off."
+            }
+          ]
+        },
+        {
+          "mean_english": "rất nhiều",
+          "definition": "very much",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was a far better swimmer than her friend (was).",
+              "world_new": [
+                "better",
+                "swimmer",
+                "friend"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xa",
+          "definition": "distant; a long way away",
+          "world_new": [
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a far country.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xa hơn",
+          "definition": "more distant (usually of two things)",
+          "world_new": [
+            "distant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives on the far side of the lake.",
+              "world_new": [
+                "side",
+                "lake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was an attempt to get his support for their plans so far as they themselves understood them.",
+    "To sum up, we have thus far established a sufficient condition for eradication to be optimal, and we have characterized the other possible qualitative solutions.",
+    "In the end this elaborate process has so far sustained the electoral dominance of the two national parties.",
+    "Improving nitrogen-®xing systems and integrating them into sustainable rice far ming.",
+    "Two decisions have far-reaching implications for the validity of the results reported in this review.",
+    "To probe this issue further, workers were requested to list the things they liked about their companies and things they did not like.",
+    "How far can the number of working languages be reduced?",
+    "So far, so good; but a few hours later, when the assistant returns she notices that the sink is blocked."
+  ],
+  "list_see_also": [
+    "faraway",
+    "far-fetched",
+    "far-off",
+    "far-reaching",
+    "far-sighted",
+    "as far as",
+    "by far",
+    "far and away",
+    "far from",
+    "so far"
+  ],
+  "list_browse": [
+    "fantastic",
+    "fantastically",
+    "fantasy",
+    "FAQ",
+    "far",
+    "far and away",
+    "far from",
+    "far-fetched",
+    "far-off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691109_2948b659d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691109_8e7888885e_o.png",
+      "id_image": "far_2165949"
+    }
+  ]
+}

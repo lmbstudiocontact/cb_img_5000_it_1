@@ -1,0 +1,57 @@
+{
+  "english": "controller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người kiểm soát",
+          "definition": "a person or thing that controls",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an air-traffic controller."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have tested the proposed controller by extensive computer simulations and the results appear to be promising.",
+    "Intermediate results obtained by the given solver are already memorized by its local controller.",
+    "Moreover, the handle consists of an active hand controller and a passive force feedback.",
+    "However, small electrohydraulic valves with a high degree of precision are much more expensive and less reliable than powerful electrical amplifiers and controllers.",
+    "The sensors are assumed to respond to the controller within the time windows to confirm that the expected state transitions have occurred.",
+    "It will be possible to import product data into the robot controller and use it for programming.",
+    "The analytical results from the model are useful for robot design and utilization as well as design of an intelligent controller for robotic assembly.",
+    "Current feedback trips the controller to idle mode when an over current condition occurs for more than a few seconds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contrivance",
+    "contrive",
+    "control",
+    "control tower",
+    "controller",
+    "controversial",
+    "controversially",
+    "controversy",
+    "convalesce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350312_f13933005f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350312_2b99deac9d_o.png",
+      "id_image": "controller_1408988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306116_187ea37d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306116_5b1772ee18_o.png",
+      "id_image": "controller_1425575"
+    }
+  ]
+}

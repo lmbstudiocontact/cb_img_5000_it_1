@@ -1,0 +1,86 @@
+{
+  "english": "correspondence",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tương tự",
+          "definition": "agreement; similarity or likeness",
+          "world_new": [
+            "similarity",
+            "likeness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close correspondence between the two sets of test results.",
+              "world_new": [
+                "close",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan hệ thư tù",
+          "definition": "(communication by) letters",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must deal with that (big pile of) correspondence.",
+              "world_new": [
+                "I",
+                "deal",
+                "pile"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Early in the first school year, performance was sensitive only to the length of the segment, suggesting involvement of grapheme- phoneme correspondences.",
+    "When both kinds of correspondences exist, it is implausible to hold that the two worlds are equally valuable.",
+    "Few unquestionable correspondences emerge and those that do are not by any means clear cut.",
+    "We do however check that each of these correspondences is compatible with isomorphisms.",
+    "Another interpretation of the word ' construction ' is that it refers to form-meaning correspondences, where the forms may be bigger than words.",
+    "The expression rules themselves do not introduce or realize 'zeros'; and 'mutations' are interpreted as correspondences between base and derived/inflected form.",
+    "Once cognate developments are eliminated, lexical correspondences between two languages are far less likely to be due to convergent processes than syntactic correspondences.",
+    "The correspondences will hold only up to a point."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "correctly",
+    "correctness",
+    "correlation",
+    "correspond",
+    "correspondence",
+    "correspondence course",
+    "correspondent",
+    "corresponding",
+    "corridor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330511_9207633f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330511_c889f453ff_o.png",
+      "id_image": "correspondence_3387814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445488_42465551aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445488_7067ee0378_o.png",
+      "id_image": "correspondence_5709150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445433_bb7a924a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445433_564d10ebb3_o.png",
+      "id_image": "correspondence_5907474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067265_9fccc9205b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067265_6bc138be6d_o.png",
+      "id_image": "correspondence_5907962"
+    }
+  ]
+}

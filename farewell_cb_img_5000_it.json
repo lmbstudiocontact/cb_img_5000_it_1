@@ -1,0 +1,83 @@
+{
+  "english": "farewell",
+  "phat_am": "feəˈwel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời chào tạm biệt",
+          "definition": "an act of saying goodbye",
+          "world_new": [
+            "act",
+            "goodbye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They said their farewells at the station",
+              "world_new": [
+                "their",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a farewell dinner.",
+              "world_new": [
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "tạm biệt",
+          "definition": "goodbye",
+          "world_new": [
+            "goodbye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Farewell for ever!’ she cried.",
+              "world_new": [
+                "ever"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It wasn't a formal procession, instead everybody bade him farewell as the mood took them.",
+    "Even their gaiety seemed to be of the forced kind often associated with a particularly painful farewell.",
+    "They were opportunities to both bid farewell and to celebrate their collective work.",
+    "Each time they moved away, a farewell dinner was prepared.",
+    "Some of the memorabilia, such as newspaper articles or photographs, were set aside for use later in the farewell ritual.",
+    "We know the remainder of this grave farewell from the first lines of this essay.",
+    "To him, certainly, retirement does not mean a farewell to intellectual production.",
+    "We bade each other farewell."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "faraway",
+    "farce",
+    "farcical",
+    "fare",
+    "farewell",
+    "farm",
+    "farmer",
+    "farmhouse",
+    "farming"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691044_4485936456_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691044_51a8b685e5_o.png",
+      "id_image": "farewell_2165932"
+    }
+  ]
+}

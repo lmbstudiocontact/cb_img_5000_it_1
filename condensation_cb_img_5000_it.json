@@ -1,0 +1,79 @@
+{
+  "english": "condensation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngưng tụ hay cô đọng",
+          "definition": "the act of condensing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These pressure changes are caused by a process of condensation.",
+              "world_new": [
+                "pressure",
+                "process"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ngưng hơi",
+          "definition": "liquid formed from vapour",
+          "world_new": [
+            "liquid",
+            "vapour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t see out because of the condensation on the window.",
+              "world_new": [
+                "I",
+                "see",
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, premature chromatin condensation might result in subsequent accelerated nuclear maturation.",
+    "Both ion-correlation and ion-condensation forces can significantly enhance adhesion.",
+    "Limiting laws and counterion condensation in polyelectrolyte solutions.",
+    "The condensation of moisture favours the growth and multiplication of these micro-organisms.",
+    "Nevertheless, none of the genes required for proper mitotic chromosome condensation have been seen to play a role in male meiosis.",
+    "Disassembly of the nucleus in mitotic extracts: membrane vesicularization, lamin disassembly, and chromosome condensation are independent processes.",
+    "The lower section is an auxiliary volume for the condensation of vapor on sprayed jets.",
+    "Aldol condensations are important in organic synthesis, providing a good way to form carboncarbon bonds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "concussion",
+    "condemn",
+    "condemnation",
+    "condemned cell",
+    "condensation",
+    "condense",
+    "condescend",
+    "condescending",
+    "condescendingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049940_21e6ae070f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049940_92011b6e33_o.png",
+      "id_image": "condensation_3653509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049915_49beb234d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049915_049d63f359_o.png",
+      "id_image": "condensation_4752654"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "fever",
+  "phat_am": "ˈfiːvə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn sốt",
+          "definition": "(an illness causing) high body temperature and quick heart-beat",
+          "world_new": [
+            "illness",
+            "body",
+            "temperature",
+            "quick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is in bed with a fever",
+              "world_new": [
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In many developing regions of the world, typhoid fever remains a significant cause of morbidity and mortality at a substantial cost to health-care systems.",
+    "The classical picture of botulism is of descending symmetrical flaccid paralysis with no fever.",
+    "It was also used to study risk factors of haemorrhagic fever with renal syndrome and gave similar results as a concurrent case-control study [12].",
+    "The diagnosis of malaria was based on the presence of fever, and the detection of parasites in the maternal blood.",
+    "In the second scenario, a patient is suffering from fevers, malaise, and a painful blistering rash after infection with smallpox.",
+    "Two mice ; intra-peritoneal injection of 0'5 c. c. defibrinated relapsing fever blood in 1*5 c. c. saline.",
+    "He became acutely ill with fever, diarrhea and vomiting.",
+    "A model to estimate the financial consequences of classical swine fever outbreaks : principles and outcomes."
+  ],
+  "list_see_also": [
+    "feverish",
+    "feverishly",
+    "at fever pitch"
+  ],
+  "list_browse": [
+    "fetter",
+    "feud",
+    "feudal",
+    "feudalism",
+    "fever",
+    "feverish",
+    "feverishly",
+    "few",
+    "few and far between"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446138_0dd7b42194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446138_093a5142b8_o.png",
+      "id_image": "fever_2328385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067885_8238f9c220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067885_da5bd6478a_o.png",
+      "id_image": "fever_3154453"
+    }
+  ]
+}

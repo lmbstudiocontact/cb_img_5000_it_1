@@ -1,0 +1,193 @@
+{
+  "english": "count",
+  "phat_am": "kaunt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Bá tước",
+          "definition": "a nobleman in certain countries, equal in rank to a British earl",
+          "world_new": [
+            "nobleman",
+            "certain",
+            "equal",
+            "rank",
+            "British",
+            "earl"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Count Dracula."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đếm; tính",
+          "definition": "to name the numbers up to",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Count (up to) ten."
+            }
+          ]
+        },
+        {
+          "mean_english": "cộng",
+          "definition": "to calculate using numbers",
+          "world_new": [
+            "calculate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Count (up) the number of pages",
+              "world_new": [
+                "number"
+              ]
+            },
+            {
+              "ex_of_definition": "Count how many people there are",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "There were six people present, not counting the chairman.",
+              "world_new": [
+                "people",
+                "present",
+                "chairman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có giá trị",
+          "definition": "to be important or have an effect or value",
+          "world_new": [
+            "important",
+            "effect",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What he says doesn’t count"
+            },
+            {
+              "ex_of_definition": "All these essays count towards my final mark.",
+              "world_new": [
+                "my",
+                "final",
+                "mark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "coi là",
+          "definition": "to consider",
+          "world_new": [
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Count yourself lucky to be here.",
+              "world_new": [
+                "lucky"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đếm",
+          "definition": "an act of numbering",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They took a count of how many people attended.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc tội",
+          "definition": "a charge pressed against a suspect etc",
+          "world_new": [
+            "charge",
+            "suspect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She faces three counts of theft.",
+              "world_new": [
+                "theft"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each sentence of a multisentence turn was counted as a separate token.",
+    "The slide was examined under 1000r magnification, and the number of flagella counted for each exflagellating gametocyte.",
+    "The number of black pixels was counted in a standardized square positioned over each band.",
+    "First, one obtains an estimate of the hiring rates by counting the number of employment relationships with tenure of less than a month.",
+    "Also, a global variable v is maintained for counting the recursive steps.",
+    "Frequency counts for each dependent variable were also calculated.",
+    "In the following, we present a simplified version of their proposal, note some of its consequences, and show that it proves unsuccessful on several counts.",
+    "Data were collected through videotaped observations, which were then transcr ibed, measured by counting words, and analysed for conversational opportunities."
+  ],
+  "list_see_also": [
+    "countess"
+  ],
+  "list_browse": [
+    "council estate",
+    "councillor",
+    "counsel",
+    "counsellor",
+    "count",
+    "count on",
+    "countable",
+    "countdown",
+    "countenance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064490_82c6b4132d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064490_375a2d0586_o.png",
+      "id_image": "count_3155259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327761_7edec116e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327761_dc98599dd5_o.png",
+      "id_image": "count_5291791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064395_1d8854b25d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064395_fe8626c87e_o.png",
+      "id_image": "count_5605901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442693_dbe1424c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442693_f0fdb2fd47_o.png",
+      "id_image": "count_5979299"
+    }
+  ]
+}

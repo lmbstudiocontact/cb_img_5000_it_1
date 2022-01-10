@@ -1,0 +1,108 @@
+{
+  "english": "competition",
+  "phat_am": "kompəˈtiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cạnh tranh",
+          "definition": "the act of competing; rivalry",
+          "world_new": [
+            "act",
+            "rivalry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Competition makes children try harder.",
+              "world_new": [
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những người cạnh tranh",
+          "definition": "people competing for a prize etc",
+          "world_new": [
+            "people",
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a lot of competition for this job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc thi đấu",
+          "definition": "a contest for a prize",
+          "world_new": [
+            "contest",
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you entered the tennis competition?",
+              "world_new": [
+                "tennis"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Women were banned initially from the littoriali but later they were admitted in separate competitions in limited numbers.",
+    "Corporate competitions again flourished as a way for corporations to maintain a public image when products were rationed and taken off the market.",
+    "Evils suffered due to lost competitions in one universe can be compensated by goods in other universes.",
+    "Samples were taken and plated on 10 plates (to yield approximately 50 colonies per plate) at the start of the competitions and at each transfer.",
+    "Arsenals, often under the direction of the central government, provided a whole gamut of services ranging from sport competitions to medical provisions.",
+    "Issue 29 contains reviews of two architectural competitions, two exhibitions and 12 books.",
+    "There is a limit to the number of types that are successful in competitions.",
+    "Singers were often more concerned with personal vocal development than with public acknowledgement through passing exams or doing well in competitions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "compete",
+    "competence",
+    "competent",
+    "competently",
+    "competition",
+    "competitive",
+    "competitor",
+    "compilation",
+    "compile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053125_ec2dedb873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053125_ca3f1ccc48_o.png",
+      "id_image": "competition_1208153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316671_d80a59f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316671_478111355f_o.png",
+      "id_image": "competition_1599828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053065_65e3c579ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053065_50b8eab20e_o.png",
+      "id_image": "competition_2631531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431588_18214fd5fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431588_5685c2f881_o.png",
+      "id_image": "competition_2720671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316581_8e10a39859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316581_13112a7f0b_o.png",
+      "id_image": "competition_2734733"
+    }
+  ]
+}

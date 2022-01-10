@@ -1,0 +1,63 @@
+{
+  "english": "dedication",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tận tụy",
+          "definition": "the quality of being dedicated; the act of dedicating",
+          "world_new": [
+            "quality",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His dedication to duty was admirable.",
+              "world_new": [
+                "duty",
+                "admirable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề tặng sách",
+          "definition": "the words dedicating a book to someone",
+          "world_new": [
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can put the dedication at the top of the page.",
+              "world_new": [
+                "top",
+                "page"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decree",
+    "decrepit",
+    "dedicate",
+    "dedicated",
+    "dedication",
+    "deduce",
+    "deduct",
+    "deduction",
+    "deed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350482_3d77a68357_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350482_fdbb80c071_o.png",
+      "id_image": "dedication_1322189"
+    }
+  ]
+}

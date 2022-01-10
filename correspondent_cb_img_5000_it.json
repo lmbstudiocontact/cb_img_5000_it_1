@@ -1,0 +1,72 @@
+{
+  "english": "correspondent",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thông tin viên",
+          "definition": "a person with whom one exchanges letters",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has correspondents all over the world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phóng viên",
+          "definition": "a person who contributes news to a newspaper etc",
+          "world_new": [
+            "person",
+            "news",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s foreign correspondent for ‘The Times’.",
+              "world_new": [
+                "foreign"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As for changes with different correspondents, at times playfulness and irony give way to gracious expressions of gratitude, regret, condolence - but the pleasure in the use of language never leaves.",
+    "I fear that the public interest has not been fully considered in the facilities given recently to war correspondents.",
+    "Here she is at her best, reading letters with perception about the expectations of correspondents.",
+    "Among the surrounding experts, the advisers, the newspaper correspondents, and so on, there were conflicting views.",
+    "There are no professional foreign correspondents already in place.",
+    "The correspondents also differ in nasality.",
+    "Within hours war correspondents arrived and in the following days the free-world's press was full of pictures and accounts of the horrors.",
+    "They were not political correspondents, but rather the editors of women's journals asking the reason for the stamina that was shown."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "correlation",
+    "correspond",
+    "correspondence",
+    "correspondence course",
+    "correspondent",
+    "corresponding",
+    "corridor",
+    "corroborate",
+    "corroboration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375072_398d5f6fc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375072_55bcc6d2ba_o.png",
+      "id_image": "correspondent_1661617"
+    }
+  ]
+}

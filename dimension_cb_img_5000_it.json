@@ -1,0 +1,83 @@
+{
+  "english": "dimension",
+  "phat_am": "diˈmenʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kích thước",
+          "definition": "a measurement in length, breadth, or thickness",
+          "world_new": [
+            "measurement",
+            "length",
+            "breadth",
+            "thickness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dimensions of the box are 20 cm by 10 cm by 4 cm.",
+              "world_new": [
+                "box",
+                "cm",
+                "cm",
+                "cm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The values of these parameters allow the instantiation of rollers or sanding bars type, shape, dimensions, material, etc.!.",
+    "All results cover the important case when = 2 in one and two dimensions.",
+    "A general profile of these materials reveals two intersecting dimensions of social conflict.",
+    "The four th and additional dimensions explain very little of the variance in the data.",
+    "Positive coping strategies - albeit not associated with symptoms - may be stronger associated with other dimensions of well-being.",
+    "Five conjoined pieces of paper of varying dimensions make up the document.",
+    "Can we assess the role of dialect differences relative to other dimensions of situated discourse?",
+    "To encompass the two parties and seven issue dimensions, we estimated fourteen separate models."
+  ],
+  "list_see_also": [
+    "-dimensional"
+  ],
+  "list_browse": [
+    "dilute",
+    "dilution",
+    "dim",
+    "dime",
+    "dimension",
+    "-dimensional",
+    "diminish",
+    "diminished",
+    "diminution"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321331_0743cba7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321331_9d85c38117_o.png",
+      "id_image": "dimensions_1605816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321476_66362b8e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321476_92f836aacf_o.png",
+      "id_image": "dimensions_217221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058050_cde259affd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058050_88fafe7753_o.png",
+      "id_image": "dimensions_4761232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436723_4380e48f62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436723_3691e8405b_o.png",
+      "id_image": "dimension_4092787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436783_d87627a761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436783_e0fb6d2964_o.png",
+      "id_image": "dimension_992621"
+    }
+  ]
+}

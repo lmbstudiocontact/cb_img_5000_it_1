@@ -1,0 +1,92 @@
+{
+  "english": "convict",
+  "phat_am": "kənˈvikt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết án",
+          "definition": "to prove or declare (someone) guilty",
+          "world_new": [
+            "prove",
+            "declare",
+            "guilty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was convicted of theft.",
+              "world_new": [
+                "theft"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người bị kết án tù",
+          "definition": "a person serving a sentence for a crime",
+          "world_new": [
+            "person",
+            "serving",
+            "sentence",
+            "crime"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two of the convicts have escaped from prison.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When convicted, there was only so much they could do to prevent a sentence of exemplary harshness and a bitter gaol experience.",
+    "Two years later, an amnesty law was passed releasing those who were convicted.",
+    "Many of these prisoners were recidivist property offenders, as former convicts found it harder than most to find subsistence.",
+    "If one coerced others by command, menace, punishment, promise, or oath to defend error pertinaciously, one would be convicted of pertinacity.",
+    "The dangerous insect operated undercover and could be convicted only by the traces it left during its criminal actions.",
+    "Other people say the best way to reduce crime is to make sure that criminals are caught, convicted and punished.",
+    "Three senior medical officials were convicted of criminal negligence and fraud and were sentenced to prison.",
+    "Death for dangerousness is preventive, the ultimate enhancement beyond the punishment deser ved for the convict's past crime."
+  ],
+  "list_see_also": [
+    "conviction"
+  ],
+  "list_browse": [
+    "conveyance",
+    "conveyancing",
+    "conveyor",
+    "conveyor belt",
+    "convict",
+    "conviction",
+    "convince",
+    "convincing",
+    "convivial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305211_d260041699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305211_567ddec8d9_o.png",
+      "id_image": "convict_2436800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349482_b2214d2ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349482_8f7b805278_o.png",
+      "id_image": "convict_583607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042205_545521c613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042205_c98ce13eb3_o.png",
+      "id_image": "convict_583608"
+    }
+  ]
+}

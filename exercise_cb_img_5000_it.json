@@ -1,0 +1,152 @@
+{
+  "english": "exercise",
+  "phat_am": "ˈeksəsaiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tập luyện",
+          "definition": "training or use (especially of the body) through action or effort",
+          "world_new": [
+            "training",
+            "action",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Swimming is one of the healthiest forms of exercise"
+            },
+            {
+              "ex_of_definition": "Take more exercise."
+            }
+          ]
+        },
+        {
+          "mean_english": "bài tập",
+          "definition": "an activity intended as training",
+          "world_new": [
+            "activity",
+            "training"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ballet exercises",
+              "world_new": [
+                "ballet"
+              ]
+            },
+            {
+              "ex_of_definition": "spelling exercises.",
+              "world_new": [
+                "spelling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "huấn luyện",
+          "definition": "a series of tasks, movements etc for training troops etc",
+          "world_new": [
+            "series",
+            "training",
+            "troops"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His battalion is on an exercise in the mountains.",
+              "world_new": [
+                "battalion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "huấn luyện; tập thể dục",
+          "definition": "to train or give exercise to",
+          "world_new": [
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dogs should be exercised frequently",
+              "world_new": [
+                "frequently"
+              ]
+            },
+            {
+              "ex_of_definition": "I exercise every morning.",
+              "world_new": [
+                "I",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng",
+          "definition": "to use; to make use of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was given the opportunity to exercise her skill as a pianist.",
+              "world_new": [
+                "opportunity",
+                "skill",
+                "pianist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, caution should be exercised in interpreting these results.",
+    "To solve this problem we have introduced special exercises to train this ability.",
+    "Each chapter comprised a clear text followed by relevant exercises.",
+    "The importance of the structuration theory for contextual archaeology is another example of the way in which our discipline can profit from such exercises.",
+    "Although she had tried these exercises previously, she had found them to be too exhausting and had described them as 'an impossible tor ture'.",
+    "Participatory tools to be used at various stages of the survey typically include semi-structured interviews, mapping, seasonal calendars, rankings and prioritization exercises.",
+    "A set of goals for simulation-based exercises is suggested, and some tactics for meeting these goals are introduced.",
+    "All three books are of intermediate length (between 300 and 400 pages), contain numerous exercises, and are generative in their orientation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exemplary",
+    "exemplify",
+    "exempt",
+    "exemption",
+    "exercise",
+    "exert",
+    "exertion",
+    "exhalation",
+    "exhale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355712_29787547fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355712_afeea0f1f8_o.png",
+      "id_image": "exercise_2159431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666509_1921da707c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666509_5073a44186_o.png",
+      "id_image": "exercise_3776047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355647_056218a9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355647_1dae2aba89_o.png",
+      "id_image": "exercise_6193200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426483_04a3757388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426483_1b875455a1_o.png",
+      "id_image": "exercise_755258"
+    }
+  ]
+}

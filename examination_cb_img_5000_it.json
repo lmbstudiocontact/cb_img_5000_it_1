@@ -1,0 +1,107 @@
+{
+  "english": "examination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khảo sát",
+          "definition": "(a) close inspection",
+          "world_new": [
+            "close",
+            "inspection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police made a thorough examination of the area where the crime took place",
+              "world_new": [
+                "police",
+                "thorough",
+                "area",
+                "crime",
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "On examination, the patient was discovered to have appendicitis.",
+              "world_new": [
+                "patient"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kỳ thi",
+          "definition": "(also exam) a test of knowledge or ability",
+          "world_new": [
+            "test",
+            "knowledge",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "school examinations",
+              "world_new": [
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "She is going to take a French/dancing exam"
+            },
+            {
+              "ex_of_definition": "(also adjective) examination/exam papers"
+            },
+            {
+              "ex_of_definition": "He failed/passed the English exam.",
+              "world_new": [
+                "English"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thẩm vấn",
+          "definition": "(a) formal questioning (eg of a witness).",
+          "world_new": [
+            "formal"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exactness",
+    "exaggerate",
+    "exaggeration",
+    "exalted",
+    "examination",
+    "examine",
+    "examiner",
+    "example",
+    "exasperate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049535_f0469b37e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049535_811a1bc5ce_o.png",
+      "id_image": "examination_1833857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313036_e2ca3410f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313036_dcac3e686f_o.png",
+      "id_image": "examination_4482430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049595_2dc16c92b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049595_28661489a1_o.png",
+      "id_image": "examination_484691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427908_e7a3beda9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427908_34720b7137_o.png",
+      "id_image": "examination_883984"
+    }
+  ]
+}

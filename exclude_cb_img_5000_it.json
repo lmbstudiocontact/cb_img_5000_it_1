@@ -1,0 +1,103 @@
+{
+  "english": "exclude",
+  "phat_am": "ikˈskluːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gạt ra",
+          "definition": "to prevent (someone) from sharing or taking part in something",
+          "world_new": [
+            "prevent",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They excluded her from the meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không cho vào",
+          "definition": "to shut out; to keep out",
+          "world_new": [
+            "shut",
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fill the bottle to the top so as to exclude all air.",
+              "world_new": [
+                "bottle",
+                "top",
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loại trừ",
+          "definition": "to leave out of consideration",
+          "world_new": [
+            "leave",
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We cannot exclude the possibility that he was lying.",
+              "world_new": [
+                "possibility"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are therefore interested here in the crucial situations excluded so far.",
+    "If the sky is clear, the requirement is for a daylight factor of about 0.5% and direct sun must be excluded.",
+    "The summary scale was recalculated with anger excluded.",
+    "They were excluded from formal managerial participation and fringe benefits were seen as their only direct victory.",
+    "The mesh size of the gauze allowed parasitoids to pass through and feed on the honey, while excluding the larger bruchids.",
+    "All reaction time responses falling below 200 ms (1.58% of all trials) were excluded.",
+    "Ten children were excluded from the study as they were found not to have significant eating disturbance.",
+    "In the twenty-first century, the study of popular music can no longer be excluded from medieval music study."
+  ],
+  "list_see_also": [
+    "exclusion",
+    "excluding"
+  ],
+  "list_browse": [
+    "exciting",
+    "exclaim",
+    "exclamation",
+    "exclamation mark",
+    "exclude",
+    "excluding",
+    "exclusion",
+    "exclusive",
+    "exclusive of"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667164_be13f785e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667164_d1aa49cf49_o.png",
+      "id_image": "exclude_232951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312226_49525db63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312226_b00b48f56a_o.png",
+      "id_image": "exclude_4559450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356202_790fea1e51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356202_b35825e83a_o.png",
+      "id_image": "exclude_4576575"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "english": "contact",
+  "phat_am": "ˈkontӕkt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiếp xúc",
+          "definition": "physical touch or nearness",
+          "world_new": [
+            "physical",
+            "touch",
+            "nearness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hands came into contact with acid",
+              "world_new": [
+                "acid"
+              ]
+            },
+            {
+              "ex_of_definition": "Has she been in contact with measles?",
+              "world_new": [
+                "measles"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự liên lạc",
+          "definition": "communication",
+          "world_new": [
+            "communication"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve lost contact with all my old friends",
+              "world_new": [
+                "lost",
+                "my",
+                "old"
+              ]
+            },
+            {
+              "ex_of_definition": "We have succeeded in making (radio) contact with the ship",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "How can I get in contact with him?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu mối liên lạc",
+          "definition": "a person with influence, knowledge etc which might be useful",
+          "world_new": [
+            "person",
+            "influence",
+            "knowledge",
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I made several good contacts in London.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ tiếp xúc",
+          "definition": "(a place where) a wire etc carrying electric current (may be attached)",
+          "world_new": [
+            "place",
+            "wire",
+            "electric",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the contacts on the battery.",
+              "world_new": [
+                "battery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người có thể truyền bệnh",
+          "definition": "a person who has been near someone with an infectious disease",
+          "world_new": [
+            "person",
+            "infectious",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must trace all known contacts of the cholera victim.",
+              "world_new": [
+                "trace",
+                "cholera",
+                "victim"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người, thiết bị liên lạc",
+          "definition": "a person or thing that provides a means of communicating with someone",
+          "world_new": [
+            "person",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His radio is his only contact with the outside world.",
+              "world_new": [
+                "radio",
+                "outside",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liên lạc",
+          "definition": "to get in touch with in order to give or share information etc",
+          "world_new": [
+            "touch",
+            "order",
+            "share",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll contact you by telephone.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "contact lens"
+  ],
+  "list_browse": [
+    "consumer goods",
+    "consummate",
+    "consummation",
+    "consumption",
+    "contact",
+    "contact lens",
+    "contagion",
+    "contagious",
+    "contain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308301_38e181b122_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308301_c9c1a8ae03_o.png",
+      "id_image": "contact_1418570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308286_7300f06919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308286_1de35616fc_o.png",
+      "id_image": "contact_1455096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308211_ee1e9dc50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308211_8e83283be1_o.png",
+      "id_image": "contact_1871100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045150_5c656c504a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045150_5f1a9ed084_o.png",
+      "id_image": "contact_3130709"
+    }
+  ]
+}

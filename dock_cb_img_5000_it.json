@@ -1,0 +1,168 @@
+{
+  "english": "dock",
+  "phat_am": "dok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vũng tàu đậu",
+          "definition": "a deepened part of a harbour/harbor etc where ships go for loading, unloading, repair etc",
+          "world_new": [
+            "part",
+            "repair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was in dock for three weeks.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bến tàu",
+          "definition": "the area surrounding this",
+          "world_new": [
+            "area",
+            "surrounding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works down at the docks.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghế bị cáo",
+          "definition": "the box in a law court where the accused person sits or stands",
+          "world_new": [
+            "box",
+            "law",
+            "court",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They put him in the dock for shoplifting.",
+              "world_new": [
+                "shoplifting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cập bến",
+          "definition": "to (cause to) enter a dock and tie up alongside a quay",
+          "world_new": [
+            "enter",
+            "tie",
+            "alongside",
+            "quay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The liner docked in Southampton this morning.",
+              "world_new": [
+                "liner",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt bớt",
+          "definition": "to cut short or remove a part from",
+          "world_new": [
+            "cut",
+            "short",
+            "remove",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog’s tail had been docked",
+              "world_new": [
+                "tail"
+              ]
+            },
+            {
+              "ex_of_definition": "His wages were docked to pay for the broken window.",
+              "world_new": [
+                "pay",
+                "broken",
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both the gradient and categorical approaches can deal with the most common situation, where the only licit docking site is right at the edge.",
+    "The disruption of oil supplies, compounded by a national docks strike, precipitated the long awaited sterling crisis.",
+    "On the other side, in the plantations and docks, where labour agents were both powerful and pivotal, needs of capital were of a different kind.",
+    "On the other hand, tugs, construction site machinery, docks, and ferries belong to the city's unofficial existence.",
+    "It may seem odd to say that part of the transfer consisted in the damage to the dock.",
+    "More than twothirds had been labourers of one sort or another, on farms, docks, roads, or unemployed.",
+    "The corresponding loss could only have been the loss represented by the mere use of the dock.",
+    "Protein-protein interactions: hot spots and structurally conserved residues often locate in complemented pockets that preorganize in the unbound states: implications for docking."
+  ],
+  "list_see_also": [
+    "docker",
+    "dockyard"
+  ],
+  "list_browse": [
+    "do-it-yourself",
+    "docile",
+    "docilely",
+    "docility",
+    "dock",
+    "docker",
+    "dockyard",
+    "doctor",
+    "doctorate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312161_25dd4997ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312161_0bc1230480_o.png",
+      "id_image": "dock_1670289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667049_70062b6950_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667049_5fcaec1074_o.png",
+      "id_image": "dock_2005814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048720_96ca3b5b09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048720_220dc8ccf1_o.png",
+      "id_image": "dock_3103619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356152_d84756f955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356152_bc97162a48_o.png",
+      "id_image": "dock_3393600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048665_0041667e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048665_2bbcd7ba1f_o.png",
+      "id_image": "dock_6147173"
+    }
+  ]
+}

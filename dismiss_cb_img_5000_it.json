@@ -1,0 +1,120 @@
+{
+  "english": "dismiss",
+  "phat_am": "disˈmis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sa thải",
+          "definition": "to send or put away",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dismissed him with a wave of the hand",
+              "world_new": [
+                "wave",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "Dismiss the idea from your mind!",
+              "world_new": [
+                "idea",
+                "your",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thải hồi",
+          "definition": "to remove from office or employment",
+          "world_new": [
+            "remove",
+            "office",
+            "employment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was dismissed from his post for being lazy.",
+              "world_new": [
+                "lazy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bác bỏ",
+          "definition": "to stop or close (a lawsuit etc)",
+          "world_new": [
+            "stop",
+            "close",
+            "lawsuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The case was dismissed due to a lack of evidence.",
+              "world_new": [
+                "case",
+                "due",
+                "lack",
+                "evidence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He then dismisses natural-law theory with the objection that it fails to appreciate the fallenness of human nature.",
+    "She thus dismisses the types of underspecified representations argued for in the mainstream literature in favour of far more phonetically based representations.",
+    "To make matters worse, its chairman had not only expressed his opposition to multi-partyism but had also been dismissed as a judge for financial impropriety.",
+    "Despite my reservations, this volume should not be immediately dismissed.",
+    "In addition, we also observed atypical associations between dismissing attachment representations, avoidant attachment relationships, and maternal sensitivity.",
+    "On a different tack, however, it does seem to us that dismissing forms as exceptions on the basis of their small numbers is a mistake.",
+    "Punishments depended on the offence, but she could be warned by the wet-nursing inspection bureau, fined or dismissed.",
+    "Fearful adults scored extremely low and significantly lower than preoccupied and dismissing adults on the histrionic and narcissistic dimensions."
+  ],
+  "list_see_also": [
+    "dismissal",
+    "dismissive",
+    "dismissively"
+  ],
+  "list_browse": [
+    "dismal",
+    "dismally",
+    "dismantle",
+    "dismay",
+    "dismiss",
+    "dismissal",
+    "dismissive",
+    "dismissively",
+    "dismount"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315636_360df7c446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315636_d9a6db81c2_o.png",
+      "id_image": "dismissed_1533220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670264_db56a80d1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670264_c9e128a691_o.png",
+      "id_image": "dismissed_5692046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359922_dd4c94ea5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359922_4bd54e9fb0_o.png",
+      "id_image": "dismiss_5692029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430603_1b532839cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430603_d2f3c1e0c6_o.png",
+      "id_image": "dismiss_5692454"
+    }
+  ]
+}

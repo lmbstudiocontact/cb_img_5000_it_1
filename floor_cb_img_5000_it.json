@@ -1,0 +1,125 @@
+{
+  "english": "floor",
+  "phat_am": "floː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sàn nhà",
+          "definition": "the surface in a room etc on which one stands or walks",
+          "world_new": [
+            "surface",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby was crawling about n the floor.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng",
+          "definition": "all the rooms on the same level in a building",
+          "world_new": [
+            "rooms",
+            "level",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My office is on the third floor.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sàn; lát sàn",
+          "definition": "to make or cover a floor",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve floored the kitchen with plastic tiles.",
+              "world_new": [
+                "kitchen",
+                "plastic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho ai đo ván",
+          "definition": "to knock down",
+          "world_new": [
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He floored him with a powerful blow.",
+              "world_new": [
+                "powerful",
+                "blow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, the cumulative aspect of its errors is often incompatible with an accurate location on irregular floors.",
+    "Chicks were maintained on a 24 h constant light schedule in heated, thermostatically controlled, stainless steel starter batteries with raised wire floors.",
+    "However, the ability of children living on lower floors to discriminate between similar sounds was lower than that displayed by children living on upper floors.",
+    "They showed the same tendency to point to visible routes to rooms on the same and different floors.",
+    "Together, the ground floors of the blocks form a secondary pedestrian network, containing interior public spaces appropriate to each block.",
+    "A second type of household cluster consists of two floors (figure 3).",
+    "The shaded areas show parts of the plan that would defy architectural logic if they formed different floors of one house.",
+    "Recently, however, rather impressive bungalows, made from concrete and finished with teakwood and marble floors, have sprung up amid the workers' houses and dyeing units."
+  ],
+  "list_see_also": [
+    "be floored",
+    "-floored",
+    "floorboard",
+    "flooring"
+  ],
+  "list_browse": [
+    "flooding",
+    "floodlight",
+    "floodlighting",
+    "floodlit",
+    "floor",
+    "floorboard",
+    "-floored",
+    "flooring",
+    "flop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675604_df0ea72cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675604_a6df20ff75_o.png",
+      "id_image": "floor_1207148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435748_1a5ac26edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435748_9277fa8791_o.png",
+      "id_image": "floor_2014981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320531_f2bb2fa369_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320531_b36d1f64f2_o.png",
+      "id_image": "floor_4370458"
+    }
+  ]
+}

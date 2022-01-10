@@ -1,0 +1,83 @@
+{
+  "english": "domain",
+  "phat_am": "dəˈmein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lãnh địa",
+          "definition": "an old word for the lands which belong to a person",
+          "world_new": [
+            "old",
+            "belong",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the king’s domains."
+            }
+          ]
+        },
+        {
+          "mean_english": "lĩnh vực",
+          "definition": "one’s area of interest or of knowledge",
+          "world_new": [
+            "area",
+            "interest",
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That question is outside my domain.",
+              "world_new": [
+                "question",
+                "outside",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because of this, sequential selection does not choose examples from the latter domains until all those from the first have been selected.",
+    "Several have a variety of domains, which may be useful in determining protein function.",
+    "More generally, we can consider domains with a (densely) embedded copy of line or unit interval.",
+    "What had not been realised before is that this same construction can be applied to ordered sets, and to domains.",
+    "In this paper, we are particularly interested in domains without maximal finite elements.",
+    "In some nlg domains, short texts may be desirable, but then the target corpus will also consist of short texts.",
+    "Colimits of diagrams with small-filtered domains are called small-filtered colimits.",
+    "Note that the cartesian product of two convex domains is convex, so this minimisation is, in fact, also a convex minimisation call."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doll",
+    "dollar",
+    "dolly",
+    "dolphin",
+    "domain",
+    "dome",
+    "domed",
+    "domestic",
+    "domestic help"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666034_4629f19def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666034_9d2edea775_o.png",
+      "id_image": "domain_287492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425858_b02e4610e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425858_a70475f0de_o.png",
+      "id_image": "domain_4496196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047650_a7d229122a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047650_e656f0c138_o.png",
+      "id_image": "domain_5030933"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "english": "element",
+  "phat_am": "ˈeləmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "yếu tố",
+          "definition": "an essential part of anything",
+          "world_new": [
+            "essential",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sound teaching of mathematics is one of the elements of a good education.",
+              "world_new": [
+                "teaching",
+                "mathematics",
+                "elements",
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên tố",
+          "definition": "a substance that cannot be split by chemical means into simpler substances",
+          "world_new": [
+            "substance",
+            "split",
+            "chemical",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hydrogen, chlorine, iron, and uranium are elements.",
+              "world_new": [
+                "chlorine",
+                "iron",
+                "uranium",
+                "elements"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "môi trường",
+          "definition": "surroundings necessary for life",
+          "world_new": [
+            "surroundings",
+            "necessary",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water is a fish’s natural element.",
+              "world_new": [
+                "natural"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lượng nhỏ vật gì",
+          "definition": "a slight amount",
+          "world_new": [
+            "slight",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is an element of doubt in my mind.",
+              "world_new": [
+                "doubt",
+                "my",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ruột ấm điện",
+          "definition": "the heating part in an electric kettle etc.",
+          "world_new": [
+            "heating",
+            "part",
+            "electric",
+            "kettle"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Or, adopting a distributed point of view, conceptual representations of verbs may share fewer meaning elements in a bilingual's memory than those of nouns.",
+    "The city itself is a dominant element within literature and film.",
+    "Instead, they appeared on occasion to recompute the phonetic elements, producing a new erroneous version.",
+    "I n the finite element idealization of a problem domain, the continuous domain is replaced by a system of discrete component subdomains.",
+    "The algorithm initially creates a population of m individuals by assigning random values to the elements of the genomes.",
+    "However, all researchers agree that both elements are required if we are to understand the potential role and limitations of a specific psychological therapy.",
+    "This can be developed by saying that an 'organic' growth, without the structuring element of some kind of framework, is chaos.",
+    "Regular secondary structure elements are represented in black."
+  ],
+  "list_see_also": [
+    "elementary",
+    "elements",
+    "in one’s element"
+  ],
+  "list_browse": [
+    "electronics",
+    "elegance",
+    "elegant",
+    "elegy",
+    "element",
+    "elementary",
+    "elements",
+    "elephant",
+    "elevate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061760_f1e00e13ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061760_ae25843b20_o.png",
+      "id_image": "element_191103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439878_4522191730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439878_d16ca97fed_o.png",
+      "id_image": "element_2311647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679964_21febd8065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679964_b97857654e_o.png",
+      "id_image": "element_2563440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324721_5d10889b22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324721_9f85304df0_o.png",
+      "id_image": "element_3527748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679879_0e80802d2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679879_7bf52c37cb_o.png",
+      "id_image": "element_5740896"
+    }
+  ]
+}

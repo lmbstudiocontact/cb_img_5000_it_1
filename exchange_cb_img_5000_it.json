@@ -1,0 +1,183 @@
+{
+  "english": "exchange",
+  "phat_am": "iksˈtʃeindʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổi",
+          "definition": "to give, or give up, in return for something else",
+          "world_new": [
+            "return",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you exchange a dollar note for two 50-cent pieces?",
+              "world_new": [
+                "dollar",
+                "note"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trao đổi",
+          "definition": "to give and receive in return",
+          "world_new": [
+            "receive",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They exchanged amused glances.",
+              "world_new": [
+                "amused"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trao đổi",
+          "definition": "the giving and taking of one thing for another",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a pencil in exchange for the marble",
+              "world_new": [
+                "pencil",
+                "marble"
+              ]
+            },
+            {
+              "ex_of_definition": "An exchange of opinions is helpful.",
+              "world_new": [
+                "helpful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc tranh cãi",
+          "definition": "a conversation or dispute",
+          "world_new": [
+            "conversation",
+            "dispute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An angry exchange took place between the two brothers when their father’s will was read.",
+              "world_new": [
+                "angry",
+                "place",
+                "their",
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi tiền",
+          "definition": "the act of exchanging the money of one country for that of another.",
+          "world_new": [
+            "act",
+            "money",
+            "country"
+          ]
+        },
+        {
+          "mean_english": "hối đoái",
+          "definition": "the difference between the value of money in different countries",
+          "world_new": [
+            "difference",
+            "value",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the rate of exchange between the U.S. dollar and the yen?",
+              "world_new": [
+                "rate",
+                "U",
+                "dollar",
+                "yen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sàn giao dịch",
+          "definition": "a place where business shares are bought and sold or international financial dealings carried on.",
+          "world_new": [
+            "place",
+            "business",
+            "international",
+            "financial"
+          ]
+        },
+        {
+          "mean_english": "tổng đài điện thoại",
+          "definition": "(also telephone exchange) a central telephone system where lines are connected.",
+          "world_new": [
+            "central",
+            "telephone",
+            "system",
+            "lines"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By using the one-to-many approach described above we reduce the number of messages exchanged.",
+    "The presented work deals with collaboration and information exchanging between agents.",
+    "The potential returns from a sufficient number of subscribers provided a considerable incentive for the opening up of exchanges.",
+    "A broken line represents a theoretical curve for fully stripped projectiles without charge exchanges in plasma.",
+    "The general principle is that implicit exchanges involved in proofnets are made explicit by various sequentializations.",
+    "Based on this reasoning, we decided here to count such initial phoneme exchanges as correct.",
+    "Next, it sequentially engages these candidates, in utility-ranked order, in argumentative negotiation, where offers and counteroffers are exchanged.",
+    "Through these exchanges, a democratic discourse is produced which enables citizens to participate in politics while keeping the informational costs of participation within tolerable bounds."
+  ],
+  "list_see_also": [
+    "exchangeable",
+    "exchange rate"
+  ],
+  "list_browse": [
+    "excess",
+    "excessive",
+    "excessively",
+    "excessiveness",
+    "exchange",
+    "exchange rate",
+    "exchangeable",
+    "exchequer",
+    "excise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049180_998ba90e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049180_c65673abae_o.png",
+      "id_image": "exchange_377033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312601_d9cd8bf3ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312601_125b98e823_o.png",
+      "id_image": "exchange_536143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049145_089e45e252_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049145_ab44d929e1_o.png",
+      "id_image": "exchange_617061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312526_5075b13034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312526_8a955c77cc_o.png",
+      "id_image": "exchange_642469"
+    }
+  ]
+}

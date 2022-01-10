@@ -1,0 +1,67 @@
+{
+  "english": "dual",
+  "phat_am": "ˈdjuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đôi",
+          "definition": "double; twofold; made up of two",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gadget with a dual purpose",
+              "world_new": [
+                "gadget",
+                "purpose"
+              ]
+            },
+            {
+              "ex_of_definition": "The driving instructor’s car has dual controls.",
+              "world_new": [
+                "driving",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To be a ribbon category, the duals have to be compatible with the braiding and the twists in a certain way.",
+    "In addition, only the dual-arm case is addressed, and the extension to the multiarm case does not seem to be straightforward.",
+    "Projective billiards include the usual billiards along with the dual, or outer, billiards.",
+    "However, the immunological effects of heat shock proteins purified from tumour cells have a dual nature.",
+    "The semiregular tilings form new tilings from their duals, each made from one type of irregular face.",
+    "Abstracting the initial graph to its corresponding dual graph ensures that unambiguous mappings can be derived.",
+    "We say that such a pair of fixed points is n -dual.",
+    "The findings provide mixed support for the dual-mechanism model."
+  ],
+  "list_see_also": [
+    "dual carriageway"
+  ],
+  "list_browse": [
+    "dry up",
+    "dry-clean",
+    "dry-cleaner’s",
+    "dryness",
+    "dual",
+    "dual carriageway",
+    "dub",
+    "dubbing",
+    "dubiety"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380927_993a5fb070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380927_7ed80d120b_o.png",
+      "id_image": "dual_3603712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691089_4e4e2bf077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691089_41a32f780a_o.png",
+      "id_image": "dual_4044551"
+    }
+  ]
+}

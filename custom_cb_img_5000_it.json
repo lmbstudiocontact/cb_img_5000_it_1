@@ -1,0 +1,120 @@
+{
+  "english": "custom",
+  "phat_am": "ˈkastəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thói quen",
+          "definition": "what a person etc is in the habit of doing or does regularly",
+          "world_new": [
+            "person",
+            "habit",
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s my custom to go for a walk on Saturday mornings",
+              "world_new": [
+                "my",
+                "walk",
+                "Saturday"
+              ]
+            },
+            {
+              "ex_of_definition": "religious customs.",
+              "world_new": [
+                "religious",
+                "customs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khách quen",
+          "definition": "the regular buying of goods at the same shop etc; trade or business",
+          "world_new": [
+            "regular",
+            "goods",
+            "shop",
+            "trade",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new supermarkets take away custom from the small shops.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "theo đặt hàng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "made, built, or designed for a particular person",
+              "world_new": [
+                "particular",
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "a custom-built car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, police reports, criminal registers and social worker accounts were analysed, as were custom-made questionnaires completed by family, friends, neighbours and co-workers of the offenders.",
+    "A third source (after conventions and custom) is 'the general principles of law recognised by civilised nations'.",
+    "In practice, the ' sons of the customs ' would just as soon accept a personal offering (dash) in the coin of the realm.",
+    "But it was obviously his original idea to convert this school custom into a creative act.",
+    "Typically, though, forest management regulations are determined wholly by custom, though some villages also utilize formal laws.",
+    "Some experiments were straightforward modifications of previous customs.",
+    "To make such exchange possible, agents adopted the customs and practices of the outsiders they wanted to trade with to signal their credibility.",
+    "He too insisted that law should not be confused with custom."
+  ],
+  "list_see_also": [
+    "customary",
+    "customarily",
+    "customer",
+    "customize",
+    "customs"
+  ],
+  "list_browse": [
+    "cuss",
+    "custard",
+    "custodian",
+    "custody",
+    "custom",
+    "customarily",
+    "customary",
+    "customer",
+    "customize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313701_48efe0c167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313701_6e9cea71f3_o.png",
+      "id_image": "custom_2130671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357832_8485c72847_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357832_3abe470abb_o.png",
+      "id_image": "custom_2761020"
+    }
+  ]
+}

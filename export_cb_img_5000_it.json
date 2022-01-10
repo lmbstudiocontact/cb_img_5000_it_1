@@ -1,0 +1,105 @@
+{
+  "english": "export",
+  "phat_am": "ekˈspoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất khẩu",
+          "definition": "to send (goods) to another country for sale",
+          "world_new": [
+            "send",
+            "country",
+            "sale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Jamaica exports bananas to Britain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự xuất khẩu",
+          "definition": "the act or business of exporting",
+          "world_new": [
+            "act",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the export of rubber.",
+              "world_new": [
+                "rubber"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng xuất khẩu",
+          "definition": "something which is exported",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Paper is an important Swedish export.",
+              "world_new": [
+                "important"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the pollution charge is too low and the country exports the product which generates pollution, welfare may decline upon the introduction of preferential trading.",
+    "Finally, the overall result will be given by exporting from this component only the required sorts, operations and predicate.",
+    "However, the analysis of exports by classes and products in the second and third sections is carried out with the original figures.",
+    "By contrast, the rural activities of the food, beverages and tobacco sector provide 58 % of exports.",
+    "In this exercise, we omitted exports and this in turn implied a lower demand for final goods.",
+    "The stay-at-homes vs exports classification distinguishes those terms that have stayed home and those that have been exported.",
+    "The effect of exports remains robust to these political controls.",
+    "Globalisation is measured by imports, exports, and incoming and outgoing direct investment."
+  ],
+  "list_see_also": [
+    "exportation",
+    "exporter"
+  ],
+  "list_browse": [
+    "explorer",
+    "explosion",
+    "explosive",
+    "exponent",
+    "export",
+    "exportation",
+    "exporter",
+    "expose",
+    "exposed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078845_5a0d454149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078845_063c6b9605_o.png",
+      "id_image": "export_1656448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078820_1cde276621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078820_88288641ef_o.png",
+      "id_image": "export_1900227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696599_ae97577455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696599_ca75d3e478_o.png",
+      "id_image": "export_3490152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078760_025ec22bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078760_d0131886ec_o.png",
+      "id_image": "export_6203207"
+    }
+  ]
+}

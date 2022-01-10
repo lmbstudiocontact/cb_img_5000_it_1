@@ -1,0 +1,106 @@
+{
+  "english": "delegate",
+  "phat_am": "ˈdeləɡeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ủy thác",
+          "definition": "to give (a piece of work, power etc) to someone else",
+          "world_new": [
+            "piece",
+            "work",
+            "power",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He delegates a great deal of work to his assistant.",
+              "world_new": [
+                "great",
+                "deal",
+                "work",
+                "assistant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người đại biểu",
+          "definition": "an elected representative (to a conference, Parliament, committee etc)",
+          "world_new": [
+            "representative",
+            "conference",
+            "committee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The delegates met in the conference room.",
+              "world_new": [
+                "conference",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1912, however, authorization for export was delegated to a trading company for a fixed payment.",
+    "The manager agent delegates tasks to the garden designing agent and the house interior designing agent.",
+    "The decision to consent to certain forms of treatment may also be delegated to a manager when appropriate.",
+    "The government had presented its recommendations ; now the delegates were presenting theirs.",
+    "The extension of nurse prescribing may also mean that more nursing activities are delegated to unregistered staff.",
+    "Dissent was so fragmented as to leave delegates feeling impotent and isolated rather than determinedly oppositional.",
+    "The third phase delegates the majority of the work to the tools.",
+    "At constitutional conventions held in the transition from territory to statehood, delegates designed state governments with these goals in mind."
+  ],
+  "list_see_also": [
+    "delegation"
+  ],
+  "list_browse": [
+    "dejected",
+    "dejectedly",
+    "dejection",
+    "delay",
+    "delegate",
+    "delegation",
+    "delete",
+    "deletion",
+    "deli"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349772_e129f6c3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349772_6891a1fd73_o.png",
+      "id_image": "delegate_2473026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661014_af5a7b1bd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661014_d3883124f7_o.png",
+      "id_image": "delegate_2753112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305531_5edae2d93b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305531_26332d3d68_o.png",
+      "id_image": "delegate_3317632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305501_bc1e92a492_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305501_eee9dbc750_o.png",
+      "id_image": "delegate_4176940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660964_3858e5b5fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660964_edc6e8f6d6_o.png",
+      "id_image": "delegate_4805747"
+    }
+  ]
+}

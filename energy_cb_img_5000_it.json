@@ -1,0 +1,113 @@
+{
+  "english": "energy",
+  "phat_am": "ˈenədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "năng lực",
+          "definition": "the ability to act, or the habit of acting, strongly and vigorously",
+          "world_new": [
+            "ability",
+            "act",
+            "habit",
+            "acting",
+            "strongly",
+            "vigorously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has amazing energy for his age",
+              "world_new": [
+                "amazing",
+                "age"
+              ]
+            },
+            {
+              "ex_of_definition": "That child has too much energy",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "I must devote my energies to gardening today.",
+              "world_new": [
+                "I",
+                "devote",
+                "my",
+                "gardening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng lượng",
+          "definition": "the power, eg of electricity, of doing work",
+          "world_new": [
+            "power",
+            "electricity",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "electrical energy",
+              "world_new": [
+                "electrical"
+              ]
+            },
+            {
+              "ex_of_definition": "nuclear energy.",
+              "world_new": [
+                "nuclear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "energetic",
+    "energetically",
+    "energy-efficient"
+  ],
+  "list_browse": [
+    "enema",
+    "enemy",
+    "energetic",
+    "energetically",
+    "energy",
+    "energy-efficient",
+    "enforce",
+    "enforcement",
+    "engage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364477_aed2c019a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364477_3ce2f92cca_o.png",
+      "id_image": "energy_167862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434828_d5da5bc2e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434828_47ea28493e_o.png",
+      "id_image": "energy_1886443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674559_f0bc4f4d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674559_93c87b10c1_o.png",
+      "id_image": "energy_2321652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434888_ef5b4ef8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434888_8f6d98924a_o.png",
+      "id_image": "energy_523338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434848_9a6b3134b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434848_34faf8e65e_o.png",
+      "id_image": "energy_523354"
+    }
+  ]
+}

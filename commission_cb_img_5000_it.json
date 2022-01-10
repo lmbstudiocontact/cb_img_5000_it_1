@@ -1,0 +1,157 @@
+{
+  "english": "commission",
+  "phat_am": "kəˈmiʃən",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tiền hoa hồng",
+          "definition": "money earned by a person who sells things for someone else",
+          "world_new": [
+            "money",
+            "person",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The realtor earns a 5% commission on the sale of each house.",
+              "world_new": [
+                "realtor",
+                "sale",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiệm vụ",
+          "definition": "an order for a work of art",
+          "world_new": [
+            "order",
+            "work",
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a commission to paint the president’s portrait.",
+              "world_new": [
+                "paint",
+                "portrait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng phong cấp sỹ quan",
+          "definition": "an official paper giving authority, especially to an army officer etc",
+          "world_new": [
+            "official",
+            "paper",
+            "authority",
+            "army",
+            "officer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My son got his commission last year.",
+              "world_new": [
+                "son",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội đồng",
+          "definition": "an official group appointed to report on a specific matter",
+          "world_new": [
+            "official",
+            "group",
+            "appointed",
+            "report",
+            "specific",
+            "matter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a commission of enquiry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trao nhiệm vụ cho ai",
+          "definition": "to give an order (especially for a work of art) to",
+          "world_new": [
+            "order",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was commissioned to paint the Lord Mayor’s portrait.",
+              "world_new": [
+                "paint",
+                "portrait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính thức bổ nhiệm ai",
+          "definition": "to give a military commission to.",
+          "world_new": [
+            "military"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All articles, including commissioned ones, will be refereed.",
+    "The second consisted of companies which were floated specifically to funnel lucrative government contracts on commission, or in anticipation of bank loans that never materialised.",
+    "In the end, there were really two distinct commissions rather than just one.",
+    "As the one who commissioned the monuments, the ruler could use them to communicate his/her view of society.",
+    "The commissioning group facilitated bids from the voluntary sector, linking them to academic units.",
+    "When a draft law arrives, it is considered by the appropriate technical commissions.",
+    "A particularly sensitive issue concerns the registration of voters and the respective roles of the electoral commission and the interior ministry.",
+    "Lastly, senior commissions might be used as party-building patronage resources."
+  ],
+  "list_see_also": [
+    "commissionaire",
+    "commissioner",
+    "in/out of commission"
+  ],
+  "list_browse": [
+    "commercialism",
+    "commercialize",
+    "commiserate",
+    "commiseration",
+    "commission",
+    "commissionaire",
+    "commissioner",
+    "commit",
+    "commitment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673589_e0e40a4389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673589_b9b2dc7231_o.png",
+      "id_image": "commission_1999247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673554_2d1f0789d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673554_13ee75f620_o.png",
+      "id_image": "commission_4514859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055270_5bb6cc6575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055270_9ce220d07f_o.png",
+      "id_image": "commission_4659024"
+    }
+  ]
+}

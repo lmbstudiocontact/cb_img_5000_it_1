@@ -1,0 +1,164 @@
+{
+  "english": "content",
+  "phat_am": "kənˈtent",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng lòng",
+          "definition": "satisfied; quietly happy",
+          "world_new": [
+            "quietly",
+            "happy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He doesn’t want more money – he’s content with what he has.",
+              "world_new": [
+                "want",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bằng lòng",
+          "definition": "the state of being satisfied or quietly happy",
+          "world_new": [
+            "state",
+            "satisfied",
+            "quietly",
+            "happy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re on holiday – you can lie in the sun to your heart’s content.",
+              "world_new": [
+                "holiday",
+                "lie",
+                "sun",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bằng lòng",
+          "definition": "to satisfy",
+          "world_new": [
+            "satisfy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As the TV’s broken, you’ll have to content yourself with listening to the radio.",
+              "world_new": [
+                "broken",
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nội dung",
+          "definition": "the subject matter (of a book, speech etc)",
+          "world_new": [
+            "subject",
+            "matter",
+            "book",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The content of his speech proved to be somewhat controversial.",
+              "world_new": [
+                "speech",
+                "somewhat",
+                "controversial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứa đựng",
+          "definition": "the amount of something contained",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oranges have a high vitamin C content.",
+              "world_new": [
+                "vitamin",
+                "C"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consequently, elderly participants were not recruited as the survey content would have been irrelevant.",
+    "His content analysis of interview data revealed three themes.",
+    "The video contents are represented using a language-based annotation model.",
+    "They could be full-time content developers, or they could work part-time alongside other teaching or research duties.",
+    "If the glucosinolate content of rapeseed seed meal remains low, it too can be used as a feed supplement.",
+    "Similarly, the model specifies no checkerboard contributions to content until that date, then requires them afterwards.",
+    "Metabolic stresses at a given water content can impair specific metabolic activities.",
+    "They accept that legal systems may exist and that, if they do, their content may be wholly determinate."
+  ],
+  "list_see_also": [
+    "contented",
+    "contentedly",
+    "contentment"
+  ],
+  "list_browse": [
+    "contemptuous",
+    "contemptuously",
+    "contend",
+    "contender",
+    "content",
+    "content word",
+    "contented",
+    "contentedly",
+    "contention"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044275_2606c44f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044275_c1e0e67a70_o.png",
+      "id_image": "content_2132256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307321_e56b9649cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307321_3dfbd00747_o.png",
+      "id_image": "content_2503644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422488_5c64368be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422488_fa302096b8_o.png",
+      "id_image": "content_536871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662649_c5ab6c9e4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662649_14bf0ec0ed_o.png",
+      "id_image": "content_950572"
+    }
+  ]
+}

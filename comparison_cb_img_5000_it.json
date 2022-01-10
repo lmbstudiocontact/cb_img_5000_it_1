@@ -1,0 +1,72 @@
+{
+  "english": "comparison",
+  "phat_am": "kəmˈpӕrisn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự so sánh",
+          "definition": "(an act of) comparing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no comparison between Beethoven and pop music",
+              "world_new": [
+                "pop",
+                "music"
+              ]
+            },
+            {
+              "ex_of_definition": "Living here is cheap in comparison with London.",
+              "world_new": [
+                "cheap"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Uncontrolled factors affecting light transmission imply that optical density comparisons between different slide preparations are not valid.",
+    "Similar issues are sometimes overlooked in product comparisons when the use of samples from different, varieties or breeds can lead to invalid results.",
+    "Note that in repeated-measures comparisons, if at least one of the conditions is missing data, all data from that participant are eliminated.",
+    "A ranking system was used to make comparisons of the different methods.",
+    "However, they make direct comparisons to field and laboratory observations of nonhuman behavior as if the two data types were essentially equivalent.",
+    "The wide range of coding schemes can make comparisons across different studies difficult to make.",
+    "However, ' encourage ' is used only with go so this category was excluded from the following comparisons.",
+    "More precise comparisons can be made on the basis of analyses of itemby-item agreement scores."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "comparable",
+    "comparative",
+    "comparatively",
+    "compare",
+    "comparison",
+    "compartment",
+    "compass",
+    "compass rose",
+    "compassion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671964_3e928468ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671964_ff59ed2473_o.png",
+      "id_image": "comparison_2137465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317241_cc5930633e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317241_294ffef784_o.png",
+      "id_image": "comparison_2358354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361582_8f67880e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361582_324f66f265_o.png",
+      "id_image": "comparison_921931"
+    }
+  ]
+}

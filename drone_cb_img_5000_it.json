@@ -1,0 +1,123 @@
+{
+  "english": "drone",
+  "phat_am": "drəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ong mật đực",
+          "definition": "the male of the bee.",
+          "world_new": [
+            "male",
+            "bee"
+          ]
+        },
+        {
+          "mean_english": "kẻ ăn không ngồi rồi",
+          "definition": "a person who is lazy and idle.",
+          "world_new": [
+            "person",
+            "lazy",
+            "idle"
+          ]
+        },
+        {
+          "mean_english": "tiếng o o",
+          "definition": "a deep, humming sound",
+          "world_new": [
+            "deep",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the distant drone of traffic.",
+              "world_new": [
+                "distant",
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo ra âm thanh o o",
+          "definition": "to make a low, humming sound",
+          "world_new": [
+            "low",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An aeroplane/airplane droned overhead.",
+              "world_new": [
+                "overhead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói giọng đều đều",
+          "definition": "to speak in a dull, boring voice",
+          "world_new": [
+            "speak",
+            "dull",
+            "boring",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lecturer droned on and on.",
+              "world_new": [
+                "lecturer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The material is relatively simple: drones, amplified percussion, distortion effects, and, in the final track, a range of objects.",
+    "Archetypical drones, overlaid with playful samples of string improvisation and instrumental effects develop the keynotes, roads and horizons for a series of soundscape situations.",
+    "The soundscape metamorphosed wonderfully into the dense drone of a gigantic beehive.",
+    "Example 18 illustrates a number of steps in the transformation of a church bell to a spatially vague pitched drone.",
+    "We point to those innumerable works in electroacoustic music that use grooves or long low-frequency drones.",
+    "In example 11, small sound-objects are combined with a resonant drone suggesting some kind of enclosure.",
+    "Some use is made of octaves and drones to vary the texture.",
+    "The teacher and trainee teacher added drones and melodic ostinati from a keyboard and a computer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "driveway",
+    "driving",
+    "driving licence",
+    "drizzle",
+    "drone",
+    "droop",
+    "drop",
+    "drop a brick / drop a clanger",
+    "drop back"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452808_1307a00a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452808_9fc8c90e09_o.png",
+      "id_image": "drone_386472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074945_148f702967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074945_7547858d3a_o.png",
+      "id_image": "drone_473187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452753_5d26bef4d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452753_f47316f21c_o.png",
+      "id_image": "drone_536707"
+    }
+  ]
+}

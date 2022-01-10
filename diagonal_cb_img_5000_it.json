@@ -1,0 +1,72 @@
+{
+  "english": "diagonal",
+  "phat_am": "daiˈӕɡənl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chéo",
+          "definition": "a line going from one corner to the opposite corner",
+          "world_new": [
+            "line",
+            "corner",
+            "opposite",
+            "corner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two diagonals of a rectangle cross at the centre.",
+              "world_new": [
+                "rectangle",
+                "cross",
+                "centre"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then it is one of the attractive features of the cell-vertex method in two dimensions that only the components of the quadrilateral diagonals appear in the residual.",
+    "The chords are normally kept aligned and held in place by vertical posts, diagonals, and sideways sway struts.",
+    "The building stands at the western end of a block-size plaza with extensive landscaping arranged in a dense pattern criss-crossed by diagonals.",
+    "Her most typical work favours strong outlines and sweeping diagonals, often with stern, unsmiling faces.",
+    "The matrix of the problem is a 2mn x k 2mn (6m - 1)-diagonal matrix.",
+    "The thick diagonal line separates the traditional orientations ofprocessual archaeology (left) from those of post-processual archaeology (right).",
+    "Examples of broken diagonals from the below square are as follows: 3,12,14,5; 10,1,7,16; 10,13,7,4; 15,8,2,9; 15,12,2,5; and 6,13,11,4.",
+    "Therefore, the sum of the diagonals is equal to the perimeter of the quadrilateral formed."
+  ],
+  "list_see_also": [
+    "diagonally"
+  ],
+  "list_browse": [
+    "diabetes",
+    "diabetic",
+    "diagnose",
+    "diagnosis",
+    "diagonal",
+    "diagonally",
+    "diagram",
+    "dial",
+    "dialect"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324431_d86245c118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324431_e460026d04_o.png",
+      "id_image": "diagonal_1827164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679594_4b687c3260_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679594_502b4bb36b_o.png",
+      "id_image": "diagonal_2748798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439543_7329350428_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439543_1399e4fea8_o.png",
+      "id_image": "diagonal_538813"
+    }
+  ]
+}

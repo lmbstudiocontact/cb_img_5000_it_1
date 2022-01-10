@@ -1,0 +1,56 @@
+{
+  "english": "cubic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có hình vuông",
+          "definition": "shaped like a cube",
+          "world_new": [
+            "shaped",
+            "cube"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the cubic shape of the crystals.",
+              "world_new": [
+                "shape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For irregular surfaces motion planning should be carried out, using three-dimensional cubic splines.",
+    "The parameterisation concerns the generalised coordinates that are approximated using cubic splines.",
+    "By we denote the cubic multigraph consisting of two vertices and three parallel edges joining them.",
+    "Because they use a numerical algorithm to optimize the cubic polynomial joint interpolator, it is not a real-time algorithm.",
+    "The marginal price is the charge made for the last cubic meter of water used.",
+    "In fact, we are easily able to reject a fourth-order polynomial against the cubic (likelihood ratio test 2 3.712).",
+    "Annual timber harvest volumes (in cubic metres), procurement prices and market prices (in yuans per cubic metre) were collected from local timber companies.",
+    "Another question concerns the choice of time function (linear, cubic or exponential)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cub",
+    "cubbyhole",
+    "cube",
+    "cube root",
+    "cubic",
+    "cubic centimetre",
+    "cubicle",
+    "cuckoo",
+    "cucumber"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431553_67c3b6884b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431553_635c23fae0_o.png",
+      "id_image": "cubic_1533916"
+    }
+  ]
+}

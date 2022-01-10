@@ -1,0 +1,92 @@
+{
+  "english": "confidence",
+  "phat_am": "ˈkonfidəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tin tưởng",
+          "definition": "trust or belief in someone’s ability",
+          "world_new": [
+            "trust",
+            "belief",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have great confidence in you.",
+              "world_new": [
+                "I",
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tin cậy",
+          "definition": "belief and faith in one’s own ability",
+          "world_new": [
+            "belief",
+            "faith",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shows a great deal of confidence for her age.",
+              "world_new": [
+                "great",
+                "deal",
+                "age"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of course, they have confidences, like any other person.",
+    "He also pointed out that the record in respecting the confidences is absolute.",
+    "I go along with him, too, on what he said about the confidences of the citizen—the matters referred to in paragraph 192.",
+    "At every stage, the information or document is surely a piece of journalistic material, and confidences may also be involved at every stage.",
+    "I am betraying no confidences, because my discussions with them took place in front of the television cameras, and they are all on the record.",
+    "We are not talking under foreign confidences about this country giving security markings.",
+    "To start with, unless confidences are observed it may make it very difficult to get the register which we desire.",
+    "I still think that the only proper recipient of the solicitor's confidences would be the budgerigar."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "confessional",
+    "confessor",
+    "confetti",
+    "confide",
+    "confidence",
+    "confident",
+    "confidential",
+    "confidentiality",
+    "confidentially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+      "id_image": "confidence_2037294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+      "id_image": "confidence_5225011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+      "id_image": "confidence_5772957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+      "id_image": "confidence_5906152"
+    }
+  ]
+}

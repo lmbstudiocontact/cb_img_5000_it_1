@@ -1,0 +1,82 @@
+{
+  "english": "encyclopedia",
+  "phat_am": "insaikləˈpiːdiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bách khoa toàn thư",
+          "definition": "a reference work containing information on every branch of knowledge, or on one particular branch",
+          "world_new": [
+            "reference",
+            "work",
+            "information",
+            "branch",
+            "knowledge",
+            "particular",
+            "branch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an encyclopaedia of jazz",
+              "world_new": [
+                "jazz"
+              ]
+            },
+            {
+              "ex_of_definition": "If you do not know the capital city of Hungary, look it up in an encyclopaedia.",
+              "world_new": [
+                "know",
+                "capital",
+                "city",
+                "look"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Having noted some positive points, let me now turn to some problematic aspects of this encyclopedia.",
+    "Never mind these uppity modern digraphs: words like encyclopedia, anaemia etc rejoiced in proper diphthongs during my formative years.",
+    "It takes time and effort to discover that there is no information since, being an encyclopedia, there is no index.",
+    "The essays had already been superseded by specialist treatises and by much bigger encyclopedias.",
+    "He found the two encyclopedias roughly comparable on all three measures.",
+    "It is an encyclopedia that lives up to the claim to provide plentiful material on intellectual and religious topics.",
+    "Teachers of family history will also find this encyclopedia a useful way to keep abreast of scholarship from the 1990s.",
+    "A profusion of encyclopedias and collectanea was produced to satisfy this thirst for broad learning."
+  ],
+  "list_see_also": [
+    "encyclopedic"
+  ],
+  "list_browse": [
+    "encouraging",
+    "encouragingly",
+    "encroach",
+    "encroachment",
+    "encyclopedia",
+    "encyclopedic",
+    "end",
+    "end up",
+    "endanger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365017_85fe371896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365017_358b06576a_o.png",
+      "id_image": "encyclopedia_1245349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675094_41fdf2bdd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675094_63af2a3011_o.png",
+      "id_image": "encyclopedia_2702077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364912_479b06fa75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364912_323552d5db_o.png",
+      "id_image": "encyclopedia_5318727"
+    }
+  ]
+}

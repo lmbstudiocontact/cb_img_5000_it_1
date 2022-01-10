@@ -1,0 +1,158 @@
+{
+  "english": "crawl",
+  "phat_am": "kroːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trườn",
+          "definition": "to move slowly along the ground",
+          "world_new": [
+            "move",
+            "slowly",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The injured dog crawled away.",
+              "world_new": [
+                "injured",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bò",
+          "definition": "(of people) to move on hands and knees or with the front of the body on the ground",
+          "world_new": [
+            "move",
+            "front",
+            "body",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby can’t walk yet, but she crawls everywhere.",
+              "world_new": [
+                "baby",
+                "walk",
+                "yet",
+                "everywhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bò",
+          "definition": "to move slowly",
+          "world_new": [
+            "move",
+            "slowly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The traffic was crawling along at ten kilometres per hour.",
+              "world_new": [
+                "traffic",
+                "per",
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị bao phủ",
+          "definition": "to be covered with crawling things",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His hair was crawling with lice.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bò trườn",
+          "definition": "a very slow movement or speed",
+          "world_new": [
+            "slow",
+            "movement",
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We drove along at a crawl."
+            }
+          ]
+        },
+        {
+          "mean_english": "lối bơi trườn",
+          "definition": "a style of swimming in which the arms make alternate overarm movements",
+          "world_new": [
+            "style",
+            "swimming",
+            "arms",
+            "alternate",
+            "overarm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s better at the crawl than she is at the breaststroke.",
+              "world_new": [
+                "better",
+                "breaststroke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are armed men crawling all over the building you are in.",
+    "She was crawling around in circles.",
+    "One finds buses ahead of schedule crawling along our main roads.",
+    "I do not mind spending time crawling all over this issue.",
+    "A fully equipped and fitted out diner was much heavier than a mobile home, and when it was towed on its own wheels it moved at a crawling pace.",
+    "The females readily crawled onto the host, and typically oviposited within a few seconds.",
+    "Reaching, sitting, crawling, grasping, walking, and throwing are just a few of the plethora of skills babies master in their first few years of life.",
+    "We understand kerb crawling to be driving down roads slowly while looking for ladies to solicit."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cravat",
+    "crave",
+    "craven",
+    "craving",
+    "crawl",
+    "crayfish",
+    "crayon",
+    "craze",
+    "crazily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438313_52278a1175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438313_851c288a44_o.png",
+      "id_image": "crawl_2430098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323171_8cdf47cbc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323171_b185b41bdd_o.png",
+      "id_image": "crawl_5660203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678344_02a76d834b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678344_6420aabe68_o.png",
+      "id_image": "crawl_5772836"
+    }
+  ]
+}

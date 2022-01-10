@@ -1,0 +1,82 @@
+{
+  "english": "complexity",
+  "phat_am": "kəmˈpleksəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng phức tạp",
+          "definition": "the quality of being complex",
+          "world_new": [
+            "quality",
+            "complex"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The complexity of the issue should not be underestimated.",
+              "world_new": [
+                "issue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều phức tạp",
+          "definition": "something complex",
+          "world_new": [
+            "complex"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the complexities of the English language.",
+              "world_new": [
+                "English",
+                "language"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, these data appear to be compatible with the suggestion that from the beginnings of auxiliary use, children understand the complexities of agreement marking.",
+    "The field of history offers less simple 'answers' rather than its own series of complexities, which certainly reward further reflection.",
+    "Collisional break-up can reset the exposure ages for some meteorites, and produce 'double exposure ' or other complexities for others.",
+    "We do not know how our results would be affected once all of the complexities of a real language are factored back in.",
+    "The exemplar biographies and contrasting employment histories clearly reveal considerable variability in the pension outcomes and several complexities in the social division of occupational welfare.",
+    "Perhaps they will be unclear in the complexities of particular cases.",
+    "Given this, we have the following time complexities in the worst, average, and best cases.",
+    "Thus, they characteristically (and justifiably) adopt a method of abstracting away from structural complexities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "completeness",
+    "completion",
+    "complex",
+    "complexion",
+    "complexity",
+    "compliance",
+    "compliant",
+    "complicate",
+    "complicated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670679_bd28029c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670679_f36cbb26e5_o.png",
+      "id_image": "complexity_1122400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316031_a55c2a2c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316031_d086225092_o.png",
+      "id_image": "complexity_4882396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360202_3fc93dfdc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360202_16f02b958c_o.png",
+      "id_image": "complexity_5139823"
+    }
+  ]
+}

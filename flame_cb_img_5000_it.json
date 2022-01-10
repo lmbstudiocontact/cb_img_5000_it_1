@@ -1,0 +1,99 @@
+{
+  "english": "flame",
+  "phat_am": "fleim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngọn lửa",
+          "definition": "the bright light of something burning",
+          "world_new": [
+            "bright",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A small flame burned in the lamp.",
+              "world_new": [
+                "small",
+                "lamp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đốt cháy; cháy bùng",
+          "definition": "to burn with flames",
+          "world_new": [
+            "burn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His eyes flamed with anger.",
+              "world_new": [
+                "anger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đỏ mặt",
+          "definition": "to become very hot, red etc",
+          "world_new": [
+            "become",
+            "hot",
+            "red"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her cheeks flamed with embarrassment.",
+              "world_new": [
+                "embarrassment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "flaming",
+    "flammable",
+    "flame of the forest",
+    "inflammable"
+  ],
+  "list_browse": [
+    "flaked out",
+    "flaky",
+    "flamboyance",
+    "flamboyant",
+    "flame",
+    "flame of the forest",
+    "flaming",
+    "flamingo",
+    "flammable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060300_12937a3cd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060300_7f5554e116_o.png",
+      "id_image": "flame_1579480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438603_56ff07d58c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438603_95e6069d42_o.png",
+      "id_image": "flame_222113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678644_c4d4f4c249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678644_e74ea631f3_o.png",
+      "id_image": "flame_2933845"
+    }
+  ]
+}

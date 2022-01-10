@@ -1,0 +1,120 @@
+{
+  "english": "fax",
+  "phat_am": "faks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản phắc",
+          "definition": "a facsimile; a written message sent by a special telephone system",
+          "world_new": [
+            "message",
+            "special",
+            "telephone",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll send you a fax.",
+              "world_new": [
+                "send"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy fax",
+          "definition": "(also fax machine) a machine for transmitting and receiving faxes",
+          "world_new": [
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our new fax has a separate telephone line.",
+              "world_new": [
+                "separate",
+                "telephone",
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số fax",
+          "definition": "a fax number",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fax 8139007."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi fax",
+          "definition": "to send someone a fax",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll fax you the document tomorrow.",
+              "world_new": [
+                "document",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This trend is explained by lower postage and administration costs when using the e-fax capabilities of the automated documentation system.",
+    "Incompletely filled-out questionnaires were completed by additional data collection by telephone, fax, or e-mail or by contacting members of the working group.",
+    "Their ' ' birds ' ' have the capability to spot car number plates and individuals as well as eavesdrop on millions of faxes, emails and telephone calls.",
+    "In 1990, a firm would have sliced its drawings into strips to be fed through a fax machine for reassembly at the receiving end.",
+    "To encourage responses, the questionnaire comprised only six questions and was in the form of a single-page letter suitable for return by fax.",
+    "A few years later that situation had changed dramatically with many academic departments and various administrative offices, along with individual faculty members, possessing fax machines.",
+    "A follow-up reminder questionnaire was send by fax to those that did not reply within 3 weeks after sending the first questionnaire.",
+    "Pastors who cannot afford electricity in their own houses have access to electronic mail and fax machines in their missionaries' residences."
+  ],
+  "list_see_also": [
+    "fax number"
+  ],
+  "list_browse": [
+    "favourably",
+    "favourite",
+    "favouritism",
+    "fawn",
+    "fax",
+    "fax number",
+    "FBI",
+    "fear",
+    "fearful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688969_3501a312e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688969_785b72baf3_o.png",
+      "id_image": "fax_2666481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688939_1741454745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688939_d102e6d5ef_o.png",
+      "id_image": "fax_2832764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688894_5d86a4a2d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688894_8a110c4c09_o.png",
+      "id_image": "fax_3447631"
+    }
+  ]
+}

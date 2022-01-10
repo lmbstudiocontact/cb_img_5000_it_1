@@ -1,0 +1,89 @@
+{
+  "english": "feast",
+  "phat_am": "fiːst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa tiệc",
+          "definition": "a large and rich meal, usually eaten to celebrate some occasion",
+          "world_new": [
+            "large",
+            "rich",
+            "meal",
+            "celebrate",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The king invited them to a feast in the palace.",
+              "world_new": [
+                "king",
+                "palace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngày lễ hội",
+          "definition": "a particular day on which some (especially religious) person or event is remembered and celebrated",
+          "world_new": [
+            "particular",
+            "day",
+            "person",
+            "event",
+            "celebrated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Today is the feast of St Stephen.",
+              "world_new": [
+                "St"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn cỗ",
+          "definition": "to eat (as if) at a feast",
+          "world_new": [
+            "eat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We feasted all day.",
+              "world_new": [
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fearless",
+    "fearlessly",
+    "feasibility",
+    "feasible",
+    "feast",
+    "feat",
+    "feather",
+    "feather one’s (own) nest",
+    "feathered"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448703_d7b96f290c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448703_e9cebdb2c2_o.png",
+      "id_image": "feast_2077102"
+    }
+  ]
+}

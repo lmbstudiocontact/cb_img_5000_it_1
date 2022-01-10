@@ -1,0 +1,114 @@
+{
+  "english": "connect",
+  "phat_am": "kəˈnekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết nối",
+          "definition": "to join or be joined in some way; to tie or fasten or link together",
+          "world_new": [
+            "join",
+            "tie",
+            "fasten",
+            "link"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He connected the iron to the mains",
+              "world_new": [
+                "iron"
+              ]
+            },
+            {
+              "ex_of_definition": "This road connects the two farms",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "a connecting link",
+              "world_new": [
+                "link"
+              ]
+            },
+            {
+              "ex_of_definition": "This telephone line connects with the President.",
+              "world_new": [
+                "telephone",
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên tưởng",
+          "definition": "to associate in the mind",
+          "world_new": [
+            "associate",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People tend to connect money with happiness.",
+              "world_new": [
+                "tend",
+                "money",
+                "happiness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book is indeed similar to a journal, in bringing together diverse papers connected only by their (broad) field.",
+    "224 of those aspects connected to communicational or disciplinary issues associated with teamwork.",
+    "To a large extent the studies are connected with the church and churchyard.",
+    "The central problem is connected to the steps involving identification activities.",
+    "In addition, semantic units were not connected to other components of the language system, other than phonology.",
+    "Obviously, the voice and body are strongly connected with each other.",
+    "If the corresponding linguistic operations involve different, but connected, regions, then why does one region's activation not affect the other region's operations?",
+    "The second problem is connected with the acceleration of the plasma."
+  ],
+  "list_see_also": [
+    "connection",
+    "connector",
+    "connecting flight"
+  ],
+  "list_browse": [
+    "conjunction",
+    "conjure",
+    "conjuror",
+    "conk",
+    "connect",
+    "connecting flight",
+    "connection",
+    "connector",
+    "connivance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311546_cdc02d094a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311546_16acc893ee_o.png",
+      "id_image": "connect_1373172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355677_5dd540d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355677_600426755c_o.png",
+      "id_image": "connect_2313469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426398_1a7472849d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426398_e9025efe1e_o.png",
+      "id_image": "connect_3103354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311446_9165f5633b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311446_24ecda0fb2_o.png",
+      "id_image": "connect_4542100"
+    }
+  ]
+}

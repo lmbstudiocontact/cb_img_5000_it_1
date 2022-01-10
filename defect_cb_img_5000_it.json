@@ -1,0 +1,98 @@
+{
+  "english": "defect",
+  "phat_am": "ˈdiːfekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuyết điểm",
+          "definition": "a fault or flaw",
+          "world_new": [
+            "fault",
+            "flaw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was a basic defect in her character",
+              "world_new": [
+                "basic",
+                "character"
+              ]
+            },
+            {
+              "ex_of_definition": "a defect in the china.",
+              "world_new": [
+                "china"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "đào tẩu",
+          "definition": "to leave a country, political party etc to go and join another; to desert",
+          "world_new": [
+            "leave",
+            "country",
+            "political",
+            "party",
+            "join",
+            "desert"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He defected to the West."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The long-term outlook for patients who have had surgical repair of atrial septal defects is generally extremely good, with minimal, if any, risk of endocarditis.",
+    "The repair consisted of double patch closure of the septal defect, reconstruction of two atrioventricular orifices, and relief of pulmonary stenosis at all levels.",
+    "First trimester insults affecting neurogenesis are unlikely, as gross structural defects (such as schizencephaly and polymicrogyria) would be expected.",
+    "There is a complete atrioventricular septal defect with both an atrial and ventricular components seen.",
+    "They are thus subject to defects in this treatment.",
+    "The balanced arrangement in atrioventricular septal defect with common valve is modified sometimes by hypoplasia of one of the ventricles, mostly by the left ventricle.",
+    "Failing to do better than one did is a defect only if doing better than one did is possible for one to do.",
+    "For subjects of both rank types, the higher the expectation of defection, the higher the probability of defecting."
+  ],
+  "list_see_also": [
+    "defection",
+    "defective"
+  ],
+  "list_browse": [
+    "defeat",
+    "defeated",
+    "defeatism",
+    "defeatist",
+    "defect",
+    "defection",
+    "defective",
+    "defence",
+    "defenceless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421273_ae1b1b5ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421273_f853cb5bea_o.png",
+      "id_image": "defect_1769105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661524_1fc22e4534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661524_8fde2f61b7_o.png",
+      "id_image": "defect_4401423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306091_a8acf57c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306091_293dd0aae8_o.png",
+      "id_image": "defect_6040986"
+    }
+  ]
+}

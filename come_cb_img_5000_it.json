@@ -1,0 +1,193 @@
+{
+  "english": "come",
+  "phat_am": "kam",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi đến",
+          "definition": "to move etc towards the person speaking or writing, or towards the place being referred to by him",
+          "world_new": [
+            "move",
+            "person",
+            "speaking",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come here!"
+            },
+            {
+              "ex_of_definition": "Are you coming to the dance?",
+              "world_new": [
+                "dance"
+              ]
+            },
+            {
+              "ex_of_definition": "John has come to see me",
+              "world_new": [
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "Have any letters come for me?"
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp tới",
+          "definition": "to become near or close to something in time or space",
+          "world_new": [
+            "become",
+            "close",
+            "time",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Christmas is coming soon.",
+              "world_new": [
+                "Christmas",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứng giữa",
+          "definition": "to happen or be situated",
+          "world_new": [
+            "happen",
+            "situated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The letter ‘d’ comes between ‘c’ and ‘e’ in the alphabet.",
+              "world_new": [
+                "letter",
+                "alphabet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm thế nào",
+          "definition": "(often with to) to happen (by accident)",
+          "world_new": [
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How did you come to break your leg?",
+              "world_new": [
+                "break",
+                "your",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đạt tới một điều gì",
+          "definition": "to arrive at (a certain state etc)",
+          "world_new": [
+            "arrive",
+            "certain",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are things coming to? We have come to an agreement.",
+              "world_new": [
+                "agreement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên tới",
+          "definition": "(with to) (of numbers, prices etc) to amount (to)",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The total comes to 51.",
+              "world_new": [
+                "total"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "đề nghị chú ý",
+          "definition": "expressing disapproval, drawing attention etc",
+          "world_new": [
+            "disapproval",
+            "drawing",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come, come! That was very rude of you!",
+              "world_new": [
+                "rude"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "comer",
+    "coming",
+    "comeback",
+    "comedown",
+    "come about",
+    "come across",
+    "come along",
+    "come by",
+    "come down",
+    "come into one’s own",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "combine",
+    "combine harvester",
+    "combustible",
+    "combustion",
+    "come",
+    "come about",
+    "come across",
+    "come along",
+    "come apart"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364947_9d2da0dfe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364947_ee881d6e80_o.png",
+      "id_image": "come_2165937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364892_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364892_e6e4d451c7_o.png",
+      "id_image": "come_6401042"
+    }
+  ]
+}

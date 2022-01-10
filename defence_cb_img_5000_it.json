@@ -1,0 +1,110 @@
+{
+  "english": "defence",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phòng thủ",
+          "definition": "the act or action of defending against attack",
+          "world_new": [
+            "act",
+            "action",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the defence of Rome"
+            },
+            {
+              "ex_of_definition": "He spoke in defence/defense of the plans.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảo vệ",
+          "definition": "the method or equipment used to guard or protect",
+          "world_new": [
+            "method",
+            "equipment",
+            "guard",
+            "protect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The walls will act as a defence/defense against flooding.",
+              "world_new": [
+                "act",
+                "flooding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời biện hộ",
+          "definition": "a person’s answer to an accusation especially in a law court",
+          "world_new": [
+            "answer",
+            "accusation",
+            "law",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is your defence/defense?",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Subjective views are all very well for people, but for the defence of the environment we need a more scientific approach.",
+    "It is, of course, true that earlier thinkers sought to justify their faith through the defence of metaphysical claims.",
+    "This really meant the defence of language-specific perspective in federal politics.",
+    "Defence orders are more important than civilian orders.",
+    "Only then need the lawyer start to think about the nature of any kind of defence strategy.",
+    "Often it is difficult to distinguish costs of actual defence from the negative effects of the parasite.",
+    "So, even if some exercises of the will are such that their outcomes are predetermined, that does not preclude the viability of a free-will defence.",
+    "What remains is to argue for (3) and discuss the upshot of this defence."
+  ],
+  "list_see_also": [
+    "defenceless",
+    "the defence"
+  ],
+  "list_browse": [
+    "defeatist",
+    "defect",
+    "defection",
+    "defective",
+    "defence",
+    "defenceless",
+    "defend",
+    "defendant",
+    "defender"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421163_5a1a622ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421163_126fb2fc98_o.png",
+      "id_image": "defence_2534481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421138_d2348be004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421138_7dd4a2e374_o.png",
+      "id_image": "defence_2742145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661429_8e0f81d443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661429_21d8a8c222_o.png",
+      "id_image": "defence_4965937"
+    }
+  ]
+}

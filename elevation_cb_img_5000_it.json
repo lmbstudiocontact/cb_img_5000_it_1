@@ -1,0 +1,88 @@
+{
+  "english": "elevation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nâng lên",
+          "definition": "the act of elevating, or state of being elevated",
+          "world_new": [
+            "act",
+            "elevating",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his elevation to the position of vice-president.",
+              "world_new": [
+                "position"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ cao",
+          "definition": "height above sea-level",
+          "world_new": [
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lake stood at an elevation of 3,500 metres above sea level.",
+              "world_new": [
+                "lake",
+                "sea",
+                "level"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt chiếu",
+          "definition": "an architect’s drawing of one side of a building.",
+          "world_new": [
+            "drawing",
+            "side",
+            "building"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similar elevations in blood pressure have been reported in rats antenatally treated with dexamethasone (72).",
+    "In some situations, there are elevations having the same grade, so an additional quality factor is necessary to break the tie.",
+    "The airborne and satellite imagery reveals areas of vegetational change, linear features, elevations on which sites are located, and the course of rivers and drainages.",
+    "Transient elevations in blood pressure were well tolerated, and no patients experienced persistent hypertension.",
+    "However, abdominal bristle numbers from sites at the highest elevations are considerably more plastic to temperature than the other sites.",
+    "The comparatively narrow accent range of pitch elevations throughout the period of study confirmed these physiological, linguistic, and developmental expectations.",
+    "The use of panels then opened up the design to the possibility of contradicting the regular plans as irregular elevations.",
+    "In middle adolescence this picture was similar, although disorder rate elevations were mostly not statistically significant."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "elements",
+    "elephant",
+    "elevate",
+    "elevating",
+    "elevation",
+    "elevator",
+    "eleven",
+    "eleven-year-old",
+    "elevenses"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679554_caa3cb70f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679554_f7ac78ee47_o.png",
+      "id_image": "elevation_1143949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369242_8567030652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369242_e9264e1a57_o.png",
+      "id_image": "elevation_2597927"
+    }
+  ]
+}

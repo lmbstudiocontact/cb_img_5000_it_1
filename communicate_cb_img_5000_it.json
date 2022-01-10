@@ -1,0 +1,85 @@
+{
+  "english": "communicate",
+  "phat_am": "kəˈmjuːnikeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "truyền đạt",
+          "definition": "to tell (information etc)",
+          "world_new": [
+            "tell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She communicated the facts to him."
+            }
+          ]
+        },
+        {
+          "mean_english": "liên lạc với",
+          "definition": "to get in touch (with)",
+          "world_new": [
+            "touch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Internet has made it much easier to communicate with people abroad.",
+              "world_new": [
+                "Internet",
+                "people",
+                "abroad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He had been sensitive to the echoing murmur of the mountains, that communicating of sounds destined to intoxicate sympathetic souls.",
+    "The implication is clear - oral lore is dynamic, and we cannot presume that it correctly communicates the facts of history without additional confirmation.",
+    "Problems exist not only with maintaining currency of information with respect to performance standards, but also in communicating connection to contemporar y ideas.",
+    "He is adept at communicating, using a mixture of single-word utterances and pantomime.",
+    "The different ways that pulse information might be communicated and used are examined.",
+    "These patients remained unable to follow simple commands or communicate reliably.",
+    "Its ethos was one of careful reflection and of enjoying ideas and communicating them.",
+    "The reference here is not to architectural representation that relies on precision alone to communicate a built condition."
+  ],
+  "list_see_also": [
+    "communication",
+    "communications",
+    "communicative",
+    "communication cord",
+    "communications satellite"
+  ],
+  "list_browse": [
+    "commonwealth",
+    "commotion",
+    "communal",
+    "commune",
+    "communicate",
+    "communication",
+    "communication cord",
+    "communications",
+    "communications satellite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054880_658fa5b8d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054880_1b5e272199_o.png",
+      "id_image": "communicate_2343544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362772_0cf0b4a9c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362772_e6103295a9_o.png",
+      "id_image": "communicate_2472337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054830_975fe69f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054830_a62b2d217b_o.png",
+      "id_image": "communicate_4133378"
+    }
+  ]
+}

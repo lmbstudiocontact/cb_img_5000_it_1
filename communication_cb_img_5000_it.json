@@ -1,0 +1,92 @@
+{
+  "english": "communication",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự liên lạc",
+          "definition": "(an act, or means, of) conveying information",
+          "world_new": [
+            "act",
+            "means",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Communication is difficult in some remote parts of the country.",
+              "world_new": [
+                "difficult",
+                "remote",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền đạt",
+          "definition": "a piece of information given, a letter etc",
+          "world_new": [
+            "piece",
+            "information",
+            "letter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I received your communication in this morning’s post.",
+              "world_new": [
+                "I",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With appropriate communications links built into the house a range of household appliances and systems can be monitored and controlled.",
+    "As more and more advocates flood the policy space with their outside lobbying communications the likelihood of any single advocate achieving their goals decreases.",
+    "Perhaps fortunately, you are scheduled to give a speech in two weeks in your communications class at your school.",
+    "In the same way, communications can be intrinsically costly.",
+    "Performing design activities through communications channels will implicitly colour the nature of the interactions.",
+    "During this period, international steamship and rail communications ensured for performers both intra-national and international mobility through touring.",
+    "The scope for military applications could include materials management, military intelligence, communications planning, maintenance planning, diagnostics and computer-based training.",
+    "Indeed, different communications induce essentially different reductions of processes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "commotion",
+    "communal",
+    "commune",
+    "communicate",
+    "communication",
+    "communication cord",
+    "communications",
+    "communications satellite",
+    "communicative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054690_5884254a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054690_2421c6e883_o.png",
+      "id_image": "communication_2191227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673054_2121a26b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673054_471da900c2_o.png",
+      "id_image": "communication_296914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054760_c8aee87acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054760_bb68994611_o.png",
+      "id_image": "communication_332965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362667_f9218e1d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362667_7f919e34c1_o.png",
+      "id_image": "communication_417749"
+    }
+  ]
+}

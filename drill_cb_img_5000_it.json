@@ -1,0 +1,128 @@
+{
+  "english": "drill",
+  "phat_am": "dril",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khoan",
+          "definition": "to make (a hole) with a drill",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drilled holes in the wood",
+              "world_new": [
+                "wood"
+              ]
+            },
+            {
+              "ex_of_definition": "The company plans to drill for oil.",
+              "world_new": [
+                "company",
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luyện tập",
+          "definition": "(of soldiers etc) to exercise or be exercised",
+          "world_new": [
+            "exercise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers drilled every morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy khoan",
+          "definition": "a tool for making holes",
+          "world_new": [
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hand drill",
+              "world_new": [
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "an electric drill.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài luyện tập",
+          "definition": "exercise or practice, especially of soldiers",
+          "world_new": [
+            "exercise",
+            "practice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We do half an hour of drill every morning.",
+              "world_new": [
+                "half",
+                "hour",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Teacher reports indicated that students had become bored with the drills, which they found to be repetitive.",
+    "A 1 mm diameter hole was drilled into the side of the rock, at a depth of 2 mm and parallel to the surface.",
+    "In some households, electric drills and electric saws were added to the basic range of tools.",
+    "Using substitution tables, the teacher drills students in sentence patterns and vocabulary items.",
+    "What, for example, are we to make of the evidence for fluctuating patterns in drilling intensity on bivalves and gastropods over geological time?",
+    "Several edges of this plaque appear smoke-smudged, and drilled depressions probably held inlays.",
+    "Finally, it should be stressed that a focus on enhanced lexical retrieval is not a plea for the repetitive training of words through drills.",
+    "Perhaps because of this, the drills remained open to ridicule."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drier",
+    "drift",
+    "drifter",
+    "driftwood",
+    "drill",
+    "drily",
+    "drink",
+    "drink (to) someone’s health",
+    "drink in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421408_8b25f39a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421408_2df9772b89_o.png",
+      "id_image": "drill_2276241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350382_94cf142c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350382_b25b453b22_o.png",
+      "id_image": "drill_2722269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661624_2123e800c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661624_5c2d387083_o.png",
+      "id_image": "drill_2739007"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "curator",
+  "phat_am": "kjuəˈreitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phụ trách bảo tàng",
+          "definition": "a person in charge of a museum etc",
+          "world_new": [
+            "person",
+            "charge",
+            "museum"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the curator of the Clark County Museum."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The third was used by museum curators to audition the material gathered.",
+    "Most museums undergo at the same time a reassessment of the role of curators: museum educators have become the professional mediators between visitors and curators.",
+    "The curators, conservators and research staff who gave their time to locate vases as well as corresponding paperwork were instrumental.",
+    "The city is thus a ' curator,' whose role is to identify and import original and exotic elements as part of its narrative of cosmopolitanism.",
+    "First we must look at those who were chie-y responsible for them: governments, curators and collectors.",
+    "Files were indexed by date so that the curator could audition the files received on a particular day.",
+    "Through her discussion of the topic, a curator's view on selection policy is demonstrated, as is the presentation of objects within the public context.",
+    "We ought to think further about the relationship curators have with 132 objects, people and the community."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cur",
+    "curable",
+    "curate",
+    "curative",
+    "curator",
+    "curb",
+    "curbstone",
+    "curd",
+    "curdle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315366_6249675620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315366_f25e0d4f79_o.png",
+      "id_image": "curator_827061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359472_9399e8f35a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359472_65dda4fcec_o.png",
+      "id_image": "curator_827062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669919_9f46430b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669919_3ce7f4dab4_o.png",
+      "id_image": "curator_827073"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "convertible",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể chuyển đổi được",
+          "definition": "that may or can be converted",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a convertible sofa.",
+              "world_new": [
+                "sofa"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ô tô mui trần",
+          "definition": "a car with a folding or detachable top",
+          "world_new": [
+            "car",
+            "folding",
+            "detachable",
+            "top"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives a convertible."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The convertible's necessary dynamic rigidity is provided by additional side reinforcements and a cross brace in front of the engine.",
+    "Convertibles were offered, as were van and estate versions.",
+    "The only change for 1993 was the addition of a glass rear window with defroster on convertibles.",
+    "No 440 6-bbl convertibles were made in 1969.",
+    "Most schools require convertibles to have an approved rollbar.",
+    "They also developed a system for turning modern all-steel saloon cars into convertibles.",
+    "Of those 242 were convertibles and the rest were hardtops.",
+    "Of the 5,412 built, 4,031 were coupes and 1,381 were convertibles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "conversely",
+    "conversion",
+    "convert",
+    "convertibility",
+    "convertible",
+    "convex",
+    "convexity",
+    "convey",
+    "conveyance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660869_e6c1434827_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660869_9be13cbd91_o.png",
+      "id_image": "convertible_5731839"
+    }
+  ]
+}

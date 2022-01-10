@@ -1,0 +1,137 @@
+{
+  "english": "direction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hướng",
+          "definition": "(the) place or point to which one moves, looks etc",
+          "world_new": [
+            "place",
+            "point",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What direction did he go in?"
+            },
+            {
+              "ex_of_definition": "They were heading in my direction (= towards me)",
+              "world_new": [
+                "heading",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll find my way all right – I’ve got a good sense of direction.",
+              "world_new": [
+                "find",
+                "my",
+                "right",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng dẫn",
+          "definition": "guidance",
+          "world_new": [
+            "guidance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are under your direction.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ dẫn",
+          "definition": "instructions (eg on how to get somewhere, use something etc)",
+          "world_new": [
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We asked the policeman for directions",
+              "world_new": [
+                "policeman"
+              ]
+            },
+            {
+              "ex_of_definition": "I have lost the directions for this washing-machine.",
+              "world_new": [
+                "I",
+                "lost",
+                "washing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời hướng dẫn",
+          "definition": "the act of aiming or turning (something or someone) towards a certain point.",
+          "world_new": [
+            "act",
+            "certain",
+            "point"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Possible directions for further research are also considered.",
+    "A roof may in the first place have been chosen because it represented a location that could easily be seen from various directions.",
+    "The reconstruction of this relationship is here presented in three aspects, the theoretical, the applied, and future directions.",
+    "We recall known results about this problem and suggest new methods and directions.",
+    "Other directions for future research would include intervention research that makes use of developmental models idenified through correlational research.",
+    "Additionally, innovations in archaeological theory and methodology have led to the exploration of new directions of inquiry.",
+    "Finally, we think that our empirical analysis can be extended in different directions.",
+    "If they were to go in different directions, then the physical powers would be acting against themselves."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "direct",
+    "direct debit",
+    "direct object",
+    "direct speech",
+    "direction",
+    "directional",
+    "directive",
+    "directly",
+    "directness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435293_6ddd9a15d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435293_486d146d01_o.png",
+      "id_image": "direction_1412261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056800_68a0143b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056800_05f8854cec_o.png",
+      "id_image": "direction_1864020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364887_c3536dac4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364887_a2263a094d_o.png",
+      "id_image": "direction_1900180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435193_f58f8ec43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435193_6ff425d072_o.png",
+      "id_image": "direction_2373764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056670_ef94b931ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056670_2680b3dc4c_o.png",
+      "id_image": "direction_3380706"
+    }
+  ]
+}

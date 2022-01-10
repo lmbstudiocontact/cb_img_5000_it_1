@@ -1,0 +1,153 @@
+{
+  "english": "cycle",
+  "phat_am": "ˈsaikl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi xe đạp",
+          "definition": "to go by bicycle",
+          "world_new": [
+            "bicycle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cycles to work every day.",
+              "world_new": [
+                "work",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe đạp",
+          "definition": "shortened form of bicycle",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They bought the child a cycle for his birthday.",
+              "world_new": [
+                "child",
+                "birthday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chu kỳ",
+          "definition": "a number of events happening one after the other in a certain order",
+          "world_new": [
+            "number",
+            "happening",
+            "certain",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the life-cycle of the butterfly.",
+              "world_new": [
+                "butterfly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập thơ",
+          "definition": "a series of poems, songs etc written about one main event etc",
+          "world_new": [
+            "series",
+            "main",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a song cycle.",
+              "world_new": [
+                "song"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng",
+          "definition": "(of alternating current, radio waves etc) one complete series of changes in a regularly varying supply, signal etc.",
+          "world_new": [
+            "alternating",
+            "current",
+            "radio",
+            "complete",
+            "series",
+            "regularly",
+            "supply",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Widely dispersed plinian-type pumice fall deposits and ignimbrite are characteristic products of both explosive cycles.",
+    "The impor tance of the produced design information may be related to the number of already completed design cycles.",
+    "However, with the increase of cycles, the best sequences are visited frequently because of their higher attraction to the ants, and the algorithm finally converges.",
+    "We need to arrange the cycles and the packings so that the last four cycles finish simultaneously.",
+    "The number of non-repelling cycles is finite, hence this list is also finite and m is a well-defined integer.",
+    "Therefore, in the present model, there is always less variation maintained with a stochastically perturbed optimum than with a deterministic optimum (resting or cycling).",
+    "We are interested in knowing to what extent the lack of cycles of a fixed length implies 3-degeneracy.",
+    "By using at most four cycles of length > 72, we can ensure that all cycles of length less than 72 are used."
+  ],
+  "list_see_also": [
+    "cyclist"
+  ],
+  "list_browse": [
+    "cwt",
+    "cyanide",
+    "cybercafé",
+    "cyberspace",
+    "cycle",
+    "cyclic",
+    "cyclically",
+    "cyclist",
+    "cyclone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427478_4781e828c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427478_cf18fca8d0_o.png",
+      "id_image": "cycle_2535545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427458_bb4831360e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427458_bbf57c245b_o.png",
+      "id_image": "cycle_2621308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049150_faed3ca303_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049150_4385337f4b_o.png",
+      "id_image": "cycle_2721289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427378_cc0fa393c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427378_01baae1618_o.png",
+      "id_image": "cycle_3050506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356567_d23cfc5f24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356567_31ec286c27_o.png",
+      "id_image": "cycle_4018100"
+    }
+  ]
+}

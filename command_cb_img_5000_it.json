@@ -1,0 +1,142 @@
+{
+  "english": "command",
+  "phat_am": "kəˈmaːnd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra lệnh",
+          "definition": "to order",
+          "world_new": [
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I command you to leave the room immediately!",
+              "world_new": [
+                "I",
+                "leave",
+                "room",
+                "immediately"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ huy",
+          "definition": "to have authority over",
+          "world_new": [
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He commanded a regiment of soldiers.",
+              "world_new": [
+                "regiment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có đủ tư cách",
+          "definition": "to have by right",
+          "world_new": [
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He commands great respect.",
+              "world_new": [
+                "great",
+                "respect"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mệnh lệnh",
+          "definition": "an order",
+          "world_new": [
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We obeyed his commands."
+            }
+          ]
+        },
+        {
+          "mean_english": "quyền chỉ huy",
+          "definition": "control",
+          "world_new": [
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was in command of the operation.",
+              "world_new": [
+                "operation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The action requested by the command, if valid, is performed.",
+    "All operations ran with command-line tools that can be downloaded.",
+    "The judge sets things in order and commands the herald to proclaim them.",
+    "They were typically grafted on to existing command-and-control programs.",
+    "He promised to avoid the prohibited things and to fulfill her commands.",
+    "Then the robot is commanded to align the surgical tool to the planned surgical tool path and to reach the tumor targets.",
+    "The effect of the row/column-insertion commands depends on the current position in the table.",
+    "These patients remained unable to follow simple commands or communicate reliably."
+  ],
+  "list_see_also": [
+    "commandant",
+    "commander",
+    "commanding",
+    "commandment",
+    "commander-in-chief"
+  ],
+  "list_browse": [
+    "comic strip",
+    "comical",
+    "coming",
+    "comma",
+    "command",
+    "commandant",
+    "commandeer",
+    "commander",
+    "commander-in-chief"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319636_312dbba471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319636_a5e7ba69f9_o.png",
+      "id_image": "command_1553236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674484_6a3e524758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674484_0f5afe7fd1_o.png",
+      "id_image": "command_3602408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056125_3930f24941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056125_b3a735029b_o.png",
+      "id_image": "command_3602425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364247_727b7cc965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364247_e470a11fa8_o.png",
+      "id_image": "command_5954961"
+    }
+  ]
+}

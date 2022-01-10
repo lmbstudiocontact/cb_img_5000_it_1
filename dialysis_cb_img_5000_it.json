@@ -1,0 +1,67 @@
+{
+  "english": "dialysis",
+  "phat_am": "daiˈæləsis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lọc máu",
+          "definition": "a process that uses a special machine for removing harmful waste substances from the blood of people whose kidneys are not working properly",
+          "world_new": [
+            "process",
+            "special",
+            "machine",
+            "harmful",
+            "waste",
+            "blood",
+            "people",
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a dialysis machine.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Others can make it without dialysis for a number of years, but eventually come to transplant.",
+    "This was pumped from a solute reservoir into the glass jacket surrounding the dialysis membrane.",
+    "Of that group, some have poor kidney function and need early dialysis and eventual transplant.",
+    "We also do not know whether the patient's caregivers have explored the possibility of chronic hemo- or peritoneal dialysis with her.",
+    "Manipulation of ions must be achieved by dialysis of both cytoplasms via the patch pipettes, and not be toxic to the cells.",
+    "In the 1960s, this committee was confronted with the task of screening and selecting patients with end-stage disease for chronic intermittent dialysis.",
+    "A proportion of these patients prefer to maintain dialysis rather than receive a transplant and lose their connections with other patients and staff.",
+    "If the nurses or respiratory or dialysis technicians view the ongoing extraordinary care as cruel, this may contribute to the healthcare team dynamics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dialect",
+    "dialectic",
+    "dialectical",
+    "dialogue",
+    "dialysis",
+    "diameter",
+    "diamond",
+    "diamonds",
+    "diaphragm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060750_0ba03cba12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060750_403e619c9f_o.png",
+      "id_image": "dialysis_3974926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438888_dea7000355_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438888_9b8a4ef775_o.png",
+      "id_image": "dialysis_4246559"
+    }
+  ]
+}

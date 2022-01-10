@@ -1,0 +1,85 @@
+{
+  "english": "discussion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thảo luận",
+          "definition": "(an act of) talking about something",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been a lot of discussion about this subject",
+              "world_new": [
+                "subject"
+              ]
+            },
+            {
+              "ex_of_definition": "Discussions between the heads of state took place in strict security.",
+              "world_new": [
+                "heads",
+                "state",
+                "place",
+                "strict",
+                "security"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialization.",
+    "More generally, greater synthesis of research findings and more explicit discussion of explanatory theories and concepts would have strengthened the value of the book.",
+    "In contrast to the students, the instructor has to keep the discussion on track and facilitate turns.",
+    "We replaced one of the scheduled formal discussions with two parallel informal discussions in the day room to explore the impact of context.",
+    "In the discussion which follows, we will use the phrase ' depends on ' in a technical sense.",
+    "There is also discussion of issues surrounding the quality of data.",
+    "An assessment of the 1996 discussion paper and action plan offers a means of examining these structural problems.",
+    "The media agenda tends to become the common currency for discussion in the groups."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "discriminate",
+    "discrimination",
+    "discus",
+    "discuss",
+    "discussion",
+    "disdain",
+    "disdainful",
+    "disdainfully",
+    "disease"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053325_a1a22a17e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053325_0e5592170b_o.png",
+      "id_image": "discussion_2139528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361172_a1d9a07ae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361172_88ebe4f1a7_o.png",
+      "id_image": "discussion_2643487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316866_35d94cd7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316866_fd06a3a3a7_o.png",
+      "id_image": "discussion_3381432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671639_4484f81673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671639_f506b5f1d9_o.png",
+      "id_image": "discussion_745195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671614_d7f19b6ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671614_0dde1182af_o.png",
+      "id_image": "discussion_745202"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "english": "exhaust",
+  "phat_am": "iɡˈzoːst",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm kiệt sức",
+          "definition": "to make very tired",
+          "world_new": [
+            "tired"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was exhausted by her long walk.",
+              "world_new": [
+                "exhausted",
+                "long",
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dốc hết",
+          "definition": "to use all of; to use completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have exhausted our supplies",
+              "world_new": [
+                "exhausted",
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re exhausting my patience.",
+              "world_new": [
+                "exhausting",
+                "my",
+                "patience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn hết mọi mặt",
+          "definition": "to say all that can be said about (a subject etc)",
+          "world_new": [
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve exhausted that topic.",
+              "world_new": [
+                "exhausted",
+                "topic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống xả",
+          "definition": "(an outlet from the engine of a car, motorcycle etc for) fumes and other waste.",
+          "world_new": [
+            "outlet",
+            "engine",
+            "car",
+            "waste"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The input from the live performance 'distracts' this process and forces it to act upon new material until all of the samples have been exhausted.",
+    "In most cases, single women came to mill towns when all means of support for them were exhausted in the rural areas.",
+    "If it fails, the next possible tree for n will be tested - and so until the list is exhausted.",
+    "Therefore, when reasonable means have been exhausted, collective actions by attending and staff physicians ethically may be considered.",
+    "Conventional wisdom-and many textbooks-suggest that diversification benefits are largely exhausted with a portfolio of 10-15 stocks.",
+    "During this stage, the mafic minerals grow faster than plagioclase, exhausting the local melt in mafic components.",
+    "Although you got quite a bit done today, you finished work early because you were feeling particularly exhausted.",
+    "If the match fails, succeeding branches are tried until either one of the patterns matches or all branches have been exhausted."
+  ],
+  "list_see_also": [
+    "exhausted",
+    "exhausting",
+    "exhaustion",
+    "exhaustive"
+  ],
+  "list_browse": [
+    "exert",
+    "exertion",
+    "exhalation",
+    "exhale",
+    "exhaust",
+    "exhausted",
+    "exhausting",
+    "exhaustion",
+    "exhaustive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355442_3bbf5f9aa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355442_da9a9322e8_o.png",
+      "id_image": "exhausted_1128918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666264_85b4860734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666264_8564fa19d8_o.png",
+      "id_image": "exhausted_4126564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047910_1cbff26106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047910_07c8e17d2d_o.png",
+      "id_image": "exhausted_6000913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355512_2692a505e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355512_623fc32ea5_o.png",
+      "id_image": "exhaust_271835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426288_245bd655c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426288_aff8b9fd3d_o.png",
+      "id_image": "exhaust_4694692"
+    }
+  ]
+}

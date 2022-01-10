@@ -1,0 +1,62 @@
+{
+  "english": "dividend",
+  "phat_am": "ˈdividend",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cổ tức",
+          "definition": "the interest paid on shares etc",
+          "world_new": [
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dividend of 2%."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We call this type of double dividend 'welfare double dividend'.",
+    "For simplicity, assume that enough time has gone by to allow the agent to have discovered the stochastic process for dividends.",
+    "Because most empirical studies tend to yield positive values for that elasticity, the double dividend is unlikely to materialize.",
+    "According to critics of the sector these profits were used to enrich the companies' shareholders through the payment of high dividends.",
+    "Under existing arrangements, companies paid income tax at the standard rate on all their profits, and the dividends paid to shareholders showed this tax deducted.",
+    "These fortunate circumstances meant that the company could pay its shareholders their capital back and even distribute a per annum dividend of 2 per cent.",
+    "In the first model, dividend payments are restricted.",
+    "This contrasts with the linear results in which only dividend payments have a significant effect on the stock price index."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diversity",
+    "divert",
+    "divest",
+    "divide",
+    "dividend",
+    "dividers",
+    "divination",
+    "divine",
+    "diviner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357002_72f1ce5764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357002_742b43bd39_o.png",
+      "id_image": "dividend_2177037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667839_e5bfa96a1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667839_0d7756b9d7_o.png",
+      "id_image": "dividend_2389233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667804_c53a3792b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667804_9ed62ac16c_o.png",
+      "id_image": "dividend_2390254"
+    }
+  ]
+}

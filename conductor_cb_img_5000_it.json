@@ -1,0 +1,104 @@
+{
+  "english": "conductor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất dẫn (nhiệt, điện)",
+          "definition": "a thing that conducts heat or electricity",
+          "world_new": [
+            "heat",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Copper is a good conductor of heat.",
+              "world_new": [
+                "heat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người chỉ huy dàn nhạc",
+          "definition": "a director of an orchestra, choir etc.",
+          "world_new": [
+            "director",
+            "orchestra",
+            "choir"
+          ]
+        },
+        {
+          "mean_english": "người soát vé",
+          "definition": "(feminine conductress) a person who collects fares on a bus etc",
+          "world_new": [
+            "person",
+            "bus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus conductor.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trưởng tàu",
+          "definition": "a guard on a train.",
+          "world_new": [
+            "guard",
+            "train"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The work has a significant theatrical component, for besides playing several instruments the soloist also functions as conductor.",
+    "If there is any justice, somewhere sooner or later there will be conductors and promoters making good use of this information.",
+    "Many species produce highly variable vocalisations, and although water makes visual observations difficult, it is an excellent conductor of sound.",
+    "The conductor and the audience hear the music rendered according to the acoustics of the virtual concert hall, creating a lifelike experience.",
+    "As the conductor you could control the whole orchestra and the interpretation of the music would be in your hands.",
+    "This involves interpreting the gestures (movements) the conductor makes and interpreting the music accordingly.",
+    "The composers in this round-up (and one of the conductors) have one personal trait in common: they are all expatriates.",
+    "They sought state laws setting qualifications for conductors, engineers, and telegraphers hoping to control and limit the supply of skilled labor in their own occupations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "condone",
+    "conduct",
+    "conducted tour",
+    "conduction",
+    "conductor",
+    "cone",
+    "confectioner",
+    "confectionery",
+    "confederacy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313206_706f35ff2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313206_8722bc02fa_o.png",
+      "id_image": "conductor_1776623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049635_faaa384e32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049635_fbf164733d_o.png",
+      "id_image": "conductor_2855708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357102_9da4fee4cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357102_0777a1b086_o.png",
+      "id_image": "conductor_2855768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427943_d814cc3a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427943_12392a5720_o.png",
+      "id_image": "conductor_6101682"
+    }
+  ]
+}

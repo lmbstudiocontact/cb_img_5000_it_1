@@ -1,0 +1,83 @@
+{
+  "english": "cute",
+  "phat_am": "kjuːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đáng yêu",
+          "definition": "attractive or pleasing in any way",
+          "world_new": [
+            "attractive",
+            "pleasing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cute baby.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lanh lợi",
+          "definition": "cunningly clever",
+          "world_new": [
+            "cunningly",
+            "clever"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You think you’re pretty cute, don’t you!",
+              "world_new": [
+                "think",
+                "pretty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With regard to the owning of capital assets, this is a very cute and cunning method of dealing with the question.",
+    "I do not blame them for it, but they are on the make, and they are very cute people on the make.",
+    "The cute youngster will grow into a formidable reptile needing plenty of space.",
+    "She wrote that adults would not be able to make something as cute as this.",
+    "Mochidas singing style has changed slightly on every album, going from a clear, soothing voice to a high and cuter voice.",
+    "She believes that she is the cutest girl in the world and takes this from what her grandfather says.",
+    "Letting agents are becoming a little cute, and a letting agent may have the benefit paid direct to the landlord or to himself.",
+    "They have been described as cute and somewhat humorous."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cut short",
+    "cut-price",
+    "cut-throat",
+    "cut/sever the umbilical cord",
+    "cute",
+    "cuticle",
+    "cutlass",
+    "cutlery",
+    "cutlet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313096_6be4797a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313096_eb723c38b3_o.png",
+      "id_image": "cute_1316874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667944_72d0d16cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667944_5a11613450_o.png",
+      "id_image": "cute_213280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313121_50eef0525b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313121_3653783895_o.png",
+      "id_image": "cute_260236"
+    }
+  ]
+}

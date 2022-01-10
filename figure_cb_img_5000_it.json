@@ -1,0 +1,170 @@
+{
+  "english": "figure",
+  "phat_am": "ˈfiɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dáng người",
+          "definition": "the form or shape of a person",
+          "world_new": [
+            "form",
+            "shape",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A mysterious figure came towards me",
+              "world_new": [
+                "mysterious"
+              ]
+            },
+            {
+              "ex_of_definition": "That girl has got a good figure.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(toán học) hình",
+          "definition": "a (geometrical) shape",
+          "world_new": [
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The page was covered with a series of triangles, squares and other geometrical figures.",
+              "world_new": [
+                "page",
+                "series"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con số",
+          "definition": "a symbol representing a number",
+          "world_new": [
+            "symbol",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a six-figure telephone number.",
+              "world_new": [
+                "telephone",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu đồ hoặc hình vẽ minh hoạ",
+          "definition": "a diagram or drawing to explain something",
+          "world_new": [
+            "diagram",
+            "drawing",
+            "explain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The parts of a flower are shown in figure 3.",
+              "world_new": [
+                "flower"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hiện ra hoặc được nói đến",
+          "definition": "to appear (in a story etc)",
+          "world_new": [
+            "appear",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She figures largely in the story.",
+              "world_new": [
+                "largely",
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "suy nghĩ; tính toán",
+          "definition": "to think, estimate or consider",
+          "world_new": [
+            "think",
+            "estimate",
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I figured that you would arrive before half past eight.",
+              "world_new": [
+                "I",
+                "arrive",
+                "half"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 1a shows distributed representations for these entities.",
+    "Originals of figures should not be sent until the paper has been accepted.",
+    "In figure 9, these qualitative expectations are confirmed by a numerical example.",
+    "Figure 2 represents the parallel paths followed by the grammaticizing constructions.",
+    "The insert represents a phase plane plot of the two variables recorded in the figure.",
+    "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion.",
+    "Figure 2a illustrates specifically the total expected sampling cost of those plans and clearly shows a trend of increasing cost with smaller sampling units.",
+    "On the back of each figure indicate the figure number, senior author and the top of the figure."
+  ],
+  "list_see_also": [
+    "figurative",
+    "figuratively",
+    "figurehead",
+    "figure of speech",
+    "figure out"
+  ],
+  "list_browse": [
+    "fighting",
+    "figment",
+    "figurative",
+    "figuratively",
+    "figure",
+    "figure of eight",
+    "figure of speech",
+    "figure out",
+    "figurehead"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066900_4152356586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066900_29b5e1e6f6_o.png",
+      "id_image": "figures_2714592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374752_75da500005_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374752_ea6a9f3edb_o.png",
+      "id_image": "figures_6366716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374812_e3c580725d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374812_b5e8c34285_o.png",
+      "id_image": "figure_1413097"
+    }
+  ]
+}

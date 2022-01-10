@@ -1,0 +1,107 @@
+{
+  "english": "disagree",
+  "phat_am": "disəˈɡriː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "không đồng ý",
+          "definition": "(sometimes with with) to hold different opinions etc (from someone else)",
+          "world_new": [
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We disagree about everything"
+            },
+            {
+              "ex_of_definition": "I disagree with you on that point.",
+              "world_new": [
+                "I",
+                "point"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh cãi",
+          "definition": "to quarrel",
+          "world_new": [
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We never meet without disagreeing.",
+              "world_new": [
+                "meet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không hợp với",
+          "definition": "(with with) (of food) to be unsuitable (to someone) and cause pain",
+          "world_new": [
+            "unsuitable",
+            "cause",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Onions disagree with me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The author disagreed with him by expressing that health is not the only relevant 'outcome' of any health care system.",
+    "Indeed, members of the tsarist government and academics often disagreed about possible areas of co-operation.",
+    "A low score denotes a negative attitude ; either agreeing with a negatively biased statement or disagreeing with a positively biased statement.",
+    "When he disagrees with another authority, the topic will be confined to fact, not opinion.",
+    "Occasionally, we sought outside advice, but mostly we took our own decisions and very seldom disagreed about what these should be.",
+    "I disagreed, believing that a full account of the background issues was needed, as well as my summary of the available evidence.",
+    "Actors disagreed on the information needed and the norms at stake.",
+    "In cases where the raters disagreed the final rating was made by consensus, including the opinion of a third member of the group of reviewers."
+  ],
+  "list_see_also": [
+    "disagreeable",
+    "disagreeably",
+    "disagreement"
+  ],
+  "list_browse": [
+    "disabled",
+    "disablement",
+    "disadvantage",
+    "disadvantageous",
+    "disagree",
+    "disagreeable",
+    "disagreeably",
+    "disagreement",
+    "disallow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055535_9348b88c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055535_084446c670_o.png",
+      "id_image": "disagree_1989982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673769_ab632c399a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673769_86bf3d781e_o.png",
+      "id_image": "disagree_4150681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055470_646c5758a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055470_6e4a709522_o.png",
+      "id_image": "disagree_4150787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434103_3d29a140db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434103_f88c412217_o.png",
+      "id_image": "disagree_5226303"
+    }
+  ]
+}

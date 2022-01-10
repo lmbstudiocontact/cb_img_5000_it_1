@@ -1,0 +1,82 @@
+{
+  "english": "efficient",
+  "phat_am": "iˈfiʃənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có năng lực",
+          "definition": "(of a person) capable; skilful",
+          "world_new": [
+            "skilful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a very efficient secretary.",
+              "world_new": [
+                "secretary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có hiệu suất cao",
+          "definition": "(of an action, tool etc) producing (quick and) satisfactory results",
+          "world_new": [
+            "action",
+            "tool",
+            "satisfactory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new lawn mower is much more efficient than the old one.",
+              "world_new": [
+                "lawn",
+                "mower",
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Industry funds are significantly more efficient than company funds and other types of pension funds.",
+    "I n the future, substantially more-efficient nonviral gene delivery could be used in several settings.",
+    "Therefore, an efficient product configuration system is required for a company to handle information regarding the characteristics of many product variants.",
+    "Therefore, marginal lands are not necessarily more economically efficient at sequestering carbon, and indeed the opposite may be true.",
+    "Finally, as in 1992, there was no evidence that fiscal transfers favoured regions more advanced in economic reform or those most efficient at collecting taxes.",
+    "The precise form of mathematical functions describing these effects is established, while approximate methods for efficient computing of these functions are also proposed.",
+    "The ability to focus attention is essential to realizing efficient and robust sensor-guided manipulation.",
+    "It is possible for a firm to be either technically or allocatively efficient but be economically inefficient24."
+  ],
+  "list_see_also": [
+    "efficiently",
+    "efficiency"
+  ],
+  "list_browse": [
+    "effervescent",
+    "efficacious",
+    "efficacy",
+    "efficiency",
+    "efficient",
+    "efficiently",
+    "effigy",
+    "efflorescence",
+    "effluent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064525_1aa03de9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064525_729dc5262b_o.png",
+      "id_image": "efficient_4465633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372507_6d84ec1869_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372507_174b7d5e65_o.png",
+      "id_image": "efficient_6041339"
+    }
+  ]
+}

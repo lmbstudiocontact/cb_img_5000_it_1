@@ -1,0 +1,104 @@
+{
+  "english": "consult",
+  "phat_am": "kənˈsalt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham khảo",
+          "definition": "to seek advice or information from",
+          "world_new": [
+            "seek",
+            "advice",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Consult your doctor",
+              "world_new": [
+                "your",
+                "doctor"
+              ]
+            },
+            {
+              "ex_of_definition": "He consulted his watch",
+              "world_new": [
+                "watch"
+              ]
+            },
+            {
+              "ex_of_definition": "He consulted with me about what we should do next."
+            }
+          ]
+        },
+        {
+          "mean_english": "tư vấn",
+          "definition": "(of a doctor etc) to give professional advice",
+          "world_new": [
+            "doctor",
+            "professional",
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He consults on Mondays and Fridays."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, here is a data bank which can be consulted at short notice in one's own laboratory.",
+    "They are pedagogical books, intended to be browsed in as much as to be consulted.",
+    "Local district agricultural of®cers were consulted to identify important banana growing areas within selected zones.",
+    "The scientist's agent consults its ontology to determine the relationships between the document keywords and the query terms.",
+    "Unfortunately, several factors in this case precluded a more fruitful intervention at the late stage when we were consulted.",
+    "In spite of the complex scoring procedures, scrutinizing civil servants consulted with the regional director throughout and referred the controversial cases for authoritative decisions.",
+    "I can imagine it being frequently consulted by all health professionals involved in infectious disease surveillance.",
+    "To this end they endorse reading books and consulting academic scholars who have studied a particular culture."
+  ],
+  "list_see_also": [
+    "consultant",
+    "consultation"
+  ],
+  "list_browse": [
+    "constructor",
+    "consul",
+    "consular",
+    "consulate",
+    "consult",
+    "consultant",
+    "consultation",
+    "consume",
+    "consumer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308841_792fe2fa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308841_9630b4aea0_o.png",
+      "id_image": "consultancy_5235368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308921_7743b0a4c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308921_198b4e1a65_o.png",
+      "id_image": "consult_1440969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308886_7d11e681a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308886_39bf78b190_o.png",
+      "id_image": "consult_1900168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353092_23ab4151cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353092_a9bf7f3376_o.png",
+      "id_image": "consult_2452638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045860_6c713d312e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045860_44c244917b_o.png",
+      "id_image": "consult_2746329"
+    }
+  ]
+}

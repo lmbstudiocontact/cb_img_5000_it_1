@@ -1,0 +1,70 @@
+{
+  "english": "eczema",
+  "phat_am": "ˈeksimə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh chàm",
+          "definition": "a type of skin disease in which there is an itchy rash",
+          "world_new": [
+            "type",
+            "skin",
+            "disease",
+            "itchy",
+            "rash"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a severe case of eczema.",
+              "world_new": [
+                "severe",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Defects in formation of inflammatory mediators may be important in eczema.",
+    "For scabies, there is sometimes confusion with eczema but nocturnal pruritus is a particularly suggestive clinical feature helping to distinguish it.",
+    "It is believed by some that patients presenting with generalized eczema in later life should be investigated for underlying malignancy.",
+    "Further primary atopic eczema research that addresses these questions is needed.",
+    "In cases in which bacterial superinfection impairs eczema herpeticum, systemic antibiotic treatment should also be used.",
+    "It was an early ingredient in ointments against skin parasites and eczema.",
+    "Paste bandages may aid the healing of associated varicose eczema.",
+    "Treatment is avoidance of the allergen and topical steroids to settle the eczema."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ecstatic",
+    "ecstatically",
+    "ectoplasm",
+    "ecumenical",
+    "eczema",
+    "eddy",
+    "edge",
+    "edgeways",
+    "edgily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067100_d678d00842_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067100_00fb70a90a_o.png",
+      "id_image": "eczema_4148435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374887_4c19fe6b3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374887_d426664c79_o.png",
+      "id_image": "eczema_4150509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067005_4955ed6786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067005_b04e98ac09_o.png",
+      "id_image": "eczema_5154853"
+    }
+  ]
+}

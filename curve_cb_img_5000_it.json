@@ -1,0 +1,111 @@
+{
+  "english": "curve",
+  "phat_am": "kəːv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường cong",
+          "definition": "a line which is not straight at any point, like part of the edge of a circle.",
+          "world_new": [
+            "line",
+            "straight",
+            "point",
+            "part",
+            "edge",
+            "circle"
+          ]
+        },
+        {
+          "mean_english": "có hình cong",
+          "definition": "anything shaped like this",
+          "world_new": [
+            "shaped"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a curve in the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "uốn cong",
+          "definition": "to bend in a curve",
+          "world_new": [
+            "bend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road curves east.",
+              "world_new": [
+                "road",
+                "east"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Linear regression curves were produced for the left and right kidney volume in regard to gestational age.",
+    "Three possibilities as to the regularity of the functions y = y(z) represented by these integral curves exist and are listed below.",
+    "Actuarial survival curves were used to evaluate risk factors for surgical reinterventions.",
+    "Pygidium with posterior part incompletely preserved; subsemicircular, with slightly diverging convex lateral margins, curving gently into a most probably rounded posterior margin.",
+    "Moreover, it is strongly hyperbolic at the intersections by at least two velocity curves, and it is just m - 1 dimensional.",
+    "Mesonotum with white narrow curved scales, which are longer and more numerous in front.",
+    "The smooth global solutions of (2.2, 2.3) are then given by the nonsingular intersections of the forward and backward curves.",
+    "I n supercritically stable rkgimes, curves of constant wave amplitude have been obtained."
+  ],
+  "list_see_also": [
+    "curved",
+    "curvy"
+  ],
+  "list_browse": [
+    "curtly",
+    "curtness",
+    "curtsy",
+    "curvature",
+    "curve",
+    "curved",
+    "curvy",
+    "cushion",
+    "cushy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314191_b11904970c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314191_d7fa0094b5_o.png",
+      "id_image": "curve_1070223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668894_684f8990e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668894_f10e8a22a9_o.png",
+      "id_image": "curve_1900206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314126_fca138d001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314126_c77c05a964_o.png",
+      "id_image": "curve_2597900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050705_fa8935524d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050705_e380ffca28_o.png",
+      "id_image": "curve_5772951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429153_242fd352d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429153_9a3627b51b_o.png",
+      "id_image": "curve_803199"
+    }
+  ]
+}

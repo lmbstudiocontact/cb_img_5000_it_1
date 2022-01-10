@@ -1,0 +1,81 @@
+{
+  "english": "drown",
+  "phat_am": "draun",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chết đuối",
+          "definition": "to (cause to) sink in water and so suffocate and die",
+          "world_new": [
+            "sink",
+            "water",
+            "suffocate",
+            "die"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She drowned in the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "át",
+          "definition": "to cause (a sound) not to be heard by making a louder sound",
+          "world_new": [
+            "cause",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His voice was drowned by the roar of the traffic.",
+              "world_new": [
+                "voice",
+                "roar",
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drop-out",
+    "droplet",
+    "droppings",
+    "drought",
+    "drown",
+    "drowsily",
+    "drowsiness",
+    "drowsy",
+    "drudge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692519_926079578c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692519_48b55d0388_o.png",
+      "id_image": "drown_1485052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337136_21a69d1165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337136_4202c722c4_o.png",
+      "id_image": "drown_1487534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692469_ccbf9036ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692469_6cac8b66f3_o.png",
+      "id_image": "drown_3348431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074110_0c7ea7eced_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074110_5797a2800a_o.png",
+      "id_image": "drown_5109057"
+    }
+  ]
+}

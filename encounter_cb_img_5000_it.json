@@ -1,0 +1,120 @@
+{
+  "english": "encounter",
+  "phat_am": "inˈkauntə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt gặp",
+          "definition": "to meet especially unexpectedly",
+          "world_new": [
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She encountered the manager in the hall.",
+              "world_new": [
+                "manager",
+                "hall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đương đầu",
+          "definition": "to meet with (difficulties etc)",
+          "world_new": [
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I expect to encounter many difficulties in the course of this job.",
+              "world_new": [
+                "I",
+                "expect",
+                "course",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc chạm trán",
+          "definition": "a meeting",
+          "world_new": [
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I feel that I know him quite well, even after a brief encounter.",
+              "world_new": [
+                "I",
+                "feel",
+                "I",
+                "know",
+                "quite",
+                "even",
+                "brief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc đụng độ",
+          "definition": "a fight",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The encounter between the armies was fierce.",
+              "world_new": [
+                "fierce"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since this article is the summary of previous and cur rent research, readers may have encountered some of the data and arguments before.",
+    "As we examine more subtle and realistic devices, we will likely encounter the need for additional rules.",
+    "In general, lower frequency words will tend to be encountered and acquired (and are also taught) later than higher frequency words.",
+    "The problems encountered above during type checking and safety checking are similar.",
+    "He suggests that most scientists he has encountered care little about taking risks when faced with the sheer joy of scientific inquiry.",
+    "Infants appear to preserve substantial memory for acoustic detail from one encounter with a word to the next, which in turn guides early word recognition.",
+    "The campaign against the radical liberals encountered a number of difficulties.",
+    "What are the particular difficulties that might be encountered when attempting 'exact' replications of a previous study in our field?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "enclose",
+    "enclosure",
+    "encode",
+    "encore",
+    "encounter",
+    "encourage",
+    "encouragement",
+    "encouraging",
+    "encouragingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320361_8b3d0984d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320361_6923e40fa4_o.png",
+      "id_image": "encounter_3035316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365217_c670c7668d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365217_c4ab902858_o.png",
+      "id_image": "encounter_3232944"
+    }
+  ]
+}

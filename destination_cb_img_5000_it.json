@@ -1,0 +1,67 @@
+{
+  "english": "destination",
+  "phat_am": "destiˈneiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi đến",
+          "definition": "the place to which someone or something is going",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think we’ve arrived at our destination at last.",
+              "world_new": [
+                "I",
+                "think",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "People's housing choices and destinations are often shaped by a combination of their lifecourse circumstances and external (both economic and institutional) barriers.",
+    "If the link is on the source destination's cheapest path, then it wants to use the link and buy some of its resource.",
+    "Along the banks of the river, about half a kilometer inland, several family-style restaurants are popular local tourist destinations.",
+    "One potential disadvantage of this solution is that it becomes much harder for a dataflow analysis to accurately determine the destinations with which the parent might fill these holes.",
+    "Finally, the huaqiao wished to ensure that should they die in the destinations their bones at least, would eventually rest in the soil of their ancestors.",
+    "Clearly, when dealing with large groups of destinations, multicast consumes fewer network resources and is more efficient than unicast.",
+    "The decisions are probably rational from their own point of view, although they seem irrational and sometimes turn out to be disastrous for the destinations abandoned.",
+    "Far more women were finding alternative means of reaching their destinations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "despotic",
+    "despotically",
+    "despotism",
+    "dessert",
+    "destination",
+    "destined",
+    "destiny",
+    "destitute",
+    "destroy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064760_4ddae31f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064760_a28ab9f5b9_o.png",
+      "id_image": "destination_3203028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683069_89f371d02e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683069_7975e10c94_o.png",
+      "id_image": "destination_4683598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064820_ebba4049d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064820_a2fd4d9838_o.png",
+      "id_image": "destination_854945"
+    }
+  ]
+}

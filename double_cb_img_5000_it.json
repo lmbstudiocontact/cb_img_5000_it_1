@@ -1,0 +1,233 @@
+{
+  "english": "double",
+  "phat_am": "ˈdabl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gấp đôi",
+          "definition": "of twice the (usual) weight, size etc",
+          "world_new": [
+            "twice",
+            "weight",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A double whisky, please.",
+              "world_new": [
+                "whisky",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đôi; kép",
+          "definition": "two of a sort together or occurring in pairs",
+          "world_new": [
+            "sort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "double doors."
+            }
+          ]
+        },
+        {
+          "mean_english": "(từ ghép) gồm hai",
+          "definition": "consisting of two parts or layers",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a double thickness of paper",
+              "world_new": [
+                "thickness",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "a double meaning.",
+              "world_new": [
+                "meaning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho hai người",
+          "definition": "for two people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a double bed.",
+              "world_new": [
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "gấp đôi",
+          "definition": "twice",
+          "world_new": [
+            "twice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gave her double the usual quantity.",
+              "world_new": [
+                "I",
+                "usual",
+                "quantity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành hai",
+          "definition": "in two",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coat had been folded double.",
+              "world_new": [
+                "coat",
+                "folded"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số lượng gấp đôi",
+          "definition": "a double quantity",
+          "world_new": [
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whatever I earn, she must earn at least double.",
+              "world_new": [
+                "I",
+                "earn",
+                "earn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hoặc vật giống hệt",
+          "definition": "someone who is exactly like another",
+          "world_new": [
+            "exactly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is my father’s double.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng gấp đôi",
+          "definition": "to (cause to) become twice as large or numerous",
+          "world_new": [
+            "become",
+            "twice",
+            "large",
+            "numerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He doubled his income in three years",
+              "world_new": [
+                "income"
+              ]
+            },
+            {
+              "ex_of_definition": "Road accidents have doubled since 1960."
+            }
+          ]
+        },
+        {
+          "mean_english": "có chức năng sử dụng phụ như cái gì",
+          "definition": "to have two jobs or uses",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This sofa doubles as a bed.",
+              "world_new": [
+                "sofa",
+                "doubles",
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "doubles",
+    "double agent",
+    "double bass",
+    "double-bedded",
+    "double-check",
+    "double-cross",
+    "double-dealing",
+    "double-decker",
+    "double-Dutch",
+    "double figures",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "dot",
+    "dot-com",
+    "dote",
+    "dotted",
+    "double",
+    "double agent",
+    "double back",
+    "double bass",
+    "double figures"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423628_9b0c222a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423628_283757aea7_o.png",
+      "id_image": "double_1088886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308361_5ae14ec0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308361_7772f53cb5_o.png",
+      "id_image": "double_4651071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423583_cf1be31128_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423583_eee30a95c4_o.png",
+      "id_image": "double_6436425"
+    }
+  ]
+}

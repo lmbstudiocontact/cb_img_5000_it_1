@@ -1,0 +1,72 @@
+{
+  "english": "fingerprint",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điểm chỉ; dấu vân tay",
+          "definition": "the mark made by the tip of the finger, often used by the police etc as a means of identification",
+          "world_new": [
+            "mark",
+            "tip",
+            "finger",
+            "police",
+            "means",
+            "identification"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves carelessly left fingerprints everywhere.",
+              "world_new": [
+                "carelessly",
+                "left",
+                "everywhere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some but not all of these motifs overlap the general family fingerprint.",
+    "These fingerprint patterns will herein be referred to as the dominant patterns.",
+    "In the latter case, however, individual genes have not been isolated but the environmental independence of fingerprints allows analysis based solely on phenotype.",
+    "Certainly fingerprint patterns looked complex, but what was the scientific basis for arguing that they were infinitely variable?",
+    "I lift his fingerprints from a drinking glass and transfer them to the glass of the cabinet.",
+    "One approach shown to help narrow down hypotheses for the causes of forest dynamics is to examine the ecological 'fingerprint' of the changes.",
+    "The fingerprint of each strain was compared with that of every other strain.",
+    "The fingerprints were scored by inspection of the lane intensity curves to detect presence or absence of bands independent of intensity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "finery",
+    "finesse",
+    "finger",
+    "fingernail",
+    "fingerprint",
+    "fingertip",
+    "finicky",
+    "finish",
+    "finish off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327151_75b6c90560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327151_d0ff065001_o.png",
+      "id_image": "fingerprint_1022327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064085_42c17ee129_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064085_188c5f9ef6_o.png",
+      "id_image": "fingerprint_287388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064070_cc113ff715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064070_133c1bb14d_o.png",
+      "id_image": "fingerprint_372306"
+    }
+  ]
+}

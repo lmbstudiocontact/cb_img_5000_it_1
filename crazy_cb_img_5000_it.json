@@ -1,0 +1,83 @@
+{
+  "english": "crazy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "điên dại",
+          "definition": "insane",
+          "world_new": [
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must be going crazy"
+            },
+            {
+              "ex_of_definition": "a crazy idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá say mê",
+          "definition": "very enthusiastic",
+          "world_new": [
+            "enthusiastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s crazy about her boyfriend.",
+              "world_new": [
+                "boyfriend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crayon",
+    "craze",
+    "crazily",
+    "craziness",
+    "crazy",
+    "creak",
+    "creakiness",
+    "creaky",
+    "cream"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677969_f1e8304f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677969_9bcfff0350_o.png",
+      "id_image": "crazy_2577500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322796_4442dec3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322796_a9cbe44ee0_o.png",
+      "id_image": "crazy_3362149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059490_23349b9419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059490_60bb589b7d_o.png",
+      "id_image": "crazy_4138918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367657_4dca0eb32a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367657_84692a2a7c_o.png",
+      "id_image": "crazy_4177151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677844_23360b08ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677844_6e383a380b_o.png",
+      "id_image": "crazy_6300020"
+    }
+  ]
+}

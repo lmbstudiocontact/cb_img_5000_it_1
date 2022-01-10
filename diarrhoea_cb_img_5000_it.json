@@ -1,0 +1,58 @@
+{
+  "english": "diarrhoea",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ỉa chảy",
+          "definition": "too much liquid in and too frequent emptying of the bowels",
+          "world_new": [
+            "liquid",
+            "frequent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has diarrhoea."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the gastrointestinal tract symptom group, the most prominent provisional clinical diagnoses was infectious gastroenterocolitis (not specified), followed by acute colitis, abdominal pain and diarrhoea.",
+    "The consequences of diarrhoea include dehydration, electrolyte losses and nutritional problems that are more severe in the elderly patient.",
+    "Symptoms included diarrhoea (100 %), abdominal cramps (76 %), vomiting (46 %), and fever (46 %).",
+    "An educated father could also positively influence weaning practices, thus limiting the prevalence of diarrhoea.",
+    "Among the laboratory-confirmed case-patients, the most commonly reported symptoms were diarrhoea (94.8 %), abdominal cramps (88.0%), and nausea (76.4 %).",
+    "A second classification of ' diarrhoea-associated admissions ' was made if any of these codes were listed as any of the 15 possible diagnostic codes.",
+    "Causes of diarrhoea morbidity were assessed for admissions of children less than 5 years of age.",
+    "The associations between the risk factors included in the survey and symptoms of diarrhoea were assessed using bivariate tabulations and calculations of odds ratios."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diameter",
+    "diamond",
+    "diamonds",
+    "diaphragm",
+    "diarrhoea",
+    "diary",
+    "diastole",
+    "diastolic",
+    "diatomic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678734_cdf0884958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678734_ba9bb902e9_o.png",
+      "id_image": "diarrhoea_3782053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368372_1e7a8245c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368372_5f87b75f1a_o.png",
+      "id_image": "diarrhoea_3782065"
+    }
+  ]
+}

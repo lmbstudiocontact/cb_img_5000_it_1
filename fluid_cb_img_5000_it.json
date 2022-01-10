@@ -1,0 +1,125 @@
+{
+  "english": "fluid",
+  "phat_am": "ˈfluid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một chất lỏng nào đó",
+          "definition": "a substance (liquid or gas) whose particles can move about freely.",
+          "world_new": [
+            "substance",
+            "move",
+            "freely"
+          ]
+        },
+        {
+          "mean_english": "chất lỏng",
+          "definition": "any liquid substance",
+          "world_new": [
+            "liquid",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cleaning fluid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc chất lưu",
+          "definition": "able to flow like a liquid",
+          "world_new": [
+            "flow",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fluid substance.",
+              "world_new": [
+                "substance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ nhàng, uyển chuyển",
+          "definition": "smooth and graceful",
+          "world_new": [
+            "smooth",
+            "graceful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fluid movements of the dancers."
+            }
+          ]
+        },
+        {
+          "mean_english": "không cố định",
+          "definition": "(of arrangements, plans etc) able to be changed easily",
+          "world_new": [
+            "arrangements",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My holiday plans are fluid.",
+              "world_new": [
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The case of two homogeneous fluids bounded by two rigid barriers and having an interface can be treated similarly.",
+    "The fluids would also have contributed to the dolomitized matrix which constitutes part of the breccia.",
+    "Also, the flow refer red to in most cases is of the material of the shear zone itself, rather than fluids from other sources.",
+    "Finally, natural action could be represented only through the work of spirits, gradations of subtle fluids that informed and activated the cosmos.",
+    "In some cases, analgesic medication and intravenous fluids could also play a part.",
+    "As is usually done, both the projectile and target materials are taken to behave as ideal fluids, owing to the large stresses obtained upon impact.",
+    "Shear-flow instabilities have also been investigated in stratified fluids.",
+    "The two fluids are therefore chosen to have uniform but differing entropy."
+  ],
+  "list_see_also": [
+    "fluidity",
+    "fluid ounce"
+  ],
+  "list_browse": [
+    "fluent",
+    "fluently",
+    "fluff",
+    "fluffy",
+    "fluid",
+    "fluid ounce",
+    "fluidity",
+    "fluke",
+    "flunk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319486_7efc0a726d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319486_1d77271851_o.png",
+      "id_image": "fluid_1488163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364127_0a6e90d678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364127_639c6c36ca_o.png",
+      "id_image": "fluid_2037143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055970_2ecb6869ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055970_f5be56bfd0_o.png",
+      "id_image": "fluid_5823400"
+    }
+  ]
+}

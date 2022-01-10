@@ -1,0 +1,148 @@
+{
+  "english": "drum",
+  "phat_am": "dram",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái trống",
+          "definition": "a musical instrument constructed of skin etc stretched on a round frame and beaten with a stick",
+          "world_new": [
+            "musical",
+            "instrument",
+            "skin",
+            "frame",
+            "beaten",
+            "stick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays the drums."
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ vật có hình dáng giống cái trống",
+          "definition": "something shaped like a drum, especially a container",
+          "world_new": [
+            "shaped",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil drum.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màng nhĩ",
+          "definition": "an eardrum.",
+          "world_new": [
+            "eardrum"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh trống",
+          "definition": "to beat a drum",
+          "world_new": [
+            "beat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Members of Samba bands were drumming a Brazilian beat.",
+              "world_new": [
+                "beat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh nhịp tay",
+          "definition": "to tap continuously especially with the fingers",
+          "world_new": [
+            "tap",
+            "continuously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stop drumming (your fingers) on the table!",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gõ; đập",
+          "definition": "to make a sound like someone beating a drum",
+          "world_new": [
+            "sound",
+            "beating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain drummed on the metal roof.",
+              "world_new": [
+                "rain",
+                "metal",
+                "roof"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, much music hardware and software is designed with popular music in mind; sequencers default in four bar phrases, keyboards emulate drums and bass guitars.",
+    "The hay was chopped and placed in troughs made out ofmetal drums.",
+    "Thirdly, performances are accompanied only by drums, gongs and cymbals, and a brace of shawms (suona).",
+    "In the quicker central section, running figures in the woodwind are held up by shar p reports on side and snare drums.",
+    "A vigorous group dance accompanied by drumming and singing.",
+    "We would have solo saxophone stuff, free jazz, or electronic stuff - we couldn't do a band really, with drums or anything like that.",
+    "The inhabitants had practically identical possessions-a set of pots, same brand of cooking stoves, water storage drums, a few glasses and plates.",
+    "Grounding the surface noise are some loops of processed drums."
+  ],
+  "list_see_also": [
+    "drummer",
+    "drumstick",
+    "drum in/into"
+  ],
+  "list_browse": [
+    "drug",
+    "drug addict",
+    "druggist",
+    "drugstore",
+    "drum",
+    "drum in/into",
+    "drummer",
+    "drumstick",
+    "drunk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451593_ec75e0a64e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451593_9842a6e2b5_o.png",
+      "id_image": "drum_257487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451563_510c9af8d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451563_0319040a8c_o.png",
+      "id_image": "drum_449507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336596_891de3ca3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336596_c0e8404711_o.png",
+      "id_image": "drum_458003"
+    }
+  ]
+}

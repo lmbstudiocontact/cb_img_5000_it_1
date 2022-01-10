@@ -1,0 +1,73 @@
+{
+  "english": "erase",
+  "phat_am": "iˈreiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tẩy xoá",
+          "definition": "to rub out (pencil marks etc)",
+          "world_new": [
+            "rub"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I tried to erase the error.",
+              "world_new": [
+                "I",
+                "error"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Six cabins excavated to date had all been consciously erased from the landscape by the evictors.",
+    "During -reduction, some parts of a -term are duplicated or erased; those parts are translated into principal nets called coded translations.",
+    "As mentioned above, family-polymorphic methods are translated to monomorphic methods by discarding type parameterization and erasing types and the method body.",
+    "Clothing can thus play an important part in signalling or erasing aspects of identity.",
+    "If trace was erased or unavailable how were patients able to judge the ungrammatical sentences of \"filled gap\" conditions correctly?",
+    "Local histories continue, remodelled, but not erased by globalization.",
+    "We model these by a term rewriting system e where a rule may be erasing.",
+    "Filtering, transposition and microscopic microphone techniques were very effective for erasing the source reference and keeping the essential information available for a musical use."
+  ],
+  "list_see_also": [
+    "eraser"
+  ],
+  "list_browse": [
+    "er",
+    "era",
+    "eradicate",
+    "eradication",
+    "erase",
+    "eraser",
+    "ere",
+    "erect",
+    "erection"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670709_1fd3d8689d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670709_bdaa2a15e8_o.png",
+      "id_image": "erase_1827180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316076_87bae83a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316076_8e8e581e01_o.png",
+      "id_image": "erase_2720496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316021_d191146124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316021_d9ed5432d0_o.png",
+      "id_image": "erase_4598398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670649_249ddd8dfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670649_0f0b4af1af_o.png",
+      "id_image": "erase_5433079"
+    }
+  ]
+}

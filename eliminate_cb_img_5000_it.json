@@ -1,0 +1,70 @@
+{
+  "english": "eliminate",
+  "phat_am": "iˈlimineit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "loại ra",
+          "definition": "to get rid of; to omit or exclude",
+          "world_new": [
+            "rid",
+            "omit",
+            "exclude"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was eliminated from the tennis championship in the first round.",
+              "world_new": [
+                "tennis",
+                "championship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "elimination"
+  ],
+  "list_browse": [
+    "elfin",
+    "elicit",
+    "eligibility",
+    "eligible",
+    "eliminate",
+    "elimination",
+    "elite",
+    "elixir",
+    "elk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439108_68cb1b6efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439108_7a09584b61_o.png",
+      "id_image": "eliminate_2473216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324006_c0526202f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324006_e59d0802dc_o.png",
+      "id_image": "eliminate_3154684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368887_cebeffbb55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368887_d7f26efeae_o.png",
+      "id_image": "eliminate_3154709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060860_55b978d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060860_3a04183525_o.png",
+      "id_image": "eliminate_3734026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060790_246ba00591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060790_db4376556d_o.png",
+      "id_image": "eliminate_4234393"
+    }
+  ]
+}

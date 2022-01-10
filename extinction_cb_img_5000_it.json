@@ -1,0 +1,69 @@
+{
+  "english": "extinction",
+  "phat_am": "ikˈstiŋkʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tuyệt chủng",
+          "definition": "making or becoming extinct",
+          "world_new": [
+            "becoming",
+            "extinct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the extinction of the species.",
+              "world_new": [
+                "species"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự dập tắt",
+          "definition": "the act of putting out or extinguishing (fire, hope etc).",
+          "world_new": [
+            "act",
+            "hope"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two approaches have been implemented to generate spectral extinction functions for cone pigments.",
+    "Ecosystems are not being maintained, safety factors are ignored, species extinction persists at an unprecedented level, and our very global life-support systems are under threat.",
+    "In our simulations we considered founding events but not extinctions.",
+    "The resulting atmospheric debris led to climate cooling, a reduction of vegetation, and mass extinction.",
+    "Climatic warming due to thermal-radiation from an urban area as possible cause for the local extinction of a land snail.",
+    "In (c) there are nine extinctions and one major outbreak that persists for 30 years.",
+    "In the absence of such complicated computations it is up to biologists to assess the credibility of parameter combinations that lead to extinctions.",
+    "Estimating rates of local species extinction, colonization, and turnover in animal communities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "externalization",
+    "externalize",
+    "externally",
+    "extinct",
+    "extinction",
+    "extinguish",
+    "extinguisher",
+    "extol",
+    "extort"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340586_ab576808cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340586_a1fb263fe8_o.png",
+      "id_image": "extinction_2590838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385512_7eddc8ddcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385512_9bb3c0bca0_o.png",
+      "id_image": "extinction_2640372"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "engineer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kỹ sư",
+          "definition": "a person who designs, makes, or works with, machinery",
+          "world_new": [
+            "person",
+            "works",
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electrical engineer.",
+              "world_new": [
+                "electrical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kỹ sư xây dựng",
+          "definition": "(usually civil engineer) a person who designs, constructs, or maintains roads, railways/railroads, bridges, sewers etc.",
+          "world_new": [
+            "person"
+          ]
+        },
+        {
+          "mean_english": "thợ máy",
+          "definition": "an officer who manages a ship’s engines.",
+          "world_new": [
+            "officer"
+          ]
+        },
+        {
+          "mean_english": "người lái tàu hoả",
+          "definition": "an engine driver.",
+          "world_new": [
+            "engine",
+            "driver"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sắp đặt",
+          "definition": "to arrange by skill or by cunning means",
+          "world_new": [
+            "arrange",
+            "skill",
+            "cunning",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He engineered my promotion.",
+              "world_new": [
+                "my",
+                "promotion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The design process was performed by a team made up of a structural engineer, a construction planner, and a project manager.",
+    "Can we exploit understanding of the molecular organisation of elastic fibres to engineer robust replacement elastic tissues such as small-diameter arteries and ligaments?",
+    "During its life cycle, engineers and designers make many representations of a product.",
+    "The presented architecture assists the knowledge engineer in establishing a proper framework for this type of formalisation.",
+    "Being able to answer such questions is central to understanding engineered products.",
+    "A design standards review forum was set up consisting of four senior engineers.",
+    "He further repeats the tired official lie that war veterans engineered the subsequent farm invasions.",
+    "The understanding of a domain is very difficult to explicate and requires the highest skill from the knowledge engineer in elicitation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "engagement",
+    "engaging",
+    "engine",
+    "engine driver",
+    "engineer",
+    "engineering",
+    "English",
+    "Englishman",
+    "engrave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363907_a50d2a7a76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363907_baf5d001fa_o.png",
+      "id_image": "engineer_1983204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434498_6f7ae78db3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434498_276ee18723_o.png",
+      "id_image": "engineer_313079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319316_fd921fd59a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319316_c2621e80e7_o.png",
+      "id_image": "engineer_783002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363962_084b0c6c0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363962_43f1258516_o.png",
+      "id_image": "engineer_786810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674154_c9d0f76073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674154_904489cf81_o.png",
+      "id_image": "engineer_875291"
+    }
+  ]
+}

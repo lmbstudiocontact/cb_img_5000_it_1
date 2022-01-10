@@ -1,0 +1,108 @@
+{
+  "english": "cure",
+  "phat_am": "kjuə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho ai khỏe mạnh",
+          "definition": "to make better",
+          "world_new": [
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That medicine cured me",
+              "world_new": [
+                "medicine"
+              ]
+            },
+            {
+              "ex_of_definition": "That will cure him of his bad habits.",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữa bệnh",
+          "definition": "to get rid of (an illness etc)",
+          "world_new": [
+            "rid",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That pill cured my headache.",
+              "world_new": [
+                "pill",
+                "my",
+                "headache"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xử lý để có thể để lâu",
+          "definition": "to preserve (bacon etc) by drying, salting etc.",
+          "world_new": [
+            "preserve"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chữa khỏi",
+          "definition": "something which cures",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re trying to find a cure for cancer.",
+              "world_new": [
+                "trying",
+                "find",
+                "cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some assume that the opening of one blister will cure the case.",
+    "So prevention is not just better than cure, it is cheaper too.",
+    "To some extent, apparent predisposition to reinfection could arise from imperfect efficacy of cure.",
+    "Changes in cure rate and changes in influx of infections were examined.",
+    "Our examples show that algebraic data types with existential component types simultaneously cure all three of these drawbacks.",
+    "Disproving the cure's miraculousness necessitated more than asserting a healing potential.",
+    "His cure seemed anticlimactic after his dramatic description of the symptoms of the disease.",
+    "In all cases, the cure rate (proportion of subjects treated in whom disappearance of ova and\\or parasites was observed after treatment) has been tabulated."
+  ],
+  "list_see_also": [
+    "curable",
+    "curative"
+  ],
+  "list_browse": [
+    "curb",
+    "curbstone",
+    "curd",
+    "curdle",
+    "cure",
+    "curfew",
+    "curio",
+    "curiosity",
+    "curious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359412_0712af9238_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359412_bb9a321d11_o.png",
+      "id_image": "cure_1029134"
+    }
+  ]
+}

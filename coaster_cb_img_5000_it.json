@@ -1,0 +1,75 @@
+{
+  "english": "coaster",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tàu buôn dọc bờ biển",
+          "definition": "a vessel that sails along near the coast",
+          "world_new": [
+            "vessel",
+            "coast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We watched a small coaster sailing downstream.",
+              "world_new": [
+                "small",
+                "sailing",
+                "downstream"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái lót cốc",
+          "definition": "a small mat for putting under a drinking glass etc",
+          "world_new": [
+            "small",
+            "mat",
+            "glass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beer coasters.",
+              "world_new": [
+                "beer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, with modern advances in engineering, more roller coasters with complicated inversions are able to run without over-the-shoulder restraints.",
+    "Further, some of these foreign coasters are specially built and modern vessels; they are really a new type of vessel competing in our home coastwise trade.",
+    "Their cargoes have been transferred to coasters and brought round in that way, or sometimes by rail, and often by land.",
+    "Negotiation has also been likened to a roller-coaster reflecting the exhilaration yet tension of not being in full control as events follow one after another.",
+    "One and the same object can be simultaneously both coaster and ash-tray, because we are dealing here with accidental and compatible properties.",
+    "Thirdly, we come to the coasters.",
+    "Since its debut, hyper coasters have become one of the most predominant types of roller coasters worldwide.",
+    "Are not the manning regulations for foreign coasters at a low level compared with our vessels?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coarsen",
+    "coarseness",
+    "coast",
+    "coastal",
+    "coaster",
+    "coastguard",
+    "coastline",
+    "coat",
+    "coat of arms"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327256_bf7a9ce991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327256_842e09e17a_o.png",
+      "id_image": "coaster_4223216"
+    }
+  ]
+}

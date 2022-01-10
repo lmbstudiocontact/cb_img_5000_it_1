@@ -1,0 +1,132 @@
+{
+  "english": "contrast",
+  "phat_am": "kənˈtraːst",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tương phản",
+          "definition": "to show marked difference from",
+          "world_new": [
+            "marked",
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His words contrast with his actions."
+            }
+          ]
+        },
+        {
+          "mean_english": "đối chiếu",
+          "definition": "to compare so as to show differences",
+          "world_new": [
+            "compare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Contrast fresh and frozen vegetables and you’ll find the fresh ones taste better.",
+              "world_new": [
+                "fresh",
+                "frozen",
+                "find",
+                "fresh",
+                "taste",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự tương phản",
+          "definition": "difference(s) in things or people that are compared",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The contrast between their attitudes is very marked.",
+              "world_new": [
+                "their",
+                "marked"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự khác biệt",
+          "definition": "a thing or person that shows a marked difference (to another)",
+          "world_new": [
+            "person",
+            "marked",
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a complete contrast to her sister.",
+              "world_new": [
+                "complete",
+                "sister"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This too was in marked contrast to the conduct of planning before the devaluation.",
+    "Older physicians, in contrast, probably looked forward to returning to their established practices.",
+    "Note that this is in contrast to most traditional fault modeling approaches where the fault is represented as an additive or a multiplicative time-dependent quantity.",
+    "The verbal gerund, by contrast, can combine with adverbs, auxiliaries, ordinary objects, and common-case subjects.",
+    "In contrast, lithium or imipramine reduced depression scores but did not improve learning.",
+    "In contrast, when eco-forestry is unsubsidized, groups meeting their own set-up costs, the returns per hectare are still positive but very modest.",
+    "They contrast with syntactic representations, which are structured in terms of lexical heads and grammatical functions or relations.",
+    "Ordinary forgetting, by contrast, is neither selective nor intelligent."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contradictory",
+    "contraption",
+    "contrariness",
+    "contrary",
+    "contrast",
+    "contravene",
+    "contravention",
+    "contribute",
+    "contribution"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661834_522147333a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661834_ceef315daf_o.png",
+      "id_image": "contrast_227201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306451_dd0b98961b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306451_c2a43ea9f8_o.png",
+      "id_image": "contrast_2620652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350632_b2e6c06cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350632_9b00bb651b_o.png",
+      "id_image": "contrast_391299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661769_e58fa18009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661769_77c6d9a744_o.png",
+      "id_image": "contrast_5797811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350542_6ba10ec305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350542_186eff306b_o.png",
+      "id_image": "contrast_6040140"
+    }
+  ]
+}

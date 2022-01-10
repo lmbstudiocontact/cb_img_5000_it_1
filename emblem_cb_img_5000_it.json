@@ -1,0 +1,77 @@
+{
+  "english": "emblem",
+  "phat_am": "ˈembləm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biểu tượng",
+          "definition": "an object chosen to represent an idea, a quality, a country etc",
+          "world_new": [
+            "object",
+            "represent",
+            "idea",
+            "quality",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dove is the emblem of peace.",
+              "world_new": [
+                "dove",
+                "peace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although these claims were pioneering work, they are problematic insofar as their hieroglyphic evidence did not match the established definition of emblem glyphs.",
+    "The translatability of the emblem enables permeation while permeation requires a translatable emblem.",
+    "These symbols functioned as emblems of the sources of power for the shaman who earned the right to wear them.",
+    "Like these, stamps showed the emblem of the lion and the sun and/or the portrait of the reigning monarch.",
+    "The first was as an emblem of creativity and genius.",
+    "Furthermore, the mostly fruitless attempts to identify emblem glyphs have been made more difficult by fewer and less well-understood hieroglyphic texts.",
+    "They had forgotten, for example, that they had quilted for many years, or that they collected police emblems or ornamental shoes.",
+    "This suggests less competition for prestige within the society and among the different political units addressed by emblem glyphs."
+  ],
+  "list_see_also": [
+    "emblematic"
+  ],
+  "list_browse": [
+    "embezzle",
+    "embezzlement",
+    "embezzler",
+    "embitter",
+    "emblem",
+    "emblematic",
+    "embodiment",
+    "embody",
+    "embolism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677999_19ddab37f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677999_21789db3a1_o.png",
+      "id_image": "emblem_328010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059565_04a1ee3537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059565_e247248bb2_o.png",
+      "id_image": "emblem_344685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322791_717a7b0e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322791_5a045d79c8_o.png",
+      "id_image": "emblem_6311978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322746_ddcf30fd0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322746_56727526af_o.png",
+      "id_image": "emblem_6311993"
+    }
+  ]
+}

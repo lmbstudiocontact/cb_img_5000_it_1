@@ -1,0 +1,125 @@
+{
+  "english": "commercial",
+  "phat_am": "kəˈməːʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thương mại",
+          "definition": "connected with commerce",
+          "world_new": [
+            "commerce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Private cars are allowed to use this road, but not commercial vehicles.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có lãi",
+          "definition": "(likely to be) profitable",
+          "world_new": [
+            "profitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a commercial proposition.",
+              "world_new": [
+                "proposition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buổi phát thanh quảng cáo",
+          "definition": "paid for by advertisements",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "commercial television.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quảng cáo trên truyền hình hoặc đài phát thanh",
+          "definition": "a TV or radio advertisement",
+          "world_new": [
+            "TV",
+            "radio",
+            "advertisement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I enjoyed the play, but the commercials irritated me.",
+              "world_new": [
+                "I",
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As pointed out earlier, higher priority may be given to directing commercial credit to non-environmental investments.",
+    "By this time change within the industrial, commercial, residential and political structure of the city was reshaping the city's medieval form.",
+    "The most serious threat to these peoples is represented by the commercial development of strategically important reserves of mineral resources.",
+    "However, unlike in the highlands, only the big commercial farmers were present in the lowlands.",
+    "This paper has described detailed monitoring of commercial chickpea crops and highlighted aspects of the system that could limit or enhance production.",
+    "But beyond its artistic significance, arrangement was part of a commercial industry, consolidated through music printing since its invention.",
+    "Studies are needed to define the circumstances in which commercial systems are economically viable and to assess their environmental impact.",
+    "The media are not a single entity, but having said that, newspapers and commercial television stations are businesses, motivated by economic concerns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "commentary",
+    "commentate",
+    "commentator",
+    "commerce",
+    "commercial",
+    "commercial traveller",
+    "commercialism",
+    "commercialize",
+    "commiserate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055410_4cf1c12fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055410_2323aa3933_o.png",
+      "id_image": "commercial_1734068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434038_c2ee25b056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434038_af1234d203_o.png",
+      "id_image": "commercial_2104099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318801_7101426695_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318801_f5ed48404e_o.png",
+      "id_image": "commercial_2494727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673614_d2743a4e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673614_6b1725e599_o.png",
+      "id_image": "commercial_3966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055445_6b8c987c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055445_b81ac4971b_o.png",
+      "id_image": "commercial_994621"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "flux",
+  "phat_am": "flaks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng không ổn định",
+          "definition": "continual change",
+          "world_new": [
+            "continual",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The publishing industry is in a state of flux.",
+              "world_new": [
+                "publishing",
+                "industry",
+                "state"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The total fluxes (integrated over any cross section) depend on the specific structure, because the harmonic function determining the concentration profile is geometry-dependent.",
+    "However, comparisons of nutrient fluxes with throughfall and stemflow in old-growth and secondary forests in tropical montane regions are not yet available.",
+    "If the motion is statistically steady, and if mean quantities do not vary horizontally, the vertical fluxes of heat and momentum will be constant.",
+    "Analysis of net throughfall fluxes gives information on the origin and fate of nutrient ions in the forest canopy.",
+    "Although these fluxes are equal, both are important and act on the neighbouring grain.",
+    "Mathematically, one can view small fluxes as a perturbation to equilibrium and look for a near-equilibrium solution.",
+    "The land-surface model includes two vegetation layers (trees and grass) through which radiative and turbulent fluxes are calculated.",
+    "Accelerated dust winds and dust fluxes are observed in the cosmic environment and late-type stars [1, 4, 40]."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flushed",
+    "fluster",
+    "flute",
+    "flutter",
+    "flux",
+    "fly",
+    "fly in the face of",
+    "fly into",
+    "fly off the handle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319026_529efc205f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319026_df1fd0b1b2_o.png",
+      "id_image": "flux_6090866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319006_edfe360d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319006_9cefdf7b65_o.png",
+      "id_image": "flux_6091330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318971_b7abfa52d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318971_133ba8bc5d_o.png",
+      "id_image": "flux_6134438"
+    }
+  ]
+}

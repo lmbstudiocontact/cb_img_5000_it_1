@@ -1,0 +1,79 @@
+{
+  "english": "facade",
+  "phat_am": "fəˈsaːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt tiền (của một ngôi nhà)",
+          "definition": "the front of a building",
+          "world_new": [
+            "front",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the facade of the temple.",
+              "world_new": [
+                "temple"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẻ bên ngoài",
+          "definition": "a pretended show",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In spite of his facade, he was very frightened.",
+              "world_new": [
+                "spite",
+                "frightened"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fabricate",
+    "fabrication",
+    "fabulous",
+    "fabulously",
+    "facade",
+    "face",
+    "face powder",
+    "face the music",
+    "face to face"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075730_bc7545d99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075730_2267109d35_o.png",
+      "id_image": "facade_353315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693789_a9afb0c533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693789_6664cb191e_o.png",
+      "id_image": "facade_353319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453638_1a65dfd458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453638_5e4348763a_o.png",
+      "id_image": "facade_353345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075635_bc2a609455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075635_25def0b3cb_o.png",
+      "id_image": "facade_422064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075580_83e820d0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075580_2e60c68b2c_o.png",
+      "id_image": "facade_422112"
+    }
+  ]
+}

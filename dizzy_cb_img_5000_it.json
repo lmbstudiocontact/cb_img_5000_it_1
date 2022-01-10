@@ -1,0 +1,91 @@
+{
+  "english": "dizzy",
+  "phat_am": "ˈdizi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hoa mắt",
+          "definition": "giddy or confused",
+          "world_new": [
+            "giddy",
+            "confused"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you spin round and round like that, you’ll make yourself dizzy.",
+              "world_new": [
+                "spin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chóng mặt; choáng váng",
+          "definition": "causing dizziness",
+          "world_new": [
+            "dizziness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actress reached the dizzy heights of stardom at a very young age.",
+              "world_new": [
+                "stardom",
+                "young",
+                "age"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She felt dizzy and nauseated and then fainted.",
+    "Victims of carbon monoxide poisoning will feel dizzy, then lose consciousness.",
+    "Along with making audiences dizzy, this also makes life very difficult for the actors.",
+    "Assessment of the dizzy patient.",
+    "Evaluating the dizzy patient: bedside examination and laboratory assessment of the vestibular system.",
+    "The first person plural possessive, frequently offset with quotation marks, repeated with increasingly dizzying levels of self-referentiality throughout the book, is a difficult word to define here.",
+    "We are almost dizzy with looking at the various permutations and combinations which are possible.",
+    "A geriatrician with an interest in falls is ideally placed to assess the older dizzy patient initially."
+  ],
+  "list_see_also": [
+    "dizzily",
+    "dizziness"
+  ],
+  "list_browse": [
+    "Diwali",
+    "DIY",
+    "dizzily",
+    "dizziness",
+    "dizzy",
+    "DJ",
+    "DNA",
+    "do",
+    "do (someone) a good turn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356277_8b34f60875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356277_ee421b031d_o.png",
+      "id_image": "dizzy_2400670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667169_6c59324a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667169_cd6d199163_o.png",
+      "id_image": "dizzy_4952967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312291_fc9ce75f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312291_d3acd79a8b_o.png",
+      "id_image": "dizzy_599641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048900_c7af5be4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048900_278078dd42_o.png",
+      "id_image": "dizzy_817755"
+    }
+  ]
+}

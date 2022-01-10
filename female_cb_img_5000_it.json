@@ -1,0 +1,63 @@
+{
+  "english": "female",
+  "phat_am": "ˈfiːmeil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn bà; con vật giống cái",
+          "definition": "(a person, animal etc) of the sex that gives birth to children, produces eggs etc",
+          "world_new": [
+            "person",
+            "animal",
+            "sex",
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a female blackbird",
+              "world_new": [
+                "blackbird"
+              ]
+            },
+            {
+              "ex_of_definition": "the female of the species.",
+              "world_new": [
+                "species"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây giống cái",
+          "definition": "(a plant) that produces seeds."
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "felon",
+    "felony",
+    "felt",
+    "felt-tip pen",
+    "female",
+    "feminine",
+    "femininity",
+    "feminism",
+    "feminist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687429_8ecc59b3b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687429_bbb7665f63_o.png",
+      "id_image": "female_1552298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687364_45a882dc51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687364_2e4af47a41_o.png",
+      "id_image": "female_2680973"
+    }
+  ]
+}

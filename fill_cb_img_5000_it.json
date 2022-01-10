@@ -1,0 +1,149 @@
+{
+  "english": "fill",
+  "phat_am": "fil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổ đầy; chứa đầy",
+          "definition": "to put (something) into (until there is no room for more); to make full",
+          "world_new": [
+            "room",
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She filled the cupboard with books",
+              "world_new": [
+                "filled",
+                "cupboard"
+              ]
+            },
+            {
+              "ex_of_definition": "The news filled him with joy.",
+              "world_new": [
+                "news",
+                "filled",
+                "joy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên đầy",
+          "definition": "to become full",
+          "world_new": [
+            "become",
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His eyes filled with tears.",
+              "world_new": [
+                "filled"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp ứng",
+          "definition": "to satisfy (a condition, requirement etc)",
+          "world_new": [
+            "satisfy",
+            "condition",
+            "requirement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Does he fill all our requirements?",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chèn hoặc nút lại (một cái lỗ, kẽ hở…)",
+          "definition": "to put something in a hole (in a tooth etc) to stop it up",
+          "world_new": [
+            "hole",
+            "tooth",
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dentist filled two of my teeth yesterday.",
+              "world_new": [
+                "dentist",
+                "filled",
+                "my",
+                "yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng tối đa có thể ăn hoặc uống; mức tối đa có thể chịu đựng được",
+          "definition": "as much as fills or satisfies someone",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ate her fill."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The paucity of the modern-day insular herpetofaunas is reflected in the fossil reptile diversity of the solution cavity fills found on the same islands.",
+    "Specific weight measured with the standard procedure was regressed against the weight of grain filling the reduced-volume chondrometer.",
+    "A metric based on sur face area and volume is used to determine if the pieces thus removed or filled are \"good\" features.",
+    "We revert t o the practice of analysing asymptotic behaviours and filling in details by numerical simulation.",
+    "Improving wheat grain filling under stress by stem reserve mobilisation.",
+    "On the second day, the bag containing the solid rumen contents was replaced by a new bag filled with fresh silage.",
+    "If filled, the first vocalic element adjacently preceding nouns and verbs was selected for analysis.",
+    "He also filled the upper levels of the provincial bureaucracy with family members and in-laws."
+  ],
+  "list_see_also": [
+    "filled",
+    "filler",
+    "filling",
+    "filling-station",
+    "fill in",
+    "fill up"
+  ],
+  "list_browse": [
+    "filename",
+    "filial",
+    "filing cabinet",
+    "filings",
+    "fill",
+    "fill / fit the bill",
+    "fill in",
+    "fill up",
+    "filled"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374257_79cecab13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374257_f5e1673ff1_o.png",
+      "id_image": "fill_1151161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374202_a67866f641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374202_2d75ff2b5b_o.png",
+      "id_image": "fill_2547632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329536_bfce9cbde0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329536_3bda716193_o.png",
+      "id_image": "fill_5448487"
+    }
+  ]
+}

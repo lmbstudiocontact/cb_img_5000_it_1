@@ -1,0 +1,77 @@
+{
+  "english": "disorder",
+  "phat_am": "disˈoːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lộn xộn",
+          "definition": "lack of order; confusion or disturbance",
+          "world_new": [
+            "lack",
+            "confusion",
+            "disturbance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general strike threw the whole country into disorder",
+              "world_new": [
+                "general",
+                "strike",
+                "whole",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "scenes of disorder and rioting."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rối loạn (chức năng của cơ thể)",
+          "definition": "a disease",
+          "world_new": [
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a disorder of the lungs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The presence of any past or family history of psychiatric or breast disorders was also noted.",
+    "Clinical features of all episodes of disorders occurring post-transplant (incident as well as recurrent) are also described.",
+    "However, the latter finding does not adjust for the fact that anxiety disorders are significantly more common among women than men.",
+    "Treatment of depression in primary care cannot rest on an assumption of short-lived, uncomplicated mild disorders.",
+    "Chapter 6 is concerned with gestures and speech in aphasia and other disorders.",
+    "In fact, until recently, it was not recognised that children could suffer of certain mental disorders, especially depression.",
+    "In neuronal disorders an additional trigger must disrupt the trafficking process.",
+    "Reading and writing disorders in different orthographic systems (pp. 163 - 175)."
+  ],
+  "list_see_also": [
+    "disorderly"
+  ],
+  "list_browse": [
+    "disobedience",
+    "disobedient",
+    "disobediently",
+    "disobey",
+    "disorder",
+    "disorderly",
+    "disorganization",
+    "disorganized",
+    "disown"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052040_381b428153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052040_1c8cffc8af_o.png",
+      "id_image": "disorder_1960567"
+    }
+  ]
+}

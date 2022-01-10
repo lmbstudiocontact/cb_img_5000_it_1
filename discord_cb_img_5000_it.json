@@ -1,0 +1,83 @@
+{
+  "english": "discord",
+  "phat_am": "ˈdiskoːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bất hòa",
+          "definition": "disagreement or quarrelling",
+          "world_new": [
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The issue is a source of discord between the two countries.",
+              "world_new": [
+                "issue",
+                "source"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự không hợp âm",
+          "definition": "in music, a group of notes played together which give a jarring sound.",
+          "world_new": [
+            "music",
+            "group",
+            "jarring",
+            "sound"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "490 tempted to observe children's behavior in the presence of their parents' discord during a series of family interactions.",
+    "As a southerner i have seen some of the troubles and discords caused by the mixing of the races...",
+    "Consequently, discord and instability in the broader family unit may assume distinct forms in domestically violent homes.",
+    "At the same time there can be no discords among them, no differences of understanding.",
+    "With this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood.",
+    "The reason for this discord is the use of ?à, a phonologically reduced form of nâ.",
+    "The failure of the alliance has been attributed to the discord caused by communal conflict within the ministry, which made the coalition unworkable.",
+    "Just as important as what conservative strategists associated with racial discord, is what they disassociated from it."
+  ],
+  "list_see_also": [
+    "discordant"
+  ],
+  "list_browse": [
+    "discontentedly",
+    "discontentment",
+    "discontinuation",
+    "discontinue",
+    "discord",
+    "discordant",
+    "discotheque",
+    "discount",
+    "discourage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362087_1740b227c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362087_7e47ba98fe_o.png",
+      "id_image": "discord_2111310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672459_5f3b37d4eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672459_fe23cb456d_o.png",
+      "id_image": "discord_356060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054200_5d28423466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054200_1205d174c1_o.png",
+      "id_image": "discord_3767306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432773_ce22f99866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432773_31c7c04160_o.png",
+      "id_image": "discord_4053305"
+    }
+  ]
+}

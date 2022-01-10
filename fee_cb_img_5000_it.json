@@ -1,0 +1,80 @@
+{
+  "english": "fee",
+  "phat_am": "fiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền thù lao",
+          "definition": "the price paid for work done by a doctor, lawyer fee or for some special service or right",
+          "world_new": [
+            "price",
+            "work",
+            "doctor",
+            "lawyer",
+            "special",
+            "service",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the lawyer’s fee"
+            },
+            {
+              "ex_of_definition": "an entrance fee",
+              "world_new": [
+                "entrance"
+              ]
+            },
+            {
+              "ex_of_definition": "university fees.",
+              "world_new": [
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When fees are relatively high, it is feasible for care-home providers to bear such risks.",
+    "This involves thinking about occupancy fees, staff morale, and the contentment of residents, as well as her own well-being and ability to cope.",
+    "They spoke of \"deciding on a fee,\" but had it been a fixed fee, there would have been no need for negotiation.",
+    "There are also suggestions to integrate the fee-for-service payment system for hospital doctors with the hospital budget (cf., infra).",
+    "For example, in order to discourage physicians from dispensing medicines, fees are increased if the physician writes prescriptions for outside pharmacies.",
+    "Considerable rent arrears had built up, and unauthorized fees were being exacted.",
+    "For every paper and writ filed, warrant served, abolitionist jailed, fees 20.",
+    "Figure 2 shows bankruptcy fees earned by lawyers; fees increased by a factor of five over the decade."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fed up",
+    "federal",
+    "federated",
+    "federation",
+    "fee",
+    "feeble",
+    "feebly",
+    "feed",
+    "feedback"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688129_1638a089b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688129_ca4aff85df_o.png",
+      "id_image": "fee_1328236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688099_eef04d21d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688099_d379653131_o.png",
+      "id_image": "fee_5235433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448108_77dd8466c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448108_0bc41c69c9_o.png",
+      "id_image": "fee_5455911"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "curse",
+  "phat_am": "kəːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chửi rủa",
+          "definition": "to wish that evil may fall upon",
+          "world_new": [
+            "wish",
+            "evil",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I curse the day that I was born!",
+              "world_new": [
+                "I",
+                "day",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "The witch cursed him.",
+              "world_new": [
+                "witch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyền rủa",
+          "definition": "to use violent language; to swear",
+          "world_new": [
+            "violent",
+            "swear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cursed (at his own stupidity) when he dropped the hammer on his toe.",
+              "world_new": [
+                "hammer",
+                "toe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời nguyền rủa",
+          "definition": "an act of cursing, or the words used",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the witch’s curse."
+            }
+          ]
+        },
+        {
+          "mean_english": "người bị nguyền rủa",
+          "definition": "a thing or person which is cursed",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Having to work is the curse of my life.",
+              "world_new": [
+                "work",
+                "my",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cursed with"
+  ],
+  "list_browse": [
+    "curried",
+    "curry",
+    "curry favour/favor",
+    "curry powder",
+    "curse",
+    "cursed with",
+    "cursive",
+    "cursor",
+    "cursorily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669199_808130aa09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669199_34ca26dd70_o.png",
+      "id_image": "cursing_1805258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051090_3143e0b9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051090_c24f1b7da4_o.png",
+      "id_image": "cursing_4126461"
+    }
+  ]
+}

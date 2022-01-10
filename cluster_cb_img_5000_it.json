@@ -1,0 +1,86 @@
+{
+  "english": "cluster",
+  "phat_am": "ˈklastə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám; cụm",
+          "definition": "a closely-packed group (of people or things)",
+          "world_new": [
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cluster of berries"
+            },
+            {
+              "ex_of_definition": "They stood in a cluster."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tụ họp lại",
+          "definition": "(often with round) to group together in clusters",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They clustered round the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We can overcome the problem of data sparseness by applying not co-occurring words but co-occurring clusters to the similarity of target words.",
+    "The existence of high energy ions is further confirmed by the occurrence of fusion reactions in deuterium clusters.",
+    "In particular, performance on word-final nasal+/z/ and stop+/s/ clusters is extremely high.",
+    "Similar sequences are clustered together and successively dissimilar sequences further away, without implying a hierarchy.",
+    "X-ray spectra of fast ions generated from clusters by ultrashort laser pulses.",
+    "In each step, similar subtrees (clusters) are merged to form the dendrogram.",
+    "At present the model only contains a limited framework supporting node- and tree-based clusters.",
+    "Structural arguments would predict equal performance on word-initial /s/+stop clusters and word-final stop+/s/ clusters."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clump",
+    "clumsily",
+    "clumsiness",
+    "clumsy",
+    "cluster",
+    "clutch",
+    "clutch at straws",
+    "clutter",
+    "cluttered"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683149_25bc79b9c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683149_0803b92b90_o.png",
+      "id_image": "cluster_3231334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328026_e18790eab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328026_e92ea29295_o.png",
+      "id_image": "cluster_3966298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328021_f24ae18626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328021_19b5e0a7d0_o.png",
+      "id_image": "cluster_4882414"
+    }
+  ]
+}

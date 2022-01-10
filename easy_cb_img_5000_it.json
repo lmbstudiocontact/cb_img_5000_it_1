@@ -1,0 +1,136 @@
+{
+  "english": "easy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dễ dàng",
+          "definition": "not difficult",
+          "world_new": [
+            "difficult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is an easy job (to do).",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ chịu",
+          "definition": "free from pain, trouble, anxiety etc",
+          "world_new": [
+            "free",
+            "pain",
+            "trouble",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had an easy day at the office.",
+              "world_new": [
+                "day",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ung dung",
+          "definition": "friendly",
+          "world_new": [
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an easy manner/smile."
+            }
+          ]
+        },
+        {
+          "mean_english": "thoải mái",
+          "definition": "relaxed; leisurely",
+          "world_new": [
+            "leisurely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer walked with an easy stride.",
+              "world_new": [
+                "farmer",
+                "stride"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "di chuyển nhẹ nhàng và từ từ",
+          "definition": "a command to go or act gently",
+          "world_new": [
+            "command",
+            "act",
+            "gently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Easy! You’ll fall if you run too fast.",
+              "world_new": [
+                "fall",
+                "run",
+                "fast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These types of recurrence equation are not easy to solve.",
+    "Some of them may be easier to define than others.",
+    "This makes it easier to accept that we construct not only things you look at, but how you look as well.",
+    "The rice package and book were the easiest to detect, which can be seen from the average time for detection.",
+    "It is easy to feel the power of this scheme at the latter end of the twentieth century in a disintegrating society.",
+    "We can see no easy way around this complexity.",
+    "It was also easier at this stage to identify words on a phonetic basis.",
+    "It is easy to see that the hole is not tile-able as four paths should go through the dotted line."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eastern",
+    "easternmost",
+    "eastward",
+    "eastward(s)",
+    "easy",
+    "easy chair",
+    "easy listening",
+    "easy-going",
+    "eat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377067_10af66f8a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377067_206c695ef1_o.png",
+      "id_image": "easy_2647573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447278_2255785f6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447278_ed4dbd5027_o.png",
+      "id_image": "easy_5360589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376977_88effe9956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376977_b0232d71de_o.png",
+      "id_image": "easy_5906078"
+    }
+  ]
+}

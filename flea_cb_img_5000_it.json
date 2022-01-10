@@ -1,0 +1,71 @@
+{
+  "english": "flea",
+  "phat_am": "fliː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bọ chét",
+          "definition": "a type of small blood-sucking insect that jumps instead of flying and lives on the bodies of animals or people",
+          "world_new": [
+            "type",
+            "small",
+            "insect",
+            "instead",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flea-infested room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I wish my attention had been drawn to the fleas before.",
+    "Most people in this country do not like timber houses; they think they are full of fleas, and they generally are.",
+    "We are as much entitled to try to discuss and diagnose the effect of pain upon fleas as upon horses.",
+    "A certain number of fleas will probably emerge at once from it; but there will be many larvae and pupae still in the nest.",
+    "He has magic fleas that will turn people into human dogs if bitten.",
+    "After the processing phase, the fish fillet is trimmed for blood, bones, fins, black membrane, fleas, loose fish scales and sorted.",
+    "After the pup receives some roughhousing, however, the bloodhound's fleas, were most disturbed and therefore decided to get back at the gorilla.",
+    "We have more committees than a dog has fleas, but the results are very disappointing."
+  ],
+  "list_see_also": [
+    "flea market"
+  ],
+  "list_browse": [
+    "flavouring",
+    "flaw",
+    "flawed",
+    "flawless",
+    "flea",
+    "flea market",
+    "fleck",
+    "flecked",
+    "fledgling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322026_d775422253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322026_ff32a3cb4e_o.png",
+      "id_image": "flea_3629098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058740_434e46da25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058740_848722a562_o.png",
+      "id_image": "flea_4982466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366887_6f39b71e2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366887_3841826459_o.png",
+      "id_image": "flea_5511716"
+    }
+  ]
+}

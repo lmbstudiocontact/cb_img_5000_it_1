@@ -1,0 +1,87 @@
+{
+  "english": "distinction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khác biệt",
+          "definition": "(the making of) a difference",
+          "world_new": [
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company makes no distinction between male and female employees with regard to pay.",
+              "world_new": [
+                "company",
+                "male",
+                "female",
+                "regard",
+                "pay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "danh hiệu",
+          "definition": "a grade awarded that indicates outstanding ability or achievement",
+          "world_new": [
+            "grade",
+            "outstanding",
+            "ability",
+            "achievement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was awarded a distinction for her MA in Art History.",
+              "world_new": [
+                "MA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consequently, a distinction has to be made between central and peripheral members of a class.",
+    "However, there is a sharp distinction between the mechanisms posited by repression and the processes thought to underlie ordinary forgetting.",
+    "It also happens through information exchange that allows the emergence of cognitive distinction between players.",
+    "Equally, they themselves often echo managerial and union distinctions of male and female tasks, especially on the grounds of physical strength and strain.",
+    "For practical reasons a distinction is made in this review between tick paralysis and tick toxicosis.",
+    "For the arterial trunks, this is an easy matter, since the pattern of branching permits ready distinction of an aorta from a pulmonary trunk.",
+    "So speakers may merge in minimal pair lists but still maintain a phonetic distinction in conversational style.",
+    "Fourthly, the unmarked member tends to exhibit a larger number of subcategorial distinctions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "distilled water",
+    "distiller",
+    "distillery",
+    "distinct",
+    "distinction",
+    "distinctive",
+    "distinctively",
+    "distinctly",
+    "distinctness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314286_370333bf26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314286_8728a22a8f_o.png",
+      "id_image": "distinction_1701672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050895_84d4397b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050895_bd79628097_o.png",
+      "id_image": "distinction_1701673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050860_0f9c1474bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050860_879a53188d_o.png",
+      "id_image": "distinction_2311645"
+    }
+  ]
+}

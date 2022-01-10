@@ -1,0 +1,89 @@
+{
+  "english": "deck",
+  "phat_am": "dek",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "boong tàu",
+          "definition": "a platform extending from one side of a ship etc to the other and forming the floor",
+          "world_new": [
+            "platform",
+            "side",
+            "ship",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cars are carried on the lower deck of the ferry.",
+              "world_new": [
+                "lower",
+                "ferry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sàn xe buýt",
+          "definition": "a floor in a bus",
+          "world_new": [
+            "floor",
+            "bus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s go on the top deck.",
+              "world_new": [
+                "top"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ bài",
+          "definition": "a pack of playing cards",
+          "world_new": [
+            "pack",
+            "cards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shall I shuffle the deck?",
+              "world_new": [
+                "I",
+                "shuffle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "deckchair"
+  ],
+  "list_browse": [
+    "decision",
+    "decisive",
+    "decisively",
+    "decisiveness",
+    "deck",
+    "deckchair",
+    "declaim",
+    "declaration",
+    "declare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307381_e242b2029b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307381_dc7cef5c57_o.png",
+      "id_image": "deck_2240422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307371_bd02e97f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307371_32f1f74b7d_o.png",
+      "id_image": "deck_4320025"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "destroy",
+  "phat_am": "diˈstroi",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phá hủy",
+          "definition": "to put an end to or make useless; to ruin",
+          "world_new": [
+            "ruin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vandals destroyed the bus shelter.",
+              "world_new": [
+                "bus",
+                "shelter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giết",
+          "definition": "to kill (animals)",
+          "world_new": [
+            "kill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This poison destroys rats.",
+              "world_new": [
+                "poison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As in 1822, severe weather during the previous autumn had destroyed crops and resulted in food shortages during the early part of the year.",
+    "One is sighted before the other and this first effect, however slight and transient, immediately destroys the perfect symmetry.",
+    "If these become damaged or even destroyed by exogenous influences the continuation of a specie may be in danger.",
+    "If these snails are subsequently exposed to normal miracidia, the parasites are quickly destroyed by amoebocytes near the penetration area in the head-foot.",
+    "They destroyed the power structure, leaving the masks lying on the floor, impotent without their bundled remains.",
+    "Many houses (house) were destroyed by the flood last week.",
+    "By contrast, imperative data structures are typically ephemeral: an update destroys the old version of the data structure.",
+    "Each of the actions performed by the robot results in correlations newly established between the objects, with some old correlations being destroyed."
+  ],
+  "list_see_also": [
+    "destroyer"
+  ],
+  "list_browse": [
+    "destination",
+    "destined",
+    "destiny",
+    "destitute",
+    "destroy",
+    "destroyer",
+    "destruction",
+    "destructive",
+    "destructively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682869_9c315e683e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682869_c2e7a41615_o.png",
+      "id_image": "destroy_2752076"
+    }
+  ]
+}

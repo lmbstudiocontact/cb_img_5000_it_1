@@ -1,0 +1,79 @@
+{
+  "english": "curious",
+  "phat_am": "ˈkjuəriəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tò mò",
+          "definition": "strange; odd",
+          "world_new": [
+            "odd"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a curious habit.",
+              "world_new": [
+                "habit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ham hiểu biết",
+          "definition": "anxious or interested (to learn)",
+          "world_new": [
+            "anxious",
+            "interested"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m curious (to find out) whether he passed his exams.",
+              "world_new": [
+                "find"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead of being afraid, the curious nature of children incites them to play.",
+    "The brick surfaces with their flush glazing reinforce that curious quality.",
+    "The attempt to discredit sectarian practices asserted the professionalism of regular medicine by implicitly disavowing its curious past as well as asserting its clinical present.",
+    "When machine and organizational systems became the tools of dominion, a curious recoding of the entrepreneurial \"man of force\" ideal took shape.",
+    "This curious contradiction or confusion is a fallacy to which most linguists seem prone.",
+    "However, a significant weakness is its handling of sources, which is curious as the work is essentially a doctoral dissertation.",
+    "In addition, the editors' decision to include names among the dictionary entries leads to curious inconsistencies.",
+    "Even the mythtellers, texts, and social practices mentioned in passing are subjected to some curious transformations."
+  ],
+  "list_see_also": [
+    "curiously",
+    "curiosity"
+  ],
+  "list_browse": [
+    "cure",
+    "curfew",
+    "curio",
+    "curiosity",
+    "curious",
+    "curiously",
+    "curl",
+    "curl up",
+    "curler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}

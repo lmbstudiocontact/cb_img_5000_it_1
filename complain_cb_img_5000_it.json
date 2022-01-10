@@ -1,0 +1,81 @@
+{
+  "english": "complain",
+  "phat_am": "kəmˈplein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "than phiền",
+          "definition": "to state one’s displeasure, dissatisfaction etc",
+          "world_new": [
+            "state",
+            "displeasure",
+            "dissatisfaction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to complain to the police about the noise.",
+              "world_new": [
+                "police",
+                "noise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kể lại một sự đau đớn",
+          "definition": "(with of) to state that one has (pain, discomfort etc)",
+          "world_new": [
+            "state",
+            "discomfort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s complaining of difficulty in breathing.",
+              "world_new": [
+                "difficulty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He complained that wet-nurses who were turned away from the bureau were hired privately.",
+    "Many of our participants clearly felt that they ' mustn't complain ', which may be an adaptive psychological strategy for coping with the vicissitudes of advancing age.",
+    "Thus, wives may complain more about lack of involvement in household decisions.",
+    "If litigation over the initial terms of hire was infrequent, mariners often complained when masters or merchants changed a ship's destination midvoyage.",
+    "Delegates regularly complained of long days in meetings and many days away from work and family.",
+    "He often complained about the 'moralistic attitude' which seemed to motivate many of his critics.",
+    "But villages often complain that they do not gain any income from these fees.",
+    "But if reviewers complained about the opera's hybridity, they nonetheless cited these episodes of celebration as favourites."
+  ],
+  "list_see_also": [
+    "complaint"
+  ],
+  "list_browse": [
+    "compiler",
+    "complacence",
+    "complacent",
+    "complacently",
+    "complain",
+    "complaint",
+    "complement",
+    "complementary",
+    "complementary colour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052800_b0ca40b253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052800_6508868891_o.png",
+      "id_image": "complain_2016314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316381_d9ec73c210_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316381_dc92d43022_o.png",
+      "id_image": "complain_5692381"
+    }
+  ]
+}

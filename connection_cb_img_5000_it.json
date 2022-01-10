@@ -1,0 +1,140 @@
+{
+  "english": "connection",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kết nối",
+          "definition": "something that connects or is connected",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a faulty electrical connection.",
+              "world_new": [
+                "faulty",
+                "electrical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mối quan hệ",
+          "definition": "(a) state of being connected or related",
+          "world_new": [
+            "state",
+            "related"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My connection with their family is very slight",
+              "world_new": [
+                "their",
+                "family",
+                "slight"
+              ]
+            },
+            {
+              "ex_of_definition": "I wish to talk to you in connection with my daughter’s career.",
+              "world_new": [
+                "I",
+                "wish",
+                "talk",
+                "my",
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mối quan hệ",
+          "definition": "a useful person whom one can contact, especially in business",
+          "world_new": [
+            "useful",
+            "person",
+            "contact",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his connections in the clothing trade.",
+              "world_new": [
+                "clothing",
+                "trade"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chuyển tiếp tàu xe",
+          "definition": "a train, bus etc to which one changes from another in the course of a journey",
+          "world_new": [
+            "train",
+            "bus",
+            "course",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As the local train was late, I missed the connection to London.",
+              "world_new": [
+                "local",
+                "train",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Due to glutamatergic-mediated connections from medial temporal areas, activity in lateral orbitofrontal/prefrontal cortex may be deregulated in schizophrenia.",
+    "The ventriculoarterial connections were double outlet from the right ventricle in four cases and single outlet from the heart with pulmonary atresia in one.",
+    "The connections are especially strong in those diagnostic areas where drugs are the first line of treatment for mental disorders.",
+    "Not only the commodity trade determined where the important connections should be sought.",
+    "The low diameter of a changing network is usually maintained by imposing some randomness on the new connections.",
+    "The representation hypothesis attributes the asymmetry to the different strength of connections between lexical items in the two languages.",
+    "Such fundamental connections between interference, boundary conditions, standing waves, and resonances occur throughout physical science and engineering.",
+    "Test to unmask obstructed total anomalous pulmonary venous connections in asplenia syndrome."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "conjuror",
+    "conk",
+    "connect",
+    "connecting flight",
+    "connection",
+    "connector",
+    "connivance",
+    "connive",
+    "connoisseur"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666154_d9b6284e55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666154_d60eed5fc4_o.png",
+      "id_image": "connection_1396592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355242_8a86c02229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355242_e635dfab24_o.png",
+      "id_image": "connection_1400063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311046_a5ce746d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311046_2fb6d67ebd_o.png",
+      "id_image": "connection_1402121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426123_5d4a767212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426123_6a09e12080_o.png",
+      "id_image": "connection_388499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426113_6d84566966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426113_518aa688ab_o.png",
+      "id_image": "connection_445720"
+    }
+  ]
+}

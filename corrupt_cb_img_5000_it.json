@@ -1,0 +1,99 @@
+{
+  "english": "corrupt",
+  "phat_am": "kəˈrapt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham nhũng",
+          "definition": "to make or become evil or bad",
+          "world_new": [
+            "become",
+            "evil",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was corrupted by the bad influence of two friends.",
+              "world_new": [
+                "bad",
+                "influence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thối nát",
+          "definition": "bad or evil",
+          "world_new": [
+            "bad",
+            "evil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government is corrupt.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bẩn",
+          "definition": "impure",
+          "world_new": [
+            "impure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a corrupt form of English.",
+              "world_new": [
+                "form",
+                "English"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At an even more basic level, lineage and family units were corrupted by the trade, with the commodification of village members and kin becoming increasingly commonplace.",
+    "We are all aware of the illiberal acts of these multinationals, which are destroying and corrupting both people and the environment.",
+    "They suggest that this phenomenon can be captured in our framework under the assumption that the learner's observations are corrupted by some perceptual noise.",
+    "Thus, corrupted norms are marked by low behavioural determinacy, but sufficiently strong moral persuasiveness.",
+    "Worse still, he corrupted desire for them by poisoning the male imagination.",
+    "Art created patrons and was corrupted.",
+    "The word ' innovation ' had very negative connotations in this period, hence it was common for reformers to claim to be restoring a previous state of affairs that had been corrupted.",
+    "Intuitively, the reason for this condition is that we must be able to evaluate e1 after e2 or vice versa without corrupting the previous result."
+  ],
+  "list_see_also": [
+    "corruptible",
+    "corruptibility",
+    "corruption"
+  ],
+  "list_browse": [
+    "corrode",
+    "corrosion",
+    "corrosive",
+    "corrugated",
+    "corrupt",
+    "corruptibility",
+    "corruptible",
+    "corruption",
+    "corset"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067060_9f1c1d8c28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067060_b2d80a3b60_o.png",
+      "id_image": "corrupt_4542048"
+    }
+  ]
+}

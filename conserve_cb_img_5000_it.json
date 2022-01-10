@@ -1,0 +1,107 @@
+{
+  "english": "conserve",
+  "phat_am": "kənˈsəːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo tồn",
+          "definition": "to keep from changing, being damaged or lost",
+          "world_new": [
+            "keep",
+            "damaged",
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must conserve the country’s natural resources",
+              "world_new": [
+                "natural"
+              ]
+            },
+            {
+              "ex_of_definition": "This old building should be conserved.",
+              "world_new": [
+                "old",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mứt",
+          "definition": "something preserved, eg fruits in sugar, jam etc",
+          "world_new": [
+            "sugar",
+            "jam"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jar of black cherry conserve.",
+              "world_new": [
+                "jar",
+                "black",
+                "cherry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Clear and well-defined fringes indicate that a stable phase relationship is conserved across all the generated visible spectrum.",
+    "The folding transition state between sh3 domains is conformationally restricted and evolutionarily conserved.",
+    "Such approaches are generating renewed interest in ecological aspects of crop production which can optimize yields while conserving soil, water, energy and other environmental resources.",
+    "In the actual world, however, material objects are generally conserved.",
+    "Naturally, these equations have less conserved quantities since the magnetic field is no longer a passive variable.",
+    "The interface between the two domains contains most of the phylogenetically conserved residues.",
+    "Accepting that energy has to be conserved, this proves that the fog explosions are, indirectly, driven by solar energy.",
+    "However, from the point of view of global wood markets, conserving forestland can be considered a permanent supply reduction."
+  ],
+  "list_see_also": [
+    "conservation",
+    "conservationist",
+    "conservatism",
+    "conservative"
+  ],
+  "list_browse": [
+    "conservationist",
+    "conservatism",
+    "conservative",
+    "conservatory",
+    "conserve",
+    "consider",
+    "considerable",
+    "considerably",
+    "considerate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425138_7a6191d46f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425138_a892a08eea_o.png",
+      "id_image": "conserve_2069375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425273_bafbce3c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425273_e38139a712_o.png",
+      "id_image": "conserve_259144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665414_544f5b225d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665414_89f0d36c29_o.png",
+      "id_image": "conserve_263911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425203_9a9893392e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425203_229c0dd3fc_o.png",
+      "id_image": "conserve_400857"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "discount",
+  "phat_am": "ˈdiskaunt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền khấu trừ",
+          "definition": "a (small) sum taken off the price of something",
+          "world_new": [
+            "sum",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shopkeeper gave me a discount of 20%.",
+              "world_new": [
+                "shopkeeper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "không để ý",
+          "definition": "to leave aside as something not to be considered",
+          "world_new": [
+            "leave",
+            "aside"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can discount most of what he says – it’s nearly all lies!",
+              "world_new": [
+                "nearly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A key difference between the models is the way in which the utility of actions is discounted over time.",
+    "Because cost is expected up front and gains in life years occur in the future, discounting heavily devaluates the cost-effectiveness of prophylactic interventions (9).",
+    "Benefits and costs were discounted at 1 percent and 6 percent, respectively.",
+    "We choose to present these different combinations of discounting considering the existing controversies and lack of standardization in time preference analysis (30).",
+    "The personal qualities-competence, sense of justice, etc.- of monarchs were certainly not discounted as factors of importance.",
+    "The maximum of 20 years reflects the effects of discounting the costs and outcomes over the life of the intervention.",
+    "All costs and life-year gains (losses) were discounted at a rate of 5%.",
+    "Such an attempt discounts the possibility that the ideas that emerged in a different place might have had a different genealogy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "discontinue",
+    "discord",
+    "discordant",
+    "discotheque",
+    "discount",
+    "discourage",
+    "discouragement",
+    "discourse",
+    "discourteous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432708_834f37ed0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432708_218b9f84b7_o.png",
+      "id_image": "discount_1057477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054120_a0ec00f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054120_55a01f3a03_o.png",
+      "id_image": "discount_675752"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "defrost",
+  "phat_am": "diːˈfrost",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rã băng",
+          "definition": "to remove frost or ice from (eg a refrigerator)",
+          "world_new": [
+            "remove",
+            "frost",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I keep forgetting to defrost the freezer.",
+              "world_new": [
+                "I",
+                "keep",
+                "freezer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rã đông",
+          "definition": "(of frozen food etc) to thaw (out)",
+          "world_new": [
+            "frozen",
+            "food",
+            "thaw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Make sure you defrost the chicken thoroughly.",
+              "world_new": [
+                "sure",
+                "chicken",
+                "thoroughly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Retinae were isolated from freshly defrosted eyes.",
+    "It was so cold that parts of my anatomy—certain extremities—have still not defrosted, at least according to my wife.",
+    "Fish were defrosted at room temperature and the general condition of the fish and any external lesions were noted.",
+    "Methods of defrosting food (room temperature, refrigerator, hot or cold water and microwave) were similar in case and control kitchens.",
+    "Single worms were defrosted on ice, and crushed in distilled water.",
+    "Case and control households with a child under 5 years were more likely to defrost foods in the refrigerator and less likely to keep eggs for more than 1 week.",
+    "This method takes account of the difference between wholesale and retail prices and allows for losses due to cutting, defrosting, and so on.",
+    "We also have the situation where pigmeat and poultry meat has been frozen, then defrosted, labelled and sold as fresh."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deform",
+    "deformed",
+    "deformity",
+    "defraud",
+    "defrost",
+    "deft",
+    "deftly",
+    "deftness",
+    "defuse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042660_2e8821ac32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042660_82f8ed6e2a_o.png",
+      "id_image": "defrost_1793165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349917_f10c7a89ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349917_8a2b2b99ba_o.png",
+      "id_image": "defrost_5660311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305701_d83ac55d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305701_7e5cc4a73e_o.png",
+      "id_image": "defrost_5869081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305686_96eb6a6a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305686_0810baf21e_o.png",
+      "id_image": "defrost_6080851"
+    }
+  ]
+}

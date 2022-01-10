@@ -1,0 +1,113 @@
+{
+  "english": "cough",
+  "phat_am": "kof",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ho",
+          "definition": "to make a harsh sound when bringing air or harmful matter from the lungs or throat",
+          "world_new": [
+            "harsh",
+            "sound",
+            "air",
+            "harmful",
+            "matter",
+            "throat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s coughing badly because he has a cold.",
+              "world_new": [
+                "badly",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ho",
+          "definition": "an act of coughing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave a cough."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng ho",
+          "definition": "an illness causing coughing",
+          "world_new": [
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a smoker’s cough."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They also represented one normally relatively minor (cough and/or sore throat) and one, at least potentially, more serious condition (abdominal pain).",
+    "Chronic cough lasting 8 weeks or more often seems to be an intractable problem in childhood.",
+    "The 18 patients who came to the clinic with persistent coughing were added to the numerator.",
+    "Morphine at 8 mg0kg suppressed cough and methylnaltrexone returned the cough response to control levels in a dose-dependent fashion without affecting analgesia.",
+    "Apart from an intermittent cough and recent onset of breathlessness, he had been otherwise well and thriving from birth.",
+    "The common clinical features of these patients included fever, generalized body ache, headache and cough.",
+    "In comparison to airborne transmission symptoms such as sore throat, pharyngeal erythema, and enlarged tonsils, submandibular lymphadenopathy are more frequent than coughing and coryza.",
+    "Traditionally, a large number of different decoctions and mixtures have been used to inhibit coughing (cough suppressants) or to promote expectoration."
+  ],
+  "list_see_also": [
+    "cough mixture",
+    "cough up"
+  ],
+  "list_browse": [
+    "cotyledon",
+    "couch",
+    "couch potato",
+    "cougar",
+    "cough",
+    "cough mixture",
+    "cough up",
+    "could",
+    "could have"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443283_693ef0c149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443283_c14f4fa44e_o.png",
+      "id_image": "cough_2746423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328156_560cb6b0c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328156_fd326f96f5_o.png",
+      "id_image": "cough_2746661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683254_25581bc045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683254_5862fac739_o.png",
+      "id_image": "cough_2855034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443168_22d56e35ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443168_5ab1b41209_o.png",
+      "id_image": "cough_4171466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683169_a2a9ec55a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683169_ace21bc727_o.png",
+      "id_image": "cough_4310528"
+    }
+  ]
+}

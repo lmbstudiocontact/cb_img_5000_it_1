@@ -1,0 +1,79 @@
+{
+  "english": "evaluate",
+  "phat_am": "iˈvӕljueit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh giá",
+          "definition": "to form an idea of the worth of",
+          "world_new": [
+            "form",
+            "idea",
+            "worth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is difficult to evaluate him as a writer.",
+              "world_new": [
+                "difficult",
+                "writer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định giá",
+          "definition": "to work out the numerical value of",
+          "world_new": [
+            "work",
+            "numerical",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If x = 1 and y = 2 we can evaluate x2 + y2."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Experiments evaluating the effects of isoproteronol on tissue removed from the heart at surgery demonstrated initial inhibition of contraction with improvements over time.",
+    "During training the synaptic weights are evaluated and after training, the network should be able to reproduce the learned behaviour.",
+    "Thus, informed speculation concerning the outcome of the equal antecedent-risk insurance mechanism would serve as the guideline for evaluating the justice of communal medical provision.",
+    "So we have to evaluate this assumption empirically.",
+    "Thus, the data could be helpful in evaluating or formulating a wave theory of turbulence.",
+    "Typically, the whole performance is evaluated: the presentation, as well as the music being played or sung.",
+    "The conceptual definitions and targeting criteria proposed by this working group should then be tested in large-scale prospective studies to evaluate their predictive value.",
+    "Since this method of evaluating the receptive-field center sizes is significantly different from ours, these results is not straightforwardly comparable to ours."
+  ],
+  "list_see_also": [
+    "evaluation"
+  ],
+  "list_browse": [
+    "euthanasia",
+    "evacuate",
+    "evacuation",
+    "evade",
+    "evaluate",
+    "evaluation",
+    "evangelical",
+    "evangelist",
+    "evaporate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668714_c9da47eae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668714_f0061da343_o.png",
+      "id_image": "evaluate_4463296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668679_1b8f91f637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668679_e8d1830ceb_o.png",
+      "id_image": "evaluate_5252596"
+    }
+  ]
+}

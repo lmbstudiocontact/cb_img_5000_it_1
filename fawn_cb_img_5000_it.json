@@ -1,0 +1,96 @@
+{
+  "english": "fawn",
+  "phat_am": "foːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hươu, nai nhỏ",
+          "definition": "a young deer.",
+          "world_new": [
+            "young",
+            "deer"
+          ]
+        },
+        {
+          "mean_english": "có màu nâu vàng nhạt",
+          "definition": "(also adjective) (of) its colour/color, a light yellowish brown",
+          "world_new": [
+            "its",
+            "light",
+            "brown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fawn sweater.",
+              "world_new": [
+                "sweater"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xun xoe; bợ đỡ",
+          "definition": "(with upon) to be too humble or to flatter (someone) in a servile way",
+          "world_new": [
+            "humble",
+            "flatter",
+            "servile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The courtiers fawned upon the queen.",
+              "world_new": [
+                "queen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẫy đuôi mừng (chó)",
+          "definition": "(of dogs) to show affection (by wagging the tail, rolling over etc).",
+          "world_new": [
+            "affection",
+            "tail",
+            "rolling"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I thought fawn colour was called mauve.",
+    "He fawns upon them and makes them believe they are intelligent, when he knows that it is ignorance which is moving them.",
+    "They are fawn with small lateral dots on each side.",
+    "A red deer fawn lies down and keeps absolutely still and will not be found unless the wolf actually treads on it.",
+    "They will fawn all over him and act all touchy-feely-cuddly.",
+    "The short, smooth coat is a light grey to fawn colour, fading quickly to white on the undersides and legs.",
+    "I represent, for a time at any rate, a city which has had a great record as the forerunner of regional fawn planning.",
+    "The hindwings are brownish fawn, with paler veins."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "favourable",
+    "favourably",
+    "favourite",
+    "favouritism",
+    "fawn",
+    "fax",
+    "fax number",
+    "FBI",
+    "fear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333896_61ebbc79d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333896_aa1974c5d2_o.png",
+      "id_image": "fawn_5150889"
+    }
+  ]
+}

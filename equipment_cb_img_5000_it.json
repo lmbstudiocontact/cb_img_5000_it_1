@@ -1,0 +1,99 @@
+{
+  "english": "equipment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trang thiết bị",
+          "definition": "the clothes, machines, tools etc necessary for a particular kind of work, activity etc",
+          "world_new": [
+            "clothes",
+            "necessary",
+            "particular",
+            "kind",
+            "work",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mechanic could not repair the car because he did not have the right equipment",
+              "world_new": [
+                "mechanic",
+                "repair",
+                "car",
+                "right"
+              ]
+            },
+            {
+              "ex_of_definition": "The boy could not afford the equipment necessary for mountaineering.",
+              "world_new": [
+                "boy",
+                "afford",
+                "necessary",
+                "mountaineering"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trang bị",
+          "definition": "the act of equipping.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They reported that exchanging information and exchanging technical equipment were the main reasons for the contact.",
+    "However, very few of them contained musical instruments, but rather electronic equipment.",
+    "Here despite the similar training, equipment and licensing that is present in all airlines, their safety records vary by a factor of 42.",
+    "A global service is built when the architect is capable to identify a reactive chain of services belonging to equipment.",
+    "As shown in the design decomposition, the drive equipment specialist is responsible for selection and (optionally) assembly of the drive train components.",
+    "Based on the results, pulsed diode lasers at optimal wavelengths can be chosen for clinically adapted equipment.",
+    "Manufacturers must comply with standards intended to make the equipment safe: users must operate equipment in an appropriate and safe manner.",
+    "These cost differences reflect the different hospital equipment policies for reusable equipment (the results when disposable equipment were used were virtually identical)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "equilateral",
+    "equilibrium",
+    "equinox",
+    "equip",
+    "equipment",
+    "equitable",
+    "equitably",
+    "equity",
+    "equivalent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431248_cda246a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431248_c0601e1dd7_o.png",
+      "id_image": "equipment_2201243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316341_6eaf6acc08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316341_17ac850b55_o.png",
+      "id_image": "equipment_2219008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670959_db8b80611b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670959_16b6fe7f1f_o.png",
+      "id_image": "equipment_2738943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316296_7e00c3e20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316296_30db197671_o.png",
+      "id_image": "equipment_3043476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360492_824cbaf439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360492_33457b893d_o.png",
+      "id_image": "equipment_4597340"
+    }
+  ]
+}

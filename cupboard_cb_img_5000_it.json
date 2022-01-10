@@ -1,0 +1,74 @@
+{
+  "english": "cupboard",
+  "phat_am": "ˈkabəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ ly",
+          "definition": "a cabinet of any size up to that of a small room for storing anything; closet American",
+          "world_new": [
+            "cabinet",
+            "size",
+            "small",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put the food in the cupboard",
+              "world_new": [
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "a broom cupboard.",
+              "world_new": [
+                "broom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are not the sort of people who suddenly appear out of cupboards.",
+    "The cupboards were dirty and in a state of disrepair.",
+    "Of course files, whether in dirty cupboards or in old drawers, are always accessible to the criminal.",
+    "The cupboards which, a year ago, were bare, now, we are told, were indecently over-stocked.",
+    "Of course, there can be skeletons in cupboards as well.",
+    "We are not exactly living in cupboards, but we are very restricted for accommodation.",
+    "The floors of the bank were of course pulled up in order to search for documents, and locked doors and cupboards were broken.",
+    "Among the patients involved are what are called \"shopping list patients\", whose doctors are being induced to stock up the patients' medicine cupboards."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cunt",
+    "cup",
+    "cup final",
+    "cup tie",
+    "cupboard",
+    "cupful",
+    "cur",
+    "curable",
+    "curate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430413_b80d3224f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430413_90f72e6f54_o.png",
+      "id_image": "cupboard_2286089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315551_b66c0de651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315551_ef77c4df48_o.png",
+      "id_image": "cupboard_2394549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359727_ba3f675e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359727_3acc61e3fb_o.png",
+      "id_image": "cupboard_436174"
+    }
+  ]
+}

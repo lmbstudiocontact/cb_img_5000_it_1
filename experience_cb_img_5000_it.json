@@ -1,0 +1,125 @@
+{
+  "english": "experience",
+  "phat_am": "ikˈspiəriəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kinh nghiệm",
+          "definition": "(knowledge, skill or wisdom gained through) practice in some activity, or the doing of something",
+          "world_new": [
+            "skill",
+            "wisdom",
+            "practice",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Learn by experience – don’t make the same mistake again",
+              "world_new": [
+                "mistake"
+              ]
+            },
+            {
+              "ex_of_definition": "Has she had experience in teaching?",
+              "world_new": [
+                "teaching"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự từng trải",
+          "definition": "an event that affects or involves a person etc",
+          "world_new": [
+            "event",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The earthquake was a terrible experience.",
+              "world_new": [
+                "earthquake",
+                "terrible"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trải qua",
+          "definition": "to have experience of; to feel",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have never before experienced such rudeness!",
+              "world_new": [
+                "I",
+                "experienced",
+                "rudeness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Approximately one-quarter experienced a hearing limitation or a learning, developmental or psychological disability.",
+    "About 57 % were found to have experienced psychological distress.",
+    "More surprisingly, he had little time for the actual experiences of the millions of ordinary people who in our time have been at war.",
+    "A key issue in the book is an analysis of the experience with the application of economic instruments, such as charges and tradable discharge permits.",
+    "The only representations that exist, in this view, are those that are embedded in the momentary phenomenal experience.",
+    "In fact much of what we do is based on experience that \"ordinary people\" (here: not researchers or other elites) have shared with us.",
+    "In studying the psychological effects of bilingualism, the time and circumstances of individuals' experiences with different languages and sociocultural settings should be carefully examined.",
+    "It is based on a one-year qualitative research project, which seeks to explore the experiences of social dance for older dancers."
+  ],
+  "list_see_also": [
+    "experienced"
+  ],
+  "list_browse": [
+    "expenditure",
+    "expense",
+    "expenses",
+    "expensive",
+    "experience",
+    "experienced",
+    "experiment",
+    "experimental",
+    "experimentally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310046_52d7b854ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310046_23060ac847_o.png",
+      "id_image": "experience_1900199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665309_21a2930e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665309_bd9507874b_o.png",
+      "id_image": "experience_2680938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046965_6b989d0e80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046965_65039b8fb5_o.png",
+      "id_image": "experience_4185758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425058_af9f1670ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425058_902fdd07dc_o.png",
+      "id_image": "experience_4525501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354247_b6b284ec2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354247_606fdbc840_o.png",
+      "id_image": "experience_5965633"
+    }
+  ]
+}

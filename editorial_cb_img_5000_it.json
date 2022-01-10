@@ -1,0 +1,87 @@
+{
+  "english": "editorial",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc biên tập viên",
+          "definition": "of or belonging to editors",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "editorial work/staff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài xã luận",
+          "definition": "the leading article in a newspaper",
+          "world_new": [
+            "article",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrote the editorial for USA Today."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sole television channel, on the air since 1954, completely abstained from political programmes and editorials.",
+    "Despite the favourable editorials in newspapers, we are losing the propaganda battle.",
+    "In various editorials, he campaigned for improved street lighting and road paving, waste disposal, public baths, a more efficient and comprehensive fire department and a better street-car system.",
+    "I do not think the editorials touch on the subject.",
+    "To that end, we publish two editorials in this issue which address areas which, in the past, have generated widely contrasting views.",
+    "The total cost of advertising is £682,000 which covers radio and poster advertising, and paid editorials.",
+    "The texts of popular songs may bring 'a rich harvest of deviant spelling' but they don't come under the same linguistic category as dialect-imitation or newspaper editorials.",
+    "There are more pompous speeches made and more pompous editorials written on the subject than on almost any other subject."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "edifying",
+    "edit",
+    "edition",
+    "editor",
+    "editorial",
+    "educate",
+    "educated",
+    "educated guess",
+    "education"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444368_2be45490ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444368_2c3db9acca_o.png",
+      "id_image": "editorial_1277318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329376_de92407b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329376_a23718c45f_o.png",
+      "id_image": "editorial_1806592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329351_94ea2cf9b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329351_ac0c25f7dc_o.png",
+      "id_image": "editorial_2662853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444223_4dee5b1329_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444223_5b37ac09cc_o.png",
+      "id_image": "editorial_4514996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444153_54df4595cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444153_b18b08147e_o.png",
+      "id_image": "editorial_4514997"
+    }
+  ]
+}

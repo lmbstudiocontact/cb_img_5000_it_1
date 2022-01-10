@@ -1,0 +1,114 @@
+{
+  "english": "cook",
+  "phat_am": "kuk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nấu ăn",
+          "definition": "to prepare (food) or become ready by heating",
+          "world_new": [
+            "prepare",
+            "become",
+            "ready",
+            "heating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cooked the chicken",
+              "world_new": [
+                "chicken"
+              ]
+            },
+            {
+              "ex_of_definition": "The chicken is cooking in the oven.",
+              "world_new": [
+                "chicken",
+                "cooking",
+                "oven"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầu bếp",
+          "definition": "a person who cooks, especially for a living",
+          "world_new": [
+            "person",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was employed as a cook at the embassy.",
+              "world_new": [
+                "employed",
+                "embassy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 4 shows the average number of cooking fuels per household in each sector and 4 per cent quantile.",
+    "Various activities took place at the camp including the preparation and consumption of bread doughsticks cooked over a barbecue.",
+    "Both narratives then emphasize the time taken to cook the hog : ' 'all night ' ' in the former, the ' ' whole night' ' in the latter.",
+    "Similar health problems result from cooking food less thoroughly.",
+    "Ornaments, cooking utensils and consumables were widely purchased, as were coffee, tea and sugar.",
+    "The union complained that so few cooks could hardly provide food and act as servants for the ten guards assigned to them.",
+    "The centre has 3.5 permanent posts - the manager, a cook and two assistants.",
+    "While it was being cooked and giving off delicious odors, the men talked and told stories and sang songs."
+  ],
+  "list_see_also": [
+    "cooker",
+    "cookery",
+    "cooking",
+    "cookery book",
+    "cook up"
+  ],
+  "list_browse": [
+    "convulse",
+    "convulsion",
+    "convulsive",
+    "convulsively",
+    "cook",
+    "cook up",
+    "cooker",
+    "cookery",
+    "cookery book"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305166_00090639e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305166_52f13a35e3_o.png",
+      "id_image": "cook_2934121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305136_76fc938536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305136_830350e0ef_o.png",
+      "id_image": "cook_3048325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042075_57cffe3c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042075_d482c5dba6_o.png",
+      "id_image": "cook_3565307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349332_5be75d78f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349332_3a68ea8905_o.png",
+      "id_image": "cook_4232369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660649_38fa172f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660649_08968dd848_o.png",
+      "id_image": "cook_816550"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "false",
+  "phat_am": "foːls",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sai; nhầm",
+          "definition": "not true; not correct",
+          "world_new": [
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a false statement to the police.",
+              "world_new": [
+                "statement",
+                "police"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cố tình làm sai để đánh lừa",
+          "definition": "not genuine; intended to deceive",
+          "world_new": [
+            "deceive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a false passport.",
+              "world_new": [
+                "passport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thật",
+          "definition": "artificial",
+          "world_new": [
+            "artificial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "false teeth."
+            }
+          ]
+        },
+        {
+          "mean_english": "phản trắc",
+          "definition": "not loyal",
+          "world_new": [
+            "loyal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "false friends."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "falsehood",
+    "falsify",
+    "falsification",
+    "falsity",
+    "false alarm",
+    "false start"
+  ],
+  "list_browse": [
+    "Fallopian tube",
+    "fallout",
+    "fallow",
+    "falls",
+    "false",
+    "false alarm",
+    "false pretences",
+    "false start",
+    "falsehood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692109_2fa56b805f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692109_6dbdbc9ffa_o.png",
+      "id_image": "false_5226409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692074_0bba974a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692074_cc55fc980a_o.png",
+      "id_image": "false_5706113"
+    }
+  ]
+}

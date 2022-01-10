@@ -1,0 +1,87 @@
+{
+  "english": "embrace",
+  "phat_am": "imˈbreis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ôm chặt",
+          "definition": "to take (a person etc) in the arms; to hug",
+          "world_new": [
+            "person",
+            "hug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She embraced her brother warmly.",
+              "world_new": [
+                "brother",
+                "warmly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái ôm",
+          "definition": "a clasping in the arms; a hug",
+          "world_new": [
+            "hug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a loving embrace.",
+              "world_new": [
+                "loving"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For obvious reasons, his position is not generally publicly embraced by those with a more ambitious agenda for traditional approaches.",
+    "And, above all, why did some states embrace extensive privatization programmes while other did not?",
+    "Progressive local authorities, therefore, embraced the emergent technology of destructors and thereby wed municipal waste management to large-scale and cost-ineffective waste disposal schemes.",
+    "The courts later adopted a less restrictive concept of locality, recognising that settlements might embrace more than one parish.",
+    "Not all readers will embrace every viewpoint expressed in this book.",
+    "Casting aside figurative painting, the visual artists tended to embrace installation art and irony.",
+    "By the end of his terrible journey, he embraces the whole 'divine circle' of creation, affirming transcendence rather than mortality.",
+    "In some cases, however, existing unions were brought to embrace syndicalism; in others dissidents broke away to found their own syndicalist unions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "embodiment",
+    "embody",
+    "embolism",
+    "embossed",
+    "embrace",
+    "embroider",
+    "embroidery",
+    "embroil",
+    "embryo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367627_a83600362d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367627_b0f967939a_o.png",
+      "id_image": "embrace_2689101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677879_1f95c93e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677879_5d615f9b55_o.png",
+      "id_image": "embrace_394472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677799_14a5b74177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677799_dbbf6b0580_o.png",
+      "id_image": "embrace_4412686"
+    }
+  ]
+}

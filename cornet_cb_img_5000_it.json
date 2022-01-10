@@ -1,0 +1,88 @@
+{
+  "english": "cornet",
+  "phat_am": "ˈkoːnit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kèn cóc nê",
+          "definition": "a brass musical instrument similar to the trumpet",
+          "world_new": [
+            "brass",
+            "musical",
+            "instrument",
+            "similar",
+            "trumpet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She plays the cornet in a youth orchestra.",
+              "world_new": [
+                "youth",
+                "orchestra"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ốc quế",
+          "definition": "a cone-shaped wafer biscuit for holding ice-cream",
+          "world_new": [
+            "wafer",
+            "biscuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an ice-cream cornet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Symphonic repertoire often involves separate parts for trumpet and cornet.",
+    "He was given a cornet at five years of age, and started playing in a brass band at seven.",
+    "He was a truly unique artist, proving that cornet could be played as a modern jazz instrument.",
+    "The work has most often been played and recorded without the solo cornet part.",
+    "In cavalry companies the equivalent rank was cornet.",
+    "As a youngster, he learned to play piano, cornet and trombone.",
+    "The instruments he used most were the violin, the trumpet, the bassoon, the viola da gamba, the cornet and the sackbut.",
+    "Saille consistently incorporates real classical instruments (e.g. cello, violin, cornet, trumpet, euphonium) into their compositions, as well as strong influences from black metal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cornea",
+    "corned beef",
+    "corner",
+    "cornered",
+    "cornet",
+    "cornflakes",
+    "cornflour",
+    "cornflower",
+    "corny"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376382_07f670f04d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376382_0d0eab3ab9_o.png",
+      "id_image": "cornet_2387249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331626_c056ef3bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331626_b4410c49a6_o.png",
+      "id_image": "cornet_2614833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446578_ba286dac5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446578_7ae8ea4796_o.png",
+      "id_image": "cornet_4804869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446698_e15653b50a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446698_4276ae8553_o.png",
+      "id_image": "cornet_873445"
+    }
+  ]
+}

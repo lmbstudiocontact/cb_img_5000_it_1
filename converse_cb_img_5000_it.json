@@ -1,0 +1,81 @@
+{
+  "english": "converse",
+  "phat_am": "kənˈvəːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyện trò",
+          "definition": "to talk",
+          "world_new": [
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is difficult to converse with people who do not speak your language.",
+              "world_new": [
+                "difficult",
+                "people",
+                "speak",
+                "your",
+                "language"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều ngược lại",
+          "definition": "the opposite; the contrary",
+          "world_new": [
+            "contrary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The converse is also true.",
+              "world_new": [
+                "true"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within the main structure, our informant has heard roosters and turkeys speaking like people and cattle conversing in human language.",
+    "The indent makes a supreme effort, and can probably hide his difficulties and problems while conversing with this person.",
+    "Such devices are normally extremely powerful and can pick up conversations without the knowledge of those conversing.",
+    "They took it humorously, admiring the way diat we conversed in a totally different language, feeling obviously amused and proud at the same time.",
+    "Many can recognize and produce the solidary yet respectful usage appropriate to conversing with older kin, or they can use the informal speech for spending time with immediate family members.",
+    "In order to prove the converses of the above results, we need a couple of lemmas.",
+    "A male caretaker does not usually use khâ when conversing with a young girl.",
+    "They conversed and moved, fell silent and froze, and spoke and moved again."
+  ],
+  "list_see_also": [
+    "conversely"
+  ],
+  "list_browse": [
+    "convergence",
+    "convergent",
+    "conversation",
+    "conversational",
+    "converse",
+    "conversely",
+    "conversion",
+    "convert",
+    "convertibility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305716_1fdfb77d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305716_a5c7fff3c3_o.png",
+      "id_image": "converse_1974761"
+    }
+  ]
+}

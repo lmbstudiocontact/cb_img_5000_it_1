@@ -1,0 +1,76 @@
+{
+  "english": "driver",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lái xe",
+          "definition": "a person who drives a car etc",
+          "world_new": [
+            "person",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus driver.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perhaps most fundamentally, it helps develop self-confidence and determination in local people and communities - the real drivers of regeneration in the long run.",
+    "The main research interest is in identifying factors that influence the driver's allocation of attention among the tasks of the different control levels.",
+    "As a result, there has been an exponential increase in the number of older drivers in the developed world.",
+    "The forward motion velocity is set to 3.2 cm/s and regulated by the closed-loop control of the drivers.",
+    "Figure 2 shows crash types by the drivers' age groups.",
+    "Previous papers have examined specific effects of these drivers.",
+    "The two main drivers in any music that are built into this model are the tension between unity and variety.",
+    "The super service station and the drive-in market had proved the attractions to car drivers of the 'one-stop shop'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drive off",
+    "drive on",
+    "drive-in",
+    "drive-through",
+    "driver",
+    "driver’s license",
+    "driveway",
+    "driving",
+    "driving licence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338356_01b67eba30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338356_353e240a10_o.png",
+      "id_image": "driver_1983268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453313_ff23c75372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453313_d4a0b72469_o.png",
+      "id_image": "driver_2767667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453278_901459f13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453278_62bccc1ebe_o.png",
+      "id_image": "driver_3211820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453228_5073c533b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453228_4730704ec6_o.png",
+      "id_image": "driver_4010336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075290_0a403bfcc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075290_44d8b15bd9_o.png",
+      "id_image": "driver_4310427"
+    }
+  ]
+}

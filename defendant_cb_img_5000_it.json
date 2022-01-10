@@ -1,0 +1,59 @@
+{
+  "english": "defendant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bị cáo",
+          "definition": "a person accused or sued in a law court",
+          "world_new": [
+            "person",
+            "law",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The defendant pleaded ‘not guilty’."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But this is not guaranteed to happen just because the defendant was morally justified in the course on which he embarked.",
+    "The restitutionar y claim is made out if some of the plaintiff's loss corresponds to some of the defendant's gain.",
+    "None of these findings renders the hypothesis that the defendant in question is innocentm more likely than 25.",
+    "After all, a juror at the outset has no basis for either affirming or denying the innocencem of the defendant.",
+    "My claim is that judicial imposition of legal sanction at least expresses official disapproval of the defendant's conduct.",
+    "If they adopted the conclusion-centered approach, they would find for the defendant; if they took the premise-centered approach, then they would find against.",
+    "The case was settled recently as to all defendants just prior to the scheduled trial date.",
+    "The defendant healthcare professionals contended that the families greatly exaggerated both the severity of the patients' pain and the professional unresponsiveness to it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "defective",
+    "defence",
+    "defenceless",
+    "defend",
+    "defendant",
+    "defender",
+    "defensive",
+    "defer",
+    "deference"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305971_3ab3455150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305971_43570ce052_o.png",
+      "id_image": "defendant_1566568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305946_d338dcb8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305946_2c645a8b06_o.png",
+      "id_image": "defendant_1865651"
+    }
+  ]
+}

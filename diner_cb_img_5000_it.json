@@ -1,0 +1,79 @@
+{
+  "english": "diner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người dự tiệc",
+          "definition": "a person who dines",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The diners ran from the restaurant when the fire started.",
+              "world_new": [
+                "restaurant",
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toa ăn trên tàu hỏa",
+          "definition": "a restaurant car on a train.",
+          "world_new": [
+            "restaurant",
+            "car",
+            "train"
+          ]
+        },
+        {
+          "mean_english": "quán ăn nhỏ bình dân",
+          "definition": "a small inexpensive restaurant.",
+          "world_new": [
+            "small",
+            "inexpensive",
+            "restaurant"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When spices were pushed round there was an orange on the dish, and diners were allowed to handle it and smell it, and they then had to put it back.",
+    "Diners typically then carry their own food from the counter to a table of their choosing, and afterward dispose of any waste from their trays.",
+    "The dining room enjoyed a three-sided view of the river, and diners could take the air on a wraparound porch.",
+    "She tried to get into a restaurant to have a meal and was refused entry on the grounds that her physical appearance would put other diners off.",
+    "The film ends with one the diners discovering a solution to the mystery, before falling off the fridge and wiping his memory clean.",
+    "The papad, bhaaji are served below the koshimbir with the rice and poli served at the bottom of the circle closed to the diner's hand.",
+    "When eating, diners generally share food from a large tray placed in the centre of a low dining table.",
+    "When the beans are roasted to smoking, they are passed around the table, where the smoke becomes a blessing on the diners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "din",
+    "dine",
+    "dine on",
+    "dine out",
+    "diner",
+    "ding-dong",
+    "dinghy",
+    "dinginess",
+    "dingo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436528_585d16ddec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436528_5baf28864c_o.png",
+      "id_image": "diner_3361494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366142_190540695d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366142_5d604a4a9d_o.png",
+      "id_image": "diner_5002439"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "english": "even",
+  "phat_am": "iːvən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngang nhau",
+          "definition": "level; the same in height, amount etc",
+          "world_new": [
+            "height",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are the table-legs even?"
+            },
+            {
+              "ex_of_definition": "an even temperature.",
+              "world_new": [
+                "temperature"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng phẳng",
+          "definition": "smooth",
+          "world_new": [
+            "smooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to make the path more even.",
+              "world_new": [
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đều",
+          "definition": "regular",
+          "world_new": [
+            "regular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a strong, even pulse.",
+              "world_new": [
+                "strong",
+                "pulse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chẵn",
+          "definition": "divisible by 2 with no remainder",
+          "world_new": [
+            "divisible",
+            "remainder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "2, 4, 6, 8, 10 etc are even numbers."
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng nhau",
+          "definition": "equal (in number, amount etc)",
+          "world_new": [
+            "equal",
+            "number",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teams have scored one goal each and so they are even now.",
+              "world_new": [
+                "goal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điềm đạm",
+          "definition": "calm",
+          "world_new": [
+            "calm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a very even temper.",
+              "world_new": [
+                "temper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "san bằng",
+          "definition": "to make equal",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Johnson’s goal evened the score.",
+              "world_new": [
+                "goal",
+                "score"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phẳng",
+          "definition": "to make smooth or level.",
+          "world_new": [
+            "smooth",
+            "level"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "thậm chí",
+          "definition": "used to point out something unexpected in what one is saying",
+          "world_new": [
+            "point",
+            "unexpected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Have you finished yet?’ ‘No, I haven’t even started.’",
+              "world_new": [
+                "finished",
+                "yet",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Even the winner didn’t get a prize.",
+              "world_new": [
+                "winner",
+                "prize"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mà còn",
+          "definition": "yet; still",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My boots were dirty, but his were even dirtier.",
+              "world_new": [
+                "dirty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Note that even if we rely on purely structural tests, this is a problem.",
+    "But it is of the nature of both art and ghosts, even \"spurious\" ones, to refuse to solve the riddle.",
+    "Even under the second scenario, the few phonetic changes that did occur were limited to underlying change.",
+    "Qualitative researchers have also recognized the problem of hierarchical, nested levels of context, even if they have not expressed the problem in those terms.",
+    "For even if features of the world were literally represented in brains/ minds, these representations would not explain cognition.",
+    "In organic farming there are even some years with complete crop failures, which must be included in the calculation.",
+    "They follow indigenous rice agronomy, ignoring the use of fertilizers, pesticides and even supplementary feed for the fish reared in the system.",
+    "Another is that competition, even if successful in reducing tariffs, will marginally affect the households bills."
+  ],
+  "list_see_also": [
+    "evenly",
+    "evenness",
+    "be/get even with",
+    "an even chance",
+    "even out",
+    "even up"
+  ],
+  "list_browse": [
+    "evasive",
+    "evasively",
+    "evasiveness",
+    "eve",
+    "even",
+    "even if",
+    "even out",
+    "even so",
+    "even though"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668509_cacb1aff1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668509_b65d1db1e6_o.png",
+      "id_image": "even_4557989"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "daily",
+  "phat_am": "ˈdeili",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hàng ngày",
+          "definition": "happening etc every day",
+          "world_new": [
+            "happening",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a daily walk",
+              "world_new": [
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "This is part of our daily lives.",
+              "world_new": [
+                "part",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hàng ngày",
+          "definition": "every day",
+          "world_new": [
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I get paid daily.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhật báo",
+          "definition": "a newspaper published every day",
+          "world_new": [
+            "newspaper",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The same story is in all the dailies.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người giúp việc",
+          "definition": "(also daily help) British, old-fashioned a person who is paid to come regularly and help with the housework",
+          "world_new": [
+            "person",
+            "regularly",
+            "help",
+            "housework"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our daily (help) comes on Mondays."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thereafter, numbers of spring migrants were counted and removed daily.",
+    "Only symptoms with significant impact on daily activities contributed as diagnostic criteria.",
+    "Daily fecundity (number of nymphs produced per adult per day) varied with time for both aphid species and in each experiment (fig. 2).",
+    "Nucleated settlement would have placed the inhabitants of a farm in close daily proximity.",
+    "Foraging frequency was positively correlated with minimum daily temperatures and very few foragers were observed in winter.",
+    "Geranium fruits were collected daily, since their ripe fruits or seeds are released from the parent plant.",
+    "The objective of the trial was to assess the efficacy and tolerability of once daily ropinirole 24-h prolonged release as an adjunct to levodopa.",
+    "All patients received 60 mg oral pseudoephedrine twice daily as outpatients."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dachshund",
+    "dad",
+    "daffodil",
+    "dagger",
+    "daily",
+    "daintily",
+    "daintiness",
+    "dainty",
+    "dairy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311901_51e32b0eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311901_5d8f07b23f_o.png",
+      "id_image": "daily_1933926"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "evil",
+  "phat_am": "ˈiːvl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xấu xa",
+          "definition": "very bad; wicked; sinful",
+          "world_new": [
+            "sinful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "evil intentions"
+            },
+            {
+              "ex_of_definition": "an evil man"
+            },
+            {
+              "ex_of_definition": "He looks evil",
+              "world_new": [
+                "looks"
+              ]
+            },
+            {
+              "ex_of_definition": "evil deeds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều xấu",
+          "definition": "wrong-doing, harm or wickedness",
+          "world_new": [
+            "harm",
+            "wickedness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tries to ignore all the evil in the world",
+              "world_new": [
+                "ignore",
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "Do not speak evil of anyone.",
+              "world_new": [
+                "speak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tệ nạn",
+          "definition": "anything evil, eg crime, misfortune etc",
+          "world_new": [
+            "crime",
+            "misfortune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "London in the eighteenth century was a place of crime, filth, poverty and other evils.",
+              "world_new": [
+                "century",
+                "place",
+                "crime",
+                "filth",
+                "poverty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "xấu",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "evil-minded"
+            },
+            {
+              "ex_of_definition": "evil-smelling."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We may feel that there is just ' too much ' evil in the world, but that judgement is neither well-informed nor objective.",
+    "In the absence of any viable alternative, most secular women chose the lesser of two evils: the state.",
+    "These entities may be called demons or \"the evil,\" animalculi or bugs, bacteria or viruses.",
+    "Of more moment is that there much more moral evil than is needed for the purpose of realizing the good of there being free persons.",
+    "So, whilst the outcomes in cases such as the two presented here are not perfect, they are the lesser of two evils.",
+    "The \"necessary evils\" of social purity and censorship must be credited in part for our perception of individual writers and their literary legacy.",
+    "There are many silly, corrupt, or evil practices that would \"cease to exist\" if the participants did not generally comply with certain putative norms.",
+    "That is to say, without evil and suffering many of us would not be who we are."
+  ],
+  "list_see_also": [
+    "evil-",
+    "evilly",
+    "evilness",
+    "evil-doer"
+  ],
+  "list_browse": [
+    "eviction",
+    "evidence",
+    "evident",
+    "evidently",
+    "evil",
+    "evil-doer",
+    "evilly",
+    "evilness",
+    "evocation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313301_d41afa3a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313301_488a98bf11_o.png",
+      "id_image": "evil_2463616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357282_cde43f1ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357282_0bfd7b6b9f_o.png",
+      "id_image": "evil_5252764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428058_3189e31752_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428058_6fe936a892_o.png",
+      "id_image": "evil_5252782"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "compete",
+  "phat_am": "kəmˈpiːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cạnh tranh, đua tranh",
+          "definition": "to try to beat others in a contest, fight etc",
+          "world_new": [
+            "try",
+            "beat",
+            "contest",
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are competing against them in the next round"
+            },
+            {
+              "ex_of_definition": "Are you competing with her for the job?",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Elections ended and rhetoric became dominated by panegyric and display oratory, rather than a means of competing with aristocratic rivals.",
+    "The editors have striven to give the floor to competing points of view without losing technical focus.",
+    "Legal duties were thus relational statements about competing claims of individual rights.",
+    "The managers and owners interviewed all saw themselves as supplying a standard service and competing on price, as agencies.",
+    "Obviously, by competing in parliamentary elections, parties compete for office, but this does not mean that their goal is actually to attain office.",
+    "We note that the pressure force can compete with the electrostatic force in the earlier stages of the self-similar expansion.",
+    "For the first half of the twentieth century, however, ' care ' and ' control ' existed as symbiotic rather than potentially competing elements within policy frameworks.",
+    "Moreover, agencies that funded wheat production research had little interest in funding research for a competing crop."
+  ],
+  "list_see_also": [
+    "competition",
+    "competitive",
+    "competitor"
+  ],
+  "list_browse": [
+    "compensate",
+    "compensation",
+    "compensatory",
+    "compère",
+    "compete",
+    "competence",
+    "competent",
+    "competently",
+    "competition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361122_c312056203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361122_167d0dc922_o.png",
+      "id_image": "compete_5692229"
+    }
+  ]
+}

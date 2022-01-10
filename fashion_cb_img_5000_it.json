@@ -1,0 +1,120 @@
+{
+  "english": "fashion",
+  "phat_am": "ˈfӕʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời trang",
+          "definition": "the style and design of clothes",
+          "world_new": [
+            "style",
+            "design",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "women’s fashions"
+            },
+            {
+              "ex_of_definition": "Are you interested in fashion?",
+              "world_new": [
+                "interested"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a fashion magazine.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mốt thời thượng",
+          "definition": "the way of behaving, dressing etc which is popular at a certain time",
+          "world_new": [
+            "dressing",
+            "popular",
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fashions in music and art are always changing.",
+              "world_new": [
+                "music",
+                "art"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lề thói hay cách làm cái gì",
+          "definition": "a way of doing something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spoke in a very strange fashion.",
+              "world_new": [
+                "spoke",
+                "strange"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After they were fashioned, pigment was applied to at least some of the pendants.",
+    "The latter's semantics suggests fashioning this axiomatisation along the lines of axiomatisations for first-order quantifiers.",
+    "Deposits were placed into the earth, flint was taken out of the earth, monuments are fashioned out of the earth, and make it visible.",
+    "Take the case of a golden ornament, fashioned out of gold.",
+    "The ability to establish incidences or prevalences for psychosyndromes is confused by varying diagnostic fashions and patterns of service utilization.",
+    "The agenda being fashioned here centres on the relationship between bastardy and catastrophe.",
+    "A creator not only fashions the thing, but fashions the material out of which it was made, as well the things with which it interacts.",
+    "The rate of degeneration of grafts fashioned from the saphenous vein is, thus, possibly high."
+  ],
+  "list_see_also": [
+    "fashionable",
+    "fashionably",
+    "after a fashion",
+    "all the fashion",
+    "in fashion",
+    "out of fashion"
+  ],
+  "list_browse": [
+    "fascinating",
+    "fascination",
+    "fascism",
+    "fascist",
+    "fashion",
+    "fashionable",
+    "fashionably",
+    "fast",
+    "fast asleep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380322_c63664369a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380322_c17e7ff37d_o.png",
+      "id_image": "fashion_4515576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072155_823545bf46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072155_4199cb6681_o.png",
+      "id_image": "fashion_4647174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335206_48f9a3291b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335206_cab48cdee3_o.png",
+      "id_image": "fashion_4647299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380222_d2d562e4b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380222_d806eddc21_o.png",
+      "id_image": "fashion_5825559"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "construction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xây dựng",
+          "definition": "(a way of) constructing or putting together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bridge is still under construction.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công trình xây dựng",
+          "definition": "something built",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a concrete/steel construction."
+            },
+            {
+              "ex_of_definition": "That construction won’t last long.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Constructions also specify linking relations for combination with other constructions in their semantic structures.",
+    "With the constraints on linear structure in place, it becomes rather straightforward to fully specify different clausal constructions.",
+    "On the other hand, the nouns in such constructions have many of them.",
+    "The determinernoun and clitic pronoun-verb constructions retain the liaison alternation, whereas other constructions are variable or have lost liaison entirely.",
+    "Unconventional constructions with bir may be broken down into three categories.",
+    "The discussion in the preceding paragraph might seem to imply that there exists a strong constraint on the transfer of focus constructions.",
+    "The filler sentences made use of different kinds of syntactic constructions.",
+    "In the case of the dative constructions, this verb is give."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "constrain",
+    "constraint",
+    "constrict",
+    "construct",
+    "construction",
+    "construction site",
+    "construction worker",
+    "constructive",
+    "constructively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046120_54766d8537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046120_2720db9874_o.png",
+      "id_image": "construction_1207116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309086_930b97a94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309086_68e6795855_o.png",
+      "id_image": "construction_1207144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353287_0c698ff7b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353287_d642fd8eb9_o.png",
+      "id_image": "construction_2827372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046080_59d10cbf78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046080_be857ebb04_o.png",
+      "id_image": "construction_3752626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309061_638729c44c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309061_3457cd3b6c_o.png",
+      "id_image": "construction_6258513"
+    }
+  ]
+}

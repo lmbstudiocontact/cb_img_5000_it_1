@@ -1,0 +1,94 @@
+{
+  "english": "ferry",
+  "phat_am": "ˈferi",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyên chở (bằng phà)",
+          "definition": "to carry (people, cars etc) from one place to another by boat (or plane)",
+          "world_new": [
+            "carry",
+            "place",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ferried us across the river in a small boat.",
+              "world_new": [
+                "across",
+                "river",
+                "small",
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phà",
+          "definition": "a boat which ferries people, cars etc from one place to another",
+          "world_new": [
+            "boat",
+            "people",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We took the cross-channel ferry."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Already special attention is paid to passenger ships, in particular ro-ro ferries, tankers and ships which are known to have had recent deficiencies.",
+    "We are entitled to ask what is happening on the ferries order.",
+    "I believe that the ferries are nonpolitical, indeed apolitical.",
+    "The safety regulations for trains are not the same as those for ferries.",
+    "As part of the continuing process of improving safety standards, the stability regulations for passenger ferries were revised in 1980.",
+    "I have correspondence from people who have travelled on ferries from this country to the continent.",
+    "Ferries are a classic example of totally deregulated transport.",
+    "I deal first with the passenger ferries, and particularly the rates which the daily commuters are now having to face."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ferocity",
+    "ferret",
+    "ferret (about)",
+    "ferric",
+    "ferry",
+    "fertile",
+    "fertility",
+    "fertilization",
+    "fertilize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686769_5770265f05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686769_44b371732d_o.png",
+      "id_image": "ferry_1142691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331751_bef4e85e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331751_8d8790cba8_o.png",
+      "id_image": "ferry_1354602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686699_c1284488ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686699_0f59bce3ee_o.png",
+      "id_image": "ferry_2290119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376392_4d0408bbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376392_bec05a786d_o.png",
+      "id_image": "ferry_3117953"
+    }
+  ]
+}

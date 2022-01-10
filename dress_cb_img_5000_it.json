@@ -1,0 +1,161 @@
+{
+  "english": "dress",
+  "phat_am": "dres",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mặc quần áo",
+          "definition": "to put clothes or a covering on",
+          "world_new": [
+            "clothes",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We dressed in a hurry",
+              "world_new": [
+                "dressed",
+                "hurry"
+              ]
+            },
+            {
+              "ex_of_definition": "My wife dressed the children.",
+              "world_new": [
+                "wife",
+                "dressed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuẩn bị thức ăn",
+          "definition": "to prepare (food etc) to be eaten",
+          "world_new": [
+            "prepare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dressed a salad.",
+              "world_new": [
+                "dressed",
+                "salad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "băng bó",
+          "definition": "to treat and bandage (wounds)",
+          "world_new": [
+            "treat",
+            "bandage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent home from hospital after his burns had been dressed.",
+              "world_new": [
+                "home",
+                "hospital",
+                "dressed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quần áo",
+          "definition": "what one is wearing or dressed in",
+          "world_new": [
+            "wearing",
+            "dressed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "formal dress.",
+              "world_new": [
+                "formal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo váy",
+          "definition": "a piece of women’s clothing with a top and skirt in one piece",
+          "world_new": [
+            "piece",
+            "clothing",
+            "top",
+            "skirt",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shall I wear a dress or a blouse and skirt?",
+              "world_new": [
+                "I",
+                "wear",
+                "blouse",
+                "skirt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The woman caught the attention of the publicist of the artists who was dressed for dinner.",
+    "Every factual report, no matter how dressed up in rational language, or inundated with figures and charts, is also part of the performance of publicity.",
+    "All wear the same below-the-knee dresses made out of the same fabric, with gathered tops and uncomfortably tight (and not terribly flattering) fitted waists.",
+    "Often these supernatural monsters are depicted as little more than solitary ambush predators dressed up in culturally contrived monster attire.",
+    "They dressed and undressed themselves and used human toilets, wiping themselves, flushing, even asking to go potty during lessons and naptimes.",
+    "The course is devoted to seeing how heritage sites are made and dressed for public use.",
+    "In addition, costumes were part of his and his family's delight in simply dressing up.",
+    "Large, young, hip audience was predominantly dressed all in black."
+  ],
+  "list_see_also": [
+    "dressed",
+    "dresser",
+    "dressing",
+    "dressing gown",
+    "dressing room",
+    "dressing table",
+    "dressmaker",
+    "dress rehearsal",
+    "dress up"
+  ],
+  "list_browse": [
+    "dredge",
+    "dredger",
+    "dregs",
+    "drench",
+    "dress",
+    "dress rehearsal",
+    "dress up",
+    "dressed",
+    "dresser"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043435_85184f7d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043435_182384c8da_o.png",
+      "id_image": "dress_272630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306421_7cbfb54587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306421_4ece84c4ff_o.png",
+      "id_image": "dress_394466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661759_ae13fde8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661759_e92ffda05c_o.png",
+      "id_image": "dress_669284"
+    }
+  ]
+}

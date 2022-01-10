@@ -1,0 +1,83 @@
+{
+  "english": "crayon",
+  "phat_am": "ˈkreiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bút chì màu",
+          "definition": "a coloured/colored pencil or stick of chalk etc for drawing with",
+          "world_new": [
+            "pencil",
+            "stick",
+            "chalk",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a set of crayons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vẽ bằng chì màu",
+          "definition": "to use crayons to draw a picture etc.",
+          "world_new": [
+            "draw",
+            "picture"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, towards the end of the 18th century he started to paint in a technique that included oil paint, crayons, gouache and pastel.",
+    "I want there to be crayons in the bag.",
+    "To occupy their bedridden son, his parents gave him crayons and a tablet.",
+    "She is represented by the color \"purple\" and wears crayons in her hair with a large white ribbon down the back.",
+    "His compositions with ballpoint pens, gouache and both normal and wax crayons teem with insects, embryonic figures and human beings.",
+    "The work was usually in miniature but could be in oils or crayon.",
+    "Common instruments include graphite pencils, pen and ink, inked brushes, wax color pencils, crayons, charcoals, chalk, pastels, markers, stylus, or various metals like silverpoint.",
+    "Instruments used include graphite pencils, pen and ink, inked brushes, wax color pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, and various metals (such as silverpoint)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "craven",
+    "craving",
+    "crawl",
+    "crayfish",
+    "crayon",
+    "craze",
+    "crazily",
+    "craziness",
+    "crazy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438123_800484c54f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438123_02cd7dc57a_o.png",
+      "id_image": "crayon_1943137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367852_35ff7ef8d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367852_aef2566a42_o.png",
+      "id_image": "crayon_3577264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322916_12039be17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322916_7fc7cedc9e_o.png",
+      "id_image": "crayon_4681332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322871_22860ef326_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322871_34c7c74da5_o.png",
+      "id_image": "crayon_4869777"
+    }
+  ]
+}

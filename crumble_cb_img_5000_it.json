@@ -1,0 +1,77 @@
+{
+  "english": "crumble",
+  "phat_am": "ˈkrambl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bẻ vụn",
+          "definition": "to break into crumbs or small pieces",
+          "world_new": [
+            "break",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She crumbled the bread",
+              "world_new": [
+                "bread"
+              ]
+            },
+            {
+              "ex_of_definition": "The building had crumbled into ruins",
+              "world_new": [
+                "building",
+                "ruins"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hopes of success finally crumbled.",
+              "world_new": [
+                "success",
+                "finally"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The federal arrangement which has existed there and which many of us took for granted would continue—as it did for 40 years —is crumbling.",
+    "The remaining soil was gently crumbled through a sieve with 4 mm openings.",
+    "We want them to rebuild the crumbling public services in many of our cities and towns.",
+    "I was rather appalled by the description they presented to me of an island whose infrastructure is crumbling and suffering from serious neglect.",
+    "Our response to the same challenge is to squeeze public expenditure so that, far from investing, our sewers are crumbling and our railways declining.",
+    "Where is the choice for the hundreds and thousands of children who are being educated in crumbling schools?",
+    "There are crumbling schools and teacher morale is low.",
+    "Since then the old social basis has largely crumbled away, and it has not always been possible to make up for the lost votes from other sources."
+  ],
+  "list_see_also": [
+    "crumbly"
+  ],
+  "list_browse": [
+    "cruet",
+    "cruise",
+    "cruiser",
+    "crumb",
+    "crumble",
+    "crumbly",
+    "crumple",
+    "crunch",
+    "crunchy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672429_8847be83e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672429_d7515f06f2_o.png",
+      "id_image": "crumble_2289922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672404_edc7edd91f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672404_fc401c31f1_o.png",
+      "id_image": "crumble_2349513"
+    }
+  ]
+}

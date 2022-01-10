@@ -1,0 +1,67 @@
+{
+  "english": "doorway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ô cửa",
+          "definition": "the space usually filled by a door",
+          "world_new": [
+            "space",
+            "filled",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was standing in the doorway.",
+              "world_new": [
+                "standing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cooking was done outside the hut either in front of, or beside the doorway.",
+    "That simple facade and doorway transformed the way in which audiences perceived the theatre.",
+    "It becomes a doorway to the imagination, linking the inner and outer worlds.",
+    "This theme has gradually tween the two different types of doorways found its way into archaeological research for the single streets is examined.",
+    "In her last months, she would often sit in the doorway of her home, gasping for breath.",
+    "The intensity of light incident on a test surface placed along the line of sight through the doorway varied with depth.",
+    "The three tombs have steps descending to the doorway.",
+    "A circulation model is a graph representing paths between doorways."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doorknob",
+    "doorman",
+    "doormat",
+    "doorstep",
+    "doorway",
+    "dope",
+    "dopey",
+    "dormancy",
+    "dormant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046085_ddc43923d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046085_1416753be7_o.png",
+      "id_image": "doorway_422102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353257_3dfb77682b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353257_255425699d_o.png",
+      "id_image": "doorway_470147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424188_07d9d06a3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424188_8fee672588_o.png",
+      "id_image": "doorway_988478"
+    }
+  ]
+}

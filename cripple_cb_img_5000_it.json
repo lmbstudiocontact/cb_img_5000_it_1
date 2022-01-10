@@ -1,0 +1,87 @@
+{
+  "english": "cripple",
+  "phat_am": "ˈkripl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm què quặt",
+          "definition": "to make lame or disabled",
+          "world_new": [
+            "lame",
+            "disabled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was crippled by a fall from a horse.",
+              "world_new": [
+                "fall",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lụn bại",
+          "definition": "to make less strong, less efficient etc",
+          "world_new": [
+            "strong",
+            "efficient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The war has crippled the country’s economy.",
+              "world_new": [
+                "war",
+                "economy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người què quặt",
+          "definition": "a lame or disabled person",
+          "world_new": [
+            "lame",
+            "disabled",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been a cripple since the car accident.",
+              "world_new": [
+                "car",
+                "accident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crimson",
+    "cringe",
+    "crinkle",
+    "crinkly",
+    "cripple",
+    "crisis",
+    "crisp",
+    "crisply",
+    "crispness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056695_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056695_ce44bd5456_o.png",
+      "id_image": "cripple_2317729"
+    }
+  ]
+}

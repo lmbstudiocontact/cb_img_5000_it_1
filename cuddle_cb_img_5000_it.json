@@ -1,0 +1,74 @@
+{
+  "english": "cuddle",
+  "phat_am": "ˈkadl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ôm ấp",
+          "definition": "to hug affectionately",
+          "world_new": [
+            "hug",
+            "affectionately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mother cuddled the child until he fell asleep.",
+              "world_new": [
+                "mother",
+                "child",
+                "fell",
+                "asleep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động ôm ấp",
+          "definition": "an affectionate hug.",
+          "world_new": [
+            "affectionate",
+            "hug"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "So there's a really, really big cuddle, and then you get on.",
+    "Janet pretends to cry and says she needs a hug and a cuddle.",
+    "For example, the first card shows a girl cuddling her teddy bear.",
+    "Her parents continually bathed her and changed her dressings, but they could not cuddle her.",
+    "Patients tend to appreciate these robots, cuddle with them, and talk to them.",
+    "You cannot persecute people for 50, 60 or 70 years and then suddenly expect to cuddle them.",
+    "There must be no cuddles because they are in quarantine.",
+    "If there be an evil in the industry, why do you want to cuddle it for two and a half years?"
+  ],
+  "list_see_also": [
+    "cuddly"
+  ],
+  "list_browse": [
+    "cubicle",
+    "cuckoo",
+    "cucumber",
+    "cud",
+    "cuddle",
+    "cuddly",
+    "cudgel",
+    "cue",
+    "cuff"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052795_42468eb08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052795_9d40accc52_o.png",
+      "id_image": "cuddle_4966084"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "core",
+  "phat_am": "koː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhân; lõi",
+          "definition": "the innermost part of something, especially fruit",
+          "world_new": [
+            "innermost",
+            "part",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an apple-core"
+            },
+            {
+              "ex_of_definition": "the core of the earth.",
+              "world_new": [
+                "earth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lấy lõi ra",
+          "definition": "to take out the core of (fruit)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Core the apples."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The core of the material is presented in sufficient detail that the survey may serve as a text for teaching constrained global optimization.",
+    "The high-density pellet core is surrounded by a hot, fully ionized low-density corona.",
+    "These surfaces are distorted by hydrostatic balance toward negative anomalies of pressure produced by the bend of the low-pressure vortex cores.",
+    "This represents the core of the application: the remaining work is 'overhead' that should be minimised by a good implementation.",
+    "The region outside the core is either visible or not visible throughout the whole sequence, including the sections in the wake.",
+    "We visited the core area 3 d per week and the peripheral regions 3 d per month.",
+    "It permits simulation of the coupled dynamics of valence electrons and ionic cores in a molecule or a material.",
+    "This process is accompanied by a vertical realignment of the vortex cores inside each layer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cordially",
+    "cordless",
+    "cordon",
+    "cordon off",
+    "core",
+    "coriander",
+    "cork",
+    "corkscrew",
+    "corn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687534_a9139ee527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687534_3eafd237c3_o.png",
+      "id_image": "core_2371821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687489_506e611505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687489_cbf9dfc5e2_o.png",
+      "id_image": "core_2785274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687469_1d70295f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687469_4dac433e83_o.png",
+      "id_image": "core_2785292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069210_06e28b044e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069210_28c8199569_o.png",
+      "id_image": "core_5267333"
+    }
+  ]
+}

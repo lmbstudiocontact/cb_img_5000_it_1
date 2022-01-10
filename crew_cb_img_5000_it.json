@@ -1,0 +1,102 @@
+{
+  "english": "crew",
+  "phat_am": "kruː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủy thủ đoàn; phi đội",
+          "definition": "the group of people who work or operate a ship, aeroplane/airplane, bus etc",
+          "world_new": [
+            "group",
+            "people",
+            "work",
+            "operate",
+            "ship",
+            "bus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two-man crew of a light aeroplane escaped injury when it crashed.",
+              "world_new": [
+                "light",
+                "aeroplane",
+                "injury"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bọn; đám",
+          "definition": "used jokingly, a group of people",
+          "world_new": [
+            "jokingly",
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What an odd crew!",
+              "world_new": [
+                "odd"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "là thành viên của",
+          "definition": "(usually with for) to act as a crew member (for someone).",
+          "world_new": [
+            "act",
+            "member"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Cretaceous",
+    "cretin",
+    "crevasse",
+    "crevice",
+    "crew",
+    "crib",
+    "crib death",
+    "cricket",
+    "cricketer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320856_f9fd9abe81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320856_a5ebea24aa_o.png",
+      "id_image": "crew_1506388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365737_2a1c927124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365737_9980102f93_o.png",
+      "id_image": "crew_1850674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435963_44fa959050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435963_ea8ba3143a_o.png",
+      "id_image": "crew_6348089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320776_f340f0bfec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320776_e5751aa2cd_o.png",
+      "id_image": "crew_6348126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675774_7890abe824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675774_163b697abb_o.png",
+      "id_image": "crew_6348331"
+    }
+  ]
+}

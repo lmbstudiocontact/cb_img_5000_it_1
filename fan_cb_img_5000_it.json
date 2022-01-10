@@ -1,0 +1,167 @@
+{
+  "english": "fan",
+  "phat_am": "fӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái quạt",
+          "definition": "a flat instrument held in the hand and waved to direct a current of air across the face in hot weather",
+          "world_new": [
+            "flat",
+            "instrument",
+            "hand",
+            "direct",
+            "current",
+            "air",
+            "across",
+            "face",
+            "hot",
+            "weather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ladies used to carry fans to keep themselves cool.",
+              "world_new": [
+                "carry",
+                "keep",
+                "cool"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quạt máy",
+          "definition": "a mechanical instrument causing a current of air",
+          "world_new": [
+            "mechanical",
+            "instrument",
+            "current",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has had a fan fitted in the kitchen for extracting cooking smells.",
+              "world_new": [
+                "kitchen",
+                "cooking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quạt",
+          "definition": "to cool (as if) with a fan",
+          "world_new": [
+            "cool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sat in the corner, fanning herself.",
+              "world_new": [
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi bùng",
+          "definition": "to increase or strengthen (a fire) by directing air towards it with a fan etc",
+          "world_new": [
+            "increase",
+            "strengthen",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They fanned the fire until it burst into flames.",
+              "world_new": [
+                "fire",
+                "burst"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hâm mộ; người say mê",
+          "definition": "an enthusiastic admirer of a sport, hobby or well-known person",
+          "world_new": [
+            "enthusiastic",
+            "admirer",
+            "sport",
+            "hobby",
+            "well-known",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m a great fan of his",
+              "world_new": [
+                "great"
+              ]
+            },
+            {
+              "ex_of_definition": "football fans",
+              "world_new": [
+                "football"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) fan mail/letters (= letters etc sent by admirers)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These networks are paths to employment, peer assessment and fan pleasure all at the same time in ways that seem impossible to untangle.",
+    "For many fans of progressive rock there appears an unwillingness to settle with the past.",
+    "Waving a filthy fan, he swaggers his way into the middle of the arena, and delivers some impromptu verses.",
+    "It is therefore unsurprising that the music press largely ignores teenybopper fans and the artists they admire, as the most obvious inhabitants of this mainstream.",
+    "The ability to identify them is a signifier of the progressive rock fan.",
+    "The enthusiastic accumulation by fans of an unending suite of related images both echoes and subverts the mass mechanical reproduction of the modern celebrity image.",
+    "The effect of the swirling flow downstream can be to cut off a mode which is cut on upstream of the fan.",
+    "The second is the use of unauthorised recordings to create an ongoing, meaningful relationship between artist and fan."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "famine",
+    "famished",
+    "famous",
+    "famously",
+    "fan",
+    "fanatic",
+    "fanatically",
+    "fanaticism",
+    "fanciful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336431_246f303c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336431_5c51d8a706_o.png",
+      "id_image": "fan_166578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073380_823a07d1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073380_5c3d5c10d0_o.png",
+      "id_image": "fan_517776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336386_096897c977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336386_241353ebcc_o.png",
+      "id_image": "fan_689332"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "error",
+  "phat_am": "ˈerə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗi",
+          "definition": "a mistake",
+          "world_new": [
+            "mistake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His written work is full of errors.",
+              "world_new": [
+                "work",
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có sai số",
+          "definition": "the state of being mistaken",
+          "world_new": [
+            "state",
+            "mistaken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I did it in error.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Looking at them another way, we see that there were 34 errors (41 %) in which the environment for feature spreading was present.",
+    "The editorial work of the book is weak, and a number of avoidable errors reached the printing stage.",
+    "In 5.5% of the errors the system has produced a spurious hyphen.",
+    "Also, tools from the quantum chaos community have allowed us to understand certain types of errors that appear with quantum computers.",
+    "The computed errors from the procedures differ in two key respects.",
+    "They sometimes cause errors while analyzing nominal compounds since two or more words often serve as a single unit of meaning in them.",
+    "To begin, a linear model with a lag structure such that the errors can be assumed to be free from autocorrelation is selected.",
+    "Moreover, while marking mechanical errors can be frustrating, the view that there is no direct connection between correction and learning is greatly overstated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "erratum",
+    "erroneous",
+    "erroneously",
+    "erroneousness",
+    "error",
+    "erupt",
+    "eruption",
+    "erythrocyte",
+    "escalate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052335_9d3df3b10b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052335_f7585f8b8c_o.png",
+      "id_image": "error_1583036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315841_357c7f6dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315841_5f0feac303_o.png",
+      "id_image": "error_1780882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315816_1ac37eacec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315816_0bbcae91c4_o.png",
+      "id_image": "error_2825944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315786_dff56a6657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315786_464d4119b8_o.png",
+      "id_image": "error_2867701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430633_ab50905ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430633_e1f8758a6a_o.png",
+      "id_image": "error_2879254"
+    }
+  ]
+}

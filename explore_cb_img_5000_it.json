@@ -1,0 +1,102 @@
+{
+  "english": "explore",
+  "phat_am": "ikˈsploː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thăm dò; thám hiểm",
+          "definition": "to search or travel through (a place) for the purpose of discovery",
+          "world_new": [
+            "search",
+            "travel",
+            "purpose",
+            "discovery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The oceans have not yet been fully explored",
+              "world_new": [
+                "yet",
+                "fully"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s go exploring in the caves."
+            }
+          ]
+        },
+        {
+          "mean_english": "khảo sát tỉ mỉ",
+          "definition": "to examine carefully",
+          "world_new": [
+            "examine",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll explore the possibilities of getting a job here.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, the second model is not further explored in this paper.",
+    "In so doing we might have explored those areas that were unpredictable, and therefore also different, in relation to our normal ways of thinking.",
+    "Functional inference refers to the process of exploring the potential uses or functions of a preinventive structure.",
+    "The author avoids such issues as the structure of the organization and the social base of its constituency, which have been explored elsewhere.",
+    "Before that possibility is explored further, we need to look at the third version of the decree.",
+    "The author explores the nature of this composition burden in a case study of veterinary students.",
+    "Through the conference we explored distinction and engagement in two ways.",
+    "Using agency-based modelling techniques, they have developed a computerised neural network for exploring the rationale for such inhibitory processes in the brain."
+  ],
+  "list_see_also": [
+    "exploration",
+    "exploratory",
+    "explorer"
+  ],
+  "list_browse": [
+    "exploit",
+    "exploitation",
+    "exploration",
+    "exploratory",
+    "explore",
+    "explorer",
+    "explosion",
+    "explosive",
+    "exponent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386882_e063dcdc0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386882_f8a9c874c5_o.png",
+      "id_image": "explore_1014668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386847_04fb530905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386847_11d98c469d_o.png",
+      "id_image": "explore_3775263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697139_a48d57c904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697139_3d6e449d20_o.png",
+      "id_image": "explore_471012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456643_5d65077c81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456643_cc60d9cfb1_o.png",
+      "id_image": "explore_6396563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697109_31d14eb327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697109_c96eabe407_o.png",
+      "id_image": "explore_709273"
+    }
+  ]
+}

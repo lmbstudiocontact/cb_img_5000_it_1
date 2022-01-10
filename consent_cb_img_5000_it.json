@@ -1,0 +1,99 @@
+{
+  "english": "consent",
+  "phat_am": "kənˈsent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bằng lòng",
+          "definition": "to give permission or agree (to)",
+          "world_new": [
+            "permission",
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had no choice but to consent to the plan",
+              "world_new": [
+                "I",
+                "choice",
+                "plan"
+              ]
+            },
+            {
+              "ex_of_definition": "Her father consented to her marrying me although I was just a poor student.",
+              "world_new": [
+                "father",
+                "although",
+                "I",
+                "poor",
+                "student"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đồng ý",
+          "definition": "agreement; permission",
+          "world_new": [
+            "permission"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have my consent to leave.",
+              "world_new": [
+                "my",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are situations where the right to confidentiality may be overridden, for instance, if a patient consents for their information to be disclosed to others.",
+    "The first of these papers clearly restates women's rights to have adequate and complete information before consenting to medical procedures.",
+    "The task of explaining the project and recruiting consenting patients was the responsibility of a practice nurse in all eight practices.",
+    "Of the 40 children, 39 families consented to have the children participate, of which 24 were cyanotic and 15 acyanotic.",
+    "Thirty-one women were named as principals in disputes, not counting the women who were listed together with their husbands as consenting wives.",
+    "Local authorities now have a duty to make payments to those eligible, if the person consents.",
+    "Certainly the woman consented to a scan, but was she informed?",
+    "Provided appropriate consents had been obtained, oocytes were obtained from patients undergoing therapeutic in vitro fertilisation for the treatment of male factor infertility."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consecration",
+    "consecutive",
+    "consecutively",
+    "consensus",
+    "consent",
+    "consequence",
+    "consequently",
+    "conservation",
+    "conservationist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354707_12e28239ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354707_f3ea7c631b_o.png",
+      "id_image": "consent_1076357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047325_d4d331bd77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047325_cd7ae5e8b7_o.png",
+      "id_image": "consent_2720491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354647_5302ceed25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354647_c079b32a6f_o.png",
+      "id_image": "consent_4412631"
+    }
+  ]
+}

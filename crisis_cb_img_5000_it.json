@@ -1,0 +1,101 @@
+{
+  "english": "crisis",
+  "phat_am": "ˈkraisis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời điểm khó khăn",
+          "definition": "a deciding moment or turning-point (especially of an illness)",
+          "world_new": [
+            "moment",
+            "turning-point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Although she is still very ill, she has passed the crisis.",
+              "world_new": [
+                "ill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khủng hoảng",
+          "definition": "a time of great danger or difficulty",
+          "world_new": [
+            "time",
+            "great",
+            "danger",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a crisis such as the recent flooding",
+              "world_new": [
+                "recent",
+                "flooding"
+              ]
+            },
+            {
+              "ex_of_definition": "You can rely on her in a crisis.",
+              "world_new": [
+                "rely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Political scientists often ask why the earlier crises did not lead to war while the later one did.",
+    "During these crises, the financial center will have incentives to implement a policy of restricting flows of specie.",
+    "Large-scale destabilization events in hydrological structure of oceans, biotic crises, and corresponding geological records.",
+    "Careful monitoring will prevent crises and allow the timely referral of the family for any additional services, such as, psychotherapy or legal advice.",
+    "However, political and economic crises also deepened in the same decade.",
+    "Successive crises occurred in 1825-26, 1837, 1847, 1857, and 1866.",
+    "The escape dynamics is what drives currency crises in our model.",
+    "The state emerges to address these problems and regulate these crises."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cringe",
+    "crinkle",
+    "crinkly",
+    "cripple",
+    "crisis",
+    "crisp",
+    "crisply",
+    "crispness",
+    "crispy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056665_8560956f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056665_098e0a3d70_o.png",
+      "id_image": "crisis_2361976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056635_fb42b181ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056635_e32542532b_o.png",
+      "id_image": "crisis_2471336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435123_8220bcde8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435123_ea6a8f9b25_o.png",
+      "id_image": "crisis_3773119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435093_31ebcd2c6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435093_0769dfdc59_o.png",
+      "id_image": "crisis_3977933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319951_562f26a284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319951_d785cf4152_o.png",
+      "id_image": "crisis_6159668"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "ear",
+  "phat_am": "iə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tai",
+          "definition": "the part of the head by means of which we hear, or its external part only",
+          "world_new": [
+            "part",
+            "head",
+            "means",
+            "hear",
+            "its",
+            "external",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her new hairstyle covers her ears.",
+              "world_new": [
+                "hairstyle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng nghe",
+          "definition": "the sense or power of hearing especially the ability to hear the difference between sounds",
+          "world_new": [
+            "sense",
+            "power",
+            "hearing",
+            "ability",
+            "hear",
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sharp ears",
+              "world_new": [
+                "sharp"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a good ear for music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bông; bắp",
+          "definition": "the part of a cereal plant which contains the seed",
+          "world_new": [
+            "part",
+            "cereal",
+            "plant",
+            "seed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ears of corn.",
+              "world_new": [
+                "corn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Few women took advantage of the opportunity to report additional symptoms-breast pains, buzzing in ears, tingling of extremities and irritability were mentioned.",
+    "These filters operate in parallel, mapping closely the operation of the ear to our model.",
+    "For all 18 matings at least one offspring expressing the dilute, normal ear phenotype was observed before ending the mating.",
+    "Analysis of the wave forms allows information to be obtained about the middle ear, the cochlea, the eighth nerve and the central auditory connections.",
+    "He who wants to make music, will do it, let him like it or not, with his ear.",
+    "For example, calling a pillow cat suggests that the child has recognized a similarity between the pillow's triangular corners and a cat's ears.",
+    "The basilar membrane of the inner ear is an elastic shell immersed in fluid that vibrates in response to the incident sound.",
+    "This would be comparable to whispering in someone's ear in a face-to-face conversation, but these private messages are not recorded in the chat log."
+  ],
+  "list_see_also": [
+    "earache",
+    "eardrum",
+    "earlobe",
+    "earmark",
+    "earphones",
+    "earplug",
+    "earring",
+    "earshot",
+    "be all ears",
+    "go in one ear and out the other",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "eager",
+    "eagerly",
+    "eagerness",
+    "eagle",
+    "ear",
+    "earache",
+    "eardrum",
+    "earl",
+    "earliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378352_863300c2e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378352_f481ef65e3_o.png",
+      "id_image": "ear_6147784"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "drawn",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kéo rèm",
+          "definition": "(of curtains) pulled together or closed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The curtains were drawn, although it was still daylight.",
+              "world_new": [
+                "although",
+                "daylight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hòa",
+          "definition": "(of a game etc) neither won nor lost",
+          "world_new": [
+            "game",
+            "nor",
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a drawn match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rút gươm ra",
+          "definition": "(of a blade etc) pulled out of its sheath",
+          "world_new": [
+            "blade",
+            "its",
+            "sheath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a drawn sword.",
+              "world_new": [
+                "sword"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mệt mỏi",
+          "definition": "(of a person) strained and tired",
+          "world_new": [
+            "strained",
+            "tired"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His face was pale and drawn.",
+              "world_new": [
+                "face",
+                "pale"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drawing",
+    "drawing pin",
+    "drawing room",
+    "drawl",
+    "drawn",
+    "drawstring",
+    "dread",
+    "dreadful",
+    "dreadfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421713_7ea5985aa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421713_124a07a51b_o.png",
+      "id_image": "drawn_3915654"
+    }
+  ]
+}

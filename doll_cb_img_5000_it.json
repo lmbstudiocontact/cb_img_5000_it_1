@@ -1,0 +1,68 @@
+{
+  "english": "doll",
+  "phat_am": "dol",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "búp bê",
+          "definition": "a toy in the shape of a small human being",
+          "world_new": [
+            "toy",
+            "shape",
+            "small",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a china doll.",
+              "world_new": [
+                "china"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not believe that anybody really admires a stuffed doll on horseback.",
+    "The dolls represented family members, and props included household items such as a table and dinnerware, large rock, bed, and car.",
+    "She found and picked up the small cloth, made a single brush of the doll's hair and body, and put both of them down.",
+    "The race of the doll family, and the gender of the child dolls, were matched to the race and gender of each participant.",
+    "She touched the doll briefly then put the bowl down in her lap, rocking it gently with both hands and smiling occasionally.",
+    "Do this several times, ensuring that the doll is kept out of reach of the child.",
+    "He took the doll and proceeded to guide the child through a sequence of setting up a pretend bath scenario.",
+    "This effect is supposed to arise because the distractor \"doll\" activates the already-activated picture translation's name (\"dog\")."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dole",
+    "doleful",
+    "dolefully",
+    "dolefulness",
+    "doll",
+    "dollar",
+    "dolly",
+    "dolphin",
+    "domain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355457_5d61b59e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355457_f870cf27d4_o.png",
+      "id_image": "doll_3898306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666304_b571eb4c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666304_f271d93cbf_o.png",
+      "id_image": "doll_3957269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311251_13baecf85b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311251_c123752b9f_o.png",
+      "id_image": "doll_5884229"
+    }
+  ]
+}

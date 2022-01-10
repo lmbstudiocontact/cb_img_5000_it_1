@@ -1,0 +1,180 @@
+{
+  "english": "cold",
+  "phat_am": "kəuld",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lạnh; nguội",
+          "definition": "low in temperature",
+          "world_new": [
+            "low",
+            "temperature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cold water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "cold meat and salad.",
+              "world_new": [
+                "meat",
+                "salad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạnh",
+          "definition": "lower in temperature than is comfortable",
+          "world_new": [
+            "lower",
+            "temperature",
+            "comfortable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I feel cold.",
+              "world_new": [
+                "I",
+                "feel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạnh lùng",
+          "definition": "unfriendly",
+          "world_new": [
+            "unfriendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His manner was cold.",
+              "world_new": [
+                "manner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lạnh",
+          "definition": "the state of being cold or of feeling the coldness of one’s surroundings",
+          "world_new": [
+            "state",
+            "feeling",
+            "coldness",
+            "surroundings"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has gone to live in the South of France because she cannot bear the cold in Britain",
+              "world_new": [
+                "live",
+                "bear"
+              ]
+            },
+            {
+              "ex_of_definition": "He was blue with cold.",
+              "world_new": [
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm lạnh",
+          "definition": "an illness with running nose, coughing etc",
+          "world_new": [
+            "illness",
+            "running",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a bad cold",
+              "world_new": [
+                "bad"
+              ]
+            },
+            {
+              "ex_of_definition": "She has caught a cold"
+            },
+            {
+              "ex_of_definition": "You might catch cold.",
+              "world_new": [
+                "catch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining parasites were washed 3 times with 12 ml of a cold solution of unlabelled arginine (260 /ig/ml) by centrifugation (1400 g.min).",
+    "Results are also given in bold for cold targets with the same mass thickness as the two plasma targets.",
+    "Its hegemony lasted until about 1450 when, during a period of severe drought and cold, its vassals revolted and destroyed the city.",
+    "All cold food requiring handpreparation was excluded from the menu.",
+    "A visual cold tolerance score was always related to better winter survival.",
+    "The screening length is now given by this quantity as compared to the cold atom where it is about the atomic dimension.",
+    "Taking into account the absence of counteracting pressure in the corona plasma, it is possible to expect it pinching onto the cold core plasma.",
+    "Food handlers who acquire a cold and sneeze or cough should be excluded from food handling or should wear a protecting mask."
+  ],
+  "list_see_also": [
+    "coldly",
+    "coldness",
+    "cold-blooded",
+    "cold war",
+    "get cold feet",
+    "give (someone) the cold shoulder",
+    "in cold blood"
+  ],
+  "list_browse": [
+    "coincidence",
+    "coincidental",
+    "coke",
+    "colander",
+    "cold",
+    "cold war",
+    "cold-blooded",
+    "coldly",
+    "coldness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059945_7d32fa4c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059945_d4a06937d5_o.png",
+      "id_image": "cold_1146841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059900_7e51a3bda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059900_eba3fa1726_o.png",
+      "id_image": "cold_4647942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323126_76b2d5771d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323126_45d656c772_o.png",
+      "id_image": "cold_5110580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059820_9f2f9fabe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059820_a0515de4af_o.png",
+      "id_image": "cold_5492994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323186_d835a76b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323186_73fcb81f5f_o.png",
+      "id_image": "cold_645709"
+    }
+  ]
+}

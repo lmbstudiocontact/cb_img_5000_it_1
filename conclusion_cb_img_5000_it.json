@@ -1,0 +1,69 @@
+{
+  "english": "conclusion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kết thúc",
+          "definition": "an end",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the conclusion of his speech.",
+              "world_new": [
+                "speech"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kết luận",
+          "definition": "a judgement",
+          "world_new": [
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I came to the conclusion that the house was empty.",
+              "world_new": [
+                "I",
+                "house",
+                "empty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Needless to say, the limited sample size was a problem in terms of extracting wide conclusions from the work.",
+    "Our intention in these tests was to generate conclusions applicable to more than just the simple growth model.",
+    "Finally, we present conclusions and suggest further research.",
+    "Sixth-order thin-film equation conclusions follow directly from those of the previous subsection.",
+    "Presumably due to rather different approaches, the two investigations arrived at almost diametrically opposite conclusions with regard to early bilingual development.",
+    "More recently, however, concerns have been raised about the appropriateness of such conclusions.",
+    "As we shall see, our own data do not confirm these conclusions.",
+    "Similar conclusions are supported for 'free speech for all'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "concisely",
+    "conciseness",
+    "conclave",
+    "conclude",
+    "conclusion",
+    "conclusive",
+    "conclusively",
+    "conclusiveness",
+    "concoct"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313526_57b9841d1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313526_62e591c5e3_o.png",
+      "id_image": "conclusion_6079733"
+    }
+  ]
+}

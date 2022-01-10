@@ -1,0 +1,81 @@
+{
+  "english": "fin",
+  "phat_am": "fin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vây cá",
+          "definition": "a thin movable part on a fish’s body by which it balances, moves, changes direction etc",
+          "world_new": [
+            "thin",
+            "movable",
+            "part",
+            "body",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shark’s fin."
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ thăng bằng",
+          "definition": "anything that looks or is used like a fin",
+          "world_new": [
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the tailfin of an aeroplane.",
+              "world_new": [
+                "aeroplane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The external surface including the fins, nostrils, beneath the operculum and under the scales was examined for ectoparasites.",
+    "The dorsal fin consists of at least 26 short rays supported by 25 pterygiophores.",
+    "It should be noticed that this method also provides estimations of the caudal-fin angles, which can be useful to estimate the fish orientation.",
+    "However, due to the difficulties in obtaining an accurate count on the body surface proper, only fins and corneae were included in this work.",
+    "The mean intensity and intensity values for metacercariae, therefore, are related to the superficially observed metacercarial cysts in the skin, fins, gills and internal organs.",
+    "For many writers of the fin de siecle the new suburban \"houses in between\" had become imaginatively central.",
+    "All infections commenced with a single gravid worm attached to the central region of the caudal fin.",
+    "The stincus marinus has scales, but where are its fins?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "filter-tip",
+    "filth",
+    "filthy",
+    "filtration",
+    "fin",
+    "final",
+    "finale",
+    "finalist",
+    "finality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065500_d60f913182_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065500_44736d3d8a_o.png",
+      "id_image": "fin_1019383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683669_a535970e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683669_cf4067c606_o.png",
+      "id_image": "fin_2045919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373337_dd27188856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373337_66e2b15120_o.png",
+      "id_image": "fin_4617241"
+    }
+  ]
+}

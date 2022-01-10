@@ -1,0 +1,63 @@
+{
+  "english": "disconnect",
+  "phat_am": "diskəˈnekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngắt",
+          "definition": "to separate; to break the connection (especially electrical) with",
+          "world_new": [
+            "break",
+            "connection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our phone has been disconnected.",
+              "world_new": [
+                "phone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Neither does it imply that the domestic and imperial sides of tariff reform were disconnected.",
+    "His behaviour seems strange, alien, outré, pointless, out of character, disconnected; or perhaps we cannot even recognize an action in it.",
+    "If e3=0, the meta-population becomes one homogeneously mixed population, and if e3=1xe1=0.995, the patches become entirely disconnected from one another.",
+    "All messages for the communication server on the laptop will then be automatically re-routed to the proxy server when the laptop is disconnected.",
+    "The structure of totally disconnected, locally compact groups.",
+    "When a set does not contain any finite intervals, it is termed totally disconnected.",
+    "Moreover, we use the properties of bias functions: injectivity and disconnected images.",
+    "The net is disconnected from its normal inputs and outputs, and random input is given to it."
+  ],
+  "list_see_also": [
+    "disconnection"
+  ],
+  "list_browse": [
+    "discomfit",
+    "discomfiture",
+    "discomfort",
+    "disconcert",
+    "disconnect",
+    "disconnection",
+    "discontent",
+    "discontented",
+    "discontentedly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672659_612fc31e6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672659_c6b56620c6_o.png",
+      "id_image": "disconnect_1055072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362257_f5c83e06e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362257_f44036b534_o.png",
+      "id_image": "disconnect_4614241"
+    }
+  ]
+}

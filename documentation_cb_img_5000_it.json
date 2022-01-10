@@ -1,0 +1,121 @@
+{
+  "english": "documentation",
+  "phat_am": "ˌdokjumenˈteiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tư liệu",
+          "definition": "official documents that are required as evidence or proof of something",
+          "world_new": [
+            "official",
+            "evidence",
+            "proof"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In most cases you need to provide supporting documentation to substantiate your claim when applying for a scholarship.",
+              "world_new": [
+                "provide",
+                "supporting",
+                "substantiate",
+                "your",
+                "claim",
+                "scholarship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tạo tài liệu",
+          "definition": "the process of recording something in a document",
+          "world_new": [
+            "process",
+            "recording",
+            "document"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Appropriate documentation of the expenses incurred will be necessary.",
+              "world_new": [
+                "expenses",
+                "necessary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài liệu hướng dẫn",
+          "definition": "the specifications and instructions that are supplied with a product, especially computer hardware and software",
+          "world_new": [
+            "product",
+            "especially",
+            "computer",
+            "hardware",
+            "software"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take time to study the user documentation.",
+              "world_new": [
+                "time",
+                "study",
+                "user"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The latter appeared to represent the majority of the documentation submitted.",
+    "All data and documentation used in the analysis presented here can be obtained from the authors.",
+    "There are also several later documentations of the song, which are not complete.",
+    "Drawings that map these differences are one of the most useful forms of documentation.",
+    "How can the review body properly assess the character of the complainant and the respondent, which must be relevant to the conclusion that they reach, simply by perusing written documentations?",
+    "Training, documentation, and maintenance requirements should be fulfilled.",
+    "Documentation produced by the four local authorities that was reviewed included policy statements, official papers to social services committees and operational guidelines.",
+    "The new world of rapid throughput and endless documentation provides little time to reflect upon important clinical problems and consider fresh approaches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doctorate",
+    "doctrine",
+    "document",
+    "documentary",
+    "documentation",
+    "dodge",
+    "dodge the draft",
+    "dodgy",
+    "doe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355837_d6bc285400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355837_cd8061d728_o.png",
+      "id_image": "documentation_1076360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355812_27164cde2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355812_2c67c4b8d0_o.png",
+      "id_image": "documentation_1831982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426518_d5499f5521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426518_1b067839bf_o.png",
+      "id_image": "documentation_2861719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666639_1360a33e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666639_7758567d94_o.png",
+      "id_image": "documentation_3043497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311801_38cbd4d38d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311801_a9c01c0220_o.png",
+      "id_image": "documentation_439270"
+    }
+  ]
+}

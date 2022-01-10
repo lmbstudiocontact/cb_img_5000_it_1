@@ -1,0 +1,72 @@
+{
+  "english": "electron",
+  "phat_am": "iˈlektron",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện tử",
+          "definition": "a very small particle within the atom",
+          "world_new": [
+            "small",
+            "particle",
+            "atom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Carbon shares its electrons in a process known as covalent bonding.",
+              "world_new": [
+                "its",
+                "process"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We observe that the value of the transverse emittance of the electron beam is a crucial parameter for the production of monochromatic radiation.",
+    "These results are useful for description of electron-beam propagation in the solar corona, which is a source of sporadic radiation.",
+    "Where the plasma is in contact with the outer wall, electron space-chargelimited emission is permitted.",
+    "The purpose of this paper is to study the original direction of the radiation excited by electron cyclotron maser instability or the beam-plasma instability.",
+    "The 13-cm radius outer wall is permitted to emit electrons where the plasma is in contact.",
+    "The analysis we present is not restricted to electron-ion plasmas, the result is also valid for electron-positron plasmas.",
+    "Evidence of enhanced effective hot electron temperatures in ultraintense laser-solid interactions due to reflexing.",
+    "It is then essential that such plasmas can be accurately described in their fundamental parameters, namely electron density and temperature."
+  ],
+  "list_see_also": [
+    "electronic",
+    "electronic mail",
+    "electronics"
+  ],
+  "list_browse": [
+    "electrode",
+    "electrolysis",
+    "electromagnet",
+    "electromagnetic waves",
+    "electron",
+    "electronic",
+    "electronic mail",
+    "electronics",
+    "elegance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062290_ee4f26bd9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062290_d41c0ffe01_o.png",
+      "id_image": "electron_2050353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325576_103c4dfaa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325576_1fefe556a7_o.png",
+      "id_image": "electron_882997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680599_c49879b665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680599_01433c9bcc_o.png",
+      "id_image": "electron_994201"
+    }
+  ]
+}

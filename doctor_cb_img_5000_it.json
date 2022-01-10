@@ -1,0 +1,136 @@
+{
+  "english": "doctor",
+  "phat_am": "ˈdoktə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bác sỹ",
+          "definition": "a person who is trained to treat ill people",
+          "world_new": [
+            "person",
+            "trained",
+            "treat",
+            "ill",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Doctor Davidson"
+            },
+            {
+              "ex_of_definition": "You should call the doctor if you are ill",
+              "world_new": [
+                "call",
+                "ill"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll have to go to the doctor."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến sỹ",
+          "definition": "a person who has gained the highest university degree in any subject",
+          "world_new": [
+            "person",
+            "university",
+            "degree",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was awarded the degree of Doctor of Philosophy.",
+              "world_new": [
+                "degree"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "pha",
+          "definition": "to interfere with; to add something to (usually alcohol or drugs)",
+          "world_new": [
+            "interfere",
+            "add",
+            "alcohol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Someone had doctored her drink.",
+              "world_new": [
+                "drink"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữa bệnh",
+          "definition": "to treat with medicine etc",
+          "world_new": [
+            "treat",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m doctoring my cold with aspirin.",
+              "world_new": [
+                "my",
+                "cold",
+                "aspirin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At a particular \"real\" moment, will doctor, nurse, patient, and family agree to what had been planned when the topic was \"theoretical\"?",
+    "Eleven percent had taken a tranquillizer, antidepressant or sleeping tablet, and all these compounds had been prescribed by a doctor.",
+    "Nurses and patients saw a difference between nurse practitioners and doctors which was mainly related to consultation style, accessibility and length of consultation.",
+    "He even arranged a secret meeting with one of his friends early one morning when his father, a doctor, was busy at the hospital.",
+    "A ' new category of assisted ' was emerging, the pensioners on fixed incomes and smallholders who could no longer afford a doctor's visit.",
+    "Thus, the husband wrote letters to doctors on behalf of his wife, functioning, as it were, as her legal guardian.",
+    "The role of a doctor is to help the patient at all times and remove the anxiety surrounding the condition.",
+    "There are also suggestions to integrate the fee-for-service payment system for hospital doctors with the hospital budget (cf., infra)."
+  ],
+  "list_see_also": [
+    "doctorate"
+  ],
+  "list_browse": [
+    "docility",
+    "dock",
+    "docker",
+    "dockyard",
+    "doctor",
+    "doctorate",
+    "doctrine",
+    "document",
+    "documentary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312071_e1c373c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312071_f51af48471_o.png",
+      "id_image": "doctor_307942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048645_2a6495e015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048645_068e5e6fa3_o.png",
+      "id_image": "doctor_771338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666879_986263e315_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666879_7cdc69b554_o.png",
+      "id_image": "doctor_773383"
+    }
+  ]
+}

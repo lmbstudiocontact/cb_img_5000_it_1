@@ -1,0 +1,58 @@
+{
+  "english": "dynamo",
+  "phat_am": "ˈdainəmou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy phát điện",
+          "definition": "a machine that produces electric currents",
+          "world_new": [
+            "machine",
+            "electric"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bicycle is equipped with a headlamp powered by a dynamo.",
+              "world_new": [
+                "bicycle",
+                "headlamp",
+                "powered"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mechanical systems were relegated to the basement, including the motors for the elevators, boilers, and electrical dynamos.",
+    "The engine also had relative high speed for its day, making it possible to drive dynamos directly.",
+    "Numerical models are used to simulate fully nonlinear dynamos.",
+    "In this building is situated the dynamos and electrical apparatus of perhaps the finest electrical plant of its size in the state.",
+    "Nuclear fission results in the release of energy in the form of heat; heat can always be used to drive engines, engines to work dynamos, and dynamos to produce electricity.",
+    "On the ground floor were the troops' quarters, kitchen, laundry, two coal-fired steam engines of 20 hp, two dynamos, telegraph, first aid station, and magazines.",
+    "The dynamos are constantly improving.",
+    "Not everybody will buy dynamos, and they have been available for a very long time already."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dynamically",
+    "dynamics",
+    "dynamism",
+    "dynamite",
+    "dynamo",
+    "dynastic",
+    "dynasty",
+    "dyne",
+    "dysentery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070480_b775951892_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070480_ae246f7501_o.png",
+      "id_image": "dynamo_4271210"
+    }
+  ]
+}

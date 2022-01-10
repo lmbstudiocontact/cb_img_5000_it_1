@@ -1,0 +1,103 @@
+{
+  "english": "dinner",
+  "phat_am": "ˈdinə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa tối",
+          "definition": "the main meal of the day eaten usually in the evening",
+          "world_new": [
+            "main",
+            "meal",
+            "day",
+            "evening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is it time for dinner yet?",
+              "world_new": [
+                "time",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dạ tiệc",
+          "definition": "a formal party in the evening, when such a meal is eaten",
+          "world_new": [
+            "formal",
+            "party",
+            "evening",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They asked me to dinner"
+            },
+            {
+              "ex_of_definition": "He was the guest of honour/honor at the dinner",
+              "world_new": [
+                "guest"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a dinner party.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The best (the most ' powerful ') chef in the world would have abilities to ruin dinners intentionally far beyond those of persons with less culinary skill.",
+    "I went to the enormous dinners that were given.",
+    "One would hardly believe it, but they all wanted school dinners back again.",
+    "We surely want isolation, as far as possible, for the area within a school where dinners are prepared.",
+    "We, therefore, welcome the decision of the authority to provide free dinners for the more serious cases of malnutrition.",
+    "The average daily number of public elementary and secondary school pupils for whom dinners were provided in.",
+    "The chapter then proceeds to offer course settings and bills of fare for a wide variety of dinners.",
+    "In such cases the dinners are usually given in addition to and not in substitution for the supply of milk."
+  ],
+  "list_see_also": [
+    "dinner jacket"
+  ],
+  "list_browse": [
+    "dingo",
+    "dingy",
+    "dining room",
+    "dining table",
+    "dinner",
+    "dinner jacket",
+    "dinosaur",
+    "dint",
+    "diocese"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057650_46aac1127f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057650_9d4d701439_o.png",
+      "id_image": "dinner_332981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675904_58327a3ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675904_83220a91b0_o.png",
+      "id_image": "dinner_5071896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675879_7c03a492e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675879_da6f437ea9_o.png",
+      "id_image": "dinner_6039575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320806_1205c64794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320806_49a8308780_o.png",
+      "id_image": "dinner_6039656"
+    }
+  ]
+}

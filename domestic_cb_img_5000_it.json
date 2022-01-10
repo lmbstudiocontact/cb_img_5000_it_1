@@ -1,0 +1,138 @@
+{
+  "english": "domestic",
+  "phat_am": "dəˈmestik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về trong nhà",
+          "definition": "of or in the house or home",
+          "world_new": [
+            "house",
+            "home"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a domestic servant",
+              "world_new": [
+                "servant"
+              ]
+            },
+            {
+              "ex_of_definition": "domestic utensils."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc riêng tư",
+          "definition": "concerning one’s private life or family",
+          "world_new": [
+            "concerning",
+            "private",
+            "life",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "domestic problems."
+            }
+          ]
+        },
+        {
+          "mean_english": "gia súc",
+          "definition": "(of animals) tame and living with or used by people",
+          "world_new": [
+            "tame",
+            "living",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cats are popular domestic pets.",
+              "world_new": [
+                "popular"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nội địa",
+          "definition": "not foreign",
+          "world_new": [
+            "foreign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a domestic airline",
+              "world_new": [
+                "airline"
+              ]
+            },
+            {
+              "ex_of_definition": "the Government’s domestic policy.",
+              "world_new": [
+                "policy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The records of the savings banks list account holders under seven separate headings: workers, domestics, employees, soldiers and sailors, diverse professions, minors, and mutual benefit societies.",
+    "I regret that at present there is a shortage of 40 nursing staff, 28 engineering and works staff, 25 porters, orderlies and domestics.",
+    "The social preoccupation with factory girls, washerwomen, store clerks and domestics, so intense in the first two decades of the century, declined steadily in the 1920s.",
+    "Permits for domestics are issued only where the work is full-time and resident.",
+    "The total number of domestics employed, male and female, is 2,400, and 460 additional are required.",
+    "I am aware of the opportunities for employment as female domestics in residential hotels and boarding houses.",
+    "I should like to see some employers have to qualify for certificates before they were allowed to have any domestics at all.",
+    "She gets away with it because all her five domestics are above registration age."
+  ],
+  "list_see_also": [
+    "domesticate",
+    "domesticated",
+    "domestication",
+    "domesticity",
+    "domestic help"
+  ],
+  "list_browse": [
+    "dolphin",
+    "domain",
+    "dome",
+    "domed",
+    "domestic",
+    "domestic help",
+    "domesticate",
+    "domesticated",
+    "domestication"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354882_38403b3c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354882_73e220dfea_o.png",
+      "id_image": "domestic_261917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354832_0763719b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354832_7fe9974fae_o.png",
+      "id_image": "domestic_261921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310651_e2fbafc70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310651_352a24fef6_o.png",
+      "id_image": "domestic_298182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047390_df61241288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047390_374dac993e_o.png",
+      "id_image": "domestic_298186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665769_594a98da17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665769_9393b7ab82_o.png",
+      "id_image": "domestic_3046246"
+    }
+  ]
+}

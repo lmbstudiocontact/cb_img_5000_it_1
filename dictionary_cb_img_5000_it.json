@@ -1,0 +1,87 @@
+{
+  "english": "dictionary",
+  "phat_am": "ˈdikʃənəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "từ điển",
+          "definition": "a book containing the words of a language alphabetically arranged, with their meanings etc",
+          "world_new": [
+            "book",
+            "language",
+            "alphabetically",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Look up any unknown words in the dictionary.",
+              "world_new": [
+                "unknown"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ điển",
+          "definition": "a book containing other information alphabetically arranged",
+          "world_new": [
+            "book",
+            "information",
+            "alphabetically"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dictionary of place-names."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The source for discovering new knowledge is a non-domainspecific corpus, augmented by using other lexical resources such as domain-specific and general dictionaries.",
+    "The more widely used 'spellchecker' has now been accepted by most modern dictionaries as the standard term for this item of software.",
+    "There is a growing trend to use electronic dictionaries to construct large linguistic knowledge bases.",
+    "Such dictionaries are readily available and were used in the construction of our case marker list.",
+    "The dict tuple rule builds a tuple of dictionaries, one for each component of the context.",
+    "Since this context also occurs in the type schemes for the variables, the correct dictionaries will always be passed at occurrences of the variables.",
+    "We can distinguish between this kind of understanding and the kind of understanding that involves interpretation manuals, dictionaries, inferences and explanations.",
+    "As we have already mentioned, primitive tasks refer to the basic actions carried out by translators when using dictionaries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dictation",
+    "dictator",
+    "dictatorship",
+    "diction",
+    "dictionary",
+    "die",
+    "die away",
+    "die down",
+    "die hard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367857_5e764cca5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367857_b24cd08f09_o.png",
+      "id_image": "dictionary_4509557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322921_fa22d680d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322921_c5a541f2d7_o.png",
+      "id_image": "dictionary_4509605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678009_3fcf76dc5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678009_48bdcb4654_o.png",
+      "id_image": "dictionary_6090928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677954_3f2ecaae9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677954_9c63f1c5a4_o.png",
+      "id_image": "dictionary_6150909"
+    }
+  ]
+}

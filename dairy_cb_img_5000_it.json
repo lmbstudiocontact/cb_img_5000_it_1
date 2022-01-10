@@ -1,0 +1,82 @@
+{
+  "english": "dairy",
+  "phat_am": "ˈdeəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hàng bán bơ sữa",
+          "definition": "a shop supplying milk, butter, cheese etc",
+          "world_new": [
+            "shop",
+            "milk",
+            "butter",
+            "cheese"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We bought milk at the dairy.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi trữ và sản xuất bơ sữa",
+          "definition": "the place on a farm etc where milk is kept and butter and cheese are made.",
+          "world_new": [
+            "place",
+            "farm",
+            "milk",
+            "butter",
+            "cheese"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Data on labour inputs for forage production, market prices of dairy products and farm inputs were also collected.",
+    "Even taking this reduction into account, legume-based organic systems still show a gain over conventional grass-based dairy systems.",
+    "This scenario assumed expansion of the coupled dairy farm to use the additional forages.",
+    "Moreover, the main change between the first and second agreements for the dairy sector was to delay the introduction of the measures until 2005/06.",
+    "Fewer handlers may be needed to process the grains and dairy that predominate in these regions.",
+    "The enterprise combination for a marginal farmer under low risk levels was crop (0.25 ha), dairy (1 unit), fishery (0.25 ha) and biogas (1 unit).",
+    "During that time period, the ammonium loss from sulphur-coated urea was significantly greater than that measured from the composted dairy manure.",
+    "However, farmers in this study did not rely exclusively on dairy incomes."
+  ],
+  "list_see_also": [
+    "dairy cow",
+    "dairy farm"
+  ],
+  "list_browse": [
+    "daily",
+    "daintily",
+    "daintiness",
+    "dainty",
+    "dairy",
+    "dairy cow",
+    "dairy farm",
+    "daisy",
+    "dally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426643_2a1be55c20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426643_e8ca28c02f_o.png",
+      "id_image": "dairy_1497096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048395_112af14907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048395_4581a489b6_o.png",
+      "id_image": "dairy_3070925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426693_3c4677a603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426693_32ed0ebe7a_o.png",
+      "id_image": "dairy_334126"
+    }
+  ]
+}

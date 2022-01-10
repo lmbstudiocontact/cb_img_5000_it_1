@@ -1,0 +1,83 @@
+{
+  "english": "esteem",
+  "phat_am": "iˈstiːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quý trọng",
+          "definition": "to value or respect",
+          "world_new": [
+            "value",
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They esteemed him as a prophet.",
+              "world_new": [
+                "prophet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quý trọng",
+          "definition": "favourable/favorable opinion; respect",
+          "world_new": [
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His foolish behaviour/behavior lowered him in my esteem",
+              "world_new": [
+                "foolish",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "He was held in great esteem by his colleagues.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As he says, their work is uniformly esteemed by those business people who come into contact with them.",
+    "They are very valued and esteemed members of our community.",
+    "Our editorial board consists of an extraordinary group of distinguished and esteemed international authorities in palliative care and the interface of psychiatry0psychology and palliative medicine.",
+    "The police force in many cities and boroughs are highly esteemed.",
+    "Indeed, many of us know from personal experience how esteemed are their services.",
+    "In particular, those students perceiving increasing teacher support showed corresponding decreases in depressive symptoms and increases in self-esteem.",
+    "Research efforts to understand the role of mental disorder and stigmatization on the development of self-esteem and self-image continue to be a priority.",
+    "I especially valued his comments about his predecessor, whom we all esteemed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "establishment",
+    "estate",
+    "estate agent",
+    "estate car",
+    "esteem",
+    "estimate",
+    "estimation",
+    "estrogen",
+    "estuary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359037_d3b4afa2b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359037_3428a715b4_o.png",
+      "id_image": "esteem_4060932"
+    }
+  ]
+}

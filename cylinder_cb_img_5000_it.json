@@ -1,0 +1,110 @@
+{
+  "english": "cylinder",
+  "phat_am": "ˈsilində",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình trụ",
+          "definition": "a solid shape or object with a circular base and top and straight sides",
+          "world_new": [
+            "solid",
+            "shape",
+            "object",
+            "circular",
+            "base",
+            "top",
+            "straight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Calculate the total surface area of the cylinder.",
+              "world_new": [
+                "total",
+                "surface",
+                "area"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trục",
+          "definition": "any of several pieces of machinery of this shape, solid or hollow",
+          "world_new": [
+            "machinery",
+            "shape",
+            "solid",
+            "hollow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brake cylinder of his car is leaking.",
+              "world_new": [
+                "brake",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xi lanh",
+          "definition": "a container in the shape of a cylinder",
+          "world_new": [
+            "container",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "two cylinders of oxygen.",
+              "world_new": [
+                "oxygen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number of cells in this 'primary' flow is a function of the length of the cylinders.",
+    "An analogous situation exists with the slow flow around spheres and cylinders.",
+    "The structure is represented by dark cylinders for covalent bonds between heavy atoms ; distance restraints are visualized by thin lines.",
+    "The pneumatic cylinders of the articulated fingers are operated in parallel in order to give an additional auto-adaptability on the object to grasp.",
+    "Actuation of the lift and tilt hydraulic cylinders is achieved by specifying a valve position for lift and tilt respectively.",
+    "Each household had at least one, and often a few, hematite (iron oxide) cylinders.",
+    "Analytical methods that are available, or are being developed, to calculate oscillatory flows past cylinders with vortex formation are also described.",
+    "The useful range of flow rates over which thermal equilibrium of the cylinders could be achieved was from 2-90ft.3/h."
+  ],
+  "list_see_also": [
+    "cylindrical"
+  ],
+  "list_browse": [
+    "cyclically",
+    "cyclist",
+    "cyclone",
+    "cygnet",
+    "cylinder",
+    "cylindrical",
+    "cymbal",
+    "cynic",
+    "cynical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427158_fe9888f3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427158_dd7c31dcc8_o.png",
+      "id_image": "cylinder_2106599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356407_4e09f104b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356407_f284a8c4dc_o.png",
+      "id_image": "cylinder_217220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667279_46a934df17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667279_2caf7bd352_o.png",
+      "id_image": "cylinder_5853947"
+    }
+  ]
+}

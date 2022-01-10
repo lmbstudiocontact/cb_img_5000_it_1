@@ -1,0 +1,262 @@
+{
+  "english": "fine",
+  "phat_am": "fain",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tốt",
+          "definition": "(usually of art etc) very good; of excellent quality",
+          "world_new": [
+            "art",
+            "excellent",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine painting",
+              "world_new": [
+                "painting"
+              ]
+            },
+            {
+              "ex_of_definition": "a fine performance.",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(thời tiết) sáng sủa; không mưa",
+          "definition": "(of weather) bright; not raining",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine day.",
+              "world_new": [
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sung sức; dễ chịu",
+          "definition": "well; healthy",
+          "world_new": [
+            "healthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was ill yesterday, but I am feeling fine today!",
+              "world_new": [
+                "I",
+                "ill",
+                "yesterday",
+                "I",
+                "feeling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thon thả; mảnh mai",
+          "definition": "thin or delicate",
+          "world_new": [
+            "thin",
+            "delicate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được chế tạo cẩn thận; tinh xảo",
+          "definition": "careful; detailed",
+          "world_new": [
+            "detailed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fine workmanship is required for such delicate embroidery.",
+              "world_new": [
+                "workmanship",
+                "delicate",
+                "embroidery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm bằng những hạt rất nhỏ hoặc mịn",
+          "definition": "made of small pieces, grains etc",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fine sand",
+              "world_new": [
+                "sand"
+              ]
+            },
+            {
+              "ex_of_definition": "fine rain.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh tế",
+          "definition": "slight; delicate",
+          "world_new": [
+            "delicate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine balance",
+              "world_new": [
+                "balance"
+              ]
+            },
+            {
+              "ex_of_definition": "a fine distinction.",
+              "world_new": [
+                "distinction"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vừa ý",
+          "definition": "perfectly satisfactory",
+          "world_new": [
+            "perfectly",
+            "satisfactory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s nothing wrong with your work – it’s fine.",
+              "world_new": [
+                "wrong",
+                "your",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một cách thoả đáng, hài lòng",
+          "definition": "satisfactorily",
+          "world_new": [
+            "satisfactorily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This arrangement suits me fine.",
+              "world_new": [
+                "arrangement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "tốt; giỏi",
+          "definition": "good; well done etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ve finished already – fine!",
+              "world_new": [
+                "finished"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền phạt",
+          "definition": "money which must be paid as a punishment",
+          "world_new": [
+            "money",
+            "punishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had to pay a fine.",
+              "world_new": [
+                "I",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trừng phạt ai bằng tiền",
+          "definition": "to make (someone) pay a fine",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was fined $10."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "finely",
+    "finery",
+    "fine art"
+  ],
+  "list_browse": [
+    "find one’s feet",
+    "find out",
+    "find/get one’s bearings",
+    "findings",
+    "fine",
+    "fine art",
+    "finely",
+    "finery",
+    "finesse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442573_19e2345bba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442573_3324c82c9d_o.png",
+      "id_image": "fine_1566580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327506_a49db5e274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327506_7732d469eb_o.png",
+      "id_image": "fine_6333316"
+    }
+  ]
+}

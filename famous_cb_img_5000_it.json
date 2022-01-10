@@ -1,0 +1,78 @@
+{
+  "english": "famous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nổi tiếng/ nổi danh vì cái gì",
+          "definition": "well-known (for good or worthy reasons)",
+          "world_new": [
+            "well-known",
+            "worthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a famous actor",
+              "world_new": [
+                "actor"
+              ]
+            },
+            {
+              "ex_of_definition": "She is famous for her determination to win.",
+              "world_new": [
+                "determination",
+                "win"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Everyone who recognizes his most famous name will readily acknowledge their importance.",
+    "A famous combinatorial formula describes this number in term of hook lengths.",
+    "Such a claim seems admittedly problematic when considering the 'famous fire cause', because it appears to be a striking example of unequal treatment.",
+    "Of course, not everyone had access to such powerful patrons, so it is no surprise that only the most famous musicians could skip the broker.",
+    "In the ambiance of these drawings the famous moon watercolors are not in the dark.",
+    "Unlike that famous liberal thinker, royalists propagated a way to preserve liberty that did not necessitate an appeal to a public spirit at all.",
+    "Many famous hard optimization problems, such as the travelling salesman problem or the protein folding problem, are global optimization problems.",
+    "Very unlike the ideal suggested by that famous newspaper controversy is she."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "family planning",
+    "family tree",
+    "famine",
+    "famished",
+    "famous",
+    "famously",
+    "fan",
+    "fanatic",
+    "fanatically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691854_ea68811199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691854_bd99da96cb_o.png",
+      "id_image": "famous_1449041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451428_c5c04e7944_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451428_99959a24a2_o.png",
+      "id_image": "famous_5904451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451388_06e6232e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451388_a1e83d7493_o.png",
+      "id_image": "famous_5906117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381462_c82fe38810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381462_9b471ea150_o.png",
+      "id_image": "famous_6347717"
+    }
+  ]
+}

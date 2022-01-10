@@ -1,0 +1,113 @@
+{
+  "english": "country",
+  "phat_am": "ˈkantri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đất nước",
+          "definition": "any of the nations of the world; the land occupied by a nation",
+          "world_new": [
+            "land",
+            "nation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Canada is a larger country than Spain."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân dân",
+          "definition": "the people of a country",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The country will elect a new president tomorrow.",
+              "world_new": [
+                "elect",
+                "president",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nông thôn",
+          "definition": "(usually with the) districts where there are fields, moors etc as opposed to towns and areas with many buildings",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quiet holiday in the country",
+              "world_new": [
+                "quiet",
+                "holiday"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) country districts."
+            }
+          ]
+        },
+        {
+          "mean_english": "địa hạt",
+          "definition": "an area or stretch of land",
+          "world_new": [
+            "area",
+            "stretch",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "hilly country.",
+              "world_new": [
+                "hilly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The government needed professional and politically-minded staff to take on the planned political development of the country over the long haul.",
+    "Communist parties held a monopoly of power in communist countries.",
+    "They are more physically immature than their peers of the same age in highly developed countries.",
+    "On the other hand, such policies have provoked grassroot activism and stimulated senior organisations in quite a few countries.",
+    "Although many countries are planning to privatise, there has been little research into the effects of water privatisation.",
+    "The citizens of the country constitute an organic whole, which is integrated by the general will of the masses.",
+    "Taking the campaign to some parts of the country proved especially difficult for parties without a presence in those areas.",
+    "In many developing countries, pollution control regulations are formulated at the national level, but their enforcement is the responsibility of local environmental protection bureaus."
+  ],
+  "list_see_also": [
+    "country dance",
+    "countryman",
+    "country music",
+    "countryside"
+  ],
+  "list_browse": [
+    "counterpane",
+    "counterpart",
+    "countess",
+    "countless",
+    "country",
+    "country dance",
+    "country music",
+    "countryman",
+    "countryside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682259_3558a0bc9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682259_9ea4fb5b96_o.png",
+      "id_image": "country_5663672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063955_ebcfe4c099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063955_74eb0b146c_o.png",
+      "id_image": "country_6313937"
+    }
+  ]
+}

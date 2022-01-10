@@ -1,0 +1,64 @@
+{
+  "english": "determination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính cương quyết",
+          "definition": "firmness of character or stubbornness",
+          "world_new": [
+            "character"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She showed her determination by refusing to give way."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quyết định",
+          "definition": "the act of determining.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This permits the determination of the allowable fuel for the aircraft, which ultimately yields the range capability.",
+    "The final chapter on pigmentation considers the likely biological significance of a trait much used in the determination of racial affinities.",
+    "This allows the determination of the asymmetry coefficient of the gravitational turbulent mixing for gases.",
+    "In spite of his conscious determination to appear young, his unconscious fears ultimately become realized.",
+    "Dramatically increasing repression in this way reflected the monarchy's determination to have provincial elites uphold royal authority.",
+    "Thus, once the partitioning of the domain is done, the determination of the 'best' function is straightforward.",
+    "The non-specific activation that occurs with conventional stimuli complicates the determination of the mechanisms of action and may contribute to side effects.",
+    "A precise estimate of this quantity is difficult to make, and the various determinations made by various investigators differ by several magnitudes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deter",
+    "detergent",
+    "deteriorate",
+    "deterioration",
+    "determination",
+    "determine",
+    "determined",
+    "determiner",
+    "deterrent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441478_3a4a08e43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441478_ac681819af_o.png",
+      "id_image": "determination_1006628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063345_7524c6b28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063345_f2e5536de3_o.png",
+      "id_image": "determination_5661047"
+    }
+  ]
+}

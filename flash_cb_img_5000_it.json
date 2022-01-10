@@ -1,0 +1,148 @@
+{
+  "english": "flash",
+  "phat_am": "flӕʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chớp sáng",
+          "definition": "a quick showing of a bright light",
+          "world_new": [
+            "quick",
+            "bright",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flash of lightning.",
+              "world_new": [
+                "lightning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giây lát",
+          "definition": "a moment; a very short time",
+          "world_new": [
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was with her in a flash."
+            }
+          ]
+        },
+        {
+          "mean_english": "đèn nháy",
+          "definition": "a flashlight.",
+          "world_new": [
+            "flashlight"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "loé sáng; vụt sáng; chiếu sáng",
+          "definition": "(of a light) to (cause to) shine quickly",
+          "world_new": [
+            "shine",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He flashed a torch into the darkness of the cave.",
+              "world_new": [
+                "torch",
+                "darkness",
+                "cave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy vụt",
+          "definition": "(usually with byor past) to pass quickly",
+          "world_new": [
+            "pass",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The days flashed by"
+            },
+            {
+              "ex_of_definition": "The cars flashed past."
+            }
+          ]
+        },
+        {
+          "mean_english": "chìa ra; xoè ra",
+          "definition": "to show; to display",
+          "world_new": [
+            "display"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He flashed his identity card and was allowed to pass.",
+              "world_new": [
+                "identity",
+                "card",
+                "pass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "flashing",
+    "flashy",
+    "flashily",
+    "flashlight"
+  ],
+  "list_browse": [
+    "flannel",
+    "flap",
+    "flare",
+    "flare up",
+    "flash",
+    "flashily",
+    "flashing",
+    "flashlight",
+    "flashy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322701_d2a4eae477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322701_2436f5e5f6_o.png",
+      "id_image": "flash_1339289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677829_74cf38af8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677829_8b90e2a9e9_o.png",
+      "id_image": "flash_1366106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677789_459c218b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677789_a56b7b5326_o.png",
+      "id_image": "flash_1901947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059540_b8dab83af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059540_18c25d9ed5_o.png",
+      "id_image": "flash_488535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677909_426eb9e364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677909_de6ac8810c_o.png",
+      "id_image": "flash_526861"
+    }
+  ]
+}

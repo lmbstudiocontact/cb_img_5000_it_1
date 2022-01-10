@@ -1,0 +1,81 @@
+{
+  "english": "dialogue",
+  "phat_am": "ˈdaiəloɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đối thoại",
+          "definition": "(a) talk between two or more people, especially in a play or novel",
+          "world_new": [
+            "talk",
+            "people",
+            "play",
+            "novel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had trouble remembering so many lines of dialogue in this scene.",
+              "world_new": [
+                "I",
+                "trouble",
+                "lines",
+                "scene"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, musical dialogues participated in the discourse of civility at the very heart of contemporary concepts of courtliness.",
+    "As can be seen, the particular order in which the dialogues were given had a negligible effect on the results.",
+    "All the target definite articles were removed from the short dialogues.",
+    "Close analysis of actual dialogues highlights the essential importance of verbal creativity even to the task of solving reasoning test problems in small groups.",
+    "Moreover, these problems have to be dealt with in spoken dialogues too.",
+    "We trained with 10 random samples of 27, 55, 110, 220, 330 and 490 dialogues and then tested on an unseen 10% of the dialogues.",
+    "From this corpus 100 dialogues from ten different subjects have been studied.",
+    "Issues relating to authenticity of dialogues are complex and have been hotly debated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dial",
+    "dialect",
+    "dialectic",
+    "dialectical",
+    "dialogue",
+    "dialysis",
+    "diameter",
+    "diamond",
+    "diamonds"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679149_4ba31739a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679149_a5fc183880_o.png",
+      "id_image": "dialogue_1330204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060950_5929cd202b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060950_aee5e0e647_o.png",
+      "id_image": "dialogue_422160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439083_35c1764cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439083_ca4c16d24b_o.png",
+      "id_image": "dialogue_547070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368842_6f29fbc4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368842_4cbe5c23c1_o.png",
+      "id_image": "dialogue_6347634"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060800_f0003a2530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060800_f9ec6bc0a4_o.png",
+      "id_image": "dialogue_6347649"
+    }
+  ]
+}

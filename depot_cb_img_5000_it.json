@@ -1,0 +1,89 @@
+{
+  "english": "depot",
+  "phat_am": "ˈdepəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ga xe lửa hoặc bến xe buýt",
+          "definition": "a central warehouse where large amount of food, goods or equipment are stored",
+          "world_new": [
+            "central",
+            "warehouse",
+            "large",
+            "amount",
+            "food",
+            "goods",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freight depot",
+              "world_new": [
+                "freight"
+              ]
+            },
+            {
+              "ex_of_definition": "an oil storage depot.",
+              "world_new": [
+                "oil",
+                "storage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho hàng",
+          "definition": "a place where vehicles are kept and repaired",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus/tram depot."
+            }
+          ]
+        },
+        {
+          "mean_english": "sở chỉ huy trung đoàn",
+          "definition": "a small station where buses, or trains stop.",
+          "world_new": [
+            "small",
+            "station",
+            "stop"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number sent to the depots is 2,775.",
+    "In the near vicinity, we are threatened by what are, in theory, worthy causes—the construction f two rail freight depots.",
+    "One relates to railway freight and the delivery time of goods, and the other to road haul- age depots.",
+    "Most of this damage is done to trains in depots and in sidings.",
+    "The filth must be collected along with the parade of carts, which meant that the filth did not have to wait in the 74 depots.",
+    "Railtrack says that it has identified 90 new freight depots, indicating that it has paid for the work.",
+    "The big industrial concerns in this country establish depots.",
+    "The focus was on small parties establishing depots and the use of boats for sea journeys, and dogs and ponies for sledge journeys with skis for personal transportation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deportation",
+    "depose",
+    "deposit",
+    "deposit account",
+    "depot",
+    "depress",
+    "depressed",
+    "depressing",
+    "depression"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374992_4a932aa037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374992_06528b0992_o.png",
+      "id_image": "depot_5132400"
+    }
+  ]
+}

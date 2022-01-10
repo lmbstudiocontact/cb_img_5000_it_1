@@ -1,0 +1,75 @@
+{
+  "english": "emerald",
+  "phat_am": "ˈemərəld",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngọc lục bảo",
+          "definition": "a type of precious stone, green in colour/color.",
+          "world_new": [
+            "type",
+            "precious",
+            "stone",
+            "green"
+          ]
+        },
+        {
+          "mean_english": "màu ngọc lục bảo",
+          "definition": "(also emerald green) its colour/color",
+          "world_new": [
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) She has an emerald (green) coat.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "You'd encounter the stage through normal play by collecting the emeralds.",
+    "The glass glows likes deep-set rubies and emeralds and amethysts and jewels of all colors.",
+    "The green colouration tends not to fade over time as much as in other emeralds.",
+    "In addition, the spondylus shell, emeralds, feathers, and other minerals were imported to the area.",
+    "He also ordered them to wear green glasses so it would appear to be made entirely of emeralds.",
+    "The design of the goblet is a tree with a coiled serpent and the apples on the tree are represented by emeralds.",
+    "Members of this family include baskettails, emeralds, river cruisers, sundragons, shadowdragons, boghaunters, and other creatively named dragonflies.",
+    "To his surprise, it carried textiles, ceramic and much-desired gold, silver, and emeralds, becoming the central focus of the expedition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "embryology",
+    "embryonic",
+    "emend",
+    "emendation",
+    "emerald",
+    "emerge",
+    "emergence",
+    "emergency",
+    "emergency room"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677284_358bd03e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677284_68f98d85a9_o.png",
+      "id_image": "emerald_3521729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677264_c7c63c15bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677264_39334cb9b1_o.png",
+      "id_image": "emerald_4158403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437358_6db9e7565c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437358_f194cbd640_o.png",
+      "id_image": "emerald_4158500"
+    }
+  ]
+}

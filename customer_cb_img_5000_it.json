@@ -1,0 +1,94 @@
+{
+  "english": "customer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khách hàng",
+          "definition": "a person who buys from a shop etc",
+          "world_new": [
+            "person",
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "our regular customers.",
+              "world_new": [
+                "our",
+                "regular"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gã",
+          "definition": "used jokingly for a person",
+          "world_new": [
+            "jokingly",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s certainly a strange customer.",
+              "world_new": [
+                "certainly",
+                "strange"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They note, for example, how farmers take pride and satisfaction in selling to customers who know them and value their products36,37.",
+    "At print shop service counters, customers can place orders for document services in person.",
+    "Although both are physical in nature, customers use quite different resources for referring to each.",
+    "Suppose the stanza turned out to appeal to the choice that modern subjects make to safeguard choice, to remain cool customers in the faith market.",
+    "Sellers tend to be identified by their merchandise (theme) and do not typically know their customers (recipient).",
+    "Let the customers in this busy period be identified by their arrival sequence in the busy period.",
+    "However, the customers are usually satisfied by inexact matches that are sufficiently close to their needs.",
+    "None of the methods used to provide information to customers were significant."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "custody",
+    "custom",
+    "customarily",
+    "customary",
+    "customer",
+    "customize",
+    "customs",
+    "cut",
+    "cut a dash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050225_db9cb31984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050225_fca95bca00_o.png",
+      "id_image": "customer_1312309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313616_e63409b979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313616_9ce90ab3a0_o.png",
+      "id_image": "customer_1688401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668464_ab17fd8fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668464_8099af7c60_o.png",
+      "id_image": "customer_228390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428463_ba18ba4299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428463_d092fc0982_o.png",
+      "id_image": "customer_2654570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428413_f26547148c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428413_24f40f27e1_o.png",
+      "id_image": "customer_3255388"
+    }
+  ]
+}

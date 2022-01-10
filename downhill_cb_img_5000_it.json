@@ -1,0 +1,80 @@
+{
+  "english": "downhill",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xuống dốc",
+          "definition": "down a slope",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road goes downhill from here onwards.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiều hướng xấu di",
+          "definition": "towards a worse and worse state",
+          "world_new": [
+            "worse",
+            "worse",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We expected him to die, I suppose, because he’s been going steadily downhill for months.",
+              "world_new": [
+                "die",
+                "I",
+                "suppose",
+                "steadily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, there will be a national downhill race in respect of this regulation.",
+    "In general, one would expect transmission losses between the uphill and downhill regions.",
+    "Whether the passengers were headed up or downhill, they were visible.",
+    "At a given temperature, low-energy states have a barrier for escape, while states of higher energy have downhill free-energy profiles.",
+    "Thus, some systems that appear to be thermodynamically downhill may still appear to display exponential kinetics in the laboratory but with rates near the speed limit.",
+    "I am considering whether performance standards for the downhill braking of coaches should be enhanced.",
+    "Water can only be sold by uphill farmers to downhill farmers, and farmers cannot credibly threaten to withhold water they would not use at a zero price.",
+    "Signs are to be erected as soon as possible indicating advisory speed limits of 15 mph downhill and 20 mph uphill."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "downcast",
+    "downfall",
+    "downgrade",
+    "downhearted",
+    "downhill",
+    "downhill racing",
+    "downhill skiing",
+    "download",
+    "downpour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307496_afc2a0ef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307496_a7338e4b3a_o.png",
+      "id_image": "downhill_2259666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662804_701d69c442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662804_2a86524ff5_o.png",
+      "id_image": "downhill_984307"
+    }
+  ]
+}

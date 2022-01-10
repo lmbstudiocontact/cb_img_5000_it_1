@@ -1,0 +1,82 @@
+{
+  "english": "crab",
+  "phat_am": "krӕb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con cua",
+          "definition": "an edible sea animal with a shell and five pairs of legs, the first pair having claws",
+          "world_new": [
+            "edible",
+            "sea",
+            "animal",
+            "shell",
+            "pair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freshwater crab.",
+              "world_new": [
+                "freshwater"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ trích",
+          "definition": "to complain or criticize",
+          "world_new": [
+            "complain",
+            "criticize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He keeps on crabbing about the weather.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number of crab burrows per quadrat was variable with densities ranging from 6 to 32 burrows per 25 m2.",
+    "This is comparable to an average density of 16 crabs + 6 caught per 15-min catching period in the present study.",
+    "I define this transition region by the perpendicular gradient of crab burrows that ranges from 0 to 1 m-2.",
+    "If the early modern historian is usefully to extend the parameters of this subject, movement has (perhaps inevitably) to be crab-like.",
+    "Presumably, it must reflect the relative effectiveness of excitatory and inhibitory summations within the dendrites of wide-field movement detector neurones within the crab optic tract.",
+    "They came to the conclusion that optokinetic eye movements in translating crabs were governed by stationary contours in the visual field.",
+    "For crab abundance there are two close groupings: plots 2, 4 and 9 and the remaining plots.",
+    "Households in the government and private sectors are grouped together in a 'non-subsistence' category because there was no significant difference in their crab collection activities."
+  ],
+  "list_see_also": [
+    "crabby"
+  ],
+  "list_browse": [
+    "coy",
+    "coyly",
+    "coyness",
+    "CPU",
+    "crab",
+    "crabby",
+    "crack",
+    "crack down (on)",
+    "crackdown"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680159_9fc41e0e1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680159_18cc3eef58_o.png",
+      "id_image": "crab_1717812"
+    }
+  ]
+}

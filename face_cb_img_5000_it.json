@@ -1,0 +1,192 @@
+{
+  "english": "face",
+  "phat_am": "feis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt",
+          "definition": "the front part of the head, from forehead to chin",
+          "world_new": [
+            "front",
+            "part",
+            "head",
+            "forehead",
+            "chin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a beautiful face.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bề mặt",
+          "definition": "a surface especially the front surface",
+          "world_new": [
+            "surface",
+            "front",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rock face",
+              "world_new": [
+                "rock"
+              ]
+            },
+            {
+              "ex_of_definition": "Dice have six faces."
+            }
+          ]
+        },
+        {
+          "mean_english": "mỏ",
+          "definition": "in mining, the end of a tunnel etc where work is being done",
+          "world_new": [
+            "mining",
+            "tunnel",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coal face.",
+              "world_new": [
+                "coal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đối diện",
+          "definition": "to be opposite to",
+          "world_new": [
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My house faces the park.",
+              "world_new": [
+                "house",
+                "park"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng về hoặc quay về phía",
+          "definition": "to turn, stand etc in the direction of",
+          "world_new": [
+            "turn",
+            "stand",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She faced him across the desk.",
+              "world_new": [
+                "across",
+                "desk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đương đầu; đối phó",
+          "definition": "to meet or accept boldly",
+          "world_new": [
+            "meet",
+            "accept",
+            "boldly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s time to face the truth.",
+              "world_new": [
+                "time",
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this situation, voters face a standard inference problem of predicting the unobservable type (whether competent or not) of the incumbent from the observable policy.",
+    "The results suggest that many students are faced with a situation in which the cognitively demanding language of the classroom is beyond their grasp.",
+    "It is also not unique in suffering high levels of air and water pollution and facing severe threats to its biological resources.",
+    "And a website is the visible presentation of the public face of some kind of distributed system.",
+    "The transactions for both parties were done face to face (and privately) with the game administrator.",
+    "However, her face was not visible on the video display, in order to minimize distraction.",
+    "A possible extension of the method was also presented which takes into account qualitative sur face height information.",
+    "For metals, par t of the laser-evaporated material can then be redeposited on the sur face in and around the ablation site."
+  ],
+  "list_see_also": [
+    "-faced",
+    "facial",
+    "facing",
+    "facecloth",
+    "facelift",
+    "face powder",
+    "face-saving",
+    "face value",
+    "at face value",
+    "face the music",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "fabrication",
+    "fabulous",
+    "fabulously",
+    "facade",
+    "face",
+    "face powder",
+    "face the music",
+    "face to face",
+    "face up to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338466_f60f7e7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338466_1c20058a62_o.png",
+      "id_image": "face_2375268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693629_becf8bd10f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693629_72426cc194_o.png",
+      "id_image": "face_2473041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453363_ed7840dff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453363_3d6a31b418_o.png",
+      "id_image": "face_2800055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075415_c473ec1621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075415_6637e42a2b_o.png",
+      "id_image": "face_4183091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453478_923cb800ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453478_8cc2138549_o.png",
+      "id_image": "face_976003"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "flip",
+  "phat_am": "flip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "búng",
+          "definition": "to throw (something) in the air (so that it turns)",
+          "world_new": [
+            "throw",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They flipped a coin to see which side it landed on.",
+              "world_new": [
+                "coin",
+                "see",
+                "side"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lật nhanh",
+          "definition": "(sometimes with over) to turn over quickly",
+          "world_new": [
+            "turn",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She flipped over the pages of the book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đánh nhẹ; cú bật nhẹ",
+          "definition": "an act of flipping",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The matter was decided by the flip of a coin.",
+              "world_new": [
+                "matter",
+                "coin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "flip chart"
+  ],
+  "list_browse": [
+    "flimsy",
+    "flinch",
+    "fling",
+    "flint",
+    "flip",
+    "flip chart",
+    "flip-flops",
+    "flippancy",
+    "flippant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436628_ddd4ec0e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436628_7df8fba2df_o.png",
+      "id_image": "flip_1850074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058110_fcb6223f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058110_a9532d3e52_o.png",
+      "id_image": "flip_2985617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058185_2df154a72f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058185_1c9b498bec_o.png",
+      "id_image": "flip_648438"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "duo",
+  "phat_am": "ˈdjuːou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cặp",
+          "definition": "two people who perform together",
+          "world_new": [
+            "people",
+            "perform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a comedy duo.",
+              "world_new": [
+                "comedy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ đôi",
+          "definition": "a piece of music for two instruments",
+          "world_new": [
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a duo for piano and violin.",
+              "world_new": [
+                "piano",
+                "violin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As an emerging conductor in her late 20s and an experienced conductor in his early 50s, we made a rather unusual duo on the podium.",
+    "In the present material, we find that in the series duo, trio, quartet, and quintet the singular becomes increasingly frequent the more members of the group there are.",
+    "Having started life as a lute duo, their music-making reflects a keenness for clarity and intimacy, and now in an expanded ensemble form pays particular attention to the continuo line.",
+    "It is an organisation which cares for, teaches and trains those duo-sensory afflicted adults, the deaf-blind.",
+    "Yet traces of other similar duo performances survive in contemporary polyphonic prints.",
+    "As regards part writing, the full sections are less remarkable than the duos.",
+    "Here the tonal space expands to a 12-8 sonority, and it too is followed by a bridge duo, except that this time it is the tenor that rests.",
+    "Three different sets of voices sing the lyrics above: a deep male voice, a female-male duo, and a robot voice, which raps out the lyrics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dung",
+    "dungarees",
+    "dungeon",
+    "dunno",
+    "duo",
+    "dupe",
+    "duplex",
+    "duplicate",
+    "duplication"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450173_608c373b07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450173_2da18e4466_o.png",
+      "id_image": "duo_1485053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690289_b2a70b705b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690289_d7db508874_o.png",
+      "id_image": "duo_1487535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072045_549e111a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072045_2db7e39e85_o.png",
+      "id_image": "duo_2871712"
+    }
+  ]
+}

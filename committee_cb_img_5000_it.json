@@ -1,0 +1,68 @@
+{
+  "english": "committee",
+  "phat_am": "kəˈmiti",
+  "list_english": [
+    {
+      "type_word": "noun or noun plural",
+      "list_definition": [
+        {
+          "mean_english": "ủy ban",
+          "definition": "a number of persons, selected from a larger body, to deal with some special business, eg the running of the larger body’s affairs",
+          "world_new": [
+            "number",
+            "body",
+            "deal",
+            "special",
+            "business",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The committee meet(s) today"
+            },
+            {
+              "ex_of_definition": "(also adjective) a committee meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The committee's motivation for ardently defending a hereditarian explanation of mental defect arose from politics and propaganda.",
+    "The project committee and the teachers have now decided by consensus that registers would be kept.",
+    "On the third model the elected village committee and village assembly dominate.",
+    "The committee made a recommendation against screening women under the age of 50.",
+    "From the end of the 1970s this position dominated the public debate, and that critique led to a new period of committees and surveys.",
+    "Her methodology is qualitative documentary analysis, drawing principally on municipal reports and committee minutes, and also some voluntary sector records.",
+    "Unlike the fall conference, each committee discussed the same four topics.",
+    "The case was referred to the ethical review committee of the medical faculty."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "commit",
+    "commitment",
+    "committal",
+    "committed",
+    "committee",
+    "commodious",
+    "commodity",
+    "commodore",
+    "common"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318496_a652f8a108_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318496_9fdd2353e6_o.png",
+      "id_image": "committee_1505375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318481_a1bf07567b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318481_f2cb608e96_o.png",
+      "id_image": "committee_3967510"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "extend",
+  "phat_am": "ikˈstend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mở rộng",
+          "definition": "to make longer or larger",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He extended his vegetable garden.",
+              "world_new": [
+                "extended",
+                "vegetable",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải dài",
+          "definition": "to reach or stretch",
+          "world_new": [
+            "reach",
+            "stretch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school grounds extend as far as this fence.",
+              "world_new": [
+                "school",
+                "grounds",
+                "far",
+                "fence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "duỗi",
+          "definition": "to hold out or stretch out (a limb etc)",
+          "world_new": [
+            "hold",
+            "stretch",
+            "limb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He extended his hand to her.",
+              "world_new": [
+                "extended",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi tới",
+          "definition": "to offer",
+          "world_new": [
+            "offer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "May I extend a welcome to you all?",
+              "world_new": [
+                "I",
+                "welcome"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We consider only the core object calculus, not the calculus extended with functions.",
+    "With regard to the judicial power, this in these nations as far as it extends is possessed by the community as one body.",
+    "In the next section, this will be extended towards the concurrent behaviour of views.",
+    "The system considered here can be further extended to make it more powerful.",
+    "The sinus extended through the tumour (?) to the peritoneal cavity.",
+    "The ensuing notion of connectedness extends the ancestor-descendant relation.",
+    "Are the figures really any indication of the decline of extended family help ?",
+    "We extended our model to include proxies for plan eligibility and vesting requirements for both plan types."
+  ],
+  "list_see_also": [
+    "extended",
+    "extension",
+    "extensive"
+  ],
+  "list_browse": [
+    "exquisite",
+    "exquisitely",
+    "extant",
+    "extempore",
+    "extend",
+    "extended",
+    "extension",
+    "extensive",
+    "extent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340976_01a8b52d1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340976_f1304a8f26_o.png",
+      "id_image": "extend_1833988"
+    }
+  ]
+}

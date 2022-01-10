@@ -1,0 +1,77 @@
+{
+  "english": "discourse",
+  "phat_am": "ˈdiskoːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài thuyết trình",
+          "definition": "a long and serious discussion of a subject in speech or writing",
+          "world_new": [
+            "long",
+            "serious",
+            "discussion",
+            "subject",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a learned discourse on Italian sculpture.",
+              "world_new": [
+                "learned",
+                "sculpture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn ngôn",
+          "definition": "any piece of speech or writing that is longer than a sentence",
+          "world_new": [
+            "piece",
+            "speech",
+            "sentence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "spoken discourse.",
+              "world_new": [
+                "spoken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One component of cultural discourses in every society is gender.",
+    "Which discourses and identities are employed to negotiate the interests of social groups?",
+    "Clothing also exposes the ways in which some disciplinary discourses impinge upon the lives of older people.",
+    "Still, the practices that separate and regiment metapragmatic discourses into those of \"functions\" and of \"forms\" remain intact.",
+    "In the hegemonic ideology's stereotypes of dominated groups lies ample room for manoeuvring, manipulation and the eventual formation of rival or occasionally even counter-hegemonic discourses.",
+    "Through a focus on the discourses of collaborating teachers in secondary school classrooms, the paper analyses teachers' and students' interactions within their wider socio-political context.",
+    "However, not all discourses were equally effective in this context.",
+    "In constructing such representations, they draw on local and wider discourses about learning, social order, national and institutional characteristics, class, and gender."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "discotheque",
+    "discount",
+    "discourage",
+    "discouragement",
+    "discourse",
+    "discourteous",
+    "discourtesy",
+    "discover",
+    "discovery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432653_4447d74cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432653_7cbc9788d5_o.png",
+      "id_image": "discourse_1322211"
+    }
+  ]
+}

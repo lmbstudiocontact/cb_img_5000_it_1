@@ -1,0 +1,117 @@
+{
+  "english": "disguise",
+  "phat_am": "disˈɡaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cải trang",
+          "definition": "to hide the identity of by altering the appearance etc",
+          "world_new": [
+            "hide",
+            "identity",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He disguised himself as a policeman",
+              "world_new": [
+                "policeman"
+              ]
+            },
+            {
+              "ex_of_definition": "She disguised her voice with a foreign accent.",
+              "world_new": [
+                "voice",
+                "foreign",
+                "accent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "che đậy",
+          "definition": "to hide (eg one’s intentions etc)",
+          "world_new": [
+            "hide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried hard to disguise his feelings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trá hình",
+          "definition": "a disguised state",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was in disguise."
+            }
+          ]
+        },
+        {
+          "mean_english": "quần áo cải trang",
+          "definition": "a set of clothes, make-up etc which disguises",
+          "world_new": [
+            "clothes",
+            "make-up"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was wearing a false beard as a disguise.",
+              "world_new": [
+                "wearing",
+                "false",
+                "beard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Eventually they come to an agreement that the wife will disguise herself as a child by putting on a straw hat decorated with flowers.",
+    "The mask has been described as a disguise which, layer after layer, increasingly conceals the ' timeless ' personality beneath.",
+    "Assisted living : the disguise and what lies beneath.",
+    "With pretense, disguise, and unreflective belief in disinterested philosophical analysis, philosophers can easily objectify the interests of certain power groups, whether scientific or political.",
+    "Although not very visible yet, this increased level of publicness could become a blessing in disguise.",
+    "Some of these expenses may disguise sources of income.",
+    "The term internalization is but a slightly disguised synonym of ingestion.",
+    "The rather vague title disguises an important volume which examines ethics and morals of palaeontological collecting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "disgrace",
+    "disgraceful",
+    "disgracefully",
+    "disgruntled",
+    "disguise",
+    "disgust",
+    "disgusting",
+    "disgustingly",
+    "dish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361012_dcfd9cb0b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361012_40a3151b43_o.png",
+      "id_image": "disguise_4138907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671409_42b1e18cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671409_ef3a0e483a_o.png",
+      "id_image": "disguise_4713785"
+    }
+  ]
+}

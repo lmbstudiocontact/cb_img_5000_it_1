@@ -1,0 +1,65 @@
+{
+  "english": "cocoon",
+  "phat_am": "kəˈkuːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái kén",
+          "definition": "a silk covering spun by many insect larvae, and in which they live while turning into butterflies",
+          "world_new": [
+            "silk",
+            "covering",
+            "insect",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Butterflies typically emerge from the cocoon early in the morning.",
+              "world_new": [
+                "typically",
+                "emerge",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With respect to tree functional type, in all three regressions the cocoons on primary host trees were significantly higher than they were on non-hosts (table 3).",
+    "The short wet and dry seasons were characterized by a large number of cocoons hatching and a high proportion of immatures and juveniles in populations.",
+    "Protective silken cocoons around the pupae were not removed during exposure to the high temperatures because we wanted to simulate natural conditions for pupal exposure.",
+    "All larvae were removed twice a day and allowed to burrow into soil in plastic cylinders (1.3 l) where they formed cocoons.",
+    "Under natural conditions, most cocoons were found in the upper 1 cm of sand within a radius of 500 cm from the nest.",
+    "The exposed larvae were reared until parasitoid cocoons developed.",
+    "A third set of parasitized cocoons was left intact from the time of oviposition until emergence of adults.",
+    "Micro-dissecting scissors were used to open the cocoons to follow development of the pupae and prepupae."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cocktail",
+    "cocky",
+    "cocoa",
+    "coconut",
+    "cocoon",
+    "cod",
+    "cod-liver oil",
+    "coddle",
+    "code"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325581_2142f4e0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325581_45b117d127_o.png",
+      "id_image": "cocoon_5118249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062330_b1b5e697dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062330_5c3fa956cf_o.png",
+      "id_image": "cocoon_5517057"
+    }
+  ]
+}

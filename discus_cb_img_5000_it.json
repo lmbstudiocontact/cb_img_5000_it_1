@@ -1,0 +1,66 @@
+{
+  "english": "discus",
+  "phat_am": "ˈdiskəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiếc đĩa nặng dùng để ném đĩa",
+          "definition": "a heavy disc of metal etc thrown in a type of athletic competition",
+          "world_new": [
+            "heavy",
+            "disc",
+            "metal",
+            "type",
+            "athletic",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How far can you throw the discus?",
+              "world_new": [
+                "far",
+                "throw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The chapter presents case studies of different types of alteration, and discusses detailed mineralogy of selected clay mineral types.",
+    "You can give dietary advice and discuss exercise, but it can be very engrained peoples' eating habits.",
+    "A shorter final section discusses sermons preached early in the fifth century.",
+    "Chapter 13 discusses constraint programming over reals using interval constraint solving.",
+    "The following section discusses in some detail the institutional environments in which these systems have evolved.",
+    "Whiteoak discusses at least two generations of musicians who moved from jazz to composition and avant-garde concert performance.",
+    "Section 2 discusses methodological issues, including the conceptual and empirical approach, and the data used.",
+    "In section 3, we present a classification system based on these types of definitions and briefly discuss welfare implications of each."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "discrepancy",
+    "discretion",
+    "discriminate",
+    "discrimination",
+    "discus",
+    "discuss",
+    "discussion",
+    "disdain",
+    "disdainful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432198_2c6089b192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432198_8f786ee2c6_o.png",
+      "id_image": "discus_2072435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053515_28aa562983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053515_b3961d7c6c_o.png",
+      "id_image": "discus_5200739"
+    }
+  ]
+}

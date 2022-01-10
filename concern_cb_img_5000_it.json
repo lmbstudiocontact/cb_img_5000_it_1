@@ -1,0 +1,153 @@
+{
+  "english": "concern",
+  "phat_am": "kənˈsəːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liên quan",
+          "definition": "to have to do with",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This order doesn’t concern us",
+              "world_new": [
+                "order"
+              ]
+            },
+            {
+              "ex_of_definition": "So far as I’m concerned, you can do what you like.",
+              "world_new": [
+                "far"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lo lắng",
+          "definition": "(with foror about) to make (usually oneself) uneasy",
+          "world_new": [
+            "uneasy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t concern yourself about her."
+            }
+          ]
+        },
+        {
+          "mean_english": "quan tâm đến",
+          "definition": "(with withor in) to interest (oneself) in",
+          "world_new": [
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He doesn’t concern himself with unimportant details.",
+              "world_new": [
+                "unimportant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mối quan tâm",
+          "definition": "something that concerns or belongs to one",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His problems are not my concern.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lo lắng",
+          "definition": "anxiety",
+          "world_new": [
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The condition of the patient is giving rise to concern.",
+              "world_new": [
+                "condition",
+                "patient",
+                "rise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "doanh nghiệp",
+          "definition": "a business",
+          "world_new": [
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shoe-manufacturing concern."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors nonetheless effectively argue for pairing qualitative and quantitative techniques based on the teacher-researcher's specific pedagogical concerns.",
+    "Such green speculations are problematic and will not be pursued further; purely human needs are the concern here.",
+    "The net impact concerns the effect on parties.",
+    "Other representations concerned with technical, cognitive and musical skills may be acquired concurrently.",
+    "Firstly, one might hold that philosophical ideas should stand or fall on their content, rather than upon the reputation of the philosopher concerned.",
+    "Devising relevant tables for each system concerned may not be feasible.",
+    "Only where both coincide can business be expected to act out of moral concerns for past sins or the future public good.",
+    "All are concerned with telling the story of her life."
+  ],
+  "list_see_also": [
+    "concerning"
+  ],
+  "list_browse": [
+    "concentric",
+    "concept",
+    "concept map",
+    "conception",
+    "concern",
+    "concerning",
+    "concert",
+    "concerted",
+    "concertina"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668584_c352b7146a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668584_bb355a532c_o.png",
+      "id_image": "concern_4525460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357922_4123450b03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357922_8c5451358f_o.png",
+      "id_image": "concern_4729313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668539_16cd7f756f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668539_bac0f7a6bb_o.png",
+      "id_image": "concern_5308161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428598_013ee26e31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428598_dc52d844cb_o.png",
+      "id_image": "concern_6000781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050285_95b9ddabb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050285_9e46bdef2c_o.png",
+      "id_image": "concern_6002476"
+    }
+  ]
+}

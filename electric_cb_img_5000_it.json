@@ -1,0 +1,86 @@
+{
+  "english": "electric",
+  "phat_am": "əˈlektrik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc điện",
+          "definition": "of, produced by, or worked by electricity",
+          "world_new": [
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "náo động",
+          "definition": "full of excitement",
+          "world_new": [
+            "full",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The atmosphere in the theatre/theater was electric.",
+              "world_new": [
+                "atmosphere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The transverse electric field is maximum at r s0#2.",
+    "The electrics did not work, the doors did not work and the catering facilities did not work.",
+    "They went to all the expense of heightening the bridges to save overhead electrics.",
+    "The cylinder was mounted on an air-bearing table which could be precessed about a vertical axis by a continuously variable electric transmission.",
+    "The only way to measure trap efficiency directly is by the use of electric nets.",
+    "The electric field is generated in order to satisfy the current neutrality.",
+    "In such a case there is a single electric current for a given applied potential.",
+    "The fast 125 diesels and the 225 electrics were ahead of their time in technology."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "electioneer",
+    "elector",
+    "electoral",
+    "electorate",
+    "electric",
+    "electric chair",
+    "electric charge",
+    "electric circuit",
+    "electric current"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326256_4559c2802f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326256_7e0866802b_o.png",
+      "id_image": "electric_169796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062950_c5d179fba3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062950_6bbc5ff0be_o.png",
+      "id_image": "electric_1737728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370927_0c7e513721_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370927_498135902d_o.png",
+      "id_image": "electric_2642447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063010_e0e852ca70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063010_5b53299ee9_o.png",
+      "id_image": "electric_306731"
+    }
+  ]
+}

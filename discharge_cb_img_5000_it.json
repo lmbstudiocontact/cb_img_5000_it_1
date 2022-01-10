@@ -1,0 +1,160 @@
+{
+  "english": "discharge",
+  "phat_am": "disˈtʃaːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sự giải ngũ",
+          "definition": "to allow to leave; to dismiss",
+          "world_new": [
+            "allow",
+            "dismiss"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldier was discharged from the army",
+              "world_new": [
+                "soldier",
+                "army"
+              ]
+            },
+            {
+              "ex_of_definition": "She was discharged from hospital.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nổ súng",
+          "definition": "to fire (a gun)",
+          "world_new": [
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He discharged his gun at the policeman.",
+              "world_new": [
+                "gun",
+                "policeman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn thành",
+          "definition": "to perform (a task etc)",
+          "world_new": [
+            "perform",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He discharges his duties very efficiently.",
+              "world_new": [
+                "efficiently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả xong nợ",
+          "definition": "to pay (a debt)",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He eventually discharged all his debts.",
+              "world_new": [
+                "eventually"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thải ra",
+          "definition": "to (cause to) let or send out",
+          "world_new": [
+            "let",
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chimney was discharging clouds of smoke",
+              "world_new": [
+                "chimney",
+                "smoke"
+              ]
+            },
+            {
+              "ex_of_definition": "The drain discharged into the street.",
+              "world_new": [
+                "drain",
+                "street"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "việc giải ngũ",
+          "definition": "(an) act of discharging",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was given his discharge from the army",
+              "world_new": [
+                "army"
+              ]
+            },
+            {
+              "ex_of_definition": "the discharge of one’s duties."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái rỉ ra",
+          "definition": "pus etc coming from eg a wound.",
+          "world_new": [
+            "pus",
+            "wound"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "disc",
+    "disc jockey",
+    "discard",
+    "discern",
+    "discharge",
+    "disciple",
+    "disciplinary",
+    "discipline",
+    "disclaim"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054765_9ae33c72b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054765_41ecc5b705_o.png",
+      "id_image": "discharge_1446129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318126_b544fbc283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318126_ac96644e9b_o.png",
+      "id_image": "discharge_2781837"
+    }
+  ]
+}

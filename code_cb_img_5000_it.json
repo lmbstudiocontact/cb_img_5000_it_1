@@ -1,0 +1,130 @@
+{
+  "english": "code",
+  "phat_am": "kəud",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ luật",
+          "definition": "a collection of laws or rules",
+          "world_new": [
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a code of behaviour/behavior."
+            }
+          ]
+        },
+        {
+          "mean_english": "mật mã",
+          "definition": "a (secret) system of words, letters, or symbols",
+          "world_new": [
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Morse Code",
+              "world_new": [
+                "Morse"
+              ]
+            },
+            {
+              "ex_of_definition": "The message was in code",
+              "world_new": [
+                "message"
+              ]
+            },
+            {
+              "ex_of_definition": "We have deciphered the enemy’s code."
+            }
+          ]
+        },
+        {
+          "mean_english": "mã",
+          "definition": "a system of symbols etc for translating one type of language into another",
+          "world_new": [
+            "system",
+            "type",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are a number of codes for putting English into a form usable by a computer.",
+              "world_new": [
+                "number",
+                "English",
+                "form",
+                "usable",
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mã hoá",
+          "definition": "to put into (secret, computer etc) code",
+          "world_new": [
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you coded the material for the computer?",
+              "world_new": [
+                "material",
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition to problems of detail in working out a perfectly rational code, there is a problem of principle.",
+    "We now present as follows an approach to representing code involving general pattern matching.",
+    "As standardized payment schedules based upon such codes are being developed, the precise definition of a \"typical\" patient for each code becomes increasingly important.",
+    "We code this variable as 1 in months of surplus coalition government and 0 for months of minimum winning coalition or caretaker government.",
+    "The remaining worksheets seem to refer to codes that were solved elsewhere.",
+    "Verbal working memory is involved in associative word learning unless visual codes are available.",
+    "Another, potentially bigger benefit is that the inference can make program code robust against changes of types.",
+    "For example, although we control for case-mix differences in the regressions, differences in the propensity to code comorbidities might influence the volume-outcome relationship."
+  ],
+  "list_see_also": [
+    "code switching"
+  ],
+  "list_browse": [
+    "cocoon",
+    "cod",
+    "cod-liver oil",
+    "coddle",
+    "code",
+    "code switching",
+    "coefficient",
+    "coerce",
+    "coercion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325371_c2995aff8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325371_d471191a02_o.png",
+      "id_image": "code_2419238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062110_1484f34863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062110_1a8bbb9b39_o.png",
+      "id_image": "code_3380517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440293_cf66ed1310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440293_d73db44be2_o.png",
+      "id_image": "code_5322098"
+    }
+  ]
+}

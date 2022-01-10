@@ -1,0 +1,94 @@
+{
+  "english": "desire",
+  "phat_am": "diˈzaiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khao khát",
+          "definition": "a wish or longing",
+          "world_new": [
+            "wish",
+            "longing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a sudden desire for a bar of chocolate",
+              "world_new": [
+                "I",
+                "sudden",
+                "bar",
+                "chocolate"
+              ]
+            },
+            {
+              "ex_of_definition": "I have no desire ever to see him again.",
+              "world_new": [
+                "I",
+                "ever",
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khao khát",
+          "definition": "to long for or feel desire for",
+          "world_new": [
+            "long",
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After a day’s work, all I desire is a hot bath.",
+              "world_new": [
+                "work",
+                "I",
+                "hot",
+                "bath"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "desirable",
+    "desirability"
+  ],
+  "list_browse": [
+    "designer",
+    "designing",
+    "desirability",
+    "desirable",
+    "desire",
+    "desk",
+    "desktop",
+    "desktop publishing",
+    "desolate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328766_0a7dbb6e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328766_1d5606f18e_o.png",
+      "id_image": "desire_2620345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683794_577d1dc498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683794_95a7fb1027_o.png",
+      "id_image": "desire_6213260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683864_d1ca53a40a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683864_f8d641629a_o.png",
+      "id_image": "desire_708674"
+    }
+  ]
+}

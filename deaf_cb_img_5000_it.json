@@ -1,0 +1,71 @@
+{
+  "english": "deaf",
+  "phat_am": "def",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "điếc",
+          "definition": "unable to hear",
+          "world_new": [
+            "unable",
+            "hear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has been deaf since birth.",
+              "world_new": [
+                "birth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ngơ",
+          "definition": "(with to) refusing to understand or to listen",
+          "world_new": [
+            "understand",
+            "listen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was deaf to all arguments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "deafness",
+    "deafen",
+    "deafening",
+    "deaf-mute",
+    "fall on deaf ears",
+    "turn a deaf ear to"
+  ],
+  "list_browse": [
+    "deaden",
+    "deadline",
+    "deadlock",
+    "deadly",
+    "deaf",
+    "deaf-mute",
+    "deafen",
+    "deafening",
+    "deafness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663924_3e8ab70f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663924_c186887392_o.png",
+      "id_image": "deaf_2395143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308706_a64974d575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308706_7e3435ce24_o.png",
+      "id_image": "deaf_2472657"
+    }
+  ]
+}

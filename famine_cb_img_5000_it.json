@@ -1,0 +1,65 @@
+{
+  "english": "famine",
+  "phat_am": "ˈfӕmin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nạn đói kém",
+          "definition": "(a) great lack or shortage especially of food",
+          "world_new": [
+            "great",
+            "lack",
+            "shortage",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some parts of the world suffer regularly from famine.",
+              "world_new": [
+                "world",
+                "suffer",
+                "regularly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During earlier famines, rural households had relied heavily on remittances of male migrants working in distant places.",
+    "However, human migrations, landless people, famine and fragmented landscapes speak for themselves.",
+    "Since the early 1970s, the region seems to have been widely beset by civil wars, political upheavals, famines and other natural disasters.",
+    "How could the effects of these famines have been so severe and what lessons can we learn from those terrible events?",
+    "For such communities, strategies of risk aversion, as well as customary responses to famine, would still have mattered.",
+    "Certainly some of the prints showed starvation and famine so severe that money and supplies must have been wanted.",
+    "At this point, villages were teetering on the brink of famine as locust invasions threatened to consume the limited food crops that had been planted.",
+    "Abnormally high motality may be the hallmark of famine, but societal breakdown is its essence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "family",
+    "family name",
+    "family planning",
+    "family tree",
+    "famine",
+    "famished",
+    "famous",
+    "famously",
+    "fan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451518_988fe7630e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451518_9020067bbd_o.png",
+      "id_image": "famine_1999880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381577_efaae2cd61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381577_35a146bfb2_o.png",
+      "id_image": "famine_5208443"
+    }
+  ]
+}

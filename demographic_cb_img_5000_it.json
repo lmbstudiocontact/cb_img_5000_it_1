@@ -1,0 +1,100 @@
+{
+  "english": "demographic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đối tượng khách hàng",
+          "definition": "a particular section of the population that shares certain characteristics (age, gender etc) and is considered as a group",
+          "world_new": [
+            "particular",
+            "section",
+            "population",
+            "certain",
+            "gender",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The advertising deliberately targets the teenage female demographic.",
+              "world_new": [
+                "advertising",
+                "deliberately",
+                "teenage",
+                "female"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc nhân khẩu học",
+          "definition": "relating to the population and groups within it",
+          "world_new": [
+            "population"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "demographic trends."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As this study was a nationwide random sampling survey, this agreement with the census would show that nonresponder bias was relatively small due to demographics.",
+    "Uncertainty in demographics has traditionally been accounted for by considering ' high ' and ' low ' scenarios in addition to a ' medium ' assumption.",
+    "In terms of demographics, international migrant households tended to be older than average, at about 16 years, compared to 13 years for a nonmigrant household.",
+    "The impact of such strategies will be greater if they appeal to farmers with typical demographics and attitudes.",
+    "Multivariable regression models adjusting for treatment attitudes and demographics estimated the independent effect of ethnicity on treatment preference.",
+    "Such studies are strengthened when groups are matched on such active exogenous factors, rather than on basic demographics, as is commonly done.",
+    "Overall, the demographics and neonatal risk scores of this sample were comparable to those of the previously tested group.",
+    "I chose these countries on the basis of their varied demographics and colonial history."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "democrat",
+    "democratic",
+    "democratically",
+    "demographer",
+    "demographic",
+    "demographics",
+    "demography",
+    "demolish",
+    "demolition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378582_6f3efdb542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378582_a502365513_o.png",
+      "id_image": "demographic_1610398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448758_3a9cb494e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448758_d639047fd4_o.png",
+      "id_image": "demographic_2620322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333656_50d64f94b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333656_ed8e5f84af_o.png",
+      "id_image": "demographic_4540092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688654_47d18ef455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688654_6365765b0f_o.png",
+      "id_image": "demographic_5139797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448668_3c191e8551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448668_ef1378d38f_o.png",
+      "id_image": "demographic_5835300"
+    }
+  ]
+}

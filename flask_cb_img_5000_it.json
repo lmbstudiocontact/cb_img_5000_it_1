@@ -1,0 +1,89 @@
+{
+  "english": "flask",
+  "phat_am": "flaːsk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chai bẹt; lọ bẹt (đựng rượu để trong bao da, bỏ túi được)",
+          "definition": "a container in which drinks can be carried",
+          "world_new": [
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flask of whisky.",
+              "world_new": [
+                "whisky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phích; bình téc-mốt (dùng để giữ các chất đựng nóng hay lành)",
+          "definition": "a vacuum flask",
+          "world_new": [
+            "vacuum"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The workmen carried flasks of tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình thót cổ",
+          "definition": "a bottle, usually with a narrow neck.",
+          "world_new": [
+            "bottle",
+            "narrow",
+            "neck"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The alkali was then washed from each bottle into 5 ml graduated flasks and made up to the mark with water.",
+    "The cracking of the flask provides an illustration.",
+    "Around the aguardiente flask and the beer, they would start listening to music.",
+    "Next, 1 x 104 cells were plated into a new flask after approaching confluence.",
+    "The flask was plugged with a rubber bung through which was inserted a 100 ml burette containing 15 ml of hydrochloric acid (37 % v/v).",
+    "Cultures were examined daily, the flasks turned upright, the cells allowed to settle, and 3 ml of medium replaced.",
+    "The flask was incubated for a period depending on ambient temperature.",
+    "Continuous cultivation in shake flasks [1] combines well-defined substrate concentrations with the option to multiply the experimental setup easily."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flashily",
+    "flashing",
+    "flashlight",
+    "flashy",
+    "flask",
+    "flat",
+    "flat out",
+    "flat rate",
+    "flatly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809736274_1f079253ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809736274_56f885428e_o.png",
+      "id_image": "flask_1600608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367517_d27c3782f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367517_5673a246a8_o.png",
+      "id_image": "flask_3480908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437803_03663157c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437803_751185d279_o.png",
+      "id_image": "flask_4427129"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "english": "cup",
+  "phat_am": "kap",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tách",
+          "definition": "a usually round hollow container to hold liquid for drinking, often with a handle",
+          "world_new": [
+            "hollow",
+            "container",
+            "hold",
+            "liquid",
+            "handle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a teacup",
+              "world_new": [
+                "teacup"
+              ]
+            },
+            {
+              "ex_of_definition": "a cup of tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cúp",
+          "definition": "an ornamental vessel, usually of silver or other metal, given as a prize in sports events etc",
+          "world_new": [
+            "ornamental",
+            "vessel",
+            "silver",
+            "metal",
+            "prize",
+            "sports"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They won the Football League Cup."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khum thành hình chén",
+          "definition": "to form (one’s hands) into the shape of a cup",
+          "world_new": [
+            "form",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cupped his hands round his mouth and called.",
+              "world_new": [
+                "mouth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khum tay",
+          "definition": "to hold (something) in one’s cupped hands",
+          "world_new": [
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cupped the egg in his hands.",
+              "world_new": [
+                "egg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cups were then checked daily for fly or parasitoid emergence.",
+    "The cups were kept in a plastic tray lined with moistened filter paper to maintain humidity.",
+    "Make up with 1 teaspoon of salt in 200 ml (approx. 1 cup) of previously boiled water.",
+    "The stem pieces were placed singly in 500-ml plastic cups lined with moistened filter paper.",
+    "Things seems to be natural extensions of her hands - spoon, warming pot, ladle, pitchers with handles, cup, glass, and pestle.",
+    "There is increasing debate among users of the vacuum extractor about the advantages and limitations of the various modifications of the cups.",
+    "Subjects were positioned using a chin cup with the test eye at the focal point of the lights.",
+    "In this machine there is a continuous operation that begins with the user selecting the number of coffee cups that he wants."
+  ],
+  "list_see_also": [
+    "cupful",
+    "cupboard",
+    "cup final",
+    "cup tie",
+    "one’s cup of tea"
+  ],
+  "list_browse": [
+    "cumulative",
+    "cunning",
+    "cunningly",
+    "cunt",
+    "cup",
+    "cup final",
+    "cup tie",
+    "cupboard",
+    "cupful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359792_c17efde0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359792_a59a6b29d8_o.png",
+      "id_image": "cup_125132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359767_a3a88721db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359767_472fa6d886_o.png",
+      "id_image": "cup_202636"
+    }
+  ]
+}

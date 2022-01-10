@@ -1,0 +1,84 @@
+{
+  "english": "contempt",
+  "phat_am": "kənˈtempt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khinh miệt",
+          "definition": "very low opinion; scorn",
+          "world_new": [
+            "low",
+            "scorn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spoke with utter contempt of her husband’s behaviour/behavior.",
+              "world_new": [
+                "spoke",
+                "utter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất chấp các quy tắc",
+          "definition": "disregard for the law",
+          "world_new": [
+            "disregard",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is admitting to blatant contempt for the rules of the sport in which he competed.",
+              "world_new": [
+                "blatant",
+                "sport"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In one extract he had shown his contempt for the political pragmatism espoused by the home rule party.",
+    "Two of the three judges who delivered dissenting verdicts in this contempt case have since been retired, for technically legitimate but involuntary reasons.",
+    "First, it seeks to restrict what might loosely be called newspaper contempts only to publications likely to influence the fair conduct of a trial.",
+    "She has no use for him and his contempt for the needy and relationships of need.",
+    "I leave aside for now the distinctions among criminal contempt, civil contempt, and coercive contempt. 24.",
+    "Both were largely self-educated, both highly individualistic and charismatic, both possessed aristocratic tastes and contempt for groups and organizations.",
+    "They are privileges and contempts fixed and determined by precedent.",
+    "Prevention programs should encourage the development of norms against these forms of contempt and their consequences."
+  ],
+  "list_see_also": [
+    "contemptible",
+    "contemptibly",
+    "contemptuous",
+    "contemptuously"
+  ],
+  "list_browse": [
+    "contemplation",
+    "contemplative",
+    "contemplatively",
+    "contemporary",
+    "contempt",
+    "contemptible",
+    "contemptibly",
+    "contemptuous",
+    "contemptuously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044395_8d28f4486d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044395_6490cf9eb1_o.png",
+      "id_image": "contempt_3362329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307396_0335161590_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307396_0b21d0b6a9_o.png",
+      "id_image": "contempt_4138777"
+    }
+  ]
+}

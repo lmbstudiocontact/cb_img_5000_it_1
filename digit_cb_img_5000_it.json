@@ -1,0 +1,68 @@
+{
+  "english": "digit",
+  "phat_am": "ˈdidʒit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con số",
+          "definition": "any of the figures 0 to 9",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "105 is a number with three digits.",
+              "world_new": [
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngón tay; ngón chân",
+          "definition": "a finger or toe.",
+          "world_new": [
+            "finger",
+            "toe"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Part (lower, magnified) and counterpart (upper) showing prominent broad digits.",
+    "However, the present specimen has digits which are noticeably wider at their apex, but this is probably a preservational feature.",
+    "An identifier consists of a letter followed by zero or more letters, digits, underscores, and single quotes.",
+    "In the attended-speech control condition, the number of digits recalled was higher than in the unattended condition, and it increased with list length.",
+    "The decisive step came when somebody used the same digits for the tens, hundreds, etc. as for the units.",
+    "A control condition in which subjects attended to the digits also was presented, before and after the ignored-speech session.",
+    "The idea now is to 'model' the variation within the set of training digits of one kind using an orthogonal basis of the subspace.",
+    "Of course, striving for twenty-five or more correct digits is not particularly useful."
+  ],
+  "list_see_also": [
+    "digital",
+    "digital clock/watch"
+  ],
+  "list_browse": [
+    "digestion",
+    "digestive",
+    "digger",
+    "digicam",
+    "digit",
+    "digital",
+    "digital clock/watch",
+    "dignified",
+    "dignitary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321651_ae5bf7a291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321651_bf28ac3d83_o.png",
+      "id_image": "digit_1410447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676699_f2472ffa96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676699_7e08e43fff_o.png",
+      "id_image": "digit_1410448"
+    }
+  ]
+}

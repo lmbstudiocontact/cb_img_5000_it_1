@@ -1,0 +1,172 @@
+{
+  "english": "extra",
+  "phat_am": "ˈekstrə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thêm",
+          "definition": "additional; more than usual or necessary",
+          "world_new": [
+            "usual",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They demand an extra $10 a week",
+              "world_new": [
+                "demand",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "We need extra men for this job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hơn thường lệ",
+          "definition": "unusually",
+          "world_new": [
+            "unusually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an extra-large box of chocolates.",
+              "world_new": [
+                "box"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "cái thêm",
+          "definition": "an additional amount",
+          "world_new": [
+            "additional",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book costs $6.90 but we charge extra for postage.",
+              "world_new": [
+                "book",
+                "costs",
+                "charge",
+                "postage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái thêm vào",
+          "definition": "something extra, or something for which an extra price is charged",
+          "world_new": [
+            "price",
+            "charged"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The college fees cover teaching only – stationery and other equipment are extras.",
+              "world_new": [
+                "college",
+                "cover",
+                "teaching",
+                "stationery",
+                "equipment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vai phụ",
+          "definition": "in cinema or television, an actor employed in a small part, eg as a person in a crowd.",
+          "world_new": [
+            "cinema",
+            "television",
+            "actor",
+            "employed",
+            "small",
+            "part",
+            "person",
+            "crowd"
+          ]
+        },
+        {
+          "mean_english": "đợt phát hành đặc biệt",
+          "definition": "a special edition of a newspaper containing later or special news.",
+          "world_new": [
+            "special",
+            "edition",
+            "newspaper",
+            "special",
+            "news"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My reply to that is that, if these are considered to be optional extras, there can of course be no test.",
+    "The real danger to the consumer will not be the price per therm—that will be relatively easily looked after—but the extras.",
+    "What about the extras which individuals may purchase according to their taste?",
+    "The sums involved are relatively small and are regarded as extras on the bill.",
+    "On the floor of a large studio there may be found every day hundreds of men and women who are employed as film extras.",
+    "How are they going to find money for what will be conceived of as optional extras such as that?",
+    "A special grant is made available for extras, and there are special concessions for parcels.",
+    "Since then there have been reductions of standards in all sorts of different things—school meals, staff, and all the extras like transport and equipment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "extol",
+    "extort",
+    "extortion",
+    "extortionate",
+    "extra",
+    "extract",
+    "extraction",
+    "extracurricular",
+    "extradite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340416_a203338560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340416_f6980fbbff_o.png",
+      "id_image": "extra_4524912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385397_65e12520c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385397_99f6c50464_o.png",
+      "id_image": "extra_4661996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385357_535a9ff592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385357_e5344dcc36_o.png",
+      "id_image": "extra_4662002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455278_5937129033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455278_4c9d128aef_o.png",
+      "id_image": "extra_4727110"
+    }
+  ]
+}

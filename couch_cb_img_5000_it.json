@@ -1,0 +1,92 @@
+{
+  "english": "couch",
+  "phat_am": "kautʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế trường kỷ",
+          "definition": "a type of sofa for sitting or lying on",
+          "world_new": [
+            "type",
+            "sofa",
+            "sitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor asked him to lie on the couch.",
+              "world_new": [
+                "doctor",
+                "lie"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "diễn đạt",
+          "definition": "to express (in words)",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He couched his reply in vague terms.",
+              "world_new": [
+                "reply",
+                "vague",
+                "terms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Daily checks by radiographers on the unit can be done quickly and easily with a cube phantom (which assumes the couch to be level).",
+    "The famous couch is a case in point.",
+    "The closest approximation of this circumstance in monolingual language production is the existence of synonym pairs such as sofa and couch.",
+    "Instead, the reshaping of the political economy of the region was couched in terms emphasizing progress and development.",
+    "Here, verification can be continued offline, combined with a larger tolerance margin for the vertical couch position.",
+    "Most of these are couched in the form of questions rather than answers.",
+    "We found the deviation from true horizontal to be less than 0.5 mm over the full range of horizontal couch travel.",
+    "However, the censuring of lifestyle choices associated with deleterious health consequences appears to many as moralising couched in medical terms."
+  ],
+  "list_see_also": [
+    "couch potato"
+  ],
+  "list_browse": [
+    "cotton",
+    "cotton candy",
+    "cotton wool",
+    "cotyledon",
+    "couch",
+    "couch potato",
+    "cougar",
+    "cough",
+    "cough mixture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373087_8dc7f42ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373087_aa16322d9e_o.png",
+      "id_image": "couch_2357030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065100_c4dfac4a6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065100_92af03826e_o.png",
+      "id_image": "couch_3049599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328261_8fc2b635ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328261_ae8b1d7114_o.png",
+      "id_image": "couch_5683972"
+    }
+  ]
+}

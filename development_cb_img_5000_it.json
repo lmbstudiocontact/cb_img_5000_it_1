@@ -1,0 +1,94 @@
+{
+  "english": "development",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phát triển",
+          "definition": "the process or act of developing",
+          "world_new": [
+            "process",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a crucial stage in the development of a child.",
+              "world_new": [
+                "crucial",
+                "stage",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tiến triển",
+          "definition": "something new which is the result of developing",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "important new developments in science.",
+              "world_new": [
+                "important",
+                "science"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Research to support the development of organic food and farming.",
+    "Future research needs to consider the role of fathers or male caregivers in the emotional development of physically maltreated children.",
+    "These regulations and requirements have a major impact on the research and development of new drugs.",
+    "The sources do not each contain a distinct stage in an organic process of growth, development, and decline.",
+    "The relevance of the findings for cross-linguistic interaction in bilingual phonetic/phonological development is discussed.",
+    "The government needed professional and politically-minded staff to take on the planned political development of the country over the long haul.",
+    "Rigorous validation and quality control procedures have been imposed throughout the development course.",
+    "But the idea of an ageless self is also supported by developmental psychological theories, where the development after adolescence is seldom considered."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "devastate",
+    "devastating",
+    "develop",
+    "developer",
+    "development",
+    "deviate",
+    "deviation",
+    "device",
+    "devil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680864_0a78614d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680864_a145a3b407_o.png",
+      "id_image": "development_1646308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325706_2f25fa5eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325706_39c3c1c7a7_o.png",
+      "id_image": "development_1900174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440668_ac794e8057_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440668_5f89f7fc51_o.png",
+      "id_image": "development_2335271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680709_b4fe36daa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680709_1174b2c902_o.png",
+      "id_image": "development_2452673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370562_3918524bb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370562_7c40d320ab_o.png",
+      "id_image": "development_943802"
+    }
+  ]
+}

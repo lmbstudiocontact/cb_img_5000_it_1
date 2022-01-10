@@ -1,0 +1,121 @@
+{
+  "english": "elastic",
+  "phat_am": "iˈlӕstik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đàn hồi",
+          "definition": "(of a material or substance) able to return to its original shape or size after being pulled or pressed out of shape",
+          "world_new": [
+            "material",
+            "return",
+            "its",
+            "original",
+            "shape",
+            "size",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an elastic bandage",
+              "world_new": [
+                "bandage"
+              ]
+            },
+            {
+              "ex_of_definition": "Rubber is an elastic substance.",
+              "world_new": [
+                "substance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "linh hoạt",
+          "definition": "able to be changed or adapted",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a fairly elastic arrangement.",
+              "world_new": [
+                "fairly",
+                "arrangement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chun",
+          "definition": "a type of cord containing strands of rubber",
+          "world_new": [
+            "type",
+            "cord",
+            "rubber"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hat was held on with a piece of elastic.",
+              "world_new": [
+                "hat",
+                "piece"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such procedures can be applied with distributions other than the logistic, for example with exponential and hyperbolic functions, also using the elastic barriers.",
+    "Local dynamics of lipid bilayers studied by incoherent quasi-elastic neutron-scattering.",
+    "There is only a minor improvement in the luminal diameter, reflecting the elastic nature ofthe vessel wall.",
+    "The elastic if limited field of melodic variation available for a single typemelody tends to negate possible stemmatic relationships among the six manuscripts.",
+    "We find that for widely used iso-elastic preferences, the optimal labor income tax is positive both in the short and long run.",
+    "The second one called \"fast dynamics\" are associated to the \"elastic links\" motion.",
+    "The body is supposed to be electro-elastic, with a non-linear elasticity operator.",
+    "In ref. [1], the control of robots with elastic joints in contact with dynamic environment is considered."
+  ],
+  "list_see_also": [
+    "elasticity",
+    "elastic band"
+  ],
+  "list_browse": [
+    "elaborate",
+    "elaborately",
+    "elaboration",
+    "elapse",
+    "elastic",
+    "elastic band",
+    "elasticity",
+    "elated",
+    "elation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442348_39c4ddcd3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442348_ebdb5dfb49_o.png",
+      "id_image": "elastic_1787482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442308_33d6b0048c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442308_ca3a5680aa_o.png",
+      "id_image": "elastic_4176681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682384_aa484981b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682384_0df56ea7c5_o.png",
+      "id_image": "elastic_5039316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442213_e0a7614738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442213_827f02011c_o.png",
+      "id_image": "elastic_5376623"
+    }
+  ]
+}

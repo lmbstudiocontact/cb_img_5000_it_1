@@ -1,0 +1,75 @@
+{
+  "english": "customize",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tùy chỉnh",
+          "definition": "to change something so that it is exactly what you want or need",
+          "world_new": [
+            "change",
+            "exactly",
+            "want"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The software allows you to customize the appearance on-screen to suit your own needs.",
+              "world_new": [
+                "software",
+                "appearance",
+                "suit",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, in a pervasive system, the modelling of location data may be customized to the capabilities of the sensor equipment.",
+    "The user may configure and customize the agent according to one's personal preferences.",
+    "Correct configurations improve customer satisfaction in that the customer receives a product customized to their needs.",
+    "Its adaptable control tables are easy to customize for special applications or for turnkey operation.",
+    "Then, tuple centres can be conceived as general-purpose coordination artifacts, which can be customized (programmed, tuned) dynamically to entail a specific coordinating behaviour.",
+    "The supplier may be able to customize the agent according to the user's preferences.",
+    "Further, the process can be customized to meet specific application requirements.",
+    "The context can also be customized by composition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "custom",
+    "customarily",
+    "customary",
+    "customer",
+    "customize",
+    "customs",
+    "cut",
+    "cut a dash",
+    "cut and dried"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357487_271775bae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357487_2a32597202_o.png",
+      "id_image": "customize_1248146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668214_ce7bd1688e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668214_68bc4f78b0_o.png",
+      "id_image": "customize_2721587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357517_9c586c8f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357517_1289b627de_o.png",
+      "id_image": "customize_407792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313396_d6c92886a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313396_7fe6bb8e22_o.png",
+      "id_image": "customize_4176919"
+    }
+  ]
+}

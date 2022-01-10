@@ -1,0 +1,125 @@
+{
+  "english": "concrete",
+  "phat_am": "ˈkoŋkriːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cụ thể",
+          "definition": "made of concrete",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "concrete slabs."
+            }
+          ]
+        },
+        {
+          "mean_english": "xác định cụ thể",
+          "definition": "able to be seen and felt; real or definite",
+          "world_new": [
+            "real",
+            "definite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A wooden table is a concrete object.",
+              "world_new": [
+                "wooden",
+                "table",
+                "object"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bê tông",
+          "definition": "a mixture of cement with sand etc used in building",
+          "world_new": [
+            "mixture",
+            "cement",
+            "sand",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since the days of ancient Rome, people have used concrete to build roads, bridges, and buildings.",
+              "world_new": [
+                "ancient",
+                "people",
+                "build"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ bê tông",
+          "definition": "to spread with concrete",
+          "world_new": [
+            "spread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to concrete the garden path.",
+              "world_new": [
+                "garden",
+                "path"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Any concept that the region will be concreted over for development is wholly misguided.",
+    "Everything seems to be spiralling downwards while the north, especially the north-east, is collapsing and the south is being concreted over.",
+    "In the following section we will give several concrete examples.",
+    "Even to-day local authorities have not been instructed or given authority to have the trenches properly concreted in order to make them permanent.",
+    "Let the market decide what can be concreted over and what can then be built.",
+    "Before you started to try to do that you would have to put down a properly strengthened and concreted runway.",
+    "In peace time the concreted top of this refuge place is used as a car park where 200 cars can be placed.",
+    "People want homes in a decent environment with a good quality of life, not with green belt and green fields concreted over."
+  ],
+  "list_see_also": [
+    "concreteness"
+  ],
+  "list_browse": [
+    "conclusiveness",
+    "concoct",
+    "concoction",
+    "concord",
+    "concrete",
+    "concreteness",
+    "concubine",
+    "concur",
+    "concurrence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357527_4c898a1287_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357527_2114300cb1_o.png",
+      "id_image": "concrete_1563143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428273_fe66664194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428273_5259d69b42_o.png",
+      "id_image": "concrete_4631742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313461_e8c1ceebb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313461_2b320c1742_o.png",
+      "id_image": "concrete_4631803"
+    }
+  ]
+}

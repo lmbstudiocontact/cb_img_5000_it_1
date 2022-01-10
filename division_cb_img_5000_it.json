@@ -1,0 +1,140 @@
+{
+  "english": "division",
+  "phat_am": "diˈviʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phân chia",
+          "definition": "(an) act of dividing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the division of the cake into slices",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ranh giới",
+          "definition": "something that separates; a dividing line",
+          "world_new": [
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A ditch marks the division between their two fields.",
+              "world_new": [
+                "ditch",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đơn vị",
+          "definition": "a part or section (of an army etc)",
+          "world_new": [
+            "part",
+            "section",
+            "army"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He belongs to B division of the local police force.",
+              "world_new": [
+                "B",
+                "local",
+                "police",
+                "force"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất đồng",
+          "definition": "(a) separation of thought; disagreement",
+          "world_new": [
+            "separation",
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a division among party members.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phép chia",
+          "definition": "the process finding out how many times one number is contained in another",
+          "world_new": [
+            "process",
+            "times",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children are learning how to do long division.",
+              "world_new": [
+                "learning",
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No scene divisions are marked and the cues are minimal, three words, two words, sometimes only one.",
+    "The suffix divisions in (27) are included for clarity only.",
+    "In a last attempt to move beyond the bureaucratic divisions the reform movement sought new allies in state and city governments.",
+    "He may see that the picture is a 'complex superstructure' but he has no inkling of the actual divisions within it.",
+    "However, there is little in our findings to indicate the perpetuation of sharper political divisions.",
+    "The recognition of difference, for example by compensating women for carework, may end up reinforcing traditional gender divisions.",
+    "Individual differences in the reactivities of sympathetic and parasympathetic divisions of the brain's autonomic centres should therefore also be relevant to the efficiency of socialization.",
+    "Part of the interest of this contrast is that it cuts across conventional divisions of morphological models."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diving board",
+    "divining",
+    "divinity",
+    "divisible",
+    "division",
+    "divisional",
+    "divisive",
+    "divorce",
+    "divorcee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356692_d7da4d6165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356692_71687e3fab_o.png",
+      "id_image": "division_2809317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049215_f58c0bccd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049215_ed1542e5b4_o.png",
+      "id_image": "division_4807792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356637_36bcb24e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356637_02e30ce146_o.png",
+      "id_image": "division_5605786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667534_061df2f5a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667534_5b4c60e43f_o.png",
+      "id_image": "division_594607"
+    }
+  ]
+}

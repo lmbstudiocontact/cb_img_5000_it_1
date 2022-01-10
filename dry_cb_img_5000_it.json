@@ -1,0 +1,161 @@
+{
+  "english": "dry",
+  "phat_am": "drai",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khô ráo",
+          "definition": "having little, or no, moisture, sap, rain etc",
+          "world_new": [
+            "moisture",
+            "sap",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ground is very dry",
+              "world_new": [
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "The leaves are dry and withered"
+            },
+            {
+              "ex_of_definition": "I need to find dry socks for the children.",
+              "world_new": [
+                "I",
+                "find"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khô khan",
+          "definition": "uninteresting and not lively",
+          "world_new": [
+            "lively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a very dry book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỉnh khô",
+          "definition": "(of humour/humor or manner) quiet, restrained",
+          "world_new": [
+            "quiet",
+            "restrained"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dry wit.",
+              "world_new": [
+                "wit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô vị",
+          "definition": "(of wine) not sweet",
+          "world_new": [
+            "sweet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dry sherry.",
+              "world_new": [
+                "sherry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phơi khô",
+          "definition": "to (cause to) become dry",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I prefer drying dishes to washing them",
+              "world_new": [
+                "I",
+                "prefer",
+                "washing"
+              ]
+            },
+            {
+              "ex_of_definition": "The clothes dried quickly in the sun.",
+              "world_new": [
+                "clothes",
+                "dried",
+                "quickly",
+                "sun"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "dried",
+    "drier",
+    "drily",
+    "dryness",
+    "dry cell",
+    "dry-clean",
+    "dry-cleaner’s",
+    "dry ice",
+    "dry land",
+    "dry off",
+    ""
+  ],
+  "list_browse": [
+    "drunkard",
+    "drunken",
+    "drunken driving",
+    "drunkenness",
+    "dry",
+    "dry cell",
+    "dry ice",
+    "dry land",
+    "dry off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336141_256773c2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336141_42129a5356_o.png",
+      "id_image": "dry_3690258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381097_ec95c8c991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381097_881f98ab66_o.png",
+      "id_image": "dry_3762151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691374_c9782ecc04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691374_5eccb17175_o.png",
+      "id_image": "dry_4636691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691534_25bf5a80b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691534_6f486e5a87_o.png",
+      "id_image": "dry_577963"
+    }
+  ]
+}

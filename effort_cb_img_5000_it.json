@@ -1,0 +1,118 @@
+{
+  "english": "effort",
+  "phat_am": "ˈefət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cố gắng",
+          "definition": "hard work; energy",
+          "world_new": [
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Learning a foreign language requires effort",
+              "world_new": [
+                "foreign",
+                "language"
+              ]
+            },
+            {
+              "ex_of_definition": "The effort of climbing the hill made the old man very tired.",
+              "world_new": [
+                "climbing",
+                "hill",
+                "old",
+                "tired"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nỗ lực",
+          "definition": "a trying hard; a struggle",
+          "world_new": [
+            "trying",
+            "struggle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government’s efforts to improve the economy were unsuccessful",
+              "world_new": [
+                "improve",
+                "economy",
+                "unsuccessful"
+              ]
+            },
+            {
+              "ex_of_definition": "Please make every effort to be punctual.",
+              "world_new": [
+                "punctual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết quả của sự cố gắng",
+          "definition": "the result of an attempt",
+          "world_new": [
+            "result",
+            "attempt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your drawing was a good effort.",
+              "world_new": [
+                "drawing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This misuses the effort the target article took to reason carefully.",
+    "Assisted by his pupils from the local school, he continued his efforts until 1933.",
+    "Anxiety about the relativist abyss in which 'all pasts are equal' has thwarted efforts to evaluate alternatives to 'objective science'.",
+    "Unlike the case of tree planting, however, fallowing of food crop fields does not require labor effort and, hence, tends to weaken land rights.",
+    "I imagine myself in the coming decade celebrating and supporting others' efforts to do such things.",
+    "Ideally the ultimate goal of any remediation effort will be to reduce the concentrations of contaminants at the site to those befitting a pristine ecosystem.",
+    "This section is meant to be a mutual effort.",
+    "Ultimately, the effort to write a history of trades showed few results."
+  ],
+  "list_see_also": [
+    "effortless",
+    "effortlessly"
+  ],
+  "list_browse": [
+    "efficiently",
+    "effigy",
+    "efflorescence",
+    "effluent",
+    "effort",
+    "effortless",
+    "effortlessly",
+    "effrontery",
+    "effusive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682799_c47e9f5035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682799_8e38213afe_o.png",
+      "id_image": "effort_1006626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064365_4135b10807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064365_644e9e17ef_o.png",
+      "id_image": "effort_5773026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372322_82667fba5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372322_0736ed13c2_o.png",
+      "id_image": "effort_5906170"
+    }
+  ]
+}

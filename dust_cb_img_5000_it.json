@@ -1,0 +1,131 @@
+{
+  "english": "dust",
+  "phat_am": "dast",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bụi",
+          "definition": "fine grains of earth, sand etc",
+          "world_new": [
+            "fine",
+            "earth",
+            "sand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The furniture was covered in dust.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bụi",
+          "definition": "anything in the form of fine powder",
+          "world_new": [
+            "form",
+            "fine",
+            "powder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "gold dust",
+              "world_new": [
+                "gold"
+              ]
+            },
+            {
+              "ex_of_definition": "sawdust.",
+              "world_new": [
+                "sawdust"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủi bụi",
+          "definition": "to free (furniture etc) from dust",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dusts (the house) once a week.",
+              "world_new": [
+                "once",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once again, law and order is being taken from the top shelf, dusted down and put in front of the electorate.",
+    "Many of us think the middle east is all done and dusted, in terms of the conflict there.",
+    "Experiments with crop dusting apparatus have since been carried out, but aeroplanes have not yet been used against the locusts.",
+    "We are having a bad year, and we are having to live in atmospheres affected by coal dusting.",
+    "I believe that it has cobwebs on it that need to be dusted off.",
+    "There is also the fact that the streams of particles that are not breathed in are dropping down into dusts, including household dusts.",
+    "I understand they are occasionally taken down for a dusting and airing, sometimes for intensive study, but never for decisions.",
+    "Residual dusts may be open to the atmosphere as a result of uncovered hoppers or flatbeds."
+  ],
+  "list_see_also": [
+    "duster",
+    "dusty",
+    "dustiness",
+    "dustbin",
+    "dust jacket",
+    "dustman",
+    "dustpan",
+    "dust-up",
+    "dust down"
+  ],
+  "list_browse": [
+    "during",
+    "dusk",
+    "duskiness",
+    "dusky",
+    "dust",
+    "dust down",
+    "dust jacket",
+    "dust-up",
+    "dustbin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334611_ba65fcf472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334611_e504bd6056_o.png",
+      "id_image": "dust_1466548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449583_c650337635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449583_3846ff60c3_o.png",
+      "id_image": "dust_2268926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449548_34aac6a701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449548_6b2ac4afee_o.png",
+      "id_image": "dust_3654840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334551_bd48eab70b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334551_3f505f5daa_o.png",
+      "id_image": "dust_4171488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334496_dea15838f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334496_6e3e231808_o.png",
+      "id_image": "dust_4365437"
+    }
+  ]
+}

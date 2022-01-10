@@ -1,0 +1,110 @@
+{
+  "english": "consultant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người tư vấn",
+          "definition": "a person who gives professional advice",
+          "world_new": [
+            "person",
+            "professional",
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is consultant to a firm of engineers",
+              "world_new": [
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a consultant engineer.",
+              "world_new": [
+                "engineer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bác sỹ tham vấn",
+          "definition": "a senior hospital doctor specializing in a particular branch of medicine",
+          "world_new": [
+            "senior",
+            "hospital",
+            "doctor",
+            "particular",
+            "branch",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His condition is so serious that they have sent for the consultant",
+              "world_new": [
+                "condition",
+                "serious"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a consultant physician.",
+              "world_new": [
+                "physician"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He also served as a consultant for some high-ranking officials, but he never took any such position himself.",
+    "Let us consider briefly four scenarios that led to consultants producing such plans.",
+    "In this respect, consultants have a vital role in representing trustees' best interests at the nexus of contracts.",
+    "At the moment, role extension schemes are operated under strict delegation agreements where the consultant retains overall responsibility.",
+    "At this point, proofs of entries may be sent out to specialist consultants and advisers for external review.",
+    "Expert opinion from a hospital consultant would be obtained as necessary.",
+    "The trained review radiographer initially ran it for 1 day a week, reviewing consultant-specific patients.",
+    "However, trial-and-error experimentation, adaptation of past organizational configurations, and consultants' intuitions, while potentially of some value, do not constitute a systematic engineering process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consul",
+    "consular",
+    "consulate",
+    "consult",
+    "consultant",
+    "consultation",
+    "consume",
+    "consumer",
+    "consumer goods"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308836_d30efeba2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308836_eecf12ce36_o.png",
+      "id_image": "consultant_1402122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353012_275e1b6a1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353012_4b840795d1_o.png",
+      "id_image": "consultant_2471751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664064_aa4ee565de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664064_f2e69673fd_o.png",
+      "id_image": "consultant_2471763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423978_8230835897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423978_13d32d6de5_o.png",
+      "id_image": "consultant_2720745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352947_7cf27f9fee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352947_01a2423ff2_o.png",
+      "id_image": "consultant_4802290"
+    }
+  ]
+}

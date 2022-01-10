@@ -1,0 +1,109 @@
+{
+  "english": "emotional",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "về sự xúc động",
+          "definition": "of the emotions",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Emotional problems are affecting her work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây xúc động",
+          "definition": "(opposite unemotional) causing or showing emotion",
+          "world_new": [
+            "emotion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an emotional farewell.",
+              "world_new": [
+                "farewell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ xúc động",
+          "definition": "(opposite unemotional) (of a person) easily affected by joy, anger, grief etc",
+          "world_new": [
+            "easily",
+            "affected",
+            "joy",
+            "anger",
+            "grief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a very emotional person",
+              "world_new": [
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "She is very emotional."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second holds that the function of dreaming is related to emotional adjustment, not to intellectual problems.",
+    "Disruption in mood seems to be more characteristic of emotional eaters.",
+    "Most were emotional experiences ; only two involved visions, while two contained auditory perceptions.",
+    "I couldn't contact the other actors while practising my emotional breathing.",
+    "One way to measure the emotional impact of words is through their effect on autonomic reactivity.",
+    "In both studies, however, parents rated their formerly colicky children as more emotional or difficult.",
+    "Hominins, in her view, had emotional ties with kin and other social partners that influenced their daily activities, including their social communication.",
+    "The total deviance score is a summation of hyperactivity, emotional, conduct and peer problems subscales."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "emolument",
+    "emote",
+    "emoticon",
+    "emotion",
+    "emotional",
+    "emotionally",
+    "emotive",
+    "emotively",
+    "empathetic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676499_1e1c8bac1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676499_f338b00c18_o.png",
+      "id_image": "emotional_3062465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321336_5436af0ddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321336_93749dc025_o.png",
+      "id_image": "emotional_4412690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366242_5ecbdb8246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366242_e679a972b4_o.png",
+      "id_image": "emotional_5458797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676364_896177a83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676364_f16be31314_o.png",
+      "id_image": "emotional_6000862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058025_0792e085a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058025_6dabd2af25_o.png",
+      "id_image": "emotional_6174492"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "custody",
+  "phat_am": "ˈkastədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chăm sóc",
+          "definition": "care or keeping",
+          "world_new": [
+            "care",
+            "keeping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mother was awarded custody of the children by the court.",
+              "world_new": [
+                "mother",
+                "court"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giam cầm",
+          "definition": "the care of police or prison authorities",
+          "world_new": [
+            "care",
+            "police",
+            "prison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The accused man is in custody."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The simple, uniform divorce agreement form used by parties in the rabbinical courts contributes to the relative lack of detailed legal custody and visitation arrangements.",
+    "In addition, the families in our study suffered many of the stresses that attend poverty, divorce, custody disputes, and alcohol and drug problems.",
+    "Even children as young as a few weeks were taken into custody.",
+    "Quarrels about the custody of records sometimes dragged on for a few months or even years.",
+    "All specimens and samples were considered evidence and had to follow a chain of custody procedure.",
+    "In the following three days, 947 people, including 11 women, were arrested and were held in custody.",
+    "Obviously, where a frozen embryo is concerned, the 'parent' who wishes to destroy the embryo will not gain custody on the basis of these criteria.",
+    "There were other vague promises about the release of arrested workers from custody and civic benefits for the striking workers."
+  ],
+  "list_see_also": [
+    "custodian"
+  ],
+  "list_browse": [
+    "cushy",
+    "cuss",
+    "custard",
+    "custodian",
+    "custody",
+    "custom",
+    "customarily",
+    "customary",
+    "customer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357917_d92a27ccd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357917_352a827e50_o.png",
+      "id_image": "custody_1865691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313741_a5434985bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313741_b7c8ba1cf0_o.png",
+      "id_image": "custody_2322911"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "cruise",
+  "phat_am": "kruːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi chơi biển bằng tàu thuỷ",
+          "definition": "to sail for pleasure",
+          "world_new": [
+            "sail",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re going cruising in the Mediterranean.",
+              "world_new": [
+                "Mediterranean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy với tốc độ vừa phải",
+          "definition": "to go at a steady, comfortable speed",
+          "world_new": [
+            "steady",
+            "comfortable",
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane is cruising at an altitude of 10,000 metres.",
+              "world_new": [
+                "plane",
+                "altitude"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lái xe đi dạo",
+          "definition": "a voyage from place to place made for pleasure and relaxation",
+          "world_new": [
+            "voyage",
+            "place",
+            "place",
+            "pleasure",
+            "relaxation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They went on a cruise."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cruiser"
+  ],
+  "list_browse": [
+    "cruel",
+    "cruelly",
+    "cruelty",
+    "cruet",
+    "cruise",
+    "cruiser",
+    "crumb",
+    "crumble",
+    "crumbly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317921_9cd92f21ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317921_2132595672_o.png",
+      "id_image": "cruise_4711196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433068_e59f63846a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433068_a2c52a854e_o.png",
+      "id_image": "cruise_4736238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433038_074945d659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433038_7c9641d50d_o.png",
+      "id_image": "cruise_5406558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433003_b1ca0b6798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433003_a72fbc7518_o.png",
+      "id_image": "cruise_5673219"
+    }
+  ]
+}

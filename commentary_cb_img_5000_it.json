@@ -1,0 +1,83 @@
+{
+  "english": "commentary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tường thuật",
+          "definition": "(also running commentary) a series of broadcast comments by a reporter at a ceremony, sports event etc",
+          "world_new": [
+            "series",
+            "broadcast",
+            "reporter",
+            "ceremony",
+            "sports",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "BBC Radio London will provide live commentary of the cup final.",
+              "world_new": [
+                "provide",
+                "live",
+                "cup",
+                "final"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The issues raised in the two commentaries assume a different complexion when certain distinctions are made.",
+    "No text has received more scholarly commentaries (some lost) or subcommentaries.",
+    "To our surprise (and regret), many of the commentaries on our target article focused on the inadequacy of our alternative hypothesis.",
+    "Each of these longer pieces will be followed in a future issue by invited commentaries.",
+    "There are also valuable commentaries on the condition of the source(s) and the history of each work.",
+    "Critical evaluation of varied sources underpinned his commentaries, while religious beliefs and spiritual mysticism proved their enduring themes across his academic oeuvre.",
+    "Reference to \"stimuli\" in the commentaries virtually always pertained to antecedent stimulation (not the stimulation involved in operant consequences).",
+    "They made his writings part of their educational training and published inexpensive commentaries, collections, and anthologies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "commend",
+    "commendable",
+    "commendation",
+    "comment",
+    "commentary",
+    "commentate",
+    "commentator",
+    "commerce",
+    "commercial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319391_2d11ae0ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319391_da8ec973c9_o.png",
+      "id_image": "comment_2482337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434503_369709c0c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434503_d4bef0ce05_o.png",
+      "id_image": "comment_2920042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319321_f32dc775dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319321_57e5b0fb04_o.png",
+      "id_image": "comment_5638465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434453_bdb2b9ac35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434453_0e7f6fbabc_o.png",
+      "id_image": "comment_5638563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674339_9df644214d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674339_a370415241_o.png",
+      "id_image": "comment_655236"
+    }
+  ]
+}

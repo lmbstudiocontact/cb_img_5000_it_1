@@ -1,0 +1,73 @@
+{
+  "english": "consumer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người tiêu dùng",
+          "definition": "a person who eats, uses, buys things etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The average consumer spends 12 dollars per year on toothpaste.",
+              "world_new": [
+                "average",
+                "per",
+                "year",
+                "toothpaste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 5(d) shows the interesting case where tabled nodes exist between a consumer and its generator.",
+    "This new policy contrasts clearly with the party's old policy, which rarely reflected the interests of consumers.",
+    "However, price and negative attitudes were the main deterrents for non-organic consumers.",
+    "In a deeply gendered consumer market, the use of cosmetics was unambiguously coded as womanlike.",
+    "A cultural study of market society - a nonreductionist study - would see people as both producers and consumers, born of labor and desire.",
+    "Even though launches were ultimately rather ephemeral purchases, consumers quickly turned to this new technology as a method of infiltrating the practice of science.",
+    "This testing plan has a very reasonable consumer's risk of 1%; however, the producer's risk is 61%.",
+    "A 1% falsenegative rate is entered into the spreadsheet for this example to show the impact on the producer's and consumer's risks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consult",
+    "consultant",
+    "consultation",
+    "consume",
+    "consumer",
+    "consumer goods",
+    "consummate",
+    "consummation",
+    "consumption"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663794_02f0759c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663794_8dbae60140_o.png",
+      "id_image": "consumer_1900196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663779_dc1e2b8046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663779_e02ebb4083_o.png",
+      "id_image": "consumer_2311640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045465_138251688a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045465_0b308f2092_o.png",
+      "id_image": "consumer_5308123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663679_79720cc405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663679_568844cd39_o.png",
+      "id_image": "consumer_5823766"
+    }
+  ]
+}

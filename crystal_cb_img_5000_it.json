@@ -1,0 +1,108 @@
+{
+  "english": "crystal",
+  "phat_am": "ˈkristl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tinh thể",
+          "definition": "a small part of a solid substance (eg salt or ice) which has a regular shape",
+          "world_new": [
+            "small",
+            "part",
+            "solid",
+            "substance",
+            "salt",
+            "regular",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ice crystals form on dust particles as the water vapour/vapor condenses.",
+              "world_new": [
+                "ice",
+                "form",
+                "dust",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "pha lê",
+          "definition": "a special kind of very clear glass",
+          "world_new": [
+            "special",
+            "kind",
+            "clear",
+            "glass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This bowl is made of crystal.",
+              "world_new": [
+                "bowl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prolate versus oblate strain regimes recorded by enclaves and crystals, respectively, may be explained by the following.",
+    "The crystals were used in the first or second orders of reflection.",
+    "A later submergence of the dissolved planes led to the infill of the potholes by thin layers of growth-aligned crystals.",
+    "The two pyroxenes form discrete crystals as well as lamellar, drop-like or more irregular intergrowths with each other.",
+    "Unbroken crystals are euhedral; rounded, or more irregular, primary morphologies were not observed.",
+    "Vigorous compositional convection from the growth of the basal crystals can also be seen.",
+    "Complete characterization of damage threshold in titanium doped sapphire crystals with nanosecond, picosecond, and femtosecond laser pulses.",
+    "Chapter 5 describes imperfections in crystals: point defects, dislocations, stacking faults, and the like."
+  ],
+  "list_see_also": [
+    "crystalline",
+    "crystallize",
+    "crystallization",
+    "crystal ball",
+    "crystal clear"
+  ],
+  "list_browse": [
+    "cry off",
+    "crybaby",
+    "crypt",
+    "cryptic",
+    "crystal",
+    "crystal ball",
+    "crystal clear",
+    "crystalline",
+    "crystallization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671679_5e76f60d5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671679_8698c9c67d_o.png",
+      "id_image": "crystal_1021357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053380_f86b5c30e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053380_4aa3c8a607_o.png",
+      "id_image": "crystal_2464317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361237_d921405596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361237_be98b642ce_o.png",
+      "id_image": "crystal_2732410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671579_b8b4ecd8a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671579_258970455f_o.png",
+      "id_image": "crystal_4455512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671544_a13113f26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671544_f90052479a_o.png",
+      "id_image": "crystal_4545077"
+    }
+  ]
+}

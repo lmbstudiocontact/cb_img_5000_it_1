@@ -1,0 +1,76 @@
+{
+  "english": "compliant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phục tùng mệnh lệnh",
+          "definition": "willing to comply",
+          "world_new": [
+            "willing",
+            "comply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is compliant about taking his medication.",
+              "world_new": [
+                "medication"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The more compliant chest wall of the dog may well limit these effects if it permits lateral chest wall expansion during exercise.",
+    "The system was compliant in the null space and stiff in the task space.",
+    "Today, there is little doubt that healthcare organizations are \"law-saturated,\" if not always fully compliant with the law.",
+    "The shank link was connected to the thigh link with a compliant elastic element.",
+    "By the same argument as in the case of grain, we take half of the non-compliant crop to be wasted.",
+    "Three patients were receiving both typical and atypical neuroleptics, three were unmedicated and one was non-compliant.",
+    "As mentioned previously, the robot should be compliant to sudden shocks due to terrain irregularities.",
+    "The answer to this question has important implications for the design of anisotropic and isotropic compliant walls."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "complex",
+    "complexion",
+    "complexity",
+    "compliance",
+    "compliant",
+    "complicate",
+    "complicated",
+    "complication",
+    "compliment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359992_78162866db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359992_83181913fa_o.png",
+      "id_image": "compliant_4252299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430678_e4c0d997e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430678_e298df91b2_o.png",
+      "id_image": "compliant_4252310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430658_3c851b7807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430658_d05a166079_o.png",
+      "id_image": "compliant_4252318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052215_3e150e1242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052215_26fb765b4e_o.png",
+      "id_image": "compliant_4252330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670364_3d6975e996_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670364_f7efe45a7e_o.png",
+      "id_image": "compliant_4252365"
+    }
+  ]
+}

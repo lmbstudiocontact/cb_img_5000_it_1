@@ -1,0 +1,112 @@
+{
+  "english": "diet",
+  "phat_am": "ˈdaiət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chế độ ăn kiêng",
+          "definition": "food, especially a course of recommended foods, for losing weight or as treatment for an illness etc",
+          "world_new": [
+            "food",
+            "course",
+            "weight",
+            "treatment",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a diet of fish and vegetables",
+              "world_new": [
+                "fish"
+              ]
+            },
+            {
+              "ex_of_definition": "a salt-free diet"
+            },
+            {
+              "ex_of_definition": "She went on a diet to lose weight.",
+              "world_new": [
+                "lose",
+                "weight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn kiêng",
+          "definition": "to eat certain kinds of food to lose weight",
+          "world_new": [
+            "eat",
+            "certain",
+            "food",
+            "lose",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has to diet to stay slim.",
+              "world_new": [
+                "stay",
+                "slim"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Significantly, both models have high yields of grains, which constitute the major caloric component of the human diet.",
+    "What makes this particularly interesting for diets is that these node sets are typically growing until they are completely filled.",
+    "While dieting programmes are the most widely used treatments of obesity, attempts to control body weight by dieting are generally unsuccessful.",
+    "A number of adaptations, other than behavioural ones, allow animals to live by feeding on a graminoid diet.",
+    "The perception that dieting is a necessary body management behaviour seems to have arisen earlier in the women's lives, often in relation to significant others.",
+    "We conjectured two states of fiscal policy: a crash diet and a permanent weight loss.",
+    "It is difficult to attribute changes in parasite survival simply to the addition of fibre, because of complexity of the comparison diets.",
+    "The second section shows that the pioneer colonial surveys of seasonal hunger failed to explain poverty by undernourishment, though poor diet was widespread."
+  ],
+  "list_see_also": [
+    "dietary",
+    "dietician"
+  ],
+  "list_browse": [
+    "die out",
+    "diehard",
+    "diesel engine",
+    "diesel fuel/oil",
+    "diet",
+    "dietary",
+    "dietician",
+    "differ",
+    "difference"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322611_05dd80c624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322611_bd1f3eb1fb_o.png",
+      "id_image": "diet_1719938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367562_10a5bae650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367562_5b8630e6a7_o.png",
+      "id_image": "diet_3475542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437858_d6be3bc50f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437858_b5615f9961_o.png",
+      "id_image": "diet_5798223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367482_b9cd160344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367482_3eff720e43_o.png",
+      "id_image": "diet_6181882"
+    }
+  ]
+}

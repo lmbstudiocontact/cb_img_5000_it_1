@@ -1,0 +1,74 @@
+{
+  "english": "disease",
+  "phat_am": "diˈziːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh",
+          "definition": "(an) illness",
+          "world_new": [
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s suffering from kidney disease",
+              "world_new": [
+                "suffering",
+                "kidney"
+              ]
+            },
+            {
+              "ex_of_definition": "poverty and disease.",
+              "world_new": [
+                "poverty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The interview included an open disease history, a checklist of signs and symptoms, and a structured questionnaire.",
+    "Of course, in the case of visual selection by the breeder, the assessment encapsulates yielding ability, disease resistance and agronomic type.",
+    "The patient wanted to know what additional systemic therapy was needed in view of her residual disease at the time of mastectomy.",
+    "A more rigorous analysis of the epidemiological impact of vaccination for meningococcal disease is essential for proper health economic estimates.",
+    "However, the methodology tested in this study needs to be validated using additional data on similar patients and using data on patients with other diseases.",
+    "One factor that has not, to our knowledge, been explicitly examined is the role of specific symptoms and disease intensity on transmission.",
+    "In the past, authors stressed the greater variability of the disease's prognosis, clinical findings and cell morphology.",
+    "Simultaneously with the testing of pharmacokinetic properties, pharmacodynamic characteristics are also typically investigated in models of the disease the agent is intended to treat."
+  ],
+  "list_see_also": [
+    "diseased"
+  ],
+  "list_browse": [
+    "discussion",
+    "disdain",
+    "disdainful",
+    "disdainfully",
+    "disease",
+    "diseased",
+    "disembark",
+    "disembarkation",
+    "disembodied"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316821_6ed38ed116_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316821_6dc79495c3_o.png",
+      "id_image": "disease_2302738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316796_bf13cfcd0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316796_738b2a0c7d_o.png",
+      "id_image": "disease_2720282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431798_89986d8a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431798_8a618c7b40_o.png",
+      "id_image": "disease_3805595"
+    }
+  ]
+}

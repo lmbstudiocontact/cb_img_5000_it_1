@@ -1,0 +1,68 @@
+{
+  "english": "dosage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "liều lượng",
+          "definition": "the size of, or method of giving, a dose of medicine etc",
+          "world_new": [
+            "size",
+            "method",
+            "dose",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the dosage for a child of five?",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When a plateau at an abnormal value has been reached treatment can be resumed at a higher dosage or for a longer period.",
+    "There was a clear correlation between conidial concentration and percentage mortality, average mortality exceeding 95% within 11 days at the highest dosages.",
+    "Their responsibilities include reviewing patient medication profiles, identifying and monitoring adverse drug reactions, dosage recommendations, and patient education.",
+    "At any rate, it is difficult, in view of the lack of clinical experience, to make more specific dosage recommendations.",
+    "The design can be adapted as a traditional design to accommodate multiple dosages and multiple agents.",
+    "With declining renal function, higher dosages are required.",
+    "He was confused with the dosage instruction given by the doctor for this hypoglycaemic tablet.",
+    "Renal impairment is not uncommon in the elderly and, if severe, may necessitate reduction in methotrexate dosage or, in severe cases, avoidance of methotrexate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dormancy",
+    "dormant",
+    "dormitory",
+    "dorsal",
+    "dosage",
+    "dose",
+    "dossier",
+    "dot",
+    "dot-com"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424063_95126dcb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424063_74a17ab6d1_o.png",
+      "id_image": "dosage_1798587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353047_0d3eece6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353047_f8296e7ae2_o.png",
+      "id_image": "dosage_2037103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308831_8a137b76cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308831_0bcbe9c66e_o.png",
+      "id_image": "dosage_4867023"
+    }
+  ]
+}

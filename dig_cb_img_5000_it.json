@@ -1,0 +1,115 @@
+{
+  "english": "dig",
+  "phat_am": "diɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xới đất",
+          "definition": "to turn up (earth) with a spade etc",
+          "world_new": [
+            "turn",
+            "spade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Alison is outside digging the garden.",
+              "world_new": [
+                "outside",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đào hố",
+          "definition": "to make (a hole) in this way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child dug a tunnel in the sand.",
+              "world_new": [
+                "child",
+                "tunnel",
+                "sand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "huých",
+          "definition": "to poke",
+          "world_new": [
+            "poke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dug his brother in the ribs with his elbow.",
+              "world_new": [
+                "brother",
+                "elbow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú huých",
+          "definition": "a poke",
+          "world_new": [
+            "poke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dig in the ribs"
+            },
+            {
+              "ex_of_definition": "I knew that his remarks about women drivers were a dig at me (= a joke directed at me).",
+              "world_new": [
+                "I",
+                "joke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "digger",
+    "dig out",
+    "dig up"
+  ],
+  "list_browse": [
+    "diffident",
+    "diffidently",
+    "diffuse",
+    "diffusion",
+    "dig",
+    "dig out",
+    "dig up",
+    "digest",
+    "digestible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322021_faefbc4ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322021_c0c5550ce3_o.png",
+      "id_image": "dig_1406304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321991_ec43487cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321991_0434fb2786_o.png",
+      "id_image": "dig_5826051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058680_2018bc7d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058680_959ebcca48_o.png",
+      "id_image": "dig_6041525"
+    }
+  ]
+}

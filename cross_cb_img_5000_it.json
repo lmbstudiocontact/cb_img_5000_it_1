@@ -1,0 +1,313 @@
+{
+  "english": "cross",
+  "phat_am": "kros",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tức giận",
+          "definition": "angry",
+          "world_new": [
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I get very cross when I lose something.",
+              "world_new": [
+                "I",
+                "I",
+                "lose"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu chữ thập",
+          "definition": "a symbol formed by two lines placed across each other, eg + or x",
+          "world_new": [
+            "symbol",
+            "lines",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cross on the map indicates where the treasure was buried.",
+              "world_new": [
+                "map",
+                "treasure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây thánh giá",
+          "definition": "two wooden beams placed thus (+), on which Christ was nailed.",
+          "world_new": [
+            "wooden",
+            "thus",
+            "Christ"
+          ]
+        },
+        {
+          "mean_english": "Cơ đốc giáo",
+          "definition": "the symbol of the Christian religion.",
+          "world_new": [
+            "symbol",
+            "Christian",
+            "religion"
+          ]
+        },
+        {
+          "mean_english": "nỗi đau khổ",
+          "definition": "a lasting cause of suffering etc",
+          "world_new": [
+            "lasting",
+            "cause",
+            "suffering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your rheumatism is a cross you will have to bear.",
+              "world_new": [
+                "rheumatism",
+                "bear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật lai giống",
+          "definition": "the result of breeding two varieties of animal or plant",
+          "world_new": [
+            "result",
+            "breeding",
+            "animal",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This dog is a cross between an alsatian and a labrador.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu hình chữ thập",
+          "definition": "a monument in the shape of a cross.",
+          "world_new": [
+            "monument",
+            "shape"
+          ]
+        },
+        {
+          "mean_english": "huân chương",
+          "definition": "any of several types of medal given for bravery etc",
+          "world_new": [
+            "medal",
+            "bravery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Victoria Cross."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngang qua",
+          "definition": "to go from one side to the other",
+          "world_new": [
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s cross (the street)"
+            },
+            {
+              "ex_of_definition": "This road crosses the swamp.",
+              "world_new": [
+                "road",
+                "swamp"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt chéo",
+          "definition": "(opposite uncross) to place (two things) across each other",
+          "world_new": [
+            "place",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat down and crossed his legs."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngang qua",
+          "definition": "to go or be placed across (each other)",
+          "world_new": [
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roads cross in the centre/center of town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạm mặt ngoài đường",
+          "definition": "to meet and pass",
+          "world_new": [
+            "meet",
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our letters must have crossed in the post."
+            }
+          ]
+        },
+        {
+          "mean_english": "vạch chéo",
+          "definition": "to put a line across",
+          "world_new": [
+            "line",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cross your ‘t’s’.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gạch chéo",
+          "definition": "to make (a cheque/check or postal order) payable only through a bank by drawing two parallel lines across it.",
+          "world_new": [
+            "postal",
+            "payable",
+            "bank",
+            "drawing",
+            "parallel",
+            "lines",
+            "across"
+          ]
+        },
+        {
+          "mean_english": "sản sinh ra giống lai",
+          "definition": "to breed (something) from two different varieties",
+          "world_new": [
+            "breed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve crossed two varieties of rose."
+            }
+          ]
+        },
+        {
+          "mean_english": "phá ngang",
+          "definition": "to go against the wishes of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you cross me, you’ll regret it!",
+              "world_new": [
+                "regret"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hướng ngang",
+          "definition": "going or placed across",
+          "world_new": [
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cross-winds"
+            },
+            {
+              "ex_of_definition": "cross-pieces."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc lai giống",
+          "definition": "of mixed variety",
+          "world_new": [
+            "mixed",
+            "variety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cross-breed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "crossly"
+  ],
+  "list_browse": [
+    "crooner",
+    "crop",
+    "crop up",
+    "croquet",
+    "cross",
+    "cross one’s fingers",
+    "cross out",
+    "cross swords",
+    "cross-country"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434183_e8e7f3f092_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434183_765e7762cf_o.png",
+      "id_image": "crossed_5928285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319081_d316881f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319081_dcd30b305f_o.png",
+      "id_image": "cross_3155291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363687_8d3af908c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363687_2c91e85966_o.png",
+      "id_image": "cross_3804897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055740_255c7f6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055740_f861d5e69d_o.png",
+      "id_image": "cross_684157"
+    }
+  ]
+}

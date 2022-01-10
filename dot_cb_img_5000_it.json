@@ -1,0 +1,81 @@
+{
+  "english": "dot",
+  "phat_am": "dot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chấm nhỏ",
+          "definition": "a small, round mark",
+          "world_new": [
+            "small",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her skirt was red with white dots.",
+              "world_new": [
+                "skirt",
+                "red",
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A dot in parentheses indicates a tiny 'gap' within or between utterances.",
+    "Open dots, units inhibited by noxious stimulus; filled dots: units excited by noxious stimulus.",
+    "The youngest monkeys showed directionally selective orienting and the ability to integrate motion signals at large dot displacements and fast speeds.",
+    "The diameter of the black dots corresponds to the spatial resolution of this diagnostic system.",
+    "The solid, dotted, and dashed curves correspond to = 0.01, 0.03, and 0.05, respectively.",
+    "Most of the hairs arise from little creamy white dots, some of which are enclosed in small round black or bluish grey spots.",
+    "To explicate this position, we map the likely operational mechanics of dot eu by employing a conceptual framework which extends academic analysis in two areas.",
+    "The inner product of two vectors is equivalent to the standard scalar (dot) product."
+  ],
+  "list_see_also": [
+    "dotted",
+    "dot-com"
+  ],
+  "list_browse": [
+    "dorsal",
+    "dosage",
+    "dose",
+    "dossier",
+    "dot",
+    "dot-com",
+    "dote",
+    "dotted",
+    "double"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352687_6f02cf2e97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352687_21924b5698_o.png",
+      "id_image": "dots_2620278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045435_42462a9b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045435_2e0aaec2dd_o.png",
+      "id_image": "dots_4456810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045615_5c77a517d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045615_1ff61dd671_o.png",
+      "id_image": "dot_1088797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352772_96a42e052b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352772_e37ebf4e38_o.png",
+      "id_image": "dot_2785319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352752_f51dd976d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352752_7346f7c641_o.png",
+      "id_image": "dot_5982583"
+    }
+  ]
+}

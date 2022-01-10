@@ -1,0 +1,77 @@
+{
+  "english": "disagreement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc ttranh cãi",
+          "definition": "a quarrel",
+          "world_new": [
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a violent disagreement.",
+              "world_new": [
+                "violent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất đồng",
+          "definition": "disagreeing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was disagreement between the two witnesses to the accident.",
+              "world_new": [
+                "accident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But second-order theories cannot qualify as public reasons because they are subject to reasonable disagreement.",
+    "After so many centuries of disagreement, it is reasonable to pronounce the disagreement irresolvable.",
+    "A great majority of the disagreements were subsequently resolved through discussion.",
+    "Suppose two people disagree about an important issue, and the disagreement is not due to one party's epistemic negligence or obliviousness to relevant evidence.",
+    "Inclusion criteria were applied independently by two reviewers, and in case of disagreement, a consensus was reached.",
+    "In these areas it is quite common for disagreements between individuals from the two groups to degenerate into ethnic conflicts engulfing several settlements.",
+    "Whenever a disagreement arose, a third observer designated by consensus by the working group issued the final verdict.",
+    "There is profound disagreement among scholars on this issue."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "disadvantageous",
+    "disagree",
+    "disagreeable",
+    "disagreeably",
+    "disagreement",
+    "disallow",
+    "disappear",
+    "disappearance",
+    "disappoint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318851_e037e8d351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318851_730a6735c2_o.png",
+      "id_image": "disagreement_1871108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363402_8179af058a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363402_45ff49b318_o.png",
+      "id_image": "disagreement_2577485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318796_a12cf62b82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318796_25e12cfd3c_o.png",
+      "id_image": "disagreement_4144567"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "coordinate",
+  "phat_am": "kəuˈoːdineit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phối hợp",
+          "definition": "to adjust (a movement or action) so that it fits in or works smoothly (with other movements or actions)",
+          "world_new": [
+            "adjust",
+            "movement",
+            "works",
+            "smoothly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In swimming the movement of one’s arms and legs must be coordinated.",
+              "world_new": [
+                "swimming",
+                "movement",
+                "arms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The same solution has been studied for coordinating the head and trunk modules of the humanoid robot.",
+    "We propose that the conceptual transition to coordinated spatial representations provides the necessary perspective for bi-referential spatial location.",
+    "The operator sent the path description giving the list of geographical coordinates (geographical altitude and attitude of each target point).",
+    "They may be considered as defining point coordinates within a two-dimensional orthogonal grid.",
+    "We believe that the pattern should be that the experimental plans for use of these facilities should be closely coupled and coordinated.",
+    "Here, it is the optimal eye movement directions associated with cell discharge that are mapped in respect to cortical coordinates.",
+    "We introduce generic conditions on the regular transitions which are always defined (domain and image) in the normalizing coordinates.",
+    "To maximize the overall benefits generated from the river, management must be coordinated between the different users along the river."
+  ],
+  "list_see_also": [
+    "coordination"
+  ],
+  "list_browse": [
+    "coop up",
+    "cooperate",
+    "cooperation",
+    "cooperative",
+    "coordinate",
+    "coordination",
+    "cop",
+    "cope",
+    "copier"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041660_cc36c4616f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041660_34a799807a_o.png",
+      "id_image": "coordinate_4133401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348917_38064c52d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348917_c33028ede3_o.png",
+      "id_image": "coordinate_4463762"
+    }
+  ]
+}

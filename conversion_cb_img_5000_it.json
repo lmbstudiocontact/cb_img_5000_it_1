@@ -1,0 +1,72 @@
+{
+  "english": "conversion",
+  "phat_am": "kənˈvəːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chuyển đổi",
+          "definition": "the act of converting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his conversion to Christianity",
+              "world_new": [
+                "Christianity"
+              ]
+            },
+            {
+              "ex_of_definition": "the conversion of the house into a hotel.",
+              "world_new": [
+                "house",
+                "hotel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "conversation",
+    "conversational",
+    "converse",
+    "conversely",
+    "conversion",
+    "convert",
+    "convertibility",
+    "convertible",
+    "convex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305676_085061c0ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305676_5625b7bb2d_o.png",
+      "id_image": "conversion_1162278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042590_2989d683b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042590_83bcfc9ac8_o.png",
+      "id_image": "conversion_1622685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661069_4d1bc4654e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661069_5c017a105d_o.png",
+      "id_image": "conversion_1685709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420663_949a2d478f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420663_cc37679276_o.png",
+      "id_image": "conversion_2132265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305566_02f7cc2503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305566_f4afdba393_o.png",
+      "id_image": "conversion_4497109"
+    }
+  ]
+}

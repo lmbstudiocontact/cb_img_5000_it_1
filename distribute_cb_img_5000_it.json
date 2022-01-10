@@ -1,0 +1,88 @@
+{
+  "english": "distribute",
+  "phat_am": "diˈstribjut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân phát",
+          "definition": "to divide (something) among several (people); deal out",
+          "world_new": [
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He distributed sweets to all the children in the class.",
+              "world_new": [
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân tán",
+          "definition": "to spread out widely",
+          "world_new": [
+            "spread",
+            "widely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our shops are distributed all over the city.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, welfare transfers are usually unequally distributed (most households do not receive them), but they are directed disproportionately at poor households.",
+    "Note that a schema, thus understood, is a functional unit and may be anatomically distributed throughout different structural brain regions.",
+    "The editor, apparently without a hint of irony, suggests that readers photocopy it and distribute the parts for singing.",
+    "Mutations are assumed to be independent and identically distributed across players.",
+    "The soil is shallow and patchily distributed on or between these various rock surfaces.",
+    "Random assignment would ensure that all unmeasured confounding factors were equally distributed between comparison groups.",
+    "Section 3.1 presents approximation results when the particles are uniformly distributed.",
+    "Table 3 presents parameter estimates of the effects of the political and economic variables on the amount of national subsidies distributed to each province."
+  ],
+  "list_see_also": [
+    "distribution"
+  ],
+  "list_browse": [
+    "distraught",
+    "distress",
+    "distressing",
+    "distressingly",
+    "distribute",
+    "distribution",
+    "district",
+    "district attorney",
+    "distrust"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313946_80f02f17ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313946_4c9ae121f6_o.png",
+      "id_image": "distribute_1555844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358122_4c1e0f5be5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358122_fcc86172ee_o.png",
+      "id_image": "distribute_2844316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428873_91e5568a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428873_334bfddb2b_o.png",
+      "id_image": "distribute_407809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358207_c57cbba838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358207_ec0d6c990c_o.png",
+      "id_image": "distribute_705358"
+    }
+  ]
+}

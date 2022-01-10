@@ -1,0 +1,65 @@
+{
+  "english": "cockroach",
+  "phat_am": "ˈkokrəutʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con gián",
+          "definition": "a beetle-like insect which is a household pest",
+          "world_new": [
+            "insect",
+            "household",
+            "pest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an infestation of cockroaches.",
+              "world_new": [
+                "infestation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In one project an artificial cockroach has been built that models the original in great detail.",
+    "The aim being to create a cockroach perfume that could be sprayed onto the robot.",
+    "Excerpts 3 and 4 were both stories about the child's experience of being frightened by a cockroach.",
+    "This allows it to infiltrate the cockroach community.",
+    "There was a cockroach and a fly at our house too.",
+    "The properties of such formulations of a number of pyrethroid insecticides used for cockroach control are currently under investigation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cockeyed",
+    "cockle",
+    "cockney",
+    "cockpit",
+    "cockroach",
+    "cocksure",
+    "cocktail",
+    "cocky",
+    "cocoa"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370922_750aca9f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370922_e4a5e5f7b4_o.png",
+      "id_image": "cockroach_1779561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370872_827369bbb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370872_55dca68bdf_o.png",
+      "id_image": "cockroach_2328342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062955_b4919ccf6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062955_fc4d1b4d26_o.png",
+      "id_image": "cockroach_406448"
+    }
+  ]
+}

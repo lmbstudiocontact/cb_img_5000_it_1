@@ -1,0 +1,73 @@
+{
+  "english": "essay",
+  "phat_am": "ˈesei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài tiểu luận",
+          "definition": "a written composition; a piece of written prose",
+          "world_new": [
+            "piece",
+            "prose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The examination consists of four essays",
+              "world_new": [
+                "examination"
+              ]
+            },
+            {
+              "ex_of_definition": "Write an essay on/about your holiday.",
+              "world_new": [
+                "your",
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The following chapters, though superficially presenting the appearance of disconnected essays, really possess a strong bond of continuity.",
+    "One of the most useful insights to emerge from these essays is the variety of contacts that can be identified between town and country.",
+    "After this collection of historical essays, the reader moves back into more familiar ter ritory.",
+    "As the editors emphasise in their introduction, the essays it contains present a revisionist account in more ways than one.",
+    "Two more essays are valuable for their suggestive methods of analysis ; in both cases it is easy to imagine further uses for these techniques.",
+    "The volume is ar ranged chronologically, but only a very few essays deal with change, and the editor does not address this critical issue.",
+    "Not all the sources mentioned in the essays are included, and the separate sections on literature and literary criticism seem inappropriate and disconnected.",
+    "None the less, the essays here are of a consistently high standard, and all have interesting and important things to say."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "especially",
+    "espionage",
+    "esplanade",
+    "espresso",
+    "essay",
+    "essence",
+    "essential",
+    "essentially",
+    "establish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051735_098fed8609_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051735_8af4143640_o.png",
+      "id_image": "essay_174691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315146_f23cf0eed5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315146_b470185e96_o.png",
+      "id_image": "essay_1760849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669789_abe338c60d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669789_53d0f3ece7_o.png",
+      "id_image": "essay_3253275"
+    }
+  ]
+}

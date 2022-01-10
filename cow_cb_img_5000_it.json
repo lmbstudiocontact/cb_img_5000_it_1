@@ -1,0 +1,89 @@
+{
+  "english": "cow",
+  "phat_am": "kau",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bò cái",
+          "definition": "the female of cattle used for giving milk",
+          "world_new": [
+            "female",
+            "cattle",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has ten cows and a bull.",
+              "world_new": [
+                "bull"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ giống cái của một số động vật",
+          "definition": "the female of certain other animals eg the elephant, whale.",
+          "world_new": [
+            "female",
+            "certain",
+            "elephant",
+            "whale"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dọa nạt",
+          "definition": "to subdue or control through fear",
+          "world_new": [
+            "subdue",
+            "control",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pupil was cowed by the headmaster’s harsh words.",
+              "world_new": [
+                "pupil",
+                "harsh"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cowboy",
+    "cowherd",
+    "cowhide"
+  ],
+  "list_browse": [
+    "covet",
+    "covetous",
+    "covetously",
+    "covetousness",
+    "cow",
+    "coward",
+    "cowardice",
+    "cowardliness",
+    "cowardly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680409_70c423be4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680409_3e268f32ac_o.png",
+      "id_image": "cow_2361568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370272_ab5e0c70ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370272_46c5528ce4_o.png",
+      "id_image": "cow_616694"
+    }
+  ]
+}

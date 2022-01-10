@@ -1,0 +1,74 @@
+{
+  "english": "copyright",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền tác giả",
+          "definition": "(usually abbreviated to ©) the sole right to reproduce a literary, dramatic, musical or artistic work, and also to perform, translate, film, or record such a work",
+          "world_new": [
+            "sole",
+            "right",
+            "reproduce",
+            "literary",
+            "dramatic",
+            "musical",
+            "artistic",
+            "work",
+            "perform",
+            "translate",
+            "film",
+            "record",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Under the law it is the person who takes the photo that usually owns the copyright.",
+              "world_new": [
+                "law",
+                "person",
+                "photo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "copra",
+    "copulate",
+    "copulation",
+    "copy",
+    "copyright",
+    "coral",
+    "cord",
+    "cordial",
+    "cordiality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333166_81454a4c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333166_b9888a0e8e_o.png",
+      "id_image": "copyright_1620455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448228_3eab7660d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448228_89673984ea_o.png",
+      "id_image": "copyright_3579179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333101_9d0b1eaa91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333101_9f91b0bcb6_o.png",
+      "id_image": "copyright_4391480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333056_022b87bb2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333056_38f6113a03_o.png",
+      "id_image": "copyright_4391568"
+    }
+  ]
+}

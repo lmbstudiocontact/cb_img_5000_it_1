@@ -1,0 +1,101 @@
+{
+  "english": "foam",
+  "phat_am": "foum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bọt",
+          "definition": "a mass of small bubbles on the surface of liquids etc",
+          "world_new": [
+            "mass",
+            "small",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the foam on the top of a beer.",
+              "world_new": [
+                "top",
+                "beer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo bọt",
+          "definition": "to produce foam",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the beer foamed in the glass.",
+              "world_new": [
+                "beer",
+                "glass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A weak growth of temperature is due to the heat conductivity of foam in the transversal direction.",
+    "Research also was begun on forming hollow polystyrene target shells by foaming filled granules overheated by water.",
+    "At larger sizes, the study of idealized foams is closely linked to the mathematical problems of minimal surfaces and three-dimensional tessellations, also called honeycombs.",
+    "The manufacturers have already committed substantial resources on research into safer foams.",
+    "X-ray diagnostic applied to the study of shock wave propagation in foams.",
+    "Yes, that is the reason for the foaming, but it is absolutely fireproof, and it has many advantages in regard to light, heat, and so on.",
+    "There has been some reduction in foaming.",
+    "Here was a company seeing a market for a new product developing in about 1960 in the rapidly expanding sphere of flexible polyurethane foams."
+  ],
+  "list_see_also": [
+    "foam rubber"
+  ],
+  "list_browse": [
+    "flyleaf",
+    "flyover",
+    "FM",
+    "foal",
+    "foam",
+    "foam rubber",
+    "fob",
+    "focal",
+    "focal length"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055165_2e84ea2901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055165_9f5fd423aa_o.png",
+      "id_image": "foam_280081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363057_c7073fd391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363057_da0d55b6a3_o.png",
+      "id_image": "foam_3035194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055060_d55e67c2e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055060_68e48c7297_o.png",
+      "id_image": "foam_3959087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318561_e5c7f69166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318561_28d9dd3068_o.png",
+      "id_image": "foam_456666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055110_1a488b8f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055110_58aca5f9a7_o.png",
+      "id_image": "foam_534216"
+    }
+  ]
+}

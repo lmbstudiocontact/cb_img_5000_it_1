@@ -1,0 +1,63 @@
+{
+  "english": "concave",
+  "phat_am": "konˈkeiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hình lòng chảo",
+          "definition": "(of an object or surface) curved inwards",
+          "world_new": [
+            "object",
+            "curved"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a concave mirror/lens"
+            },
+            {
+              "ex_of_definition": "Spoons are concave."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Citizens have single-peaked preferences over policy outcomes, represented by a concave utility function that attains a maximum at the citizen's ideal point xi.",
+    "Thus, virtual extension consists of transforming the convex faces in the second and third classes into concave faces by generating virtual links.",
+    "It is hard to conceive that the fitness function is concave throughout.",
+    "Therefore, a concave body may be virtually cut into several convex subbodies at the stage of creating the geometry model of the body.",
+    "Increasing (componentwise, directionally) concave orders are defined analogously.",
+    "Specifically, latency of a discriminative response, like probability of generalization, falls off according to a decreasing, concave-upward function of distance between stimuli in representational space.",
+    "This decrease, however, is opposed by an increase in pressure due to the concave curvature in the axial direction.",
+    "How consumers respond to uncertainty depends on whether their marginal utility is convex or concave in consumption."
+  ],
+  "list_see_also": [
+    "concavity"
+  ],
+  "list_browse": [
+    "comrade",
+    "comradeship",
+    "con",
+    "con man",
+    "concave",
+    "concavity",
+    "conceal",
+    "concealment",
+    "concede"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050755_8a44fe63d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050755_598a00e743_o.png",
+      "id_image": "concave_5886804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050695_542d49500a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050695_7b9a76ee4f_o.png",
+      "id_image": "concave_5886818"
+    }
+  ]
+}

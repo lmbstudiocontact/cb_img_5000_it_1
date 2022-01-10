@@ -1,0 +1,58 @@
+{
+  "english": "envelop",
+  "phat_am": "inˈveləp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao bọc",
+          "definition": "to cover by wrapping; to surround completely",
+          "world_new": [
+            "cover",
+            "surround",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She enveloped herself in a long cloak.",
+              "world_new": [
+                "long",
+                "cloak"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These curves are then assembled into a mesh that is enveloped by appropriate surface patches.",
+    "The sole common climatic trait of the area enveloped by these collection sites is annual rainfall over 1300 mm, devoid of any marked seasonality.",
+    "The journal vividly portrays the sense of uncertainty that enveloped the city as news of a^airs around its perimeters trickled in.",
+    "The subject is enveloped by an emptiness and is already within its panorama, although a modest one.",
+    "The dashed lines represent the permutation envelopes calculated based on 1000 permutations of the morphs among locations within each population (see text for details).",
+    "It is ultimately the dimension by virtue of which things appear as enveloping one another rather than being juxtaposed.",
+    "And the workspace of the cube-manipulator is, then, the intersection of the three enveloping solids.",
+    "Thus, for a court to have the potential of wielding real power, its jurisdiction must envelop salient political, social, and economic questions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "enumerate",
+    "enumeration",
+    "enunciate",
+    "enunciation",
+    "envelop",
+    "envelope",
+    "enviable",
+    "envious",
+    "environment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432813_c8072c1fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432813_7867513c26_o.png",
+      "id_image": "envelop_5387297"
+    }
+  ]
+}

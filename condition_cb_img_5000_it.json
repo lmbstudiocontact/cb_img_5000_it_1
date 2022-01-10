@@ -1,0 +1,152 @@
+{
+  "english": "condition",
+  "phat_am": "kənˈdiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều kiện",
+          "definition": "state or circumstances in which a person or thing is",
+          "world_new": [
+            "state",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is not in good condition",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "He is in no condition to leave hospital",
+              "world_new": [
+                "leave",
+                "hospital"
+              ]
+            },
+            {
+              "ex_of_definition": "under ideal conditions",
+              "world_new": [
+                "ideal"
+              ]
+            },
+            {
+              "ex_of_definition": "living conditions",
+              "world_new": [
+                "living"
+              ]
+            },
+            {
+              "ex_of_definition": "variable weather conditions.",
+              "world_new": [
+                "variable",
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều kiện",
+          "definition": "something that must happen or be done before some other thing happens or is done; a term or requirement in an agreement",
+          "world_new": [
+            "happen",
+            "term",
+            "requirement",
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was a condition of his going that he should pay his own expenses",
+              "world_new": [
+                "pay",
+                "expenses"
+              ]
+            },
+            {
+              "ex_of_definition": "That is one of the conditions in the agreement.",
+              "world_new": [
+                "agreement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quy định",
+          "definition": "to affect or control",
+          "world_new": [
+            "affect",
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "behaviour/behavior conditioned by circumstances."
+            }
+          ]
+        },
+        {
+          "mean_english": "huấn luyện",
+          "definition": "to put into the required state",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The footballers trained hard in order to condition themselves for the match.",
+              "world_new": [
+                "trained",
+                "order",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, on the control items, children always gave correct answers in all conditions.",
+    "The boundary conditions upon 0 are as follows.",
+    "This is not an abstract condition; it is something that is happening now.",
+    "This concludes the proof of case (b), condition ().",
+    "One can understand the fetishization of data in such rescue conditions.",
+    "The following gives a sufficient condition for positivity.",
+    "The judgement scores were significantly higher than the revision scores in both conditions for all child groups.",
+    "There exist conditions on the d-f. c. t."
+  ],
+  "list_see_also": [
+    "conditional",
+    "conditionally",
+    "conditioner",
+    "on condition that"
+  ],
+  "list_browse": [
+    "condescending",
+    "condescendingly",
+    "condescension",
+    "condiment",
+    "condition",
+    "conditional",
+    "conditionally",
+    "conditioner",
+    "condolence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668184_313a346849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668184_dc4b745be1_o.png",
+      "id_image": "condition_1345391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428143_9f0a367a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428143_64f478de4a_o.png",
+      "id_image": "condition_4668427"
+    }
+  ]
+}

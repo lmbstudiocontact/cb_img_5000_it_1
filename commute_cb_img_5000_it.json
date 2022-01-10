@@ -1,0 +1,81 @@
+{
+  "english": "commute",
+  "phat_am": "kəˈmjuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lại thường xuyên giữa hai nơi",
+          "definition": "to travel regularly between two places, especially between home in the suburbs and work in the city",
+          "world_new": [
+            "travel",
+            "regularly",
+            "home",
+            "work",
+            "city"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He commutes between Kent and London every weekday.",
+              "world_new": [
+                "weekday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giảm án",
+          "definition": "to change (a criminal sentence) for one less severe",
+          "world_new": [
+            "change",
+            "criminal",
+            "severe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His death sentence was commuted to life imprisonment.",
+              "world_new": [
+                "death",
+                "sentence",
+                "life",
+                "imprisonment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In a forthcoming paper we extend our construction to commuting toral automorphisms.",
+    "The bottom face commutes, since f is a homomorphism.",
+    "Thus, by the uniqueness of solutions, we know that the triangle (2.2) commutes.",
+    "Let us start with the notion of commuting relations.",
+    "We need to show that the upper left-hand square commutes.",
+    "Any functor which has a right adjoint which itself also has a right adjoint and therefore commutes with inductive limits respects objects of finite presentation.",
+    "Any diffeomorphism g that commutes with f can be simultaneously linearized, and this linear map must preserve the same invariant set.",
+    "In the case of petty traffickers, the sentence was often commuted."
+  ],
+  "list_see_also": [
+    "commuter"
+  ],
+  "list_browse": [
+    "communiqué",
+    "communism",
+    "communist",
+    "community",
+    "commute",
+    "commuter",
+    "compact",
+    "compact disc",
+    "companion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432768_777c2c6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432768_20fbcf6a40_o.png",
+      "id_image": "commute_3772931"
+    }
+  ]
+}

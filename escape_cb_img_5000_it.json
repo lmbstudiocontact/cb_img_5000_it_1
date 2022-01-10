@@ -1,0 +1,168 @@
+{
+  "english": "escape",
+  "phat_am": "iˈskeip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trốn thoát",
+          "definition": "to gain freedom",
+          "world_new": [
+            "gain",
+            "freedom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He escaped from prison.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tránh được",
+          "definition": "to manage to avoid (punishment, disease etc)",
+          "world_new": [
+            "manage",
+            "avoid",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was lucky to escape punishment.",
+              "world_new": [
+                "lucky",
+                "punishment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị bỏ sót",
+          "definition": "to avoid being noticed or remembered by; to avoid (the observation of)",
+          "world_new": [
+            "avoid",
+            "noticed",
+            "avoid",
+            "observation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fact escaped me / my notice",
+              "world_new": [
+                "fact",
+                "my",
+                "notice"
+              ]
+            },
+            {
+              "ex_of_definition": "His name escapes me / my memory.",
+              "world_new": [
+                "name",
+                "my",
+                "memory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thoát ra",
+          "definition": "(of a gas, liquid etc) to leak; to find a way out",
+          "world_new": [
+            "gas",
+            "liquid",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gas was escaping from a hole in the pipe.",
+              "world_new": [
+                "hole",
+                "pipe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trốn thoát",
+          "definition": "(act of) escaping; state of having escaped",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Make your escape while the guard is away",
+              "world_new": [
+                "your",
+                "guard"
+              ]
+            },
+            {
+              "ex_of_definition": "There have been several escapes from that prison",
+              "world_new": [
+                "prison"
+              ]
+            },
+            {
+              "ex_of_definition": "Escape was impossible",
+              "world_new": [
+                "impossible"
+              ]
+            },
+            {
+              "ex_of_definition": "The explosion was caused by an escape of gas.",
+              "world_new": [
+                "explosion",
+                "gas"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I suspect that these escape routes will prove to be a useful addition to our toolkit.",
+    "Since we deal with exactly this kind of objects, we could not escape the inconsistency.",
+    "It protected it by excluding from its realm the cases that seemed to escape multiple concordant testimony.",
+    "The strength of the notion of the cultural biography, in my mind, is that it provides us with a way to escape from these preoccupations.",
+    "The two models converge inside the rever sal, but diverge when z > 1, with the parabolic model not allowing particles to escape.",
+    "Or it escapes explanation in realist terms if a world is defined exclusively in terms of entities related in space and time.",
+    "This enables them to include many cases that do not require it - such as the elicitation of escape by a conspecific's alarm call.",
+    "The power of critical thoughts was significantly related to wanting to escape from them, feeling trapped by them and wanting to fight them."
+  ],
+  "list_see_also": [
+    "escapism",
+    "escapist"
+  ],
+  "list_browse": [
+    "escalate",
+    "escalation",
+    "escalator",
+    "escapade",
+    "escape",
+    "escapism",
+    "escapist",
+    "escort",
+    "Eskimo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359702_360b59396e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359702_40c87bdef2_o.png",
+      "id_image": "escape_2456285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315571_e76ee4e9d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315571_0a931054db_o.png",
+      "id_image": "escape_2456288"
+    }
+  ]
+}

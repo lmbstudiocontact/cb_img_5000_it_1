@@ -1,0 +1,82 @@
+{
+  "english": "eat",
+  "phat_am": "iːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn",
+          "definition": "to (chew and) swallow; to take food",
+          "world_new": [
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are forbidden to eat meat",
+              "world_new": [
+                "forbidden",
+                "meat"
+              ]
+            },
+            {
+              "ex_of_definition": "They ate up all the cakes"
+            },
+            {
+              "ex_of_definition": "She was eating a chocolate biscuit.",
+              "world_new": [
+                "chocolate",
+                "biscuit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They might be eating, talking, whistling, humming, smoking during the most dramatic scenes.",
+    "In different countries, the same species can be prepared for eating in different ways which require different chemotypes.",
+    "Although costly, the field would benefit from longitudinal designs examining personality characteristics as prospective risk factors for eating pathology.",
+    "Latent structure of eating disorder symptoms : a factor analytic and taxometric investigation.",
+    "She reported eating all sorts of things she should not have.",
+    "Special offers of ready-to-eat food were one way of reducing their own work, as seen by single-living and the oldest women.",
+    "For example, whenever they were hungry they ate together.",
+    "They had been advised to eat one pound of red meat per day and avoid carbohydrate-rich food."
+  ],
+  "list_see_also": [
+    "eatable",
+    "eater",
+    "eating disorder",
+    "eat into",
+    "eat one’s words"
+  ],
+  "list_browse": [
+    "easy",
+    "easy chair",
+    "easy listening",
+    "easy-going",
+    "eat",
+    "eat into",
+    "eat one’s words",
+    "eatable",
+    "eater"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447233_59615e0f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447233_37ac10e7a4_o.png",
+      "id_image": "eat_5722032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068890_42cfed0a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068890_cb404ea1e6_o.png",
+      "id_image": "eat_5970922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447133_47c8acb92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447133_39d34d84a5_o.png",
+      "id_image": "eat_6334870"
+    }
+  ]
+}

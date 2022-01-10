@@ -1,0 +1,80 @@
+{
+  "english": "electrical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc điện",
+          "definition": "related to electricity",
+          "world_new": [
+            "related",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "electrical engineering",
+              "world_new": [
+                "engineering"
+              ]
+            },
+            {
+              "ex_of_definition": "electrical appliances"
+            },
+            {
+              "ex_of_definition": "an electrical fault.",
+              "world_new": [
+                "fault"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Direct and indirect activation of nerve cells by electrical pulses applied extracellularly.",
+    "However, small electrohydraulic valves with a high degree of precision are much more expensive and less reliable than powerful electrical amplifiers and controllers.",
+    "Spontaneous synaptic activity was persistent during carbenoxolone application, indicating that chemical transmission onto these neurons was intact and only electrical transmission was disrupted.",
+    "The paper traces the emergence of this electro-psychological framework beyond \"electroencephalography,\" the recording of electrical brain waves, to \"diagnoscopy,\" personality profiling by electric phrenology.",
+    "Thus, electrical brain stimulation or excitation from a focus of pathological excitation in the cortex may mimic cortical attentional mechanisms.",
+    "The blending of psychophysiology and electrical engineering marks the formation of an electric epistemology in scientific as well as public understanding of the psyche.",
+    "Perhaps the greatest obstacle is the need for an electrical microcentrifuge and stable power supply.",
+    "Then, after considering that the mechanical dynamics dominates the electrical one, model (16) can easily be obtained and expressed as a matrix equation like (5)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "electric chair",
+    "electric charge",
+    "electric circuit",
+    "electric current",
+    "electrical",
+    "electrically",
+    "electrician",
+    "electricity",
+    "electrics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681149_b242176dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681149_2dd13a407d_o.png",
+      "id_image": "electrical_3899159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062800_186e5d86b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062800_f3e4a1631a_o.png",
+      "id_image": "electrical_4276008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062865_c69605b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062865_00e6a12709_o.png",
+      "id_image": "electrical_439969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370732_8f27e9b674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370732_47ed4d29aa_o.png",
+      "id_image": "electrical_4698391"
+    }
+  ]
+}

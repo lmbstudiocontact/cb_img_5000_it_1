@@ -1,0 +1,70 @@
+{
+  "english": "departure",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khởi hành",
+          "definition": "an act of departing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The departure of the train was delayed.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The empirical laws have not been interpreted as asymptotic laws although some small systematic departures have been noted.",
+    "The procedure assumes a continuous scale nor mal distribution for the scored data but it is quite robust to small departures from nor mality.",
+    "Like all departures from a script, however necessary, it represented clear risks.",
+    "Are there other kinds of departures from the default arrangement which have the same effect?",
+    "Because of their previous histories with royal governors, however, the new designs would represent real departures from their past practices.",
+    "Other cases of blaxploitation theme-song sampling involve even more drastic departures from a work's original message.",
+    "I take physical and mental disease and impairment to be adverse departures from or impairments of species-typical normal functional organization or \"normal functioning,\" for short.",
+    "The number of departures, disagreements, and subtle antagonisms amongst the contributors pay the highest tribute to the multifaceted and controversial quality of the playwright's work."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "depart",
+    "department",
+    "department store",
+    "departmental",
+    "departure",
+    "depend",
+    "dependable",
+    "dependant",
+    "dependence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685954_b2a7288b12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685954_e4fdb860ba_o.png",
+      "id_image": "departure_2467707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375707_0d49bb53f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375707_66a5ddb975_o.png",
+      "id_image": "departure_293800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686014_1cf1535366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686014_0344d91d85_o.png",
+      "id_image": "departure_314079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375657_7fa01f5e98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375657_7b48d5ac2b_o.png",
+      "id_image": "departure_529907"
+    }
+  ]
+}

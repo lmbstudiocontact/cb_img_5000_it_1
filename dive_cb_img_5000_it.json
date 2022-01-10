@@ -1,0 +1,110 @@
+{
+  "english": "dive",
+  "phat_am": "daiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lặn",
+          "definition": "to plunge headfirst into water or down through the air",
+          "world_new": [
+            "plunge",
+            "headfirst",
+            "water",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dived off a rock into the sea.",
+              "world_new": [
+                "rock",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vụt biến mất",
+          "definition": "to go quickly and suddenly out of sight",
+          "world_new": [
+            "quickly",
+            "suddenly",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dived down a back street and into a shop.",
+              "world_new": [
+                "street",
+                "shop"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động lặn",
+          "definition": "an act of diving",
+          "world_new": [
+            "act",
+            "diving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She did a beautiful dive into the deep end of the pool.",
+              "world_new": [
+                "beautiful",
+                "deep",
+                "pool"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Has not teacher morale nose-dived since the publication of the new pension arrangements?",
+    "As one counsellor commented, 'you almost feel your client looking round and then diving in the door quickly'.",
+    "They are the following: window (connoting 'communication', 1.1c), twilight (1.1b), wind, cave, mirror, milk, dove, and vase.",
+    "He has ducked and dived, he has threatened and charmed, but he has failed to answer the crucial questions on his business affairs.",
+    "The second column are these amounts plus the parameter estimates for expectations of good weather, diving and romanticism.",
+    "Additionally, work continues to assist with the development of net pinger devices to make fishing nets more easily detectable to dived submarines.",
+    "Although the nightingale and dove sing automatically, the poet invites us to join him in hearing them as intentional laments.",
+    "Basically, it is to encourage gaming clubs which are in well-conducted premises and to discourage undesirable \"dives\"."
+  ],
+  "list_see_also": [
+    "diver",
+    "diving",
+    "diving board",
+    "great diving beetle"
+  ],
+  "list_browse": [
+    "ditch",
+    "ditto",
+    "ditty",
+    "divan",
+    "dive",
+    "diver",
+    "diverge",
+    "divergence",
+    "divergent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313576_332451f94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313576_046f76caa0_o.png",
+      "id_image": "dive_499407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050120_ace0a020d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050120_cc24ddde4c_o.png",
+      "id_image": "dive_6213544"
+    }
+  ]
+}

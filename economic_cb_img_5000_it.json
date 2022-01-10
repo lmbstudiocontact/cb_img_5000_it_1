@@ -1,0 +1,92 @@
+{
+  "english": "economic",
+  "phat_am": "iːkəˈnomik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về kinh tế",
+          "definition": "of or concerned with (an) economy",
+          "world_new": [
+            "economy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the country’s economic future.",
+              "world_new": [
+                "future"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được hoạch định để mang lại lợi tức",
+          "definition": "likely to bring a profit",
+          "world_new": [
+            "likely",
+            "bring",
+            "profit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an economic rent.",
+              "world_new": [
+                "rent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In any case, the relationship between macro-economic management and social policy itself is a complex issue.",
+    "The whole system was thus counterproductive because it undermined financial responsibility within departments without achieving any strategic economic gains.",
+    "Recently, some analysts have augmented this specification with measures of voters' subjective evaluations of national and personal economic conditions.",
+    "How, for example, do leaders assess the trade-off between economic risk and political risk ?",
+    "The most important papers on this subject confirm substantial gains in terms of higher trade and other economic parameters.",
+    "The pension funds associations claim that changes in legislation are needed in order to increase their contribution to the process of economic development.",
+    "The attitude of voters towards various other economic variables is more debatable, and so these will be ignored for now.",
+    "The approach taken with respect to system satisfaction posits that economic developments are important and that the popularity of government itself contributes as well."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ecological",
+    "ecologically",
+    "ecologist",
+    "ecology",
+    "economic",
+    "economical",
+    "economically",
+    "economics",
+    "economist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445983_ae14297f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445983_d56b7acb3f_o.png",
+      "id_image": "economic_2361871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375672_34fdfd8eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375672_0665220f31_o.png",
+      "id_image": "economic_2719736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685944_891b66698e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685944_df98489c70_o.png",
+      "id_image": "economic_3310586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330936_3185184786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330936_893674ce44_o.png",
+      "id_image": "economic_3310624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375537_8b4c5c0e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375537_5832914f10_o.png",
+      "id_image": "economic_6203178"
+    }
+  ]
+}

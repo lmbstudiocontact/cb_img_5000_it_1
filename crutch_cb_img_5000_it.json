@@ -1,0 +1,60 @@
+{
+  "english": "crutch",
+  "phat_am": "kratʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nạng",
+          "definition": "a stick with a bar at the top to support a lame person",
+          "world_new": [
+            "stick",
+            "bar",
+            "top",
+            "support",
+            "lame",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He can walk only by using crutches.",
+              "world_new": [
+                "walk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crustacean",
+    "crustily",
+    "crustiness",
+    "crusty",
+    "crutch",
+    "crux",
+    "cry",
+    "cry off",
+    "crybaby"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361742_4730b493e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361742_455cb7c944_o.png",
+      "id_image": "crutch_1010025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053820_680b08fec0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053820_1429ce4dac_o.png",
+      "id_image": "crutch_3003303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672094_3da049d640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672094_76bebf2420_o.png",
+      "id_image": "crutch_4852331"
+    }
+  ]
+}

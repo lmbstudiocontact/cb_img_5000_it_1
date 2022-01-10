@@ -1,0 +1,78 @@
+{
+  "english": "creation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tạo ra",
+          "definition": "the act of creating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the creation of the world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tác phẩm",
+          "definition": "something created",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dress designer is showing his latest creations.",
+              "world_new": [
+                "dress",
+                "designer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They favored the creation of strong central bureaucratic authorities to ensure that the new agglomerations of private power operated ultimately in the public interest.",
+    "She too wants to participate in the creation of a person.",
+    "We note that the wheeled mobile bases facilitated the creation of the locomotive structure, and thereby extended the overall workspace.",
+    "Writers are therefore at least partially responsible for contributing to the creation of a diasporic culture.",
+    "Structural reforms associated with economic liberalization have important implications for employment creation and income opportunities.",
+    "Physician-researchers will be able to play a leading role in calling for the creation of and adherence to such global standards for research governance.",
+    "Thus, creation of large volumes or extended flows of plasma are required.",
+    "Another effect of the underlying oral culture, of no less consequence for the present study, is the creation of a characteristic type of \"supra-utilitarian\" knowledge."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "creaminess",
+    "creamy",
+    "crease",
+    "create",
+    "creation",
+    "creative",
+    "creative thinking",
+    "creatively",
+    "creativeness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437543_e7711be239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437543_9e8e889421_o.png",
+      "id_image": "creation_4752531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059065_7677b87c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059065_dc4cd8aa88_o.png",
+      "id_image": "creation_5332297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677444_7815be534b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677444_6c146ffaa9_o.png",
+      "id_image": "creation_992619"
+    }
+  ]
+}

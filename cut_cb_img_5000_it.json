@@ -1,0 +1,392 @@
+{
+  "english": "cut",
+  "phat_am": "kat",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt",
+          "definition": "to make an opening in, usually with something with a sharp edge",
+          "world_new": [
+            "opening",
+            "sharp",
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cut the paper with a pair of scissors.",
+              "world_new": [
+                "paper",
+                "pair",
+                "scissors"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt rời từng mảnh",
+          "definition": "to separate or divide by cutting",
+          "world_new": [
+            "separate",
+            "divide",
+            "cutting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cut a slice of bread",
+              "world_new": [
+                "slice",
+                "bread"
+              ]
+            },
+            {
+              "ex_of_definition": "The child cut out the pictures",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "She cut up the meat into small pieces.",
+              "world_new": [
+                "meat",
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt may",
+          "definition": "to make by cutting",
+          "world_new": [
+            "cutting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cut a hole in the cloth.",
+              "world_new": [
+                "hole",
+                "cloth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt ngắn",
+          "definition": "to shorten by cutting; to trim",
+          "world_new": [
+            "shorten",
+            "trim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you want me to cut your hair?",
+              "world_new": [
+                "want",
+                "your",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll cut the grass.",
+              "world_new": [
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt giảm",
+          "definition": "to reduce",
+          "world_new": [
+            "reduce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They cut my wages by ten per cent.",
+              "world_new": [
+                "my",
+                "per",
+                "cent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt bỏ",
+          "definition": "to remove",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They cut several passages from the film.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt đứt",
+          "definition": "to wound or hurt by breaking the skin (of)",
+          "world_new": [
+            "wound",
+            "hurt",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cut my hand on a piece of glass.",
+              "world_new": [
+                "I",
+                "my",
+                "hand",
+                "piece",
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân chia",
+          "definition": "to divide (a pack of cards).",
+          "world_new": [
+            "divide",
+            "pack"
+          ]
+        },
+        {
+          "mean_english": "dừng",
+          "definition": "to stop",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the actress said the wrong words, the director ordered ‘Cut!’",
+              "world_new": [
+                "wrong",
+                "director"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi tắt",
+          "definition": "to take a short route or way",
+          "world_new": [
+            "short",
+            "route"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cut through/across the park on his way to the office",
+              "world_new": [
+                "park",
+                "office"
+              ]
+            },
+            {
+              "ex_of_definition": "A van cut in in front of me on the motorway.",
+              "world_new": [
+                "van",
+                "front",
+                "motorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp xúc",
+          "definition": "to meet and cross (a line or geometrical figure)",
+          "world_new": [
+            "meet",
+            "cross",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An axis cuts a circle in two places.",
+              "world_new": [
+                "axis",
+                "circle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trốn học",
+          "definition": "to stay away from (a class, lecture etc)",
+          "world_new": [
+            "stay",
+            "class",
+            "lecture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cut school and went to the cinema.",
+              "world_new": [
+                "school",
+                "cinema"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lờ",
+          "definition": "(also cut dead) to ignore completely",
+          "world_new": [
+            "ignore",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cut me dead in the High Street.",
+              "world_new": [
+                "dead"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cắt",
+          "definition": "the result of an act of cutting",
+          "world_new": [
+            "result",
+            "act",
+            "cutting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cut on the head",
+              "world_new": [
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "a power cut (= stoppage of electrical power)",
+              "world_new": [
+                "power",
+                "stoppage",
+                "electrical"
+              ]
+            },
+            {
+              "ex_of_definition": "a haircut",
+              "world_new": [
+                "haircut"
+              ]
+            },
+            {
+              "ex_of_definition": "a cut in prices."
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt ngắn",
+          "definition": "the way in which something is tailored, fashioned etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the cut of the jacket.",
+              "world_new": [
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "miếng thịt",
+          "definition": "a piece of meat cut from an animal",
+          "world_new": [
+            "piece",
+            "meat",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cut of beef.",
+              "world_new": [
+                "beef"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cut-off points to determine the presence of stress or psychosis are not clear, which makes it very difficult to solve which came first.",
+    "Reducing radiation levels by 70% with a hessian cloth only cut transpiration by individual trees by about 10% compared with unshaded plants.",
+    "However, there are quite a few pairs of systems for which the families of minimal cut sets cannot be ordered.",
+    "In observational research in the general population, however, a continuum approach may be more useful than use of a qualitative cut-off point.",
+    "To that extent it cuts down what otherwise would be the rights of property.",
+    "However, the succession is cut by a number of small faults so that the section is not continuous.",
+    "The operations are set up to cut timber from 1,000 hectares of rainforest in an ecologically sustainable manner.",
+    "Coronal sections cut at 50 mm in a rostrocaudal series."
+  ],
+  "list_see_also": [
+    "cutter",
+    "cutting",
+    "cut glass",
+    "cut-price",
+    "cut-throat",
+    "a cut above",
+    "cut and dried",
+    "cut back",
+    "cut both ways",
+    "cut a dash",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "customary",
+    "customer",
+    "customize",
+    "customs",
+    "cut",
+    "cut a dash",
+    "cut and dried",
+    "cut back",
+    "cut both ways"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357202_bc49264e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357202_e5c9033f13_o.png",
+      "id_image": "cut_1265885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667999_a0371e2294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667999_6d14a1f8ce_o.png",
+      "id_image": "cut_1721425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049770_46e5d18772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049770_8407f80168_o.png",
+      "id_image": "cut_264276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428063_75bffe325d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428063_1f9a1cd0d5_o.png",
+      "id_image": "cut_269071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667974_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667974_d6fa344467_o.png",
+      "id_image": "cut_6347611"
+    }
+  ]
+}

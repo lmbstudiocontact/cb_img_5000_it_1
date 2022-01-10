@@ -1,0 +1,75 @@
+{
+  "english": "dynamic",
+  "phat_am": "daiˈnӕmik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "động lực",
+          "definition": "concerned with force",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "dynamic pressure.",
+              "world_new": [
+                "pressure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng động",
+          "definition": "(of a person) forceful and very energetic",
+          "world_new": [
+            "forceful",
+            "energetic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was impressed by his dynamic personality.",
+              "world_new": [
+                "personality"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They can significantly alter the dynamics of a plasma by introducing new physical time and space scales.",
+    "In these cases, the dynamics of the interaction are determined by the system and are not a consequence of the measurement technique.",
+    "There are few examples of neutron dynamics studies on deuteriumlabelled samples.",
+    "The fast magnetosonic mode is the only expected wave, leaving only this mode and incompressible nonlinear interactions to influence the dynamics.",
+    "Many works1-50 can be found on the dynamics of parallel manipulators.",
+    "A simple geometry of laser-target interaction is used to elucidate the particle acceleration dynamics.",
+    "Fluorescence and photobleaching dynamics of single light harvesting complexes.",
+    "Despite these similarities, the vowel and consonant changes are quite different in their overall dynamics and degree of variation."
+  ],
+  "list_see_also": [
+    "dynamically",
+    "dynamism",
+    "dynamics"
+  ],
+  "list_browse": [
+    "dwelling",
+    "dwindle",
+    "dye",
+    "dyke",
+    "dynamic",
+    "dynamically",
+    "dynamics",
+    "dynamism",
+    "dynamite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070720_9be326c421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070720_dbd21c3dc3_o.png",
+      "id_image": "dynamic_1508882"
+    }
+  ]
+}

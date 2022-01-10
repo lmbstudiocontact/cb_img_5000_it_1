@@ -1,0 +1,68 @@
+{
+  "english": "embassy",
+  "phat_am": "ˈembəsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đại sứ quán",
+          "definition": "(the official residence of) an ambassador and his staff",
+          "world_new": [
+            "official",
+            "residence",
+            "ambassador",
+            "staff"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the American embassy in London.",
+              "world_new": [
+                "American"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I have had some interest in the proper use of our embassies, especially in projecting our export drive.",
+    "We will all continue to work with our posts and embassies abroad to raise awareness of our import rules abroad.",
+    "The police have a duty, of course, to protect embassies and all foreign nationals who may be in our country.",
+    "British embassies in these countries have no difficulty in learning of the contents of most such reports and documents.",
+    "At the great embassies there was an ambassador, a counsellor and four or five secretaries.",
+    "Finally, there is the other non-statutory right to assistance abroad from embassies and consulates.",
+    "When two countries are involved, can the embassies not talk to each other?",
+    "Is there to be a night and a weekend emergency service in our embassies?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "embarrass",
+    "embarrassed",
+    "embarrassing",
+    "embarrassment",
+    "embassy",
+    "embed",
+    "embellish",
+    "embellishment",
+    "embers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323156_82d4f68ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323156_e224297719_o.png",
+      "id_image": "embassy_4697255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678304_49f86f9717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678304_02f8cb6297_o.png",
+      "id_image": "embassy_4849744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059805_1240f2d8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059805_e7263e6c27_o.png",
+      "id_image": "embassy_4960716"
+    }
+  ]
+}

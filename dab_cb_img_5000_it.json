@@ -1,0 +1,102 @@
+{
+  "english": "dab",
+  "phat_am": "dӕb",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vỗ nhẹ",
+          "definition": "to touch gently with something soft or moist",
+          "world_new": [
+            "touch",
+            "gently",
+            "soft",
+            "moist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dabbed the wound gently with cotton wool.",
+              "world_new": [
+                "wound",
+                "gently",
+                "cotton",
+                "wool"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng",
+          "definition": "a small lump of anything soft or moist",
+          "world_new": [
+            "small",
+            "lump",
+            "soft",
+            "moist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dab of butter.",
+              "world_new": [
+                "butter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thấm",
+          "definition": "a gentle touch",
+          "world_new": [
+            "gentle",
+            "touch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave the cut a dab with a wet cloth.",
+              "world_new": [
+                "cut",
+                "wet",
+                "cloth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cyst",
+    "cytoplasm",
+    "D",
+    "DA",
+    "dab",
+    "dabble",
+    "dachshund",
+    "dad",
+    "daffodil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356207_122264a200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356207_5f2b641661_o.png",
+      "id_image": "dab_1430755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667084_d7493c9310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667084_66a3c24ab7_o.png",
+      "id_image": "dab_1902268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356177_e4323f606f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356177_b37a0c97b9_o.png",
+      "id_image": "dab_5775062"
+    }
+  ]
+}

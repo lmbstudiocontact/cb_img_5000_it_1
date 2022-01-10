@@ -1,0 +1,113 @@
+{
+  "english": "difference",
+  "phat_am": "ˈdifrəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khác nhau",
+          "definition": "what makes one thing unlike another",
+          "world_new": [
+            "unlike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t see any difference between these two pictures",
+              "world_new": [
+                "I",
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "It doesn’t make any difference to me whether you go or stay",
+              "world_new": [
+                "stay"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s not much difference between them."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất đồng",
+          "definition": "an act of differing, especially a disagreement",
+          "world_new": [
+            "act",
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a difference of opinion",
+              "world_new": [
+                "opinion"
+              ]
+            },
+            {
+              "ex_of_definition": "Have they settled their differences? (= Have they stopped arguing?).",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chênh lệch",
+          "definition": "the amount by which one quantity or number is greater than another",
+          "world_new": [
+            "amount",
+            "quantity",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you buy it for me, I’ll give you $6 now and make up the difference later.",
+              "world_new": [
+                "buy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We discuss the runtime differences in more detail in the rest of this section.",
+    "The differences, while statistically significant, are generally trivial (for example, the means on the democratic values index are 3.35 in 1996 and 3.27 in 1998).",
+    "One of the clear differences between fair employment and the s75 mainstreaming intervention lies in their focus.",
+    "The main differences are our use of dependent types to structure the \"program\" part of a development and our emphasis on reusable library components.",
+    "What impresses more than the differences is the similarity in composition.",
+    "A logistic regression is insensitive to differences in the number of cercariae per treatment; 20 -62 cercariae were present in the 0.5 ml aliquots.",
+    "The time factors show no differences over the period, and this would accord with consistent recording of deaths.",
+    "In other words, free and equal competition in the labour market is established by turning a blind eye to inconsequential differences."
+  ],
+  "list_see_also": [
+    "different",
+    "differentiate",
+    "differentiation"
+  ],
+  "list_browse": [
+    "diet",
+    "dietary",
+    "dietician",
+    "differ",
+    "difference",
+    "different",
+    "differentiate",
+    "differentiation",
+    "difficult"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059210_ac35a0bd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059210_9f96cb00c2_o.png",
+      "id_image": "difference_2586944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059175_262d6fa300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059175_10cb408836_o.png",
+      "id_image": "difference_3053704"
+    }
+  ]
+}

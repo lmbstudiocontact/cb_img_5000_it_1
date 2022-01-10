@@ -1,0 +1,80 @@
+{
+  "english": "dummy",
+  "phat_am": "ˈdami",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ma nơ canh",
+          "definition": "a model of a human used for displaying clothes etc",
+          "world_new": [
+            "model",
+            "human",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dressmaker’s dummy."
+            }
+          ]
+        },
+        {
+          "mean_english": "núm vú giả",
+          "definition": "an artificial teat put in a baby’s mouth to comfort it",
+          "world_new": [
+            "artificial",
+            "teat",
+            "mouth",
+            "comfort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby spat out its dummy.",
+              "world_new": [
+                "baby",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ giả",
+          "definition": "an artificial substitute looking like the real thing",
+          "world_new": [
+            "artificial",
+            "substitute",
+            "real"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The packets of cigarettes on display were dummies.",
+              "world_new": [
+                "display"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dumb down",
+    "dumbfound",
+    "dumbly",
+    "dumbness",
+    "dummy",
+    "dump",
+    "dumpiness",
+    "dumpling",
+    "dumpy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072365_b59cd9c7a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072365_8c7c317bac_o.png",
+      "id_image": "dummy_820786"
+    }
+  ]
+}

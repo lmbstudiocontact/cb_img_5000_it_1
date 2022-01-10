@@ -1,0 +1,90 @@
+{
+  "english": "evidence",
+  "phat_am": "ˈevidəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bằng chứng",
+          "definition": "information etc that gives reason for believing something; proof (eg in a law case)",
+          "world_new": [
+            "information",
+            "reason",
+            "proof",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you enough evidence (of his guilt) to arrest him?",
+              "world_new": [
+                "arrest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu hiệu",
+          "definition": "(an) indication; a sign",
+          "world_new": [
+            "sign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her bag on the table was the only evidence of her presence.",
+              "world_new": [
+                "bag",
+                "table",
+                "presence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many of the chapters are narrative-led because, one suspects, the evidence is just so hard to read in these terms.",
+    "There is evidence on both sides of the case.",
+    "One of the main limitations of the current design of this study is that it is impossible to give enough evidence for this relationship.",
+    "We did not find any positive evidence of children's understanding of this link.",
+    "Evaluation evidence is necessary to answer these questions well.",
+    "As a result, children are likely to receive different levels of negative evidence across the five-week testing period.",
+    "Some clinicians prefer to start hormone treatment as soon as there is evidence of local spread or metastatic disease.",
+    "Its evidence then rests on ground we do not enter upon here."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "everything",
+    "everywhere",
+    "evict",
+    "eviction",
+    "evidence",
+    "evident",
+    "evidently",
+    "evil",
+    "evil-doer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313386_95c929dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313386_dd74e01d4a_o.png",
+      "id_image": "evidence_2034524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049890_d2f9fc3b9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049890_0d9721ddb4_o.png",
+      "id_image": "evidence_2322927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357347_fb173ffe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357347_e5b43f84b7_o.png",
+      "id_image": "evidence_2399410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668209_18029b347b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668209_c837a621ec_o.png",
+      "id_image": "evidence_533968"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "english": "cube",
+  "phat_am": "kjuːb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình khối",
+          "definition": "a solid body having six equal square faces",
+          "world_new": [
+            "solid",
+            "body",
+            "equal",
+            "square"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an ice cube.",
+              "world_new": [
+                "ice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lũy thừa ba",
+          "definition": "the result of multiplying a number by itself twice",
+          "world_new": [
+            "result",
+            "number",
+            "twice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cube of 4 = 4  4  4 = 43 = 64."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lũy thừa ba",
+          "definition": "to calculate the cube of (a number)",
+          "world_new": [
+            "calculate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you cube 2, you will get the answer 8.",
+              "world_new": [
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thái hạt lựu",
+          "definition": "to make into a cube or cubes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cubed the beef.",
+              "world_new": [
+                "beef"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The factor map is a block map that, without loss of generality, is defined on d -dimensional cubes.",
+    "The second amendment concerns the use of potassium sulphate, which is necessary for manufacture of pre-packed bacon cubes.",
+    "Clearly this is not the case in the continuous cube.",
+    "The quantity to be optimized is the size of a sub-family of mutually disjoint cubes.",
+    "Now, consider the percolation process on the cubes with the l1 d neighbourhood structure.",
+    "Hakuto jelly can either be cut into cubes and served as such, or eaten with a spoon from the container.",
+    "Changing the cubes structure to adapt to dynamically changing business needs was cumbersome.",
+    "The cubes then simultaneously display the number 7 and slowly count down."
+  ],
+  "list_see_also": [
+    "cubic",
+    "cube root",
+    "cubic centimetre, metre etc"
+  ],
+  "list_browse": [
+    "crystallization",
+    "crystallize",
+    "cub",
+    "cubbyhole",
+    "cube",
+    "cube root",
+    "cubic",
+    "cubic centimetre",
+    "cubicle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431718_6f598030c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431718_d30822f892_o.png",
+      "id_image": "cube_232888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053120_5b1b3cbb1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053120_fe77c97276_o.png",
+      "id_image": "cube_393665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053095_d2a26acf79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053095_5269eb6d34_o.png",
+      "id_image": "cube_401553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360882_8a568fdff2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360882_583ded4f6c_o.png",
+      "id_image": "cube_764486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316601_5d1ca40bc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316601_fa0a426205_o.png",
+      "id_image": "cube_764488"
+    }
+  ]
+}

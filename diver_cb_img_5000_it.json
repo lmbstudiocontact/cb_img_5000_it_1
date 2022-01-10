@@ -1,0 +1,69 @@
+{
+  "english": "diver",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ lặn",
+          "definition": "a person who dives, especially one who works under water using special breathing equipment",
+          "world_new": [
+            "person",
+            "works",
+            "water",
+            "special",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a deep-sea diver",
+              "world_new": [
+                "deep-sea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The wet suit is not worn because the diver wants to look like a fish, but because the diver wants to act like a fish.",
+    "The author has made a groundbreaking attempt to pull all of this diver se material into a coherent volume.",
+    "In that way, one can demonstrate divers possibilities inside such structure with a functional diagram of transformations (values and type of values).",
+    "The developers of the robot believe that in the future it could assist divers to build large submerged structures.",
+    "They are superb divers (to depths of more than 15 m) that feed primarily on molluscs, crustaceans, and aquatic insects.",
+    "A video was also made as the divers explored the wreck.",
+    "During five dives to a depth of around 49 m divers confirmed that it was indeed a sunken ship.",
+    "Only three decades earlier, the lives of the indigenous people (primarily nomadic tribes and pearl divers) changed dramatically."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ditto",
+    "ditty",
+    "divan",
+    "dive",
+    "diver",
+    "diverge",
+    "divergence",
+    "divergent",
+    "diverging lens"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050030_0639861aa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050030_fb007be5d9_o.png",
+      "id_image": "diver_2112135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313521_d7be03b7c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313521_76355f7a40_o.png",
+      "id_image": "diver_816556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357572_92d1ca7933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357572_6a40de65ea_o.png",
+      "id_image": "diver_843335"
+    }
+  ]
+}

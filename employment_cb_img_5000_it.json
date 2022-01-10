@@ -1,0 +1,85 @@
+{
+  "english": "employment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc làm",
+          "definition": "the act of employing or state of being employed",
+          "world_new": [
+            "act",
+            "state",
+            "employed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was in my employment",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "The new factory will provide employment for 300 people.",
+              "world_new": [
+                "factory",
+                "provide",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe that that period will differ in many different employments.",
+    "Mining has become one of the best-paid instead of one of the worst-paid employments in the country.",
+    "In return a reduction, commonly called \"the rebate\", is made to the national insurance contributions for contracted-out employments.",
+    "In 1939 there were five employments for women.",
+    "Of course, there are cases where gentlemen have already earned pensions in other employments.",
+    "The agricultural labourer is the man who has the steadiest of employments; therefore, there is no reason why he should go to the post office.",
+    "There are a number of different employments where the normal retirement age is quite young—for instance, professional footballers.",
+    "The majority of such employments involved day labour and lower-skilled crafts, like those of tailoring and shoemaking."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "employ",
+    "employed",
+    "employee",
+    "employer",
+    "employment",
+    "emporium",
+    "emptiness",
+    "empty",
+    "empty-handed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365762_06ed3e4d15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365762_c7a8377992_o.png",
+      "id_image": "employment_1924552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435998_9805d96c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435998_6f7d4b8434_o.png",
+      "id_image": "employment_2419582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675864_b63621f5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675864_2a1c927124_o.png",
+      "id_image": "employment_2464202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675809_32922ecba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675809_ab5a2cfc46_o.png",
+      "id_image": "employment_3896459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365652_edfa111f5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365652_0c148b9a87_o.png",
+      "id_image": "employment_4901659"
+    }
+  ]
+}

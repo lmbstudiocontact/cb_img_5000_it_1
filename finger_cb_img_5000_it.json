@@ -1,0 +1,111 @@
+{
+  "english": "finger",
+  "phat_am": "ˈfiŋɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngón tay",
+          "definition": "one of the five end parts of the hand, sometimes excluding the thumb",
+          "world_new": [
+            "hand",
+            "excluding",
+            "thumb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pointed a finger at the thief.",
+              "world_new": [
+                "pointed",
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngón tay bao găng",
+          "definition": "the part of a glove into which a finger is put.",
+          "world_new": [
+            "part",
+            "glove"
+          ]
+        },
+        {
+          "mean_english": "vật hình ngón tay",
+          "definition": "anything made, shaped, cut etc like a finger",
+          "world_new": [
+            "shaped",
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a finger of toast.",
+              "world_new": [
+                "toast"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sợ hoặc cảm nhận cái gì bằng ngón tay",
+          "definition": "to touch or feel with the fingers",
+          "world_new": [
+            "touch",
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fingered the material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fingernail",
+    "fingerprint",
+    "fingertip",
+    "be all fingers and thumbs / my etc fingers are all thumbs",
+    "have (something) at one’s fingertips",
+    "have a finger in the pie / in every pie",
+    "put one’s finger on"
+  ],
+  "list_browse": [
+    "fine art",
+    "finely",
+    "finery",
+    "finesse",
+    "finger",
+    "fingernail",
+    "fingerprint",
+    "fingertip",
+    "finicky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064180_3d7a6fc52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064180_4b6dcfe11c_o.png",
+      "id_image": "finger_3858900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682554_0b4c5a2055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682554_798c2bb730_o.png",
+      "id_image": "finger_4151508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682499_963922fede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682499_6ce368c5c8_o.png",
+      "id_image": "finger_4636975"
+    }
+  ]
+}

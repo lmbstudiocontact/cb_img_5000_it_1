@@ -1,0 +1,88 @@
+{
+  "english": "destruction",
+  "phat_am": "diˈstrakʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tàn phá",
+          "definition": "the act or process of destroying or being destroyed",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the destruction of the city.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng bị phá hủy",
+          "definition": "the state of being destroyed; ruin",
+          "world_new": [
+            "state",
+            "ruin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hurricane left behind a scene of destruction.",
+              "world_new": [
+                "hurricane",
+                "left",
+                "scene"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nowhere else did conquest involve so many soldiers, require so many engagements, or proceed with such destruction.",
+    "At the outer edges of the plume, however, the production and destruction terms rapidly approach zero and advection and transport balance each other.",
+    "The specific power deposition must be reduced to avoid destruction of the target.",
+    "Thus, we can think of the destruction of the city by the enemy as the name of the event the enemy destroyed the city.",
+    "Moreover, not only the death of two persons was dealt with, but also the destruction and transformation of an entire village.",
+    "For the efficacy of the method, the authors stress the importance of strict adherence to the dosing schedule and destruction of non-dosed stray dogs.",
+    "To that extent, the destruction caused by the motorway releases a certain amount of mythical meaning into the landscape, into what remains.",
+    "And might the lack of earlier barrow destruction also have something to do with more extensive farming systems?"
+  ],
+  "list_see_also": [
+    "destructive",
+    "destructively",
+    "destructiveness"
+  ],
+  "list_browse": [
+    "destiny",
+    "destitute",
+    "destroy",
+    "destroyer",
+    "destruction",
+    "destructive",
+    "destructively",
+    "destructiveness",
+    "detach"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682754_949fcca84d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682754_e7c8a9b817_o.png",
+      "id_image": "destruction_2689928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372327_7109447454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372327_ae41058540_o.png",
+      "id_image": "destruction_3061870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442608_fcc2037dfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442608_cf56cc8746_o.png",
+      "id_image": "destruction_4742503"
+    }
+  ]
+}

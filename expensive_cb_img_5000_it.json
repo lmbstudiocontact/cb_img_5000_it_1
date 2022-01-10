@@ -1,0 +1,61 @@
+{
+  "english": "expensive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đắt tiền",
+          "definition": "costing a great deal",
+          "world_new": [
+            "great",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "expensive clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Whatever their merits and promise, these physiologically-based techniques are more complex, and in many instances considerably more expensive to use, than verbal response alone.",
+    "Any alterations at proof stage, apart from the correction of printer's misprints, are expensive and must be avoided.",
+    "For instance, a person with very extensive care needs is usually referred to institutional care because home-care would be much more expensive.",
+    "Moreover, the method is easily available in the laboratory, less expensive and user-friendly for guiding physicians to the proper treatment of typhoid fever.",
+    "They are also less expensive and thus should be preferred for first-step t reatment in older patients.",
+    "Finally, we have shown that highly expressed proteins tend to use energetically less expensive amino acids.",
+    "Furthermore, more expressive languages may be too computationally expensive to use automated reasoning technology.",
+    "Thus, an experienced, talented embroiderer working on the panels for elaborate, expensive dresses could expect to earn, at most, slightly less than £80 per year."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "expend",
+    "expenditure",
+    "expense",
+    "expenses",
+    "expensive",
+    "experience",
+    "experienced",
+    "experiment",
+    "experimental"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425173_805f26c384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425173_5a5cc14038_o.png",
+      "id_image": "expensive_1260014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310066_3de85fb018_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310066_3c594c13de_o.png",
+      "id_image": "expensive_5966664"
+    }
+  ]
+}

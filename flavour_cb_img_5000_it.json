@@ -1,0 +1,92 @@
+{
+  "english": "flavour",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vị ngon; mùi thơm; mùi vị",
+          "definition": "taste",
+          "world_new": [
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tea has a wonderful flavour/flavor.",
+              "world_new": [
+                "tea",
+                "wonderful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hương vị",
+          "definition": "atmosphere; quality",
+          "world_new": [
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dish has a slightly Eastern flavour/flavor to it.",
+              "world_new": [
+                "dish",
+                "slightly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho gia vị; thêm gia vị",
+          "definition": "to give flavour/flavor to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She flavoured/flavored the cake with lemon.",
+              "world_new": [
+                "cake",
+                "lemon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I will focus on two discrete arguments in order to suggest the flavour of the work.",
+    "Any volume of this kind, because of its provenance, is bound to have an eclectic flavour.",
+    "We try to give a flavour of an exciting but hazardous world at the forefront of live laptop performance.",
+    "Sufficient of the flavour of this volume has been given to confirm its difference from the first.",
+    "Publicity around the star's feistiness offstage lent the flavour of autobiography to the twice-daily action onstage.",
+    "Worsteds became the flavour of the year in 1622.",
+    "Pasture feeding - a contribution of additional flavour nuances of milk fat and meat flavour.",
+    "This renders the spatial conditioning of an orange flavour perplexing."
+  ],
+  "list_see_also": [
+    "flavouring"
+  ],
+  "list_browse": [
+    "flatterer",
+    "flattery",
+    "flaunt",
+    "flautist",
+    "flavour",
+    "flavouring",
+    "flaw",
+    "flawed",
+    "flawless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677124_4c8d423cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677124_227dab3acb_o.png",
+      "id_image": "flavour_527773"
+    }
+  ]
+}

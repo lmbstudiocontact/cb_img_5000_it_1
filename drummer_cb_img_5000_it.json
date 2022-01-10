@@ -1,0 +1,71 @@
+{
+  "english": "drummer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chơi trống",
+          "definition": "a person who plays the drums",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a drummer in a rock band.",
+              "world_new": [
+                "rock",
+                "band"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A sergeant, three drummers, and ninety-eight soldiers rounded out the ensemble of supernumeraries, constituting a vast expense.",
+    "Soldiers, among whom are four trumpeters and two drummers, bring in the spoils from the battle, then mime a combat as a kind of charm to ward off future wars.",
+    "Our current project involves a return to real-time comprovisation, featuring two electroacoustic drummers and an electroacoustic bassist.",
+    "As regards 'texture', the opening up of 'sound' and 'space' is created by breaks and continuity in the rhythm pattern set by the drummer.",
+    "The snare drum's melodic character derives in part from the range of timbres the drummer gets out of it.",
+    "The drummer follows the tempo, if not the musical patterns, of the musical leader.",
+    "It was too loud; lip-syncing was an affront to authenticity; guitarists and drummers expected as much camera attention as singers.",
+    "In the performance these characters are separated by musical interludes sung by the lead female singer and the women's chorus, accompanied by a group of drummers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "druggist",
+    "drugstore",
+    "drum",
+    "drum in/into",
+    "drummer",
+    "drumstick",
+    "drunk",
+    "drunkard",
+    "drunken"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073525_4e33379f01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073525_dbf9a2c013_o.png",
+      "id_image": "drummer_3255912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381537_53435566d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381537_497dce3203_o.png",
+      "id_image": "drummer_3255914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073585_21b543327b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073585_e9123c0078_o.png",
+      "id_image": "drummer_329622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336486_1f45f229db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336486_59da1de782_o.png",
+      "id_image": "drummer_4187507"
+    }
+  ]
+}

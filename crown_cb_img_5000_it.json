@@ -1,0 +1,196 @@
+{
+  "english": "crown",
+  "phat_am": "kraun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vương miện",
+          "definition": "a circular, often jewelled, head-dress, especially one worn as a mark of royalty or honour",
+          "world_new": [
+            "circular",
+            "jewelled",
+            "worn",
+            "mark",
+            "royalty",
+            "honour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the queen’s crown."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngôi vua",
+          "definition": "the king or queen or governing power in a monarchy",
+          "world_new": [
+            "king",
+            "queen",
+            "power",
+            "monarchy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "revenue belonging to the Crown.",
+              "world_new": [
+                "revenue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đỉnh; chóp",
+          "definition": "the top eg of a head, hat, hill etc",
+          "world_new": [
+            "top",
+            "head",
+            "hat",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We reached the crown of the hill.",
+              "world_new": [
+                "hill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thân răng",
+          "definition": "(an artificial replacement for) the part of a tooth which can be seen",
+          "world_new": [
+            "artificial",
+            "replacement",
+            "part",
+            "tooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dental crown.",
+              "world_new": [
+                "dental"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tôn lên làm vua",
+          "definition": "to make (someone) king or queen by placing a crown on his or her head",
+          "world_new": [
+            "king",
+            "queen",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The archbishop crowned the queen.",
+              "world_new": [
+                "archbishop",
+                "queen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt lên đỉnh",
+          "definition": "to form the top part of (something)",
+          "world_new": [
+            "form",
+            "top",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an iced cake crowned with a cherry.",
+              "world_new": [
+                "cake",
+                "cherry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bịt răng",
+          "definition": "to put an artificial crown on (a tooth)",
+          "world_new": [
+            "artificial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tooth was crowned to address a suspect fracture.",
+              "world_new": [
+                "tooth",
+                "address",
+                "suspect",
+                "fracture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáng một cú vào đầu",
+          "definition": "to hit (someone) on the head",
+          "world_new": [
+            "hit",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you do that again, I’ll crown you!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "crown prince",
+    "crown princess"
+  ],
+  "list_browse": [
+    "crow’s-nest",
+    "crowbar",
+    "crowd",
+    "crowded",
+    "crown",
+    "crown prince",
+    "crown princess",
+    "crucial",
+    "crucible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362657_4b8f5ee297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362657_a17bbdc136_o.png",
+      "id_image": "crown_1503888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318236_51395f6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318236_12615811d7_o.png",
+      "id_image": "crown_536118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673079_aa8bcc16f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673079_128cf657f9_o.png",
+      "id_image": "crown_599566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673039_2d98658f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673039_83d940492e_o.png",
+      "id_image": "crown_751024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673014_00417bf8d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673014_3062a171d4_o.png",
+      "id_image": "crown_991815"
+    }
+  ]
+}

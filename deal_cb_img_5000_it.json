@@ -1,0 +1,125 @@
+{
+  "english": "deal",
+  "phat_am": "diːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thỏa thuận trong kinh doanh",
+          "definition": "a bargain or arrangement",
+          "world_new": [
+            "bargain",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a business deal.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chia bài",
+          "definition": "the act of dividing cards among players in a card game.",
+          "world_new": [
+            "act",
+            "cards",
+            "card",
+            "game"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kinh doanh",
+          "definition": "to do business, especially to buy and sell",
+          "world_new": [
+            "business",
+            "buy",
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think he deals in stocks and shares.",
+              "world_new": [
+                "I",
+                "think",
+                "stocks"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia bài",
+          "definition": "to distribute (cards)",
+          "world_new": [
+            "distribute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whose turn is it to deal?",
+              "world_new": [
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fuselages are the technical elements that deal with the fluid environment (wind and rain), and lattices are the technical elements that control the light.",
+    "As these examples show, what we are dealing with here are areas of strong structural equivalence between the two languages.",
+    "It was not an ordinary framework of international cooperation among equal participants, such as those dealing with collective security or global warming.",
+    "However, dealing with the purely functional aspects is still going to be central, in particular for users with little previous exposure to functional programming.",
+    "The importance of epistatic modifiers was also stressed in chapters six and seven that deal with speculation and mimicry, respectively.",
+    "A great deal of learning of verbs on a one by one basis thus also takes place.",
+    "We are dealing with a philosophical artefact, a concept developed by philosophers for theoretical purposes.",
+    "For the purposes of this present work, however, we will deal only with the issue of vertical transmission."
+  ],
+  "list_see_also": [
+    "dealer",
+    "dealing",
+    "deal with",
+    "a good deal / a great deal"
+  ],
+  "list_browse": [
+    "deaf-mute",
+    "deafen",
+    "deafening",
+    "deafness",
+    "deal",
+    "deal with",
+    "dealer",
+    "dealing",
+    "dean"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352757_84fb0815e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352757_1337e0ddcd_o.png",
+      "id_image": "deal_1312290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308576_4bd2888714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308576_f2b8e5caba_o.png",
+      "id_image": "deal_1441352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663769_f0a5004481_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663769_a1735b83bb_o.png",
+      "id_image": "deal_4433157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045475_7c669aa762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045475_67fd96a572_o.png",
+      "id_image": "deal_5928167"
+    }
+  ]
+}

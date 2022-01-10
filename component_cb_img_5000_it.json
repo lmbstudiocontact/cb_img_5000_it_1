@@ -1,0 +1,77 @@
+{
+  "english": "component",
+  "phat_am": "kəmˈpəunənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ phận cấu thành",
+          "definition": "a part of a machine (eg a car), instrument (eg a radio) etc",
+          "world_new": [
+            "part",
+            "machine",
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought components for the television set he was repairing.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, we identified the fact that the paths are the only tractable component of the design space.",
+    "An alternating pattern may result, for example, from a cyclic component with a period of about 2 days; persisting patterns may arise in several ways.",
+    "She takes the broadest of views, including any discrete carbonate structure with topographic relief formed by in situ or bound organic components.",
+    "We can use this property to decompose the refinement of a program into the refinement of (some or all of) its components.",
+    "The other three grasses are minor components of the savanna.",
+    "In the tasks using a symbolic component, the second item was replaced with a placeholder item.",
+    "This again simplifies component development by removing much of the burden of protocol-level error-checking.",
+    "Organic components were then eluted quantitatively with an organic solvent such as dichloromethane."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "complication",
+    "compliment",
+    "complimentary",
+    "comply",
+    "component",
+    "compose",
+    "composed",
+    "composer",
+    "composition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359667_e6fac890dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359667_f90012f266_o.png",
+      "id_image": "component_5830299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315631_c6ef19f5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315631_8997552cd2_o.png",
+      "id_image": "component_915755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359762_c21ffe46e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359762_5b371a1112_o.png",
+      "id_image": "component_915756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052025_2112dd70e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052025_5a5a3a0419_o.png",
+      "id_image": "component_915757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430408_efc8a144f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430408_dc22729566_o.png",
+      "id_image": "component_915758"
+    }
+  ]
+}

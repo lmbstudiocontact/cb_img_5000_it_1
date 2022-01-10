@@ -1,0 +1,86 @@
+{
+  "english": "fender",
+  "phat_am": "ˈfendə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đệm chắn",
+          "definition": "anything used to protect a boat from touching another, a pier etc",
+          "world_new": [
+            "protect",
+            "boat",
+            "touching",
+            "pier"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hung old car tyres/tires over the side of the boat to act as fenders.",
+              "world_new": [
+                "old",
+                "car",
+                "side",
+                "boat",
+                "act"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lá chắn",
+          "definition": "a low guard around a fireplace to prevent coal etc from falling out.",
+          "world_new": [
+            "low",
+            "guard",
+            "fireplace",
+            "prevent",
+            "coal"
+          ]
+        },
+        {
+          "mean_english": "cái cản sốc (phía trước ôtô)",
+          "definition": "a wing of a car.",
+          "world_new": [
+            "wing",
+            "car"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I ask: what burglarious offence of a home can justify a prison sentence of 14 years, unless it is aggravated burglary in which the of fender has committed violence?",
+    "It has also been decided to erect substantial guard fenders on the bridge approaches, to prevent vehicles out of control from falling into the railway cutting.",
+    "The court would have to consider the options for punishing the of fender in the community which would be set out in a report from the probation service.",
+    "The mashed front fender and broken rear spring had softened everybody's concern for the automobile ' ' (153).",
+    "366 manipulating an automotive front fender.",
+    "As previously discussed, pose perturbations to the grasped fender location were introduced by moving the robot tool frame by the known amounts about the quarter panel desired mating location.",
+    "The fender was dented in an accident.",
+    "People have been sitting with their feet in the fender, wanting to know why there is a scarcity of coal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fen",
+    "fence",
+    "fencing",
+    "fend",
+    "fender",
+    "ferment",
+    "fermentation",
+    "fern",
+    "ferocious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447128_844053ce31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447128_c0aef72ae7_o.png",
+      "id_image": "fender_1394926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332091_2448ddf2e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332091_5c0650231c_o.png",
+      "id_image": "fender_1924247"
+    }
+  ]
+}

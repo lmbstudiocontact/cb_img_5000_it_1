@@ -1,0 +1,82 @@
+{
+  "english": "consideration",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cân nhắc",
+          "definition": "(the act of) thinking about something, especially the needs or feelings of other people",
+          "world_new": [
+            "act",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stayed at home out of consideration for his mother.",
+              "world_new": [
+                "home",
+                "mother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính đến",
+          "definition": "a fact to be taken into account in making a decision etc",
+          "world_new": [
+            "fact",
+            "account",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cost of the accommodation is our main consideration.",
+              "world_new": [
+                "cost",
+                "accommodation",
+                "our",
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once postmastectomy radiation has been recommended, there are also special technical considerations for the treating radiation oncologist.",
+    "We find it difficult to escape the conclusion from these considerations that even basic aspects of visual perception must have a strong \"efferent\" aspect.",
+    "We chose the argatroban dose based on 2 considerations.",
+    "Our measures indicated which are the best behaviors and provided an experimental basis against which knowledge-based considerations were tested.",
+    "However, two important considerations tilt the balance of evidence in favour of a phonological explanation of hardening.",
+    "Current tools that support domain creation disregard knowledge of the alternative considerations.",
+    "The distorting effect of 15 minutes of fame outweighs all other considerations.",
+    "Both hypotheses claim that relative difficulty of acquisition can be predicted based on considerations of typological markedness."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consider",
+    "considerable",
+    "considerably",
+    "considerate",
+    "consideration",
+    "considering",
+    "consign",
+    "consignment",
+    "consist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665289_0b17fe7228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665289_a7ab67a8b6_o.png",
+      "id_image": "consideration_5778251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046955_ac9c3ae22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046955_dcf1419cdc_o.png",
+      "id_image": "consideration_5778534"
+    }
+  ]
+}

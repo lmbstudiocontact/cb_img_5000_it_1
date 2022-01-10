@@ -1,0 +1,62 @@
+{
+  "english": "daredevil",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người liều lĩnh",
+          "definition": "a bold or reckless person",
+          "world_new": [
+            "bold",
+            "reckless",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a daredevil motorcyclist.",
+              "world_new": [
+                "motorcyclist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He loved to play practical jokes and was a daredevil as a child.",
+    "While still at school he was a daredevil performer of tricks in and on moving vehicles.",
+    "They sometimes happen because of the daredevil nature of those in that age group.",
+    "Nevertheless, he changed from daredevil to careful driver, who could still be very fast but without the conquering carefreeness that is linked to success.",
+    "She is something of a know-it-all, but also a daredevil at times.",
+    "Then there is the child who, when with his playmates, is probably quite a daredevil, and a different person altogether.",
+    "The player controls the eponymous daredevil and navigates time-limited courses, aiming to complete enough objectives to continue to further rounds.",
+    "Once hip-hop became corporate, they took the daredevil out of the artistry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "danger",
+    "dangerous",
+    "dangle",
+    "dare",
+    "daredevil",
+    "daring",
+    "dark",
+    "dark glasses",
+    "darken"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310601_01b7a019ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310601_0f71bd7984_o.png",
+      "id_image": "daredevil_2905347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047350_c337ea2f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047350_033506045b_o.png",
+      "id_image": "daredevil_2905351"
+    }
+  ]
+}

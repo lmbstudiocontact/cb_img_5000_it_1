@@ -1,0 +1,90 @@
+{
+  "english": "disc",
+  "phat_am": "disk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiếc đĩa",
+          "definition": "a flat, thin, circular object",
+          "world_new": [
+            "flat",
+            "thin",
+            "circular",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "From the earth, the full moon looks like a silver disc.",
+              "world_new": [
+                "earth",
+                "full",
+                "moon",
+                "looks",
+                "silver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy nghe đĩa",
+          "definition": "a gramophone/phonograph record or compact disc.",
+          "world_new": [
+            "record",
+            "compact"
+          ]
+        },
+        {
+          "mean_english": "đĩa",
+          "definition": "in computing, a disc-shaped file.",
+          "world_new": [
+            "computing",
+            "file"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The chant notation is printed in all the discs of this group.",
+    "Delivery rates are more efficient to protoplanetary discs, as the solid grains effectively sputter the incoming material in hypervelocity collisions.",
+    "In the analysis of variance of the data, each of the five discs of each accession in each experiment was considered as constituting a plot.",
+    "The two discs could have contained most of the remaining chants that were omitted from the original four discs.",
+    "They combine chants from 349 in my discography with two other discs made about the same time.",
+    "Let m denote the number of such discs.",
+    "The disc's correctly perceived position and its misperceived direction of motion are used for the extrapolation.",
+    "Bicelles are bilayer discs composed of phospholipids and as such they have planar surfaces, very much like a membrane's."
+  ],
+  "list_see_also": [
+    "disc jockey"
+  ],
+  "list_browse": [
+    "disastrously",
+    "disband",
+    "disbelief",
+    "disbelieve",
+    "disc",
+    "disc jockey",
+    "discard",
+    "discern",
+    "discharge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673109_176b8b737e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673109_830b54281d_o.png",
+      "id_image": "disc_1171170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362747_8197ccf0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362747_e2f55dd068_o.png",
+      "id_image": "disc_1747647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318196_100cbb1333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318196_5035fd86cd_o.png",
+      "id_image": "disc_1901060"
+    }
+  ]
+}

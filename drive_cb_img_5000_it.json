@@ -1,0 +1,255 @@
+{
+  "english": "drive",
+  "phat_am": "draiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lái xe",
+          "definition": "to control or guide (a car etc)",
+          "world_new": [
+            "control",
+            "guide",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you want to drive (the car), or shall I?",
+              "world_new": [
+                "want",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi bằng ô tô",
+          "definition": "to take, bring etc in a car",
+          "world_new": [
+            "bring",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My mother is driving me to the airport.",
+              "world_new": [
+                "mother",
+                "driving",
+                "airport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lùa",
+          "definition": "to force or urge along",
+          "world_new": [
+            "force",
+            "urge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two men and a dog were driving a herd of cattle across the road.",
+              "world_new": [
+                "dog",
+                "driving",
+                "herd",
+                "cattle",
+                "across",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng",
+          "definition": "to hit hard",
+          "world_new": [
+            "hit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drove a nail into the door",
+              "world_new": [
+                "nail",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "He drove a golf ball from the tee.",
+              "world_new": [
+                "golf",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động bằng năng lượng",
+          "definition": "to cause to work by providing the necessary power",
+          "world_new": [
+            "cause",
+            "work",
+            "necessary",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This mill is driven by water.",
+              "world_new": [
+                "mill",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến đi bằng ô tô",
+          "definition": "a journey in a car, especially for pleasure",
+          "world_new": [
+            "journey",
+            "car",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We decided to go for a drive."
+            }
+          ]
+        },
+        {
+          "mean_english": "đường trong sân nhà",
+          "definition": "a private road leading from a gate to a house etc",
+          "world_new": [
+            "private",
+            "road",
+            "gate",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The drive is lined with trees.",
+              "world_new": [
+                "lined"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ham muốn",
+          "definition": "energy and enthusiasm",
+          "world_new": [
+            "energy",
+            "enthusiasm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think he has the drive needed for this job.",
+              "world_new": [
+                "I",
+                "think",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nỗ lực",
+          "definition": "a special effort",
+          "world_new": [
+            "special",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a drive to raise money for the animal shelter.",
+              "world_new": [
+                "raise",
+                "money",
+                "animal",
+                "shelter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gậy",
+          "definition": "in sport, a hard stroke (with a golf-club, a cricket bat etc)",
+          "world_new": [
+            "sport",
+            "stroke",
+            "golf-club",
+            "cricket",
+            "bat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hit a superb drive down the freeway.",
+              "world_new": [
+                "hit",
+                "superb",
+                "freeway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ổ đĩa",
+          "definition": "a disk drive",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can store your personal files on the N drive.",
+              "world_new": [
+                "store",
+                "your",
+                "personal",
+                "N"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "driver",
+    "driving",
+    "driver’s license",
+    "drive-in",
+    "drive-through",
+    "driveway",
+    "driving licence",
+    "be driving at",
+    "drive off",
+    "drive on"
+  ],
+  "list_browse": [
+    "drinker",
+    "drip",
+    "drip-dry",
+    "dripping",
+    "drive",
+    "drive off",
+    "drive on",
+    "drive-in",
+    "drive-through"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075480_0b7c715a92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075480_d9afb94de6_o.png",
+      "id_image": "drive_2640201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338396_74b12f12a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338396_e596ec2bda_o.png",
+      "id_image": "drive_4669518"
+    }
+  ]
+}

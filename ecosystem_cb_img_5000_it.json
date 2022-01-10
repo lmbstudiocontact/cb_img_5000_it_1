@@ -1,0 +1,84 @@
+{
+  "english": "ecosystem",
+  "phat_am": "(British) ˈiːkouˌsistəm, ˈekouˌsistəm; (American) ˈekouˌsistəm, ˈiːkouˌsistəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ sinh thái",
+          "definition": "all the animals and plants in a particular area, considered in relation to each other and to their environment",
+          "world_new": [
+            "particular",
+            "area",
+            "relation",
+            "their",
+            "environment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The study and management of ecosystems represents the most dynamic field of contemporary ecology.",
+              "world_new": [
+                "study",
+                "management",
+                "dynamic",
+                "field",
+                "contemporary",
+                "ecology"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We do not be claim that this exercise has established the precise value of a complex ecosystem service.",
+    "The statistical results found here support this approach for conserving the tropical natural forest ecosystem.",
+    "Understanding the cropping system as an ecosystem is important, perhaps more so when considering the management of perennial crops.",
+    "The poor often have access to endangered ecosystems precisely because the ecosystems are not valuable commercially.",
+    "The first half of the book examines turnover at species level, the second larger-scale community and ecosystem turnover.",
+    "Trophic diversity is assessed by assigning taxa to trophic habits, thereby revealing the appearance of new components of ecosystem structure over time.",
+    "It still seems not to be viable to try to construct models going from ecosystem (or animal or plant) to molecule in one bound.",
+    "A major aspect of ecosystem research concerns the factors that determine the rate of nutrient fluxes and turnover in the system."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "economics",
+    "economist",
+    "economize",
+    "economy",
+    "ecosystem",
+    "ecotourism",
+    "ecotourist",
+    "ecstasy",
+    "ecstatic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330376_008028f884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330376_87a17075bc_o.png",
+      "id_image": "ecosystem_2191422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445348_f9fb3e8f29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445348_57a2c9b724_o.png",
+      "id_image": "ecosystem_2471360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685444_947c9e75ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685444_d50492843c_o.png",
+      "id_image": "ecosystem_4178812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330291_b0755ae0f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330291_4f23e8ae45_o.png",
+      "id_image": "ecosystem_5207916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374947_fa7cf7bb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374947_d8d380eb3e_o.png",
+      "id_image": "ecosystem_5660260"
+    }
+  ]
+}

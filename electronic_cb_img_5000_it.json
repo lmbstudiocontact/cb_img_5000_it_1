@@ -1,0 +1,88 @@
+{
+  "english": "electronic",
+  "phat_am": "eləkˈtronik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc điện tử",
+          "definition": "worked or produced by devices built or made according to the principles of electronics",
+          "world_new": [
+            "principles",
+            "electronics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electronic calculator.",
+              "world_new": [
+                "calculator"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc điện tử",
+          "definition": "concerned or working with such machines",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electronic engineer.",
+              "world_new": [
+                "engineer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using electron beams could develop much more toward nanotechnology and much higher density of electronic elements on silicon chips.",
+    "Therefore, we attempt to explain the ultrafast disordering solely through destabilization of the covalent bonds by direct electronic excitation.",
+    "None of our included papers was from before 1988, and so no historical searching prior to indexing in the electronic databases was necessary.",
+    "We also use electronic mail to speed the refereeing process.",
+    "Finally, the legal issues regarding electronic signatures largely fall on health-care providers rather than telecommunication service providers.",
+    "The history of electronic technologies is not encouraging in this regard.",
+    "A within-group design was used to match electronic records of sickness certification with self-reported sickness absence.",
+    "A layer of highly articulated analogue electronic music dominates briefly and is displaced by a constant, rhythmic percussive layer in the foreground."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "electrolysis",
+    "electromagnet",
+    "electromagnetic waves",
+    "electron",
+    "electronic",
+    "electronic mail",
+    "electronics",
+    "elegance",
+    "elegant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325431_720763f537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325431_11ede27823_o.png",
+      "id_image": "electronic_1198313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440418_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440418_ae1e35b7eb_o.png",
+      "id_image": "electronic_1643810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325316_3eda5dcd48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325316_727bd43133_o.png",
+      "id_image": "electronic_1648802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370177_7e0acef36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370177_c20d523122_o.png",
+      "id_image": "electronic_2761029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325466_2eed9fc84f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325466_b0bd9832a2_o.png",
+      "id_image": "electronic_752623"
+    }
+  ]
+}

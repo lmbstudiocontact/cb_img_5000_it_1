@@ -1,0 +1,70 @@
+{
+  "english": "epidemic",
+  "phat_am": "epiˈdemik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh dịch",
+          "definition": "an outbreak of a disease that spreads rapidly and attacks very many people",
+          "world_new": [
+            "outbreak",
+            "disease",
+            "rapidly",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an epidemic of measles/influenza."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sporadic infections occur in seasonal annual cycles while epidemics occur at greater intervals [2].",
+    "To avoid diphtheria epidemics in the future the immunity among adults should be raised in the coming years.",
+    "The equations exhibit front-like behavior as is familiar from the theory of the spreading of epidemics.",
+    "We assume an initial infection prevalence of between 2 and 10 % at the start of the simulated epidemics.",
+    "One reason was its usefulness in genetic analyses and another that it started epidemics of bacteria with multiple resistances to antibiotics.",
+    "Introductions to naive host populations elsewhere have caused severe epidemics.",
+    "The population pressure which underlay these trends also made the outcome of each harvest more crucial, and periodic epidemics hit the undernourished population hard.",
+    "Long-distance dispersal can play a major role in the onset, range and duration of epidemics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "enzyme",
+    "ephemeral",
+    "epic",
+    "epicentre",
+    "epidemic",
+    "epidermis",
+    "epidural",
+    "epilepsy",
+    "epileptic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053460_4e36544c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053460_c37b5f6c54_o.png",
+      "id_image": "epidemic_2720285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432078_893dedd86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432078_54904bd644_o.png",
+      "id_image": "epidemic_2720373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053430_c1284b60e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053430_8df9d46bb2_o.png",
+      "id_image": "epidemic_2843762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671674_42c72dcb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671674_57a97bb572_o.png",
+      "id_image": "epidemic_6182976"
+    }
+  ]
+}

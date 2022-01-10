@@ -1,0 +1,91 @@
+{
+  "english": "expense",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phí tổn",
+          "definition": "the spending of money etc; cost",
+          "world_new": [
+            "money",
+            "cost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve gone to a lot of expense to educate you well.",
+              "world_new": [
+                "educate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên nhân của sự tiêu tiền",
+          "definition": "a cause of spending",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What an expense clothes are!",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They still are, although the expenses associated with them continue to be high.",
+    "Certain grants were also made in respect of travel expenses, technical assistance and so on.",
+    "On the other hand, zemstvo institutions had to collect taxes to finance their expenses.",
+    "Most fathers of the period paid another 3,000-4,000 pesos for their daughters' living expenses, and up to 1,500 pesos for their entry expenses.",
+    "Most of them were economically dependent on patronage from landowning families for survival over the year, for employment, for credit or emergency expenses.",
+    "All of these might have enforced them to cut down any expenses.",
+    "The old plan paid 100 per cent of all covered medical expenses and had a premium of approximately $5,000 per year per family.",
+    "The expenses of laser energy to generation of fast electrons and ions may be about 30 -50%."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "expeditiously",
+    "expel",
+    "expend",
+    "expenditure",
+    "expense",
+    "expenses",
+    "expensive",
+    "experience",
+    "experienced"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354352_736df172f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354352_51432cefe4_o.png",
+      "id_image": "expense_2867713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047040_6a2fe520eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047040_6e62e1fc2f_o.png",
+      "id_image": "expense_3772930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425258_4cd5c3f87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425258_2b86f534a3_o.png",
+      "id_image": "expense_5138402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310181_794cb329b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310181_8112d973c5_o.png",
+      "id_image": "expense_5965574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310161_d2f94749ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310161_82538a5924_o.png",
+      "id_image": "expense_6078603"
+    }
+  ]
+}

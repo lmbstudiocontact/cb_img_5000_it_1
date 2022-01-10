@@ -1,0 +1,88 @@
+{
+  "english": "contribution",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đóng góp",
+          "definition": "the act of contributing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can only raise the cost of this activity by voluntary contribution.",
+              "world_new": [
+                "raise",
+                "cost",
+                "activity",
+                "voluntary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật đóng góp",
+          "definition": "something contributed, especially money",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you like to make a contribution to this charity?",
+              "world_new": [
+                "charity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our contribution is thus an exploration of the language design space rather than a theoretical investigation of properties of these models.",
+    "Similarly, the model specifies no checkerboard contributions to content until that date, then requires them afterwards.",
+    "Note that by (2.3)-(2.5), (2.24)and (2.25)there are no contributions to the integral from the other surfaces.",
+    "This book is a punishing read but makes an outstanding contribution to its topic.",
+    "However, their roles and contribution to cell signalling events remain incompletely understood.",
+    "His contribution contains the most detailed phonetic analysis, taking into account not only prosodic features but segmental characteristics as well.",
+    "The international author list includes most of the current key players in impact-related studies and the quality of the individual contributions is correspondingly high.",
+    "I understand that you think that this is your best purely scientific contribution."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contrast",
+    "contravene",
+    "contravention",
+    "contribute",
+    "contribution",
+    "contributor",
+    "contrite",
+    "contriteness",
+    "contrivance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043380_0f3eee1eaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043380_30621c5716_o.png",
+      "id_image": "contribution_4525463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421498_684eb32647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421498_f6df176498_o.png",
+      "id_image": "contribution_5520859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661679_d2a375e13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661679_5957529375_o.png",
+      "id_image": "contribution_5520944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043320_1757b0ba9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043320_3682dfba87_o.png",
+      "id_image": "contribution_6313799"
+    }
+  ]
+}

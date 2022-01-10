@@ -1,0 +1,77 @@
+{
+  "english": "ethical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc đạo đức",
+          "definition": "of or concerning morals, justice or duty",
+          "world_new": [
+            "concerning",
+            "morals",
+            "justice",
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ethical considerations."
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng luân thường đạo lý",
+          "definition": "(opposite unethical) morally right",
+          "world_new": [
+            "morally",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would this course of action be ethical?",
+              "world_new": [
+                "course",
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The ethical resources of this society are only now being explored as the concept comes to be debated.",
+    "This is not a straightforward task, since ethical considerations and infrequency of actual shoulder dystocia deliveries limit prospective, comparative study of various manoeuvres.",
+    "Screening programs raise particular ethical issues, since screening involves testing persons who have no symptoms of the condition being searched for.",
+    "As was the case with scientific management, defenders of behavioral psychology made ethical claims, as well as truth claims, in its favor.",
+    "There is considerable awareness that these developments pose challenges in every dimension (ethical, political, economic, and clinical) of the health-care environment.",
+    "The case was referred to the ethical review committee of the medical faculty.",
+    "The truth-values of first-order ethical statements thus depend on biological facts about how people are constructed.",
+    "The philosophical concept of dependent moral status thus makes a crucial appeal to the ethical principle of beneficence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eternal",
+    "eternally",
+    "eternity",
+    "ether",
+    "ethical",
+    "ethically",
+    "ethics",
+    "ethnic",
+    "ethnic cleansing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669334_6b664b8029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669334_71636c771f_o.png",
+      "id_image": "ethical_1354738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314686_7b670963aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314686_df08614b9b_o.png",
+      "id_image": "ethical_3317662"
+    }
+  ]
+}

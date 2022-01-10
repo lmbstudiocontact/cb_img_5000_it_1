@@ -1,0 +1,85 @@
+{
+  "english": "democracy",
+  "phat_am": "diˈmokrəsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dân chủ",
+          "definition": "(a country having) a form of government in which the people freely elect representatives to govern them",
+          "world_new": [
+            "country",
+            "form",
+            "government",
+            "people",
+            "freely",
+            "elect",
+            "govern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which is the world’s largest democracy?"
+            },
+            {
+              "ex_of_definition": "He believes in democracy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To date, this coding procedure has been applied to over 1,500 programmes, in about thirty democracies, during the post-war period.",
+    "In many new democracies, regionalism is a strong factor in voters' decisions, especially when multiple ethnic groups divide the countries.",
+    "Why do new parties keep emerging and winning votes in new democracies?",
+    "We now model in game-theoretic terms the process of cabinet appointment in parliamentary democracies with a presidential head of state.",
+    "Electoral democracies now represent 120 of the 192 existing countries and constitute 62.5 percent of the world's population.",
+    "To measure democracy's effect on the stock of human capital, we need to allow for a significant time lag.",
+    "Minor-party support can be seen as a deterrent to stability in many democracies.",
+    "Where new democracies are fragile, presidents may favour decentralisation as a means of furthering the democratisation process itself.#!"
+  ],
+  "list_see_also": [
+    "democrat",
+    "democratic",
+    "democratically"
+  ],
+  "list_browse": [
+    "demanding",
+    "demeanour",
+    "dementia",
+    "demo",
+    "democracy",
+    "democrat",
+    "democratic",
+    "democratically",
+    "demographer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070880_3056a76a27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070880_e507907058_o.png",
+      "id_image": "democracy_2529647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688904_d86d0dfb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688904_c67042c92f_o.png",
+      "id_image": "democracy_3205462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070780_0e87eb2b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070780_397016a84e_o.png",
+      "id_image": "democracy_5389887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378672_b0db7f4e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378672_17b280f9c9_o.png",
+      "id_image": "democracy_5389925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070655_ba6c997c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070655_c867b71ce1_o.png",
+      "id_image": "democracy_5392380"
+    }
+  ]
+}

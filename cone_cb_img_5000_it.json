@@ -1,0 +1,135 @@
+{
+  "english": "cone",
+  "phat_am": "koun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật hình nón",
+          "definition": "a solid figure with a point and a base in the shape of a circle or oval",
+          "world_new": [
+            "solid",
+            "figure",
+            "point",
+            "base",
+            "shape",
+            "circle",
+            "oval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do you calculate the surface area of a cone?",
+              "world_new": [
+                "calculate",
+                "surface",
+                "area"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả thông",
+          "definition": "the fruit of the pine, fir etc",
+          "world_new": [
+            "fruit",
+            "pine",
+            "fir"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fir cones.",
+              "world_new": [
+                "fir"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kem ốc quế",
+          "definition": "a pointed holder for ice cream",
+          "world_new": [
+            "pointed",
+            "ice",
+            "cream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an ice-cream cone."
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu hiệu báo công trường đang thi công",
+          "definition": "a warning sign placed next to roadworks etc or where parking is not allowed",
+          "world_new": [
+            "warning",
+            "sign",
+            "roadworks",
+            "parking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are traffic cones guarding the roadworks.",
+              "world_new": [
+                "traffic",
+                "roadworks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Recordings from cones were obtained at electrode depths distal to that of bipolar and horizontal cells.",
+    "However, there is much controversy in the attribution of specific visual pigments and oil droplet colors to par ticular morphological types of cones.",
+    "The first and foremost modification introduced into anchovy cones was the turning of the lamellar stacks by 90 deg, effectively producing receptors with end-on dichroism.",
+    "Second, there is a substantial gradient in mitochondrial amount with eccentricity, especially in cones.",
+    "The spectral sensitivity of the human shor t-wavelength sensitive cones derived from thresholds and color matches.",
+    "First, the outer fibers of the narrowest cones at the foveal center were examined for the presence of mitochondria.",
+    "In addition, the red-sensitive pigment is placed in single cones with red and pale green droplets.",
+    "The number of opsin-positive cones (representing the average of the six area values) was determined for each animal."
+  ],
+  "list_see_also": [
+    "conical"
+  ],
+  "list_browse": [
+    "conduct",
+    "conducted tour",
+    "conduction",
+    "conductor",
+    "cone",
+    "confectioner",
+    "confectionery",
+    "confederacy",
+    "confederate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667909_56e04c42ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667909_52de9eea7b_o.png",
+      "id_image": "cone_227939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667864_e68d78e22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667864_a60a6d2313_o.png",
+      "id_image": "cone_232992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049475_cd82a1b99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049475_d8cd1059c8_o.png",
+      "id_image": "cone_4110511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427783_32beddde7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427783_dc3d4d7af1_o.png",
+      "id_image": "cone_5784086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049505_68fc791cbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049505_163050b824_o.png",
+      "id_image": "cone_605581"
+    }
+  ]
+}

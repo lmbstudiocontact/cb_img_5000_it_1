@@ -1,0 +1,61 @@
+{
+  "english": "constituency",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khu vực bầu cử",
+          "definition": "the group of voters, or the area in which they live, represented by a member of parliament",
+          "world_new": [
+            "group",
+            "area",
+            "live",
+            "member",
+            "parliament"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The MP regularly visits the numerous villages in his constituency.",
+              "world_new": [
+                "MP",
+                "regularly",
+                "numerous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are thus likely to give high priority to the short-term interests of narrow constituencies, at the expense of longer-term social welfare.",
+    "Thus ties of kinship and camaraderie, personal debts and vendettas, fears and ambitions have everything to do with the lineup of candidacies, coalitions, and constituencies.",
+    "Inkatha, she argues, faced a problem of gaining and maintaining the support of different gendered constituencies.",
+    "He finds a counter-intuitive result that refutes non-game theoretical wisdom that parties focus their campaign resources on marginal constituencies.",
+    "According to the 2000 census, there are five such constituencies with over 140,000 residents, and five with fewer than 75,000 people.",
+    "Further light is shed on the two approaches by comparing their estimates of party support in those constituencies created by the fourth review.",
+    "Of the city's fifteen parliamentary constituencies, ten went unionist, three were secured by coalition liberals, and one each by coalition labour and labour.",
+    "At the regional level, according to the 2000 census, on average 92,061 people live in each of the 200 constituencies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "constellation",
+    "consternation",
+    "constipated",
+    "constipation",
+    "constituency",
+    "constituent",
+    "constitute",
+    "constitution",
+    "constitutional"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046305_c7b24c308c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046305_4ee23215ce_o.png",
+      "id_image": "constituency_2472997"
+    }
+  ]
+}

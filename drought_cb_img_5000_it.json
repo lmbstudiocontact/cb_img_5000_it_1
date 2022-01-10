@@ -1,0 +1,69 @@
+{
+  "english": "drought",
+  "phat_am": "draut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạn hán",
+          "definition": "(a period of) lack of rain",
+          "world_new": [
+            "period",
+            "lack",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The reservoir dried up completely during the drought.",
+              "world_new": [
+                "reservoir",
+                "dried",
+                "completely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Leaves were harvested on the sixteenth day of drought stress.",
+    "Future global warming may also have an impact by increasing drought stress and mortality among defoliated trees.",
+    "For example, reduced-chemical technologies compete favorably with conventional production in drought-prone areas.",
+    "For each species, simulations were performed to determine the mean duration of seed exposure to drought after shedding.",
+    "This highlights the practical difficulty of breeding for drought-prone regions.",
+    "The estimated curves characterize crop losses due to droughts as well as excessive rains causing siltation, excessive soil humidity, and floods.",
+    "Pollen records poorly reflect cyclical droughts seen in isotopic records, as natural vegetation has adapted to these fluctuations.",
+    "Its hegemony lasted until about 1450 when, during a period of severe drought and cold, its vassals revolted and destroyed the city."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drop-down menu",
+    "drop-out",
+    "droplet",
+    "droppings",
+    "drought",
+    "drown",
+    "drowsily",
+    "drowsiness",
+    "drowsy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452093_a2cc9ee761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452093_c09539039d_o.png",
+      "id_image": "drought_286581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382257_5b29762d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382257_8770b188a7_o.png",
+      "id_image": "drought_491241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692534_618a1014cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692534_367824f18c_o.png",
+      "id_image": "drought_491247"
+    }
+  ]
+}

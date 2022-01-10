@@ -1,0 +1,60 @@
+{
+  "english": "comprehension",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đọc hiểu",
+          "definition": "the act or power of understanding",
+          "world_new": [
+            "act",
+            "power",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
+              "world_new": [
+                "reading",
+                "passage",
+                "teacher",
+                "test"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In future work, it will be important to explore how this parental style influences comprehension as well as production.",
+    "In this lab you are not allowed to use any of them (or any list comprehensions), but must write your own versions.",
+    "His comprehension was preserved for simple and complex commands.",
+    "The next two propositions relate shapelessness to monad comprehensions.",
+    "Indeed, all of the languages discussed here use some parallel extension of list comprehensions and implicitly parallel higher-order functions such as map.",
+    "Tests of verbal fluency and comprehension of grammar were also given.",
+    "If this behavior is achieved, then neither expressibility nor efficiency requires a separate syntax for array comprehensions.",
+    "In this and the next experiments, only data from participants who had an error rate lower than 37% on comprehension questions were included."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "composure",
+    "compound",
+    "comprehend",
+    "comprehensible",
+    "comprehension",
+    "comprehensive",
+    "comprehensive school",
+    "comprehensively",
+    "comprehensiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314911_bb0b9b840c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314911_2220fbeb36_o.png",
+      "id_image": "comprehension_4953703"
+    }
+  ]
+}

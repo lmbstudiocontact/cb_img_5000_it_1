@@ -1,0 +1,90 @@
+{
+  "english": "coconut",
+  "phat_am": "ˈkoukənat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả dừa",
+          "definition": "a large nut containing a white solid lining and a clear liquid",
+          "world_new": [
+            "large",
+            "nut",
+            "white",
+            "solid",
+            "lining",
+            "clear",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bunch of coconuts.",
+              "world_new": [
+                "bunch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cùi dừa",
+          "definition": "its lining, used as food",
+          "world_new": [
+            "its",
+            "lining",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "dessicated coconut."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Evolution of mineral elements of coconut husks left in the field.",
+    "With the bare soil practice, regular burning of windrowed coconut waste is a tricky operation.",
+    "The distribution of sucrose in the coconut plant showed a number of topological gradients.",
+    "Traps were baited with shredded coconut and/or fish emulsion.",
+    "The coconut palm is prone to several diseases and disorders that cause a substantial loss of crop.",
+    "Starting from soil covered with ferns and coconut residues.",
+    "In (4), the speaker does not have a particular referent in mind (any coconut would do), and the context is clearly [-specific].",
+    "Each plot comprised 36 coconut palms (six rows of six) of which 16 central palms were useful (four rows of four)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cocksure",
+    "cocktail",
+    "cocky",
+    "cocoa",
+    "coconut",
+    "cocoon",
+    "cod",
+    "cod-liver oil",
+    "coddle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680869_19083d09ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680869_98d6c9dbb3_o.png",
+      "id_image": "coconut_1411002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370502_2104bb9b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370502_ea05835b46_o.png",
+      "id_image": "coconut_3944201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440658_85986a782c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440658_e77d68c84b_o.png",
+      "id_image": "coconut_3949420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325621_51c4f01930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325621_1013a90495_o.png",
+      "id_image": "coconut_4509320"
+    }
+  ]
+}

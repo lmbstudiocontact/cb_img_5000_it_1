@@ -1,0 +1,105 @@
+{
+  "english": "coffee",
+  "phat_am": "ˈkofi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cà phê",
+          "definition": "(a drink made from) the ground beans of a shrub grown in eg Brazil",
+          "world_new": [
+            "drink",
+            "ground",
+            "shrub",
+            "grown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cup of coffee.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "màu nâu nhạt",
+          "definition": "the colour of the drink when mixed with milk",
+          "world_new": [
+            "colour",
+            "drink",
+            "mixed",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coffee-coloured/-colored dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By labeling coffee, consumers can now distinguish production methods used for coffee growing, and they can also evaluate its taste relative to the non-labeled coffee.",
+    "Reference to a 'liberation fund' highlights the (relatively) privileged position of the coffee workers on the city's waterfront.",
+    "The discussion is presented in the context of product designs, and in particular, coffee maker grammars.",
+    "Many responded by planting fewer new cocoa and coffee fields and concentrating more on food crops.",
+    "After the pulping the coffee beans are washed and the remaining pulp is usually composted.",
+    "With all herbicides banned, manual weeding is usually a considerable cost factor in organic coffee production.",
+    "The project also entails helping local people near the camps to plant perennials such as coffee trees and oil palms.",
+    "Coffee is thus a potentially useful host for examining the effects of natural enemies and other factors on populations of these two pests."
+  ],
+  "list_see_also": [
+    "coffee pot",
+    "coffee shop",
+    "coffee table"
+  ],
+  "list_browse": [
+    "code switching",
+    "coefficient",
+    "coerce",
+    "coercion",
+    "coffee",
+    "coffee pot",
+    "coffee shop",
+    "coffee table",
+    "coffin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325141_5feec400c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325141_f41bc3ea35_o.png",
+      "id_image": "coffee_421709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440113_0850dfe5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440113_9fc52610cf_o.png",
+      "id_image": "coffee_434357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680224_fb2dbc8bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680224_b847c38f2d_o.png",
+      "id_image": "coffee_434373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324986_69fd94ae4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324986_13014dd70c_o.png",
+      "id_image": "coffee_703027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369812_f2fd14b78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369812_ed17e26a9a_o.png",
+      "id_image": "coffee_703029"
+    }
+  ]
+}

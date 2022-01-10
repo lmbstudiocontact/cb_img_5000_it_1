@@ -1,0 +1,172 @@
+{
+  "english": "dip",
+  "phat_am": "dip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhúng, nhấn chìm",
+          "definition": "to lower into any liquid for a moment",
+          "world_new": [
+            "lower",
+            "liquid",
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dipped his bread in the soup.",
+              "world_new": [
+                "bread",
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dốc xuống",
+          "definition": "to slope downwards",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road dipped just beyond the crossroads.",
+              "world_new": [
+                "road",
+                "crossroads"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạ thoáng xuống",
+          "definition": "to lower the beam of (car headlights)",
+          "world_new": [
+            "lower",
+            "beam"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dipped his lights as the other car approached.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạ xuống rồi kéo lên ngay",
+          "definition": "(of a ship) to lower (a flag) briefly in salute.",
+          "world_new": [
+            "lower",
+            "briefly",
+            "salute"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc nhấn chìm",
+          "definition": "a hollow (in a road etc)",
+          "world_new": [
+            "hollow",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car was hidden by a dip in the road.",
+              "world_new": [
+                "car",
+                "hidden",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước chấm",
+          "definition": "a soft, savoury/savory mixture in which a biscuit etc can be dipped",
+          "world_new": [
+            "soft",
+            "mixture",
+            "biscuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cheese dip.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi tắm ào",
+          "definition": "a short swim",
+          "world_new": [
+            "short",
+            "swim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dip in the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Corynebacterium pseudotuberculosis infection of sheep : role of skin lesions and dipping fluids.",
+    "The most interesting thing in this figure is the two peaks which are almost equal, and the dip between them.",
+    "This is because the sheet dip of folded horizons is frequently close to horizontal so that the topographic surface often intersects such horizons tangentially.",
+    "By its very nature this dictionary must be something of a lucky dip, but it achieves a remarkable degree of diversity and coverage.",
+    "A set of copper strips dipped in mercury-filled grooves was used for both high power and low noise circuits.",
+    "The sequence dips c. 20-30° to the east but is otherwise largely undeformed and only weakly metamorphosed.",
+    "This dip develops in a region where the ions experience rapid acceleration due to an abrupt increase in the electric field.",
+    "The capillary often damages the embryo sac or more frequently becomes plugged when it is dipped in the agarose and pushed into the cells."
+  ],
+  "list_see_also": [
+    "dip into"
+  ],
+  "list_browse": [
+    "dint",
+    "diocese",
+    "diode",
+    "dioxide",
+    "dip",
+    "dip into",
+    "diphtheria",
+    "diphthong",
+    "diploma"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320696_249b84ba7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320696_3e7a0a8a9e_o.png",
+      "id_image": "dip_2369637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675684_c874bc1a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675684_54a28c2893_o.png",
+      "id_image": "dip_3690095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675654_60d818718f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675654_27477a6a93_o.png",
+      "id_image": "dip_5014944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675609_cfd9827b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675609_a485c41e72_o.png",
+      "id_image": "dip_5015335"
+    }
+  ]
+}

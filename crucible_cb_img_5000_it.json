@@ -1,0 +1,66 @@
+{
+  "english": "crucible",
+  "phat_am": "ˈkruːsibl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nồi nấu kim loại",
+          "definition": "a pot in which metals etc may be melted",
+          "world_new": [
+            "pot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He heated the chemicals in a crucible in the laboratory.",
+              "world_new": [
+                "heated",
+                "laboratory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Morio uses stars and crucibles in conjunction with his canoes which are associated with sailors and navigation.",
+    "The work began with computer modelling the equilibrium thermodynamics (1978) and was followed by laboratory bench-scale test work using large alumina silicate crucibles (19781979).",
+    "Thorium dioxide is a material for heat-resistant ceramics, e.g., for high-temperature laboratory crucibles.",
+    "Oil shale was used for production of shale oil using an early retorting method of heating the crushed oil shale put in crucibles.",
+    "The social crucible for this music remains to be established, with some suggestions that socialising functions (as we previously knew them) are no longer in definition.",
+    "Aquillius was dragged around the bonfire as gold coins were melted down in crucibles.",
+    "Many vitrified crucibles were also recovered from this site; one of them notable because it was found in an in situ position.",
+    "Naturally occurring quartz crystals of extremely high purity, necessary for the crucibles and other equipment used for growing silicon wafers in the semiconductor industry, are expensive and rare."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crown",
+    "crown prince",
+    "crown princess",
+    "crucial",
+    "crucible",
+    "crucifix",
+    "crucifixion",
+    "crucify",
+    "crude"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433288_a579d8c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433288_a4888fab2c_o.png",
+      "id_image": "crucible_1504097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054625_01fd64e575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054625_3b03e1c32a_o.png",
+      "id_image": "crucible_1987365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362617_b4e491da6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362617_b1d2054513_o.png",
+      "id_image": "crucible_470512"
+    }
+  ]
+}

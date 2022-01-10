@@ -1,0 +1,122 @@
+{
+  "english": "flow",
+  "phat_am": "fləu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chảy",
+          "definition": "to move along in the way that water does",
+          "world_new": [
+            "move",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The river flowed into the sea.",
+              "world_new": [
+                "river",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên (thuỷ triều)",
+          "definition": "(of the tide) to rise",
+          "world_new": [
+            "rise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat left the harbour/harbor when the tide began to flow.",
+              "world_new": [
+                "boat",
+                "left",
+                "tide"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chảy; dòng lưu thông",
+          "definition": "the act of flowing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flow of blood",
+              "world_new": [
+                "blood"
+              ]
+            },
+            {
+              "ex_of_definition": "the flow of traffic.",
+              "world_new": [
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We consider suspension flows built over interval exchange transformations with the help of roof functions having an asymmetric logarithmic singularity.",
+    "The isolated exposures of the accretionary lapilli-bearing facies along the coastline may alternatively record shoreline or water interaction of pyroclastic flows.",
+    "Crossed products by groupoid actions and their smooth flows of weights.",
+    "The latter consist mainly of basaltic pillowed and massif lava flows.",
+    "Almost automorphic minimal flows admit the following inheritance property which is similar to the corresponding property for minimal flows [12].",
+    "Subsequent lavas were less voluminous, with higher silica content and lower effusion rate, forming multiple flows.",
+    "The results illustrated major changes in the material flows.",
+    "Only the bed-load transport of sediment is considered, restricting the analysis to flows with low shear rates."
+  ],
+  "list_see_also": [
+    "flow chart"
+  ],
+  "list_browse": [
+    "flour",
+    "flourish",
+    "flourishing",
+    "flout",
+    "flow",
+    "flow chart",
+    "flower",
+    "flower-bed",
+    "flower-pot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364852_3588b0fde9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364852_2dabdeb123_o.png",
+      "id_image": "flow_1140846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056660_5fe4713c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056660_3cf1560b5b_o.png",
+      "id_image": "flow_1172375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675004_1343c1ae36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675004_e8d22f14b0_o.png",
+      "id_image": "flow_4099201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319991_01ef815d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319991_38b8e5c168_o.png",
+      "id_image": "flow_4234409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674939_b1030ed9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674939_a46663cdf9_o.png",
+      "id_image": "flow_5351481"
+    }
+  ]
+}

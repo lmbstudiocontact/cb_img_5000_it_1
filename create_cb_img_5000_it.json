@@ -1,0 +1,87 @@
+{
+  "english": "create",
+  "phat_am": "kriˈeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo nên",
+          "definition": "to cause to exist; to make",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How was the earth created?",
+              "world_new": [
+                "earth"
+              ]
+            },
+            {
+              "ex_of_definition": "The circus created great excitement.",
+              "world_new": [
+                "circus",
+                "great",
+                "excitement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phong cấp",
+          "definition": "to give (a rank etc to)",
+          "world_new": [
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sir John was created a knight in 1958.",
+              "world_new": [
+                "knight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, a local economy was created that involved tenant farmers becoming increasingly reliant upon a few major households.",
+    "Functions operating on the real numbers can be created by using map or bind to lift uniformly continuous functions operating on the rationals.",
+    "I identified features of the pilots' talk that suggested the pilots had created an interactional context for human error.",
+    "Intuitively, you can think of it much like creating a reference cell in memory.",
+    "We created some characters and put them in a bus.",
+    "They are busy creating a new language to describe their individuality and celebrate their achievements as actors.",
+    "As one respondent put it, a contract would be created between the practitioner and the trust.",
+    "The author further suggests ways of creating appropr iate guidelines and assessment, as well as more systematic support for teachers."
+  ],
+  "list_see_also": [
+    "creation",
+    "creative",
+    "creatively",
+    "creativeness",
+    "creativity",
+    "creator",
+    "the Creator",
+    "creative thinking"
+  ],
+  "list_browse": [
+    "cream tea",
+    "creaminess",
+    "creamy",
+    "crease",
+    "create",
+    "creation",
+    "creative",
+    "creative thinking",
+    "creatively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367327_973544c488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367327_c8cf1de5b3_o.png",
+      "id_image": "create_1263919"
+    }
+  ]
+}

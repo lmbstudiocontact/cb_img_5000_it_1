@@ -1,0 +1,118 @@
+{
+  "english": "delay",
+  "phat_am": "diˈlei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm chậm trễ",
+          "definition": "to put off to another time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have delayed publication of the book till the Spring.",
+              "world_new": [
+                "publication",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoãn",
+          "definition": "to keep or stay back or slow down",
+          "world_new": [
+            "keep",
+            "stay",
+            "slow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was delayed by the traffic.",
+              "world_new": [
+                "I",
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chậm trễ",
+          "definition": "(something which causes) keeping back or slowing down",
+          "world_new": [
+            "keeping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He came without delay"
+            },
+            {
+              "ex_of_definition": "Today’s train services are subject to delays.",
+              "world_new": [
+                "train",
+                "subject"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Functional differential equations with proportional delays are usually referred to as pantograph equations or generalized pantograph equations.",
+    "The positive and partly delayed responses of income and inflation are plausible.",
+    "Issues such as these require no real data, and, certainly, action to address them must not be delayed.",
+    "Parents reported that all children were full term with no perinatal difficulties, major illnesses, developmental delays or hearing loss.",
+    "Partial failures, particularly in combination, however, can lead to rework and major project delays.",
+    "The artificial synthesis of life is unlikely to be long delayed.",
+    "We know from this work that providing good nutrition and cognitive stimulation can prevent developmental delays.",
+    "Of course, the reaction in birth rates was delayed, but it is occurring."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "déjà vu",
+    "dejected",
+    "dejectedly",
+    "dejection",
+    "delay",
+    "delegate",
+    "delegation",
+    "delete",
+    "deletion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305611_ca99598e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305611_36a13c81cb_o.png",
+      "id_image": "delay_3103094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420668_c4b52d45ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420668_06e234fbfa_o.png",
+      "id_image": "delay_3103420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042555_1f3439042c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042555_dfaba90510_o.png",
+      "id_image": "delay_4271279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042540_4a90e16f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042540_d4ec39563f_o.png",
+      "id_image": "delay_4271651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661039_f92ba5c794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661039_bd859fb177_o.png",
+      "id_image": "delay_4412665"
+    }
+  ]
+}

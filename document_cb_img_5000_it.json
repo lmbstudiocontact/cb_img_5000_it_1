@@ -1,0 +1,73 @@
+{
+  "english": "document",
+  "phat_am": "ˈdokjumənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài liệu",
+          "definition": "a written statement giving information, proof, evidence etc",
+          "world_new": [
+            "statement",
+            "information",
+            "proof",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She signed several legal documents relating to the sale of her house.",
+              "world_new": [
+                "legal",
+                "sale",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No other literary scholar had ever made such extensive use of archival documents.",
+    "They were therefore at some pains to preserve any documents referring to the construction.",
+    "Despite the training that was provided, each interviewer had his or her own style and way of asking questions and documenting the responses.",
+    "We did not object to retaining documents at field or site locations provided the suggestions we made were implemented.",
+    "Action-oriented, developmental evaluation is dynamic - it is not a set of figures or documents, but a set of activities.",
+    "A few words about the authors of these documents might be helpful.",
+    "Numerous studies documented the relation of increased physical activity with an improved cardiovascular risk factor profile in adults.",
+    "The documents will first be scrutinized in terms of their internal and external consistencies."
+  ],
+  "list_see_also": [
+    "documentary",
+    "documentation"
+  ],
+  "list_browse": [
+    "dockyard",
+    "doctor",
+    "doctorate",
+    "doctrine",
+    "document",
+    "documentary",
+    "documentation",
+    "dodge",
+    "dodge the draft"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426848_647a45d52f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426848_97b2bcd795_o.png",
+      "id_image": "document_167825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426798_16ee91eff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426798_6df1cd1e25_o.png",
+      "id_image": "document_171000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311946_82e7e583f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311946_ac95c41f3f_o.png",
+      "id_image": "document_741896"
+    }
+  ]
+}

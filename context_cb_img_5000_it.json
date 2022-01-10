@@ -1,0 +1,76 @@
+{
+  "english": "context",
+  "phat_am": "ˈkontekst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "văn cảnh",
+          "definition": "the parts directly before or after a word or phrase (written or spoken) which affect its meaning",
+          "world_new": [
+            "directly",
+            "affect",
+            "its",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This statement, taken out of its context, gives a wrong impression of the speaker’s opinions.",
+              "world_new": [
+                "statement",
+                "its",
+                "wrong",
+                "impression"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On not being led up the garden path : the use of context by the psychological parser.",
+    "We generalize some recent results developed in static policy games with multiple players, to a dynamic context.",
+    "This quotation within a mathematical context makes it possible to suggest an interpretation for a rather difficult philosophical statement.",
+    "Despite this, there are striking analogies between the philosophical responses to the problem of underdetermination in the two contexts.",
+    "The same was true of following phonetic context.",
+    "Working within the principles of organic agriculture and thus acknowledging the values of the system is also an important context for research.",
+    "In the enriched representational context of events, situations, actions, and plans the operative representational unit is often a circuit of nodes rather than a node.",
+    "Despite the fundamental role phonetic representations play in language acquisition, there has been very little research on their development in a bilingual context."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contentment",
+    "contents",
+    "contest",
+    "contestant",
+    "context",
+    "continence",
+    "continent",
+    "continental",
+    "continental breakfast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044090_855191f28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044090_1c5415cc62_o.png",
+      "id_image": "context_1783669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044055_18d0cb4465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044055_54a96bb178_o.png",
+      "id_image": "context_5261866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662334_a2539f71bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662334_4809d041cd_o.png",
+      "id_image": "context_5360558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662319_8e19042976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662319_e6af6515d9_o.png",
+      "id_image": "context_6348622"
+    }
+  ]
+}

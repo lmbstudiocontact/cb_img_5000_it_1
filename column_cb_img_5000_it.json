@@ -1,0 +1,186 @@
+{
+  "english": "column",
+  "phat_am": "ˈkoləm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cột",
+          "definition": "a stone or wooden pillar used to support or adorn a building",
+          "world_new": [
+            "stone",
+            "wooden",
+            "pillar",
+            "support",
+            "adorn",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the carved columns in the temple.",
+              "world_new": [
+                "temple"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình cột",
+          "definition": "something similar in shape",
+          "world_new": [
+            "similar",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a column of smoke.",
+              "world_new": [
+                "smoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cột số",
+          "definition": "a vertical row (of numbers)",
+          "world_new": [
+            "vertical",
+            "row"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He added up the column (of figures) to find the answer.",
+              "world_new": [
+                "added",
+                "find",
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cột báo",
+          "definition": "a vertical section of a page of print",
+          "world_new": [
+            "vertical",
+            "section",
+            "page",
+            "print"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a newspaper column.",
+              "world_new": [
+                "newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mục",
+          "definition": "a section in a newspaper, often written regularly by a particular person",
+          "world_new": [
+            "section",
+            "newspaper",
+            "regularly",
+            "particular",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He writes a daily column about sport.",
+              "world_new": [
+                "daily",
+                "sport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đội hình hàng dọc",
+          "definition": "a long file of soldiers marching in short rows",
+          "world_new": [
+            "long",
+            "file",
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a column of infantry.",
+              "world_new": [
+                "infantry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dãy xe dài nối tiếp nhau",
+          "definition": "a long line of vehicles etc, one behind the other",
+          "world_new": [
+            "long",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A column of army trucks slowly made its way along the road.",
+              "world_new": [
+                "army",
+                "slowly",
+                "its",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The last three columns provide the outcome of the estimation when is set to zero.",
+    "Only one of the columns for yearly sales is provided here.",
+    "Where roofs and columns collapse, the spiders thrive.",
+    "Different letters above the columns indicate significant differences in longevity, the number within the columns indicates the number of replicates.",
+    "The facade tiles were attached to the columns from the inside with copper wire.",
+    "All five squirrel monkeys raised with strabismus exhibited well-developed ocular dominance columns in striate cortex of each hemisphere.",
+    "Table 1 presents the weights by which subtests (shown in the columns) were combined to produce the composite scores (in the rows).",
+    "The first has two parallel columns that support a beam with two faces."
+  ],
+  "list_see_also": [
+    "columnist",
+    "column graph"
+  ],
+  "list_browse": [
+    "colouring",
+    "colourless",
+    "colours",
+    "colt",
+    "column",
+    "column graph",
+    "columnist",
+    "coma",
+    "comb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057520_d41b487cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057520_45efd57fed_o.png",
+      "id_image": "column_3603706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365647_a9da4e5829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365647_70fa2eae9a_o.png",
+      "id_image": "column_4598378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675724_2a0132006d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675724_02db0e16f6_o.png",
+      "id_image": "column_4615721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057550_3023917bb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057550_285245dd11_o.png",
+      "id_image": "column_708875"
+    }
+  ]
+}

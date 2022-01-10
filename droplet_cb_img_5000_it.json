@@ -1,0 +1,66 @@
+{
+  "english": "droplet",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giọt nhỏ",
+          "definition": "a tiny drop",
+          "world_new": [
+            "tiny",
+            "drop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "droplets of rain.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Every change in the number of droplets affects the movement of the remaining droplets immediately; the trajectories are non-smooth.",
+    "These streams of oil produce visually interesting currents disturbing the exact circular properties of the droplet-wave propagation.",
+    "A two-dimensional molten aluminium droplet is of finite extent and is surrounded by a passive gas.",
+    "Eggs were put separately into droplets (0.5 xl) of fertilisation medium under paraffin oil and 10-20 capacitated spermatozoa were added.",
+    "A calibrated grid inside the microscope measured the droplet dimensions.",
+    "A direct - 5 is scale-invariant for the steady-state droplets.",
+    "The third sampling procedure counted the number of larvae in water droplets that had collected on the surface of the plant.",
+    "Characterizing social networks of importance for the propagation of diseases transmitted through respiratory droplets."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "drop in",
+    "drop off",
+    "drop-down menu",
+    "drop-out",
+    "droplet",
+    "droppings",
+    "drought",
+    "drown",
+    "drowsily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452443_3969a45d01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452443_9623a37100_o.png",
+      "id_image": "droplet_282892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452388_d7569c5874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452388_aeb1a13546_o.png",
+      "id_image": "droplet_2949679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337526_f2e52235cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337526_9cfe4cf6f4_o.png",
+      "id_image": "droplet_4745626"
+    }
+  ]
+}

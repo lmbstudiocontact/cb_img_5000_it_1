@@ -1,0 +1,94 @@
+{
+  "english": "comedy",
+  "phat_am": "ˈkomədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hài kịch",
+          "definition": "a play of a pleasant or amusing kind",
+          "world_new": [
+            "play",
+            "pleasant",
+            "amusing",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went to see a comedy last night.",
+              "world_new": [
+                "see",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính hài hước",
+          "definition": "humour/humor",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They all saw the comedy of the situation.",
+              "world_new": [
+                "saw",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Your subscription series would be mostly dramas with a few comedies, classics, musicals, and other types of plays.",
+    "Three separate archival records identify a parlour as a venue for comedies.",
+    "In such cases, comedy's first effect is always the elevation of the tragic impression, which yet later loses itself and reverts to its true effect of instilling calm.",
+    "Chapter 6 analyzes female action films, psychological thrillers, and comedies.",
+    "The authors do not follow events beyond the immediate impact of the 1974 par tition, so others must assess whether it is tragedy or comedy.",
+    "The plays are mostly comedies, cryptically addressing the political issues of the day with satire.",
+    "The programs shown are a mixture of animated cartoons and live action comedies, which have been more frequent since 2007.",
+    "In the earlier comedies of the period - even those given a rough neoclassical form - fictional characterization is casual."
+  ],
+  "list_see_also": [
+    "comedian"
+  ],
+  "list_browse": [
+    "come/be within striking distance of",
+    "comeback",
+    "comedian",
+    "comedown",
+    "comedy",
+    "comeliness",
+    "comely",
+    "comer",
+    "comet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435198_fec57878c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435198_56d7f61187_o.png",
+      "id_image": "comedy_2040640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675034_4f609beb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675034_e0b36c3e5d_o.png",
+      "id_image": "comedy_2123777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364777_04666a9290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364777_8269fa2c8d_o.png",
+      "id_image": "comedy_4114771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319996_313eb0650a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319996_15c7e964f4_o.png",
+      "id_image": "comedy_5320595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319961_d31f4149d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319961_00beb8760d_o.png",
+      "id_image": "comedy_6347555"
+    }
+  ]
+}

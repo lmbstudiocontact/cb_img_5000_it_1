@@ -1,0 +1,158 @@
+{
+  "english": "extreme",
+  "phat_am": "ikˈstriːm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vô cùng",
+          "definition": "very great, especially much more than usual",
+          "world_new": [
+            "great",
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "extreme pleasure",
+              "world_new": [
+                "pleasure"
+              ]
+            },
+            {
+              "ex_of_definition": "He is in extreme pain.",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất xa",
+          "definition": "very far or furthest in any direction, especially out from the centre",
+          "world_new": [
+            "far",
+            "furthest",
+            "direction",
+            "centre"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the extreme south-western tip of England",
+              "world_new": [
+                "tip"
+              ]
+            },
+            {
+              "ex_of_definition": "Politically, he belongs to the extreme left.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cực đoan",
+          "definition": "very violent or strong; not ordinary or usual",
+          "world_new": [
+            "violent",
+            "ordinary",
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He holds extreme views on education.",
+              "world_new": [
+                "education"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thái cực",
+          "definition": "something as far, or as different, as possible from something else",
+          "world_new": [
+            "far",
+            "possible",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the extremes of sadness and joy.",
+              "world_new": [
+                "sadness",
+                "joy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở mức độ cao nhất",
+          "definition": "the greatest degree of any state, especially if unpleasant",
+          "world_new": [
+            "degree",
+            "state",
+            "unpleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The extremes of heat in the desert make life uncomfortable.",
+              "world_new": [
+                "heat",
+                "desert",
+                "life",
+                "uncomfortable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The relative effects of environmental influences vary with extremes as well.",
+    "Temperatures in artificial refuges were intermediate between these extremes.",
+    "He argues that such extremes did indeed exist, but only as ' idealized ' positions.",
+    "Figure 5 shows the two extremes for the future of the building; the doubling of built area and complete demolition.",
+    "Between these two extremes lies the vast domain where behavioral scientists toil.",
+    "The true figure is more likely to lie somewhere between these extremes, and probably closer to the minimum.",
+    "While both extremes (very large versus small networks) are harmful, a compromise is necessary.",
+    "The extremes range from occasional partial seizures of simple symptomatology without loss of consciousness to full-blown tonie-clonic seizures."
+  ],
+  "list_see_also": [
+    "extremely",
+    "extremism",
+    "extremist",
+    "extremity",
+    "in the extreme",
+    "to extremes"
+  ],
+  "list_browse": [
+    "extraterrestrial",
+    "extravagance",
+    "extravagant",
+    "extravagantly",
+    "extreme",
+    "extremely",
+    "extremism",
+    "extremist",
+    "extremity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695059_6aef443ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695059_0c3f068537_o.png",
+      "id_image": "extreme_2503406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339926_e6d417bffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339926_82e7e4257b_o.png",
+      "id_image": "extreme_805531"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "eel",
+  "phat_am": "iːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lươn",
+          "definition": "a kind of fish with a long smooth cylindrical or ribbon-shaped body",
+          "world_new": [
+            "kind",
+            "fish",
+            "long",
+            "smooth",
+            "cylindrical",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "jellied eels."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The principal study objective was to test the saturation hypothesis in eels.",
+    "Interestingly, these authors also noted that the proportion of eels with damaged swimbladders thereafter decreased.",
+    "Movements of eels of this nature would also explain the differences in parasite dispersion patterns evident in the same month.",
+    "Abundance refers to component population size, calculated as the total number of parasites per species, per sample of eels.",
+    "Examination of eels on day 112 revealed no indication for acquired immunity resulting from the primary infection.",
+    "The number of eels in each class is indicated above the bars.",
+    "From 1994 to 2001, 720 eels were collected from two sites in the lake.",
+    "In the present study, a significant correlation was found between parasite infection and body length of eels."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "educated guess",
+    "education",
+    "educational",
+    "educationalist",
+    "eel",
+    "eerie",
+    "eerily",
+    "eeriness",
+    "efface"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443748_1a584fa8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443748_8f65998be8_o.png",
+      "id_image": "eel_1717842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065555_9c0b8d83f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065555_2da3a05872_o.png",
+      "id_image": "eel_3937542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683739_c069683010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683739_c95ffb2a7b_o.png",
+      "id_image": "eel_4545267"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "doubtful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nghi ngại",
+          "definition": "feeling doubt; uncertain what to think, expect etc",
+          "world_new": [
+            "feeling",
+            "uncertain",
+            "think",
+            "expect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is doubtful about the future of the school.",
+              "world_new": [
+                "future",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng ngờ",
+          "definition": "able to be doubted; not clear",
+          "world_new": [
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The outcome is doubtful",
+              "world_new": [
+                "outcome"
+              ]
+            },
+            {
+              "ex_of_definition": "a doubtful result.",
+              "world_new": [
+                "result"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không chắc chắn",
+          "definition": "uncertain but rather unlikely, unhopeful etc",
+          "world_new": [
+            "uncertain",
+            "rather",
+            "unlikely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is doubtful whether this will work",
+              "world_new": [
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "a doubtful improvement.",
+              "world_new": [
+                "improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả nghi",
+          "definition": "suspicious",
+          "world_new": [
+            "suspicious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s rather a doubtful character.",
+              "world_new": [
+                "rather",
+                "character"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, we shall see that it is doubtful that materialism cannot explain the universe.",
+    "In addition, it is doubtful that the equilibrium is unique16 ; again, this is a largely unexplored issue in the literature.",
+    "However, the homology between the dinosaurian structure and the mammalian fossa subarcuata is doubtful.",
+    "Many are doubtful that increased direct funding would generate sufficient incentives or be managed efficiently enough.",
+    "We consider it doubtful that the observed trends are strongly biased by inaccurate cancer registry or population data.",
+    "Indeed, it is doubtful if even seasoned researchers can truly have intuitions about interpretability in the absence of an explicit theory.",
+    "Survival of any biological material is thus, at first glance, doubtful.",
+    "In addition, their reliability is doubtful since the newspaper admitted that they were based on hearsay."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "double-Dutch",
+    "double-quick",
+    "doubles",
+    "doubt",
+    "doubtful",
+    "doubtfully",
+    "doubtfulness",
+    "doubtless",
+    "dough"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352352_03b174b0dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352352_a6600f0e62_o.png",
+      "id_image": "doubtful_4897177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352337_aa83605f6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352337_c672fe0d10_o.png",
+      "id_image": "doubtful_5777998"
+    }
+  ]
+}

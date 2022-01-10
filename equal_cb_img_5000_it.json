@@ -1,0 +1,139 @@
+{
+  "english": "equal",
+  "phat_am": "ˈiːkwəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng nhau",
+          "definition": "the same in size, amount, value etc",
+          "world_new": [
+            "size",
+            "amount",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "four equal slices"
+            },
+            {
+              "ex_of_definition": "coins of equal value",
+              "world_new": [
+                "value"
+              ]
+            },
+            {
+              "ex_of_definition": "Are these pieces equal in size?",
+              "world_new": [
+                "size"
+              ]
+            },
+            {
+              "ex_of_definition": "Women want equal wages with men.",
+              "world_new": [
+                "want"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật ngang bằng nhau",
+          "definition": "one of the same age, rank, ability etc",
+          "world_new": [
+            "age",
+            "rank",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am not his equal at running.",
+              "world_new": [
+                "I",
+                "running"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sánh với",
+          "definition": "to be the same in amount, value, size etc",
+          "world_new": [
+            "amount",
+            "value",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cannot hope to equal him",
+              "world_new": [
+                "I",
+                "hope"
+              ]
+            },
+            {
+              "ex_of_definition": "She equalled/equaled his score of twenty points",
+              "world_new": [
+                "score",
+                "points"
+              ]
+            },
+            {
+              "ex_of_definition": "Five and five equals ten."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Examples of such cases will be white surfaces and black surfaces, with all three reflection coefficients equal to 1 or to 0, respectively.",
+    "Anxiety about the relativist abyss in which 'all pasts are equal' has thwarted efforts to evaluate alternatives to 'objective science'.",
+    "We consider terms to be equal modulo renaming of bound variables.",
+    "However, only a special case of two interacting wave trains of equal amplitude and period is considered in this work.",
+    "Women were almost equal to men in strong, positive roles despite the fact that they were represented 870 times and men 1511 times.",
+    "The final step is to show that there exists a weight system for which the transfers equal zero.",
+    "His decision to exclude secondary stresses (1999: 14), but to include two 'equal' stresses, is very problematic.",
+    "The mysticism of religion that is already supposed to transcend logic and rules is a theoretical equal to regulated political incommensurability."
+  ],
+  "list_see_also": [
+    "equality",
+    "equalize",
+    "equally",
+    "equal to",
+    "equals sign"
+  ],
+  "list_browse": [
+    "episode",
+    "epistle",
+    "epitaph",
+    "epoch",
+    "equal",
+    "equal to",
+    "equality",
+    "equalize",
+    "equally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053355_721c6bfa4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053355_ab552a2921_o.png",
+      "id_image": "equal_1774096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361242_9f33750364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361242_7bd9657e42_o.png",
+      "id_image": "equal_6314029"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "documentary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc tài liệu",
+          "definition": "of or found in documents",
+          "world_new": [
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "documentary evidence.",
+              "world_new": [
+                "evidence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phim tài liệu",
+          "definition": "a film, programme/program etc giving information on a certain subject",
+          "world_new": [
+            "film",
+            "information",
+            "certain",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a documentary on the political situation in Argentina.",
+              "world_new": [
+                "political",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here, biographical documentaries, with their directly personal focus, have drawn extensively on music to establish both tone and circumstance.",
+    "Of course great spectaculars or international documentaries cost a tremendous amount of money.",
+    "What ensued from that debate became a mythic moment that resonates throughout countless memoirs, documentaries and commentaries on the period.",
+    "They are highly evocative, good documentaries which arouse emotions, concern, interest and involvement.",
+    "I have seen documentaries showing how the military descend upon farming communities and destroy everything for the sake of opium cultivation.",
+    "Again, art, religion, education, plays, films, current affairs and documentaries are missing.",
+    "What cannot be simi-larly ensured is that documentaries are enlightening, plays moving and comedies funny.",
+    "The result is that award-winning dramas and documentaries are interspersed with soaps and game shows."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doctor",
+    "doctorate",
+    "doctrine",
+    "document",
+    "documentary",
+    "documentation",
+    "dodge",
+    "dodge the draft",
+    "dodgy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426758_2f8a36723f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426758_5da894ace3_o.png",
+      "id_image": "documentary_2040660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048490_8b905ae640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048490_fb2d4a9ef4_o.png",
+      "id_image": "documentary_5190261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048460_a4d090f45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048460_6496610b95_o.png",
+      "id_image": "documentary_6347682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666744_4275b8734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666744_765ce9ef00_o.png",
+      "id_image": "documentary_6347699"
+    }
+  ]
+}

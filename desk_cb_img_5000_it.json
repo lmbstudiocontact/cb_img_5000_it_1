@@ -1,0 +1,83 @@
+{
+  "english": "desk",
+  "phat_am": "desk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn viết",
+          "definition": "a piece of furniture, often like a table, for sitting at while writing, reading etc",
+          "world_new": [
+            "piece",
+            "furniture",
+            "table",
+            "sitting",
+            "reading"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She kept the pile of letters in a drawer in her desk.",
+              "world_new": [
+                "pile",
+                "drawer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am worried, as a result of my personal observation, about the immaturity of many of those who are behind teachers' desks today.",
+    "There were no desks, and no seats for the children.",
+    "The aura of opulence had gone: chaises-longues and chandeliers had given way to desks and cupboards.",
+    "All have recently been supplied with new desks and chairs as part of their introduction of computer systems.",
+    "During the war, we were told that children were automatically drawing pictures of aircraft as they sat at their desks in the schools.",
+    "I have never heard of a federation in which the governor-general had two desks.",
+    "In that event, let the young people sit at their desks and learn what is taught, however much it bores them.",
+    "They can be put on desks and serve as a necessary appliance with manipulability."
+  ],
+  "list_see_also": [
+    "desktop",
+    "desktop publishing"
+  ],
+  "list_browse": [
+    "designing",
+    "desirability",
+    "desirable",
+    "desire",
+    "desk",
+    "desktop",
+    "desktop publishing",
+    "desolate",
+    "desolation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373437_7a3c64e221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373437_108e272d16_o.png",
+      "id_image": "desk_170906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065485_14c00fbdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065485_95d5504c44_o.png",
+      "id_image": "desk_170936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328596_bb295d3c38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328596_48fe0460ba_o.png",
+      "id_image": "desk_170938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065385_01048582cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065385_f219df115b_o.png",
+      "id_image": "desk_257644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328541_1985d3b2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328541_4676295dbc_o.png",
+      "id_image": "desk_288076"
+    }
+  ]
+}

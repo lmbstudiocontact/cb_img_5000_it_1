@@ -1,0 +1,112 @@
+{
+  "english": "float",
+  "phat_am": "fləut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lơ lửng; lềnh bềnh; nổi",
+          "definition": "to (make something) stay on the surface of a liquid",
+          "world_new": [
+            "stay",
+            "surface",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A piece of wood was floating in the stream.",
+              "world_new": [
+                "piece",
+                "wood",
+                "stream"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái phao",
+          "definition": "an object that floats on a fishing line",
+          "world_new": [
+            "object",
+            "fishing",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the float moves, there is probably a fish on the hook.",
+              "world_new": [
+                "probably",
+                "fish",
+                "hook"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bè; mảng trôi",
+          "definition": "a vehicle for transporting certain things",
+          "world_new": [
+            "vehicle",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a milk-float"
+            },
+            {
+              "ex_of_definition": "a cattle-float."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The term ' fog ' stands for a multitude of tiny water droplets floating in air.",
+    "The floating potential has been obtained as a function of the negative-ion density ratio : the associated beam-density ratio has also been determined.",
+    "Here we see instances of stability, spreading, floating tone, downstep and chainshift, although not all in the same language.",
+    "Synesthetically inspired by floating visions - imagery slowed down to artificial sound and found soundscape objects.",
+    "The wood was cut from trees near the village, and then floated down river to the village site.",
+    "Therefore, imaging of atrial thrombus using conventional methods may be limited with the exception of large formations or floating thrombus.",
+    "The proposition was based in part on evidence from ionosondes operating on floating ice shelves.",
+    "We now consider the first- and second-order interactions of the bichromatic incident waves with a general three-dimensional freely floating body."
+  ],
+  "list_see_also": [
+    "floating population",
+    "floating restaurant"
+  ],
+  "list_browse": [
+    "flirtatious",
+    "flirtatiously",
+    "flit",
+    "flitting",
+    "float",
+    "floating population",
+    "floating restaurant",
+    "flock",
+    "flog"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436333_a4aff994f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436333_e66552a51d_o.png",
+      "id_image": "float_390806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057810_7cce6eb71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057810_be23890073_o.png",
+      "id_image": "float_4861733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365952_e05fcdfda5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365952_5fef925ddc_o.png",
+      "id_image": "float_499416"
+    }
+  ]
+}

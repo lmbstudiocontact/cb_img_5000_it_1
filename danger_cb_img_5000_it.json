@@ -1,0 +1,96 @@
+{
+  "english": "danger",
+  "phat_am": "ˈdeindʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nguy hiểm",
+          "definition": "something that may cause harm or injury",
+          "world_new": [
+            "cause",
+            "harm",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The canal is a danger to children.",
+              "world_new": [
+                "canal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguy cơ",
+          "definition": "a state or situation in which harm may come to a person or thing",
+          "world_new": [
+            "state",
+            "situation",
+            "harm",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is in danger"
+            },
+            {
+              "ex_of_definition": "The bridge is in danger of collapse.",
+              "world_new": [
+                "bridge",
+                "collapse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of course, there are dangers in such compensation strategies, including the selection bias implied regarding the risk preferences of employees in different kinds of organizations.",
+    "Nothing human can deliver people from the dangers that threaten, who seem to think of nothing less than delivering themselves.",
+    "They were making a point about changing political relationships in a country beset with dangers.",
+    "Procedures for dispute resolution must avoid the dangers of management based on averaging the positions of all stakeholders.",
+    "If so, then before we can begin to yield the benefits of this technology we must prepare to avoid the accompanying dangers.",
+    "All in all, the choice to compare and contrast semantic minimalism with extreme contextualism has both its merits and its hidden dangers.",
+    "The second point concerns the whole idea of defective displayed language and its inherent dangers.",
+    "I am aware of the dangers in referring to the 'work concept', 'jazz' and 'digitized music' as though uniform categories."
+  ],
+  "list_see_also": [
+    "dangerous"
+  ],
+  "list_browse": [
+    "dancer",
+    "dancing",
+    "dandelion",
+    "dandruff",
+    "danger",
+    "dangerous",
+    "dangle",
+    "dare",
+    "daredevil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047580_d92caca7d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047580_a7343f29fd_o.png",
+      "id_image": "danger_1685842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310721_aa48290a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310721_b9284f14c9_o.png",
+      "id_image": "danger_2333681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354947_2726fbceaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354947_1ac8bb33fd_o.png",
+      "id_image": "danger_488557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354892_38fbd2e646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354892_fe56f6fc69_o.png",
+      "id_image": "danger_5570598"
+    }
+  ]
+}

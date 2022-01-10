@@ -1,0 +1,78 @@
+{
+  "english": "consumption",
+  "phat_am": "kənˈsampʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiêu dùng",
+          "definition": "the act of consuming",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The consumption of coffee has increased.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bệnh lao phổi",
+          "definition": "an old word for tuberculosis of the lungs.",
+          "world_new": [
+            "old",
+            "tuberculosis"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this environment, a commodity vector at each point in time is made up of consumption and a set of 10 vectors.",
+    "When the agent is a creditor, both his consumption level and his leisure time may increase in the short run.",
+    "With the equilibrium growth rate fixed from the consumption side, this trade-off ceases to exist in the small open economy. 18.",
+    "The negative correlation of investment and consumption is present even if the serial correlation of the intermediation shock is 0.98. 18.",
+    "Percentage increase in consumption in each period required to bring about the same increase in utility as an optimal tax reform.",
+    "As we know, the elasticity of intertemporal substitution is a measure of tolerance toward intertemporal variation in consumption.",
+    "In the long run, both the consumption level and the labor supply recover their initial values.",
+    "In other words, the percentage of expected consumption that consumers would be willing to give up to eliminate all uncertainty."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consumer",
+    "consumer goods",
+    "consummate",
+    "consummation",
+    "consumption",
+    "contact",
+    "contact lens",
+    "contagion",
+    "contagious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308436_f03be589cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308436_c30dfc27fb_o.png",
+      "id_image": "consumption_1486206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308416_dcea8fc3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308416_8aa005f7d9_o.png",
+      "id_image": "consumption_2390236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045325_117eafcab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045325_e78066e0c5_o.png",
+      "id_image": "consumption_4465742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308321_1f2c2f74df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308321_cd8714c8ac_o.png",
+      "id_image": "consumption_6315590"
+    }
+  ]
+}

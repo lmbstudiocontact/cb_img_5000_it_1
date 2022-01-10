@@ -1,0 +1,72 @@
+{
+  "english": "defender",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bảo vệ",
+          "definition": "a person who defends (someone or something)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s one of the best defenders in the league",
+              "world_new": [
+                "best",
+                "league"
+              ]
+            },
+            {
+              "ex_of_definition": "the defenders of the castle.",
+              "world_new": [
+                "castle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The defenders are few, much less than the number of disaffected sepoys.",
+    "Increasingly the metropolis is put under a microscope, its defenders fearful of the darker side of the jewel in the imperial crown.",
+    "The defender's choice for a bargaining position has subtle implications.",
+    "Furthermore, the stereotypically 'masculine ' values (physical strength, defenders, cold-blooded), were mostly emphasised by female soldiers, not male.",
+    "Others, like defenders of the kalam argument, will object to a diachronic infinite regress of causes extending back in time.",
+    "In fact, the passive, anticipates a 'lard factor' of 33 to 50 percent which has few defenders nowadays, has fallen in first drafts of sentences.",
+    "The negative relationship between ants and non-ants that has been detected in our study thus means a negative relationship between better a nd less-good defenders.",
+    "Note, however, that defenders of both epistemic scientism and rationalistic scientism accept that science has some practice-external limits."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "defence",
+    "defenceless",
+    "defend",
+    "defendant",
+    "defender",
+    "defensive",
+    "defer",
+    "deference",
+    "deferment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421073_8ef9b04ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421073_e31a1cac21_o.png",
+      "id_image": "defender_1373168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350112_45236032b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350112_c81b97efd9_o.png",
+      "id_image": "defender_2302972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305856_4d9f8878b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305856_7f5c31cce4_o.png",
+      "id_image": "defender_4109529"
+    }
+  ]
+}

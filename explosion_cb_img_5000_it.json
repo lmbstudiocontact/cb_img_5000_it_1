@@ -1,0 +1,120 @@
+{
+  "english": "explosion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng nổ",
+          "definition": "a blowing up, or the noise caused by this",
+          "world_new": [
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gas explosion",
+              "world_new": [
+                "gas"
+              ]
+            },
+            {
+              "ex_of_definition": "The explosion could be heard a long way off.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nổ",
+          "definition": "the action of exploding",
+          "world_new": [
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the explosion of the atom bomb.",
+              "world_new": [
+                "atom",
+                "bomb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bùng nổ",
+          "definition": "a sudden showing of strong feelings etc",
+          "world_new": [
+            "sudden",
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an explosion of laughter.",
+              "world_new": [
+                "laughter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự phát triển ồ ạt",
+          "definition": "a sudden great increase",
+          "world_new": [
+            "sudden",
+            "great",
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an explosion in food prices.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All these explosions which occur close to an electric coal-cutting machine could he obviated if the regulation were carried out.",
+    "Section 4 contains necessary conditions for heteroclinic points to be chain explosions.",
+    "The shadowgraphswere recorded from individual explosions a t the indicated time delays after the mallet struck the sphere.",
+    "Femtosecond time resolved studies of the dynamics of noble gas cluster explosions.",
+    "The rate of implosions will change in the direction opposite to the rate of explosions.",
+    "Experiments on the simulation of high-altitude explosions are also described.",
+    "His interactions with his wife were marked more and more often by shocking explosions of temper.",
+    "During the 10 years 1920–29 there were 134 explosions, involving loss of life, the total number of deaths being 389."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exploration",
+    "exploratory",
+    "explore",
+    "explorer",
+    "explosion",
+    "explosive",
+    "exponent",
+    "export",
+    "exportation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456528_bd87b25d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456528_b8f29d403b_o.png",
+      "id_image": "explosion_209231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386707_42a80af91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386707_e964f20a97_o.png",
+      "id_image": "explosion_2737916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386672_96fd93b104_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386672_07c00e84ee_o.png",
+      "id_image": "explosion_3937186"
+    }
+  ]
+}

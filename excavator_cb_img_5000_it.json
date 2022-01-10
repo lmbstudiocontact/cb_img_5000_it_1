@@ -1,0 +1,66 @@
+{
+  "english": "excavator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người khai quật",
+          "definition": "a machine or person that excavates",
+          "world_new": [
+            "machine",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mechanical excavator.",
+              "world_new": [
+                "mechanical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three excavators are working at the present time, with great expenditure on what men with any practical knowledge would say will be hopeless as a preventive of erosion and flooding.",
+    "I should have liked him to be much more specific about his figures for excavators.",
+    "Caterpillar's line of machines range from tracked tractors to hydraulic excavators, backhoe loaders, motor graders, off-highway trucks, wheel loaders, agricultural tractors and locomotives.",
+    "Why did the bulldozers and the excavators rush in to clear the ground for the school, but did not start on the houses?",
+    "We did not make the contract for the excavators.",
+    "Other excavators have successfully employed these data i n t heir research strategy.",
+    "The excavators suggest that this concentration of bones in the pit may represent the practice of burial by the inhabitants of the cave.",
+    "One of the excavators promptly broke down and was out of action for several months."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exasperate",
+    "exasperation",
+    "excavate",
+    "excavation",
+    "excavator",
+    "exceed",
+    "exceedingly",
+    "excel",
+    "excellence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312856_91190ebeba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312856_ec8a42e420_o.png",
+      "id_image": "excavator_2014976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356787_6bfa05028c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356787_c3c99fd4d3_o.png",
+      "id_image": "excavator_4736273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049325_977b87e388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049325_e3823629a1_o.png",
+      "id_image": "excavator_4985228"
+    }
+  ]
+}

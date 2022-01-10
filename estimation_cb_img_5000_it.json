@@ -1,0 +1,62 @@
+{
+  "english": "estimation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đánh giá",
+          "definition": "judgement; opinion",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In my estimation, he is the more gifted artist of the two.",
+              "world_new": [
+                "my",
+                "gifted",
+                "artist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The test strategy that is developed is demanding in terms of the number of estimations needed.",
+    "First, the model developed for the analysis allows for estimations of costs and effects from treatment over the longer term.",
+    "In all estimations, hauling costs are shown to have substantial impacts on coping water demand.",
+    "Temporal aggregation will improve the estimation's reliability by trading off responsiveness.",
+    "The findings of the micro estimations are impressive, though not really surprising given the result of the first volume.",
+    "Moreover, estimations are carried out at any time instant of the robot task accomplishment.",
+    "However, significant differences in key parameter estimations could produce different results and policy implications.",
+    "The detailed findings of our administrative costs estimations are discussed below."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "estate agent",
+    "estate car",
+    "esteem",
+    "estimate",
+    "estimation",
+    "estrogen",
+    "estuary",
+    "et cetera",
+    "etch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358942_6310c428b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358942_56e500f22c_o.png",
+      "id_image": "estimation_3773105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314816_765b842a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314816_f6fbe3404e_o.png",
+      "id_image": "estimation_4098189"
+    }
+  ]
+}

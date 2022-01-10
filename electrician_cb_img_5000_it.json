@@ -1,0 +1,76 @@
+{
+  "english": "electrician",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ điện",
+          "definition": "a person whose job is to make, install, repair etc electrical equipment",
+          "world_new": [
+            "person",
+            "job",
+            "install",
+            "repair",
+            "electrical",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The electrician mended the electric fan.",
+              "world_new": [
+                "electric",
+                "fan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "People are more likely to trust an electrician who has been recommended by a friend of a friend whom they know to be reliable.",
+    "I am thinking of all the industries associated with a fishing community—netmakers, ropemakers, joiners, electricians and harbour staff.",
+    "He may be a plumber, electrician, or fireman who goes window cleaning, gardening, cleaning a car or mending a television set.",
+    "Such a ban would also have a dramatic impact on the tangential businesses that support amusement arcades, such as electricians and plumbers.",
+    "The role of such professionals as natural philosophers and supporters of scientific culture is evident from the number of clerical naturalists, meteorologists and electricians in the eighteenth and nineteenth centuries.",
+    "Because of this exclusive concession, electricians set up their businesses according to the system of the 'street licence'.",
+    "They include machine tool-setter operators, mechanical, maintenance and repair occupations, electricians, carpenters, joiners and sewing machinists.",
+    "Grossberg's worry about the plausibility of \"rewiring\" seems to apply to the very literal rewiring that might be done by a neural electrician."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "electric circuit",
+    "electric current",
+    "electrical",
+    "electrically",
+    "electrician",
+    "electricity",
+    "electrics",
+    "electrification",
+    "electrified"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680974_61c4839830_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680974_caa9365415_o.png",
+      "id_image": "electrician_2654057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370677_308530248c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370677_94de48f655_o.png",
+      "id_image": "electrician_307943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680989_b19938e76a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680989_01a3779194_o.png",
+      "id_image": "electrician_360464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680909_f7015ea6d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680909_1c0456b799_o.png",
+      "id_image": "electrician_4633104"
+    }
+  ]
+}

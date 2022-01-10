@@ -1,0 +1,180 @@
+{
+  "english": "dead",
+  "phat_am": "ded",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chết",
+          "definition": "without life; not living",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dead body",
+              "world_new": [
+                "body"
+              ]
+            },
+            {
+              "ex_of_definition": "Throw out those dead flowers."
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏng",
+          "definition": "not working and not giving any sign of being about to work",
+          "world_new": [
+            "sign",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The phone/engine is dead."
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "absolute or complete",
+          "world_new": [
+            "absolute",
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was dead silence at his words",
+              "world_new": [
+                "silence"
+              ]
+            },
+            {
+              "ex_of_definition": "He came to a dead stop.",
+              "world_new": [
+                "stop"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were dead drunk when I saw them at the party.",
+              "world_new": [
+                "drunk",
+                "I",
+                "saw",
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đã mất",
+          "definition": "people who have died",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The local people bury their dead in a cemetery overlooking the village.",
+              "world_new": [
+                "local",
+                "people",
+                "bury",
+                "their",
+                "cemetery",
+                "village"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đã chết",
+          "definition": "the state of being dead",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s a famous horror film about people who rise from the dead (= come alive again after being dead).",
+              "world_new": [
+                "famous",
+                "horror",
+                "film",
+                "people",
+                "rise",
+                "alive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unequal sampling efficiency for living and dead parasites is probable for recent infections (stage 4 and earlier).",
+    "This can take measurements using fluorescence to establish the three microbe states: viable, dead or dormant.",
+    "Half of this sediment can be expected to settle above the out-take (in the live storage) and half below the out-take (in dead storage).",
+    "Within a host, the proportion of the parasites that are dead is not related to the degree of multiple infection.",
+    "This friend was grateful for the ticket, but confessed he was dead asleep for almost the entire programme.",
+    "Positions and heading angle from dead reckoning are redrawn on computer screen overlapped with a hand measured map.",
+    "Even (seemingly) unimportant enacted laws change the status quo policy and have greater utility than dead important bills.",
+    "The second improvement concerns the order in which we perform dead-variable elimination."
+  ],
+  "list_see_also": [
+    "deaden",
+    "deadly",
+    "dead end",
+    "dead-end",
+    "dead heat",
+    "dead language",
+    "deadline",
+    "deadlock"
+  ],
+  "list_browse": [
+    "daze",
+    "dazed",
+    "dazzle",
+    "dazzling",
+    "dead",
+    "dead end",
+    "dead heat",
+    "dead language",
+    "deaden"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353067_f7288731b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353067_6c19389aea_o.png",
+      "id_image": "dead_3768596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353052_7b5962c3de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353052_a34f10e9f9_o.png",
+      "id_image": "dead_5664088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308821_1030a41a28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308821_b6eaf03c45_o.png",
+      "id_image": "dead_6000754"
+    }
+  ]
+}

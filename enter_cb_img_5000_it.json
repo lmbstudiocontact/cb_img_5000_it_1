@@ -1,0 +1,131 @@
+{
+  "english": "enter",
+  "phat_am": "ˈentə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi vào",
+          "definition": "to go or come in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Enter by this door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi vào",
+          "definition": "to come or go into (a place)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He entered the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gia nhập",
+          "definition": "to give the name of (another person or oneself) for a competition etc",
+          "world_new": [
+            "name",
+            "person",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He entered for the race",
+              "world_new": [
+                "race"
+              ]
+            },
+            {
+              "ex_of_definition": "I entered my pupils for the examination.",
+              "world_new": [
+                "I",
+                "my",
+                "examination"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đăng ký",
+          "definition": "to write (one’s name etc) in a book etc",
+          "world_new": [
+            "name",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you enter your name in the visitors’ book?",
+              "world_new": [
+                "your",
+                "name",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu",
+          "definition": "to start in",
+          "world_new": [
+            "start"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She entered his employment last week.",
+              "world_new": [
+                "employment",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Every second section was removed, so that a person could enter into its centre in order to play them.",
+    "So he returned them their arms and entered the palace with the earl.",
+    "The participants were explicitly told to enter their responses as quickly as possible.",
+    "Many students enter schools with a linguistic repertoire that straddles their languages.",
+    "Though participants' responses on the set of practice items would not enter into our analysis, the responses are telling.",
+    "There was a moderate reduction in the difference when postbereavement health variables and satisfaction were entered into the model.",
+    "This chapter also looks at borrowing and other ways that new signs typically enter the sign lexicon.",
+    "The verb-and-particle ttwui-e \"run\" is revised and replaced with the verb-and-particle tul-e \"enter\"."
+  ],
+  "list_see_also": [
+    "enter into",
+    "enter on/upon"
+  ],
+  "list_browse": [
+    "ensure",
+    "entail",
+    "entangle",
+    "entanglement",
+    "enter",
+    "enter into",
+    "enter on/upon",
+    "enterprise",
+    "enterprise culture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054985_856a4bf2a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054985_a01e5a2a62_o.png",
+      "id_image": "enter_5896973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362952_ba5a83eb43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362952_af9049502e_o.png",
+      "id_image": "enter_891372"
+    }
+  ]
+}

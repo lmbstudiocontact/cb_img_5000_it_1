@@ -1,0 +1,94 @@
+{
+  "english": "computer",
+  "phat_am": "kəmˈpjuːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy tính",
+          "definition": "an electronic machine capable of storing and processing large amounts of information and of performing calculations",
+          "world_new": [
+            "electronic",
+            "machine",
+            "capable",
+            "large",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole process is done by computer",
+              "world_new": [
+                "whole",
+                "process"
+              ]
+            },
+            {
+              "ex_of_definition": "PC means ‘personal computer’",
+              "world_new": [
+                "PC",
+                "means"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a computer game",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "a computer program.",
+              "world_new": [
+                "program"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The computer recorded the time that participants took to respond in milliseconds.",
+    "The students were told that upper-case target words would be presented brie-y on a computer screen between two rows of hash-signs (########).",
+    "As such, the approach provides tools to help come to terms with the dynamic structural experience of computer music, in contrast to conventional scoring methods.",
+    "The instrument should be readily accessible to trained string players, but is designed to fill a particular role in computer or amplified music.",
+    "The range of applications spans from numerical programming, symbolic computing, computer vision, to telephony and data mining.",
+    "Individual video images were subsequently transferred on to the hard disk of the host computer.",
+    "This device permitted for presentation of stimuli to all students, with possibilities of computer-controlled presentation time of the stimuli.",
+    "Institutional funds may need expensive computer systems for administration, accounting, and reporting requirements."
+  ],
+  "list_see_also": [
+    "computerize",
+    "computing",
+    "computer-controlled",
+    "computer-literate"
+  ],
+  "list_browse": [
+    "compulsorily",
+    "compulsory",
+    "computation",
+    "compute",
+    "computer",
+    "computer-controlled",
+    "computer-literate",
+    "computerize",
+    "computing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051040_dd8018ab10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051040_acd5fe7d3c_o.png",
+      "id_image": "computer_170925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314461_3f8fdf3eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314461_541dea556a_o.png",
+      "id_image": "computer_264241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669099_25953cceda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669099_4211d543fc_o.png",
+      "id_image": "computer_294611"
+    }
+  ]
+}

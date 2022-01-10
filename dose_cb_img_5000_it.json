@@ -1,0 +1,99 @@
+{
+  "english": "dose",
+  "phat_am": "dəus",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "liều",
+          "definition": "the quantity of medicine etc to be taken at one time",
+          "world_new": [
+            "quantity",
+            "medicine",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s time you had a dose of your medicine.",
+              "world_new": [
+                "time",
+                "your",
+                "medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trải qua một cái gì không vui",
+          "definition": "an unpleasant thing (especially an illness) which one is forced to suffer",
+          "world_new": [
+            "unpleasant",
+            "forced",
+            "suffer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nasty dose of flu.",
+              "world_new": [
+                "nasty",
+                "flu"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phát thuốc cho ai",
+          "definition": "to give medicine to",
+          "world_new": [
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dosed him with aspirin.",
+              "world_new": [
+                "aspirin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "dosage"
+  ],
+  "list_browse": [
+    "dormant",
+    "dormitory",
+    "dorsal",
+    "dosage",
+    "dose",
+    "dossier",
+    "dot",
+    "dot-com",
+    "dote"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353007_9c5c81e7ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353007_7d13038e1e_o.png",
+      "id_image": "dose_1488157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664049_19263f6cd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664049_2d125b95d9_o.png",
+      "id_image": "dose_2688622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045775_b7f3b441ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045775_596c5650a9_o.png",
+      "id_image": "dose_5671548"
+    }
+  ]
+}

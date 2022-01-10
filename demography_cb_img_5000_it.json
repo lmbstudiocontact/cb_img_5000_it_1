@@ -1,0 +1,59 @@
+{
+  "english": "demography",
+  "phat_am": "(British) diˈmoɡrəfi; (American) diˈmoɡrəfiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhân khẩu học",
+          "definition": "the scientific study of human populations and the changes that occur within them, for example by analysing statistics relating to births, deaths, diseases etc",
+          "world_new": [
+            "scientific",
+            "study",
+            "human",
+            "occur",
+            "example",
+            "statistics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the social demography of Hungarian villages in the eighteenth and nineteenth centuries.",
+              "world_new": [
+                "social"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "demographer",
+    "demographic",
+    "demographics"
+  ],
+  "list_browse": [
+    "democratically",
+    "demographer",
+    "demographic",
+    "demographics",
+    "demography",
+    "demolish",
+    "demolition",
+    "demon",
+    "demonstrate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448468_b0fa236c47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448468_21dae62a87_o.png",
+      "id_image": "demography_4459282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333331_11f8bf4e87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333331_8472ecec9a_o.png",
+      "id_image": "demography_5671811"
+    }
+  ]
+}

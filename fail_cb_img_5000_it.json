@@ -1,0 +1,149 @@
+{
+  "english": "fail",
+  "phat_am": "feil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thất bại",
+          "definition": "to be unsuccessful (in); not to manage (to do something)",
+          "world_new": [
+            "unsuccessful",
+            "manage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They failed in their attempt",
+              "world_new": [
+                "their",
+                "attempt"
+              ]
+            },
+            {
+              "ex_of_definition": "I failed my exam",
+              "world_new": [
+                "I",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "I failed to post the letter.",
+              "world_new": [
+                "I",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏng",
+          "definition": "to break down or cease to work",
+          "world_new": [
+            "break",
+            "cease",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brakes failed."
+            }
+          ]
+        },
+        {
+          "mean_english": "không đủ",
+          "definition": "to be insufficient or not enough",
+          "world_new": [
+            "insufficient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His courage failed (him).",
+              "world_new": [
+                "courage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh trượt",
+          "definition": "(in a test, examination etc) to reject (a candidate)",
+          "world_new": [
+            "test",
+            "examination",
+            "reject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The examiner failed half the class.",
+              "world_new": [
+                "examiner",
+                "half",
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm thất vọng",
+          "definition": "to disappoint",
+          "world_new": [
+            "disappoint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They did not fail him in their support.",
+              "world_new": [
+                "their",
+                "support"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the deteriorating economy, winners failed to emerge, and the foundation of the growth coalition was fatally undermined.",
+    "If the householder was not at home, his or her wife/husband was selected, failing that any other family member older than 14 years.",
+    "Nevertheless, the fair-opportunity branch of the choice theory also fails as a theory of the culpable mind.",
+    "They failed to foresee a substantial drop in their vote and their standard decision rules unexpectedly proved disastrous.",
+    "However, far from regarding this as desirable, we postulate that this fails to exercise the inherent adaptive ability of the subject.",
+    "As the current knowledge base lacks a representation for plans and the intentions they underlie, the inference scheme failed to recognize subgoals or intensional information.",
+    "They will therefore argue that the event is evidence that a policy, its implementation, or both have to some degree failed.",
+    "Farming households were failing to achieve their households' basic food security from their small plots."
+  ],
+  "list_see_also": [
+    "failing",
+    "failure",
+    "without fail"
+  ],
+  "list_browse": [
+    "fag",
+    "fag end",
+    "fagged out",
+    "Fahrenheit",
+    "fail",
+    "failing",
+    "failure",
+    "faint",
+    "faintly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452633_f62207e6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452633_c823d4f660_o.png",
+      "id_image": "failed_3188157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074745_43e6013e68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074745_bcec20d42e_o.png",
+      "id_image": "failed_4313065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074810_24729392f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074810_d88aa3d0ef_o.png",
+      "id_image": "fail_5705141"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "english": "extract",
+  "phat_am": "ikˈstrӕkt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rút; nhổ",
+          "definition": "to pull out, or draw out, especially by force or with effort",
+          "world_new": [
+            "pull",
+            "draw",
+            "force",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have to have a tooth extracted",
+              "world_new": [
+                "I",
+                "tooth"
+              ]
+            },
+            {
+              "ex_of_definition": "Did you manage to extract the information from her?",
+              "world_new": [
+                "manage",
+                "information"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trích",
+          "definition": "to select (passages from a book etc).",
+          "world_new": [
+            "select",
+            "book"
+          ]
+        },
+        {
+          "mean_english": "chiết",
+          "definition": "to take out (a substance forming part of something else) by crushing or by chemical means",
+          "world_new": [
+            "substance",
+            "part",
+            "crushing",
+            "chemical",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vanilla essence is extracted from vanilla beans.",
+              "world_new": [
+                "essence",
+                "vanilla"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "đoạn trích",
+          "definition": "a passage selected from a book etc",
+          "world_new": [
+            "passage",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a short extract from his novel.",
+              "world_new": [
+                "short",
+                "novel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chất chiết",
+          "definition": "a substance obtained by an extracting process",
+          "world_new": [
+            "substance",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beef/yeast extract"
+            },
+            {
+              "ex_of_definition": "extract of malt.",
+              "world_new": [
+                "malt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The third factor extracted links together mood swings, skin picking, and argumentativeness.",
+    "When set, the sealant was carefully extracted and orientated as near the plane of the defect as possible.",
+    "Finally, considering the concentration and drying methods used to prepare extracts, active compounds most likely have little or no volatility and probably a stable nature.",
+    "Upon completion of the 10th treatment, the balloon is deflated and simply extracted from the patient.",
+    "An alternative of extracting market premiums for good environmental practices has had only limited success and is difficult to apply universally to remedy general problems.",
+    "Categories were extracted from the responses and these were assigned a number according to whether named first, second or third.",
+    "The science of extracting useful information from large data sets is usually referred to as 'data mining', sometimes along with 'knowledge discovery'.",
+    "Eigenvalues greater than 1.0 was set to limit the number of factors to be extracted."
+  ],
+  "list_see_also": [
+    "extraction"
+  ],
+  "list_browse": [
+    "extort",
+    "extortion",
+    "extortionate",
+    "extra",
+    "extract",
+    "extraction",
+    "extracurricular",
+    "extradite",
+    "extradition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695629_283c67dfe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695629_7ebc214932_o.png",
+      "id_image": "extract_1331713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385222_254c14c67c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385222_cf7d86a395_o.png",
+      "id_image": "extract_1347286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455138_df1bf21d2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455138_4340b3715c_o.png",
+      "id_image": "extract_1768309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385307_6225468331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385307_03b8138efd_o.png",
+      "id_image": "extract_271266"
+    }
+  ]
+}

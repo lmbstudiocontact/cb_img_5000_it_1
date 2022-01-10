@@ -1,0 +1,65 @@
+{
+  "english": "cutter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật cắt",
+          "definition": "a person or thing that cuts",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wood-cutter"
+            },
+            {
+              "ex_of_definition": "a glass-cutter."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuyền buồm có một cột buồm",
+          "definition": "a type of small sailing ship.",
+          "world_new": [
+            "type",
+            "small",
+            "sailing",
+            "ship"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cuticle",
+    "cutlass",
+    "cutlery",
+    "cutlet",
+    "cutter",
+    "cutting",
+    "cuttlefish",
+    "CV",
+    "cwt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667809_d5bb250c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667809_8c3425b56b_o.png",
+      "id_image": "cutter_1230717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667794_7154445632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667794_881906d7b9_o.png",
+      "id_image": "cutter_1845998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427848_21f1f9ec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427848_e7431f84a3_o.png",
+      "id_image": "cutter_939543"
+    }
+  ]
+}

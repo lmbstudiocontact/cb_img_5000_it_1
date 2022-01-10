@@ -1,0 +1,47 @@
+{
+  "english": "detention",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giam giữ",
+          "definition": "the state of being imprisoned",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The suspects are being held in detention."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "detain",
+    "detainee",
+    "detect",
+    "detective",
+    "detention",
+    "deter",
+    "detergent",
+    "deteriorate",
+    "deterioration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063705_02a970cffd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063705_dbf6f9a05f_o.png",
+      "id_image": "detention_2495677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326751_af67eb77aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326751_62c87d84ce_o.png",
+      "id_image": "detention_5777990"
+    }
+  ]
+}

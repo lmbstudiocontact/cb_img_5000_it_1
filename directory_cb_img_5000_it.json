@@ -1,0 +1,76 @@
+{
+  "english": "directory",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh bạ",
+          "definition": "a type of book giving names and addresses etc",
+          "world_new": [
+            "type",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a telephone directory.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This can be achieved either by an effective broadcast on a local network or by connecting to a directory.",
+    "An 'ok' program can download programs but it can only write to the directory /tmp and cannot use system/1 to delete files.",
+    "Neither path may refer to an existing directory.",
+    "For example, most compilers provide a function to change the current directory, but this is not part of the definition of the language.",
+    "A demographically matched control group was recruited using reverse telephone directories to locate control families within the same neighborhood.",
+    "These are supplemented by letters, reports, reviews, a directory of specialist research centers and consultancies and an annual index.",
+    "In some operating systems, it may also be possible to have paths which are relative to the current directory.",
+    "In 1933 the association of directory publishers was taken over and the information and advertising industries were harnessed to the interests of the state."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "directive",
+    "directly",
+    "directness",
+    "director",
+    "directory",
+    "dirt",
+    "dirt cheap",
+    "dirt track",
+    "dirtiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364302_bc9891e420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364302_41a43fdf68_o.png",
+      "id_image": "directory_1581020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056135_0f691ba485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056135_97278fb1a3_o.png",
+      "id_image": "directory_1660963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364222_0096f49303_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364222_417a83cfa0_o.png",
+      "id_image": "directory_2720507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319511_3efe4f85b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319511_7d2dae74dc_o.png",
+      "id_image": "directory_3892160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056205_e763019e74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056205_6a08ef2608_o.png",
+      "id_image": "directory_485316"
+    }
+  ]
+}

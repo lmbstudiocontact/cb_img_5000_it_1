@@ -1,0 +1,74 @@
+{
+  "english": "cog",
+  "phat_am": "koɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "răng bánh xe",
+          "definition": "one of a series of teeth around the edge of a wheel which fits into one of a similar series in a similar wheel (or into a chain as in a bicycle) causing motion",
+          "world_new": [
+            "series",
+            "edge",
+            "wheel",
+            "similar",
+            "series",
+            "similar",
+            "wheel",
+            "chain",
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cogs in the gear-wheels of a car get worn down.",
+              "world_new": [
+                "car",
+                "worn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The unsolved problem here is to explain exceptions such as cog (always with the lax vowel) and dog (always with the tense vowel).",
+    "Everything fell into place, the cogs meshed, and the thing really seemed to be a machine which in a moment would run of itself.",
+    "That the capacity exists is enough to suggest that the error theory of morality is an unnecessary cog in evolutionary human psychology.",
+    "These soldier captives were cogs in a war machine.",
+    "Macromolecules can be thought of as ' cogs in the machine ' in which pathways and networks are the result of the availability of substrates.",
+    "Pieter comes across as simply one more cog in the relentlessly grinding colonial machine.",
+    "Far from being elders, matriarchs and patriarchs, important cogs in the wheel of the family, old people began to be perceived as social problems.",
+    "A collective commitment to acknowledging responsibility, feeling guilt, and making collective reparation should not, however, mean the condemnation of individuals who have truly been cogs in the wheel."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coffee pot",
+    "coffee shop",
+    "coffee table",
+    "coffin",
+    "cog",
+    "cogent",
+    "cogitate",
+    "cogitation",
+    "cognac"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439758_b7905dab27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439758_4d71494357_o.png",
+      "id_image": "cog_2180637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061560_157082b219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061560_793f377587_o.png",
+      "id_image": "cog_4752516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439668_612dc7cc6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439668_87fe165919_o.png",
+      "id_image": "cog_4752618"
+    }
+  ]
+}

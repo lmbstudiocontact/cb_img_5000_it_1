@@ -1,0 +1,86 @@
+{
+  "english": "dough",
+  "phat_am": "dəu",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bột nhão",
+          "definition": "noun a mass of flour moistened and kneaded but not baked",
+          "world_new": [
+            "mass",
+            "flour",
+            "baked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave the dough to rise in a warm place.",
+              "world_new": [
+                "rise",
+                "warm",
+                "place"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "“xiền”",
+          "definition": "money",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve run out of dough.",
+              "world_new": [
+                "run"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "doughnut"
+  ],
+  "list_browse": [
+    "doubtful",
+    "doubtfully",
+    "doubtfulness",
+    "doubtless",
+    "dough",
+    "doughnut",
+    "dove",
+    "dowdy",
+    "down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352277_1e18a8b1cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352277_5c8abc5ccb_o.png",
+      "id_image": "dough_1143143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352227_bb3402fd02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352227_0cc8f30c0c_o.png",
+      "id_image": "dough_1999938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352182_885bf589c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352182_36056347ab_o.png",
+      "id_image": "dough_2269223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352137_8340b4cbd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352137_9ea6e5b58e_o.png",
+      "id_image": "dough_3043735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307996_56885d9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307996_681346e7eb_o.png",
+      "id_image": "dough_5236491"
+    }
+  ]
+}

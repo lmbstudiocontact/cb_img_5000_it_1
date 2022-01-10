@@ -1,0 +1,83 @@
+{
+  "english": "escort",
+  "phat_am": "ˈeskoːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đội hộ tống",
+          "definition": "person(s), ship(s) etc accompanying for protection, guidance, courtesy etc",
+          "world_new": [
+            "protection",
+            "guidance",
+            "courtesy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He offered to be my escort round the city",
+              "world_new": [
+                "my",
+                "city"
+              ]
+            },
+            {
+              "ex_of_definition": "The transport supplies were under military/police escort.",
+              "world_new": [
+                "transport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "hộ tống",
+          "definition": "to accompany or attend as escort",
+          "world_new": [
+            "accompany",
+            "attend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He offered to escort her to the dance",
+              "world_new": [
+                "dance"
+              ]
+            },
+            {
+              "ex_of_definition": "Four police motorcyclists escorted the president’s car along the route.",
+              "world_new": [
+                "police",
+                "car",
+                "route"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "escapade",
+    "escape",
+    "escapism",
+    "escapist",
+    "escort",
+    "Eskimo",
+    "ESL",
+    "esophagus",
+    "esp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670134_e6bfd07912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670134_9b66179062_o.png",
+      "id_image": "escort_4413363"
+    }
+  ]
+}

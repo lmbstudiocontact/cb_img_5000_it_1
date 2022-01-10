@@ -1,0 +1,176 @@
+{
+  "english": "earth",
+  "phat_am": "əːð",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trái đất",
+          "definition": "the third planet in order of distance from the Sun; the planet on which we live",
+          "world_new": [
+            "planet",
+            "order",
+            "distance",
+            "planet",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is Earth nearer the Sun than Mars is?",
+              "world_new": [
+                "Mars"
+              ]
+            },
+            {
+              "ex_of_definition": "the geography of the earth.",
+              "world_new": [
+                "geography"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trần gian",
+          "definition": "the world as opposed to heaven",
+          "world_new": [
+            "world",
+            "heaven"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "heaven and earth.",
+              "world_new": [
+                "heaven"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đất",
+          "definition": "soil",
+          "world_new": [
+            "soil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fill the plant pot with earth.",
+              "world_new": [
+                "plant",
+                "pot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt đất",
+          "definition": "dry land; the ground",
+          "world_new": [
+            "dry",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the earth, sea and sky.",
+              "world_new": [
+                "sea",
+                "sky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hang thú",
+          "definition": "a burrow or hole of an animal, especially of a fox.",
+          "world_new": [
+            "burrow",
+            "hole",
+            "animal",
+            "fox"
+          ]
+        },
+        {
+          "mean_english": "dây tiếp đất",
+          "definition": "(a wire that provides) an electrical connection with the earth.",
+          "world_new": [
+            "wire",
+            "electrical",
+            "connection"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp đất",
+          "definition": "to connect to earth electrically",
+          "world_new": [
+            "connect",
+            "electrically"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is your washing machine properly earthed?",
+              "world_new": [
+                "your",
+                "washing",
+                "machine",
+                "properly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In realizing this, we learn that the environment of bodies on the earth's surface is anisotropic and that this is detectable independently of projectiles' motion.",
+    "Also, three of the vessels had been broken by the weight of the earth that had been used to fill the shaft.",
+    "They say that there will be a 20 - 40 minute delay for the robot's signals to be transmitted to earth.",
+    "Fourth, as a result, the legitimacy of the sphericity of the earth had to be reconstructed in an alien environment.",
+    "These observations are, in a degree, applicable to all the parts of the earth where the soil is imperfectly cultivated.",
+    "Without fixed nitrogen life would not have originated on earth and would most likely not occur on any other planet.",
+    "Modelling the global carbon cycle for the past and future evolution of the earth system.",
+    "The migratory route of the settlement's founding patrilineage is recollected at certain ritual occasions at the village earth shrine and during the initiation ceremony (bagr)."
+  ],
+  "list_see_also": [
+    "earthen",
+    "earthly",
+    "earthenware",
+    "earthquake",
+    "earth science",
+    "earthworm",
+    "on earth",
+    "run to earth"
+  ],
+  "list_browse": [
+    "earphones",
+    "earplug",
+    "earring",
+    "earshot",
+    "earth",
+    "earth science",
+    "earthen",
+    "earthenware",
+    "earthly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069445_7b66d1e5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069445_8b79ec126a_o.png",
+      "id_image": "earth_169789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447608_264086f415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447608_a608209bf6_o.png",
+      "id_image": "earth_721081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687529_d3e1b020a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687529_0e706304b3_o.png",
+      "id_image": "earth_825001"
+    }
+  ]
+}

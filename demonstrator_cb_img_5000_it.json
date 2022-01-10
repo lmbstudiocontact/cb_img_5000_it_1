@@ -1,0 +1,83 @@
+{
+  "english": "demonstrator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người biểu tình",
+          "definition": "a person who takes part in a public demonstration",
+          "world_new": [
+            "person",
+            "part",
+            "public",
+            "demonstration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The demonstrators were chanting slogans against the government.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuyết minh",
+          "definition": "a teacher or assistant who helps students with practical work.",
+          "world_new": [
+            "teacher",
+            "assistant",
+            "practical",
+            "work"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "425 transpose a demonstrator's actions in relation to herself into actions in relation to themselves.",
+    "When they passed a church along the route, the workers leading the column of demonstrators knelt down and received a blessing from two priests standing on the steps.",
+    "I call on their governments to embark on fruitful dialogue with the demonstrators.",
+    "Unfortunately, even the legitimate opinions of the peaceful demonstrators were obscured by the globalised violence of those who have become professional rioters.",
+    "As soon as the forces try to drive them out, the demonstrators will show that they are sufficiently committed to stop them leaving.",
+    "In 1989, however, the mammoth edifice would not be large enough to hold the 2,000 demonstrators who gathered for an evening service.",
+    "Including demonstrators, it has a teaching staff of forty-six.",
+    "Such quasi groups - which include voters, farmers, demonstrators, workers, and so on - are evidently of substantial importance for the investigation of many of the temporal sequences discussed in this essay."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "demon",
+    "demonstrate",
+    "demonstration",
+    "demonstrative",
+    "demonstrator",
+    "demoralize",
+    "demote",
+    "demotion",
+    "demure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069550_e68103de63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069550_33c53d1a10_o.png",
+      "id_image": "demonstrator_3122405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332691_a72936c7de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332691_3354bf1232_o.png",
+      "id_image": "demonstrator_6009573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447668_5b7728d80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447668_1636267159_o.png",
+      "id_image": "demonstrator_6009671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687604_d20e06c12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687604_850d48511f_o.png",
+      "id_image": "demonstrator_6009858"
+    }
+  ]
+}

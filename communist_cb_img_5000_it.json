@@ -1,0 +1,64 @@
+{
+  "english": "communist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người cộng sản",
+          "definition": "a person who believes in communism",
+          "world_new": [
+            "person",
+            "communism"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a Communist"
+            },
+            {
+              "ex_of_definition": "(also adjective) a Communist leader.",
+              "world_new": [
+                "leader"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The end of the communist monopoly of power was followed by a proliferation of political parties in all post-communist states.",
+    "Instead, she linked concentrated wealth with a communist threat.",
+    "But one's opponents, even the communists, could sometimes be reasonable people.",
+    "Along the third dimension are placed communist-dictatorial heritaged societies at higher ranking with some notable exceptions.",
+    "When wartime communist activities are fully assessed, such opposition is not justified.",
+    "Of course, these violations of basic principles can be seen as betrayals of communist ideals.",
+    "After a series of meetings, the central council of the association approved and subsequently distributed clarifications in response to the communist campaign.",
+    "The collapse of communist governments in the late 1980s and early 1990s led to the emergence of various institutional configurations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "communicative",
+    "communion",
+    "communiqué",
+    "communism",
+    "communist",
+    "community",
+    "commute",
+    "commuter",
+    "compact"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432988_a2ff3d04a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432988_a6981fcc95_o.png",
+      "id_image": "communist_1868224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672584_1a2f08b7f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672584_5f6a6ab131_o.png",
+      "id_image": "communist_5822341"
+    }
+  ]
+}

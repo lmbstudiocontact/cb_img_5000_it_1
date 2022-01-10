@@ -1,0 +1,74 @@
+{
+  "english": "diverge",
+  "phat_am": "daiˈvəːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rẽ ra",
+          "definition": "to separate and go in different directions",
+          "world_new": [
+            "separate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roads diverge three kilometres/kilometers further on.",
+              "world_new": [
+                "further"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khác nhau",
+          "definition": "to differ (from someone or something else); to go away (from a standard)",
+          "world_new": [
+            "differ"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is where our opinions diverge.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our ancestries are separated by at least a billion years, during which time our respective genetic determinants of ageing are likely to have diverged dramatically.",
+    "When at rest the wings slightly diverge and are elevated at a considerable angle above the thorax and abdomen.",
+    "At the lower concentration, the rate becomes substrate-limited around day 10, and the curves diverge.",
+    "We assign non-parallelism of converging pegs to have a negative value, and of diverging pegs to have a positive value.",
+    "If anything, the vectors diverged (see fig. 1).",
+    "It will undermine their authority because they will no longer be regarded as beneficent guardians by those with diverging moral visions.",
+    "Thus, the picture that emerges from this analysis diverges from earlier research in many important ways.",
+    "Slight variations in resource procurement and / or paste preparation may be inferred to have caused them to diverge from the reference-group profiles."
+  ],
+  "list_see_also": [
+    "divergence",
+    "divergent",
+    "diverging lens"
+  ],
+  "list_browse": [
+    "ditty",
+    "divan",
+    "dive",
+    "diver",
+    "diverge",
+    "divergence",
+    "divergent",
+    "diverging lens",
+    "diverse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668274_d6ebc1e707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668274_eb65cf77d6_o.png",
+      "id_image": "diverge_1900215"
+    }
+  ]
+}

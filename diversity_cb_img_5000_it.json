@@ -1,0 +1,69 @@
+{
+  "english": "diversity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đa dạng hóa",
+          "definition": "variety",
+          "world_new": [
+            "variety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A wide diversity of wildlife can be found in the national park.",
+              "world_new": [
+                "wide",
+                "wildlife",
+                "found",
+                "national",
+                "park"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is to be hoped that community healthcare researchers, in any part of the world, could routinely integrate diversity into their day-to-day planning of studies.",
+    "Diversity may have been influenced by radiation subsequent to colonization, or by secondary radiations in contemporary host taxa.",
+    "The diversity of themes covered in the papers is the reason why this seemed to be such an eclectic mix.",
+    "The net result is reduced diversity in provision.",
+    "Trophic diversity is assessed by assigning taxa to trophic habits, thereby revealing the appearance of new components of ecosystem structure over time.",
+    "Creating culturally relevant ways of thinking about diversity and aging : theoretical challenges for the twenty-first century.",
+    "Similar non-random processes maintain diversity in two tropical rainforests.",
+    "There were no relationships between quantity, diversity or complexity of parent talk and the proportion of utterances that were eliciting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diverseness",
+    "diversification",
+    "diversify",
+    "diversion",
+    "diversity",
+    "divert",
+    "divest",
+    "divide",
+    "dividend"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668089_d71ed7b4d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668089_3494e89d4b_o.png",
+      "id_image": "diversity_4177183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313286_69cb7fe32c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313286_f5fd973454_o.png",
+      "id_image": "diversity_4785368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357222_14972ab737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357222_aa257d31ab_o.png",
+      "id_image": "diversity_4797106"
+    }
+  ]
+}

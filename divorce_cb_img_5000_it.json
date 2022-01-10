@@ -1,0 +1,108 @@
+{
+  "english": "divorce",
+  "phat_am": "diˈvoːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ly hôn",
+          "definition": "the legal ending of a marriage",
+          "world_new": [
+            "legal",
+            "ending",
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a messy/painful divorce"
+            },
+            {
+              "ex_of_definition": "Divorce is becoming more common nowadays.",
+              "world_new": [
+                "becoming",
+                "common",
+                "nowadays"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ly hôn",
+          "definition": "to end one’s marriage (with)",
+          "world_new": [
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They got divorced two years ago."
+            }
+          ]
+        },
+        {
+          "mean_english": "tách khỏi",
+          "definition": "to separate",
+          "world_new": [
+            "separate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t divorce these two concepts."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Separated and divorced subjects were at higher risk of developing a depressive episode.",
+    "He had been divorced many years previously and had spent much time as a patient in psychiatric hospitals and bedsitters.",
+    "While the former do represent an appropriate zircon source, they cannot be divorced from inappropriate zircon sources of the latter.",
+    "Ninety-six triadic interactions were available because 12 couples had divorced.",
+    "The introduction of the frame divorced the structure from the load-bearing function of the wall, and freed the two elements.",
+    "In his view, anti-semitism is divorced from reality ; it is irrational, wild, and hallucinatory.",
+    "Three of the participants were married, and a fourth was divorced but in an amicable and close relationship with his former wife.",
+    "Seventeen of these initially married families divorced between the initial assessment and the young adult assessment."
+  ],
+  "list_see_also": [
+    "divorcee"
+  ],
+  "list_browse": [
+    "divisible",
+    "division",
+    "divisional",
+    "divisive",
+    "divorce",
+    "divorcee",
+    "divulge",
+    "Diwali",
+    "DIY"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312556_13c449c8cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312556_4989befd08_o.png",
+      "id_image": "divorce_1612932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312531_28fcd06bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312531_b643a3ed09_o.png",
+      "id_image": "divorce_4215289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049155_324157f4a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049155_2c2501ea87_o.png",
+      "id_image": "divorce_538223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312471_018415c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312471_d4311a1ecd_o.png",
+      "id_image": "divorce_6333351"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "employee",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người làm công",
+          "definition": "a person employed for wages, a salary etc",
+          "world_new": [
+            "person",
+            "employed",
+            "salary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That firm has fifty employees.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The participants attacked the township government, burned down 107 rooms and took more than twenty motorcycles and other property belonging to government employees.",
+    "Their average pension contribution per employee dropped in real terms from $2,140 in 1981 to $1,404 in 1998.",
+    "Total employee numbers were reduced from 1,180 to 975.",
+    "I argue here that it is reasonable to view employers as proxy decisionmakers for their employees.",
+    "It is also possible that poor relations between supervisors and employees are a result of the supervisors being treated badly themselves by their superiors.",
+    "Effective communication programs that include financial education and interactive resources, such as projection modelers, boost employees' appreciation of their retirement plans.",
+    "The rates of increase in the number of entrepreneurs and government employees in the rural economy are relatively small (5.8% and 5.5%, respectively).",
+    "It was generally understood that when such needs arose, the employee could simply ask a manager for instructions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "empirical",
+    "empirically",
+    "employ",
+    "employed",
+    "employee",
+    "employer",
+    "employment",
+    "emporium",
+    "emptiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436243_35e99bc685_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436243_9f27f35d15_o.png",
+      "id_image": "employee_501131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436193_aafd393dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436193_dcd5a5d9d3_o.png",
+      "id_image": "employee_537026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057735_9fef3ef524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057735_0fc5443740_o.png",
+      "id_image": "employee_562530"
+    }
+  ]
+}

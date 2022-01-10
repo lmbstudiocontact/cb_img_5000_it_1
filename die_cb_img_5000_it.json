@@ -1,0 +1,123 @@
+{
+  "english": "die",
+  "phat_am": "dai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chết; qua đời",
+          "definition": "to lose life; to stop living and become dead",
+          "world_new": [
+            "lose",
+            "stop",
+            "living",
+            "become",
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Those flowers are dying"
+            },
+            {
+              "ex_of_definition": "She died of old age.",
+              "world_new": [
+                "old",
+                "age"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mờ đi; biến mất",
+          "definition": "to fade; to disappear",
+          "world_new": [
+            "disappear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The daylight was dying fast.",
+              "world_new": [
+                "daylight",
+                "fast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khao khát",
+          "definition": "to have a strong desire (for something or to do something)",
+          "world_new": [
+            "strong",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m dying for a drink",
+              "world_new": [
+                "drink"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m dying to see her.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuôn rập",
+          "definition": "a stamp or punch for making raised designs on money, paper etc.",
+          "world_new": [
+            "stamp",
+            "punch",
+            "money",
+            "paper"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A fortnight later, the correspondent discovered that the man and child were recovering but that another child had died from fever.",
+    "In the overall series of experiments, we marked approximately 330 embryos, of which about 10% died before reaching the desired endpoint.",
+    "Moreover, the emphasis upon the active negotiating participants has allowed us to totally ignore the significance death and mortuary practices have for those dying.",
+    "At age 6 nobody receives any bequests because the parent is at age 11 and is going to die for certain.",
+    "Suppose a patient in the late stages of stomach cancer is dying in a hospital.",
+    "Many saplings survived the attack, whereas most seedlings had died already.",
+    "But even before the end, against a novelistic tradition of sinful women dying, this \"sinful\" woman survives.",
+    "The carer can now serve the dying with compassion, deep caring, professional knowledge, and comfort in the presence of the patient."
+  ],
+  "list_see_also": [
+    "diehard",
+    "die away",
+    "die down",
+    "die hard",
+    "die off",
+    "die out"
+  ],
+  "list_browse": [
+    "dictator",
+    "dictatorship",
+    "diction",
+    "dictionary",
+    "die",
+    "die away",
+    "die down",
+    "die hard",
+    "die off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322801_1a04de47d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322801_92f1a1c6d9_o.png",
+      "id_image": "die_3387107"
+    }
+  ]
+}

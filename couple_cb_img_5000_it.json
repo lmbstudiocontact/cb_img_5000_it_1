@@ -1,0 +1,98 @@
+{
+  "english": "couple",
+  "phat_am": "ˈkapl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hai",
+          "definition": "two; a few",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I borrow a couple of chairs?",
+              "world_new": [
+                "I",
+                "borrow"
+              ]
+            },
+            {
+              "ex_of_definition": "I knew a couple of people at the party, but not many.",
+              "world_new": [
+                "I",
+                "people",
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đôi; cặp",
+          "definition": "a man and wife, or a boyfriend and girlfriend",
+          "world_new": [
+            "wife",
+            "boyfriend",
+            "girlfriend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a married couple",
+              "world_new": [
+                "married"
+              ]
+            },
+            {
+              "ex_of_definition": "The young couple have a child.",
+              "world_new": [
+                "young",
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết hợp",
+          "definition": "to join together",
+          "world_new": [
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coaches were coupled (together), and the train set off.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "couplet",
+    "coupling"
+  ],
+  "list_browse": [
+    "county",
+    "coup",
+    "coup d’état",
+    "coupé",
+    "couple",
+    "couplet",
+    "coupling",
+    "coupon",
+    "courage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682139_e262679884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682139_15d1a4e5a9_o.png",
+      "id_image": "couple_332952"
+    }
+  ]
+}

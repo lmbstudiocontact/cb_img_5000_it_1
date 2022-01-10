@@ -1,0 +1,83 @@
+{
+  "english": "enemy",
+  "phat_am": "ˈenəmi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ thù",
+          "definition": "a person who hates or wishes to harm one",
+          "world_new": [
+            "person",
+            "harm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is so good and kind that she has no enemies.",
+              "world_new": [
+                "kind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân địch",
+          "definition": "(also noun plural) troops, forces, a nation etc opposed to oneself in war etc",
+          "world_new": [
+            "troops",
+            "forces",
+            "nation",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s one of the enemy"
+            },
+            {
+              "ex_of_definition": "The enemy was/were encamped on the hillside",
+              "world_new": [
+                "hillside"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) enemy forces.",
+              "world_new": [
+                "forces"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Individuals should be more likely to be empathic toward friends than enemies, even if they have rich representations of both targets.",
+    "He suggested that crop diversity increases the populations of natural enemies of insect pests.",
+    "They see, in these miserable paupers in search of a refuge, their future inner enemies, the sign of a siege to come.",
+    "A prophet is fleeing from his enemies, and one is asked about his whereabouts.",
+    "However, the great length of the outer enclosures and the many causeways that crossed them surely precluded their use for defence against determined enemies.",
+    "Coffee is thus a potentially useful host for examining the effects of natural enemies and other factors on populations of these two pests.",
+    "A hill with a hollow provides dead ground, and this could be a lurking place for natural or supernatural enemies.",
+    "Nature is always allied with the inland man, supporting him and saving him from enemies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "endurable",
+    "endurance",
+    "endure",
+    "enema",
+    "enemy",
+    "energetic",
+    "energetically",
+    "energy",
+    "energy-efficient"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056540_3b2b650966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056540_8d55c5f212_o.png",
+      "id_image": "enemy_1477179"
+    }
+  ]
+}

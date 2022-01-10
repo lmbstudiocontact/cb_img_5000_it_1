@@ -1,0 +1,93 @@
+{
+  "english": "essential",
+  "phat_am": "iˈsenʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thiết yếu",
+          "definition": "absolutely necessary",
+          "world_new": [
+            "absolutely",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Strong boots are essential for mountaineering",
+              "world_new": [
+                "mountaineering"
+              ]
+            },
+            {
+              "ex_of_definition": "It is essential that you arrive punctually.",
+              "world_new": [
+                "arrive",
+                "punctually"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "yếu tố cần thiết",
+          "definition": "a thing that is fundamental or necessary",
+          "world_new": [
+            "fundamental",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone should learn the essentials of first aid",
+              "world_new": [
+                "learn",
+                "aid"
+              ]
+            },
+            {
+              "ex_of_definition": "Is a television set an essential?",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rice : boiled down to bare essentials.",
+    "To provide some help, the text below outlines the essentials of some of the most representative methods.",
+    "They are a convenient means of coining a name for a concept by contracting a series of words that express the basic essentials of the concept.",
+    "The poor must pay more for their essentials.",
+    "People in some groups in society are obliged to spend much more on the essentials of life.",
+    "He does not say now and, will not say, that at this moment the essentials of life are being put in jeopardy.",
+    "Against this, however, greater skill, ingenuity and manpower was necessary to maintain and operate an ageing machine park short on parts, lubricants and other essentials.",
+    "I am interpreting the matter now in the terms of the essentials of life."
+  ],
+  "list_see_also": [
+    "essentially"
+  ],
+  "list_browse": [
+    "esplanade",
+    "espresso",
+    "essay",
+    "essence",
+    "essential",
+    "essentially",
+    "establish",
+    "established",
+    "establishment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429873_4f11c9bb10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429873_56dbd50344_o.png",
+      "id_image": "essential_1499679"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "done",
+  "phat_am": "dan",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hoàn thành",
+          "definition": "finished or complete",
+          "world_new": [
+            "finished",
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That’s that job done at last.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nấu chín",
+          "definition": "(of food) completely cooked and ready to eat",
+          "world_new": [
+            "completely",
+            "ready",
+            "eat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t think the meat is quite done yet.",
+              "world_new": [
+                "I",
+                "think",
+                "meat",
+                "quite",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có thể chấp nhận về mặt xã hội",
+          "definition": "socially accepted",
+          "world_new": [
+            "socially",
+            "accepted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s not the done thing to ask someone how much they earn.",
+              "world_new": [
+                "ask",
+                "earn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dominion",
+    "domino",
+    "donate",
+    "donation",
+    "done",
+    "done for",
+    "done in",
+    "donkey",
+    "donkey work"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310026_4a822d9207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310026_7568e09ee2_o.png",
+      "id_image": "done_1042010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665234_b16858bdf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665234_6dea5b90eb_o.png",
+      "id_image": "done_5216773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046900_3911315c0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046900_f5eceed913_o.png",
+      "id_image": "done_5622617"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "father",
+  "phat_am": "ˈfaːðə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cha; bố",
+          "definition": "a male parent, especially human",
+          "world_new": [
+            "male",
+            "parent",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Peter is her father."
+            }
+          ]
+        },
+        {
+          "mean_english": "cha cố",
+          "definition": "the title of a (usually Roman Catholic) priest",
+          "world_new": [
+            "title",
+            "Roman",
+            "priest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I met Father Sullivan this morning.",
+              "world_new": [
+                "I",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tổ tiên; ông tổ",
+          "definition": "a person who begins, invents or first makes something",
+          "world_new": [
+            "person"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "là cha của (ai); sinh ra",
+          "definition": "to be the father of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "King Charles II fathered a number of children.",
+              "world_new": [
+                "number"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fatherhood",
+    "fatherly",
+    "Father Christmas",
+    "father-in-law",
+    "Father’s Day"
+  ],
+  "list_browse": [
+    "fatally",
+    "fate",
+    "fated",
+    "fateful",
+    "father",
+    "Father Christmas",
+    "Father’s Day",
+    "father-in-law",
+    "fatherhood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449818_84bb99a410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449818_dacfa6b228_o.png",
+      "id_image": "father_2880554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071780_de52005783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071780_8339d6429c_o.png",
+      "id_image": "father_437504"
+    }
+  ]
+}

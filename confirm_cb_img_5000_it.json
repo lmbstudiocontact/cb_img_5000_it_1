@@ -1,0 +1,81 @@
+{
+  "english": "confirm",
+  "phat_am": "kənˈfəːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khẳng định",
+          "definition": "to establish or make quite certain",
+          "world_new": [
+            "establish",
+            "quite",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They confirmed their hotel booking by letter.",
+              "world_new": [
+                "confirmed",
+                "their",
+                "hotel",
+                "booking",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lễ kiêm tín",
+          "definition": "to admit to full membership of certain Christian churches.",
+          "world_new": [
+            "admit",
+            "full",
+            "membership",
+            "certain",
+            "Christian"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "confirmation",
+    "confirmand",
+    "confirmed"
+  ],
+  "list_browse": [
+    "confine",
+    "confined",
+    "confinement",
+    "confines",
+    "confirm",
+    "confirmand",
+    "confirmation",
+    "confirmed",
+    "confiscate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356382_63080b5b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356382_b04e652bf7_o.png",
+      "id_image": "confirm_1401064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356347_e019cbf7de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356347_641612db83_o.png",
+      "id_image": "confirm_2394259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048940_fd077d1d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048940_081e640075_o.png",
+      "id_image": "confirm_4357384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048910_f1c392a5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048910_c45fc23e22_o.png",
+      "id_image": "confirm_4735923"
+    }
+  ]
+}

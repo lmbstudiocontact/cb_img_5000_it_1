@@ -1,0 +1,64 @@
+{
+  "english": "cosmonaut",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà du hành vũ trụ",
+          "definition": "a person who travels in space; an astronaut",
+          "world_new": [
+            "person",
+            "travels",
+            "astronaut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Yuri Gagarin was the first Russian cosmonaut."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Shonin was part of the original group of cosmonauts selected in 1960.",
+    "Bondarenko was the first reported cosmonaut (or astronaut) fatality.",
+    "Baturin was also a cosmonaut who flew on two missions.",
+    "Soyuz can carry up to three cosmonauts and provide life support for them for about 30 person days.",
+    "The spacecraft was capable of carrying two cosmonauts.",
+    "In 1966, he was selected for cosmonaut training.",
+    "Tasks assigned to the two cosmonauts included hardware relocations, installations, retrievals, and deployments.",
+    "The cosmonaut's daughter or son does not inherit the title."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cosiness",
+    "cosmetic",
+    "cosmetician",
+    "cosmic",
+    "cosmonaut",
+    "cosmopolitan",
+    "cosset",
+    "cost",
+    "costliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329786_c730334e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329786_589ac6daf0_o.png",
+      "id_image": "cosmonaut_1469858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066475_019f199b52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066475_0e44d0b37e_o.png",
+      "id_image": "cosmonaut_3590617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374322_158c799450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374322_c203d5ddc4_o.png",
+      "id_image": "cosmonaut_4287576"
+    }
+  ]
+}

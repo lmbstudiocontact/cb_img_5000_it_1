@@ -1,0 +1,71 @@
+{
+  "english": "earthquake",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động đất",
+          "definition": "a shaking of the earth’s surface",
+          "world_new": [
+            "shaking",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The village was destroyed by an earthquake.",
+              "world_new": [
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The title is misleading in that the book is overwhelmingly concerned with details of earthquake engineering, risk and hazard evaluation, and local site assessment.",
+    "Wobbling mappings occur in many real-world situations: rounding in numerical analysis, image processing, distortion of crystals, and earthquakes are typical examples.",
+    "Threats to life come with the largest, whose power rivals that of high-magnitude earthquakes and exceeds most volcanism.",
+    "Among the undergraduates, tornadoes or strong winds (ranked 45th; scored by 15% of sample) and earthquakes (48th; 12%) are rarely dreamed about.",
+    "The children who showed an up regulation of the two immune parameters following school entry had a significant increase in respiratory illness after the earthquake.",
+    "Just as earthquakes and -oods erupt under pressure, causing abrupt mutations of the natural environment, men and women experienced psychological changes affecting their collective consciousness.",
+    "Natural disasters such as earthquakes affect large numbers of people.",
+    "The even stronger 1922 earthquake damaged buildings, cut phone service, and stopped the railroad."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "earth science",
+    "earthen",
+    "earthenware",
+    "earthly",
+    "earthquake",
+    "earthworm",
+    "earwig",
+    "ease",
+    "easel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447423_0a2a16b2bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447423_8343d4d170_o.png",
+      "id_image": "earthquake_2994437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069100_1e154ac03e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069100_a244c6c23e_o.png",
+      "id_image": "earthquake_3381008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377242_d27ebac4d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377242_edd4a3759f_o.png",
+      "id_image": "earthquake_491240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377202_c0db54e8b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377202_e39a89c8cf_o.png",
+      "id_image": "earthquake_491274"
+    }
+  ]
+}

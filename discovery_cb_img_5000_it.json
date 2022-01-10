@@ -1,0 +1,84 @@
+{
+  "english": "discovery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khám phá",
+          "definition": "the process of discovering something, or something that is discovered",
+          "world_new": [
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scientific discovery",
+              "world_new": [
+                "scientific"
+              ]
+            },
+            {
+              "ex_of_definition": "a voyage of discovery",
+              "world_new": [
+                "voyage"
+              ]
+            },
+            {
+              "ex_of_definition": "She made several startling discoveries."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The discovery of vortex structures in the turbulent mixing layer raises serious doubts about the validity of self-preservation arguments.",
+    "This evolution towards a fully fledged public exit market resulted from a long process of discovery and change.",
+    "Pupils enjoyed exploring the sounds within a pedagogical framework of exploration and discovery rather than in the context of right or wrong compositional choices.",
+    "Real discoveries have been made, and many more can be expected from this very promising research avenue.",
+    "We shared countless poignant musical discoveries and reflected on many philosophical issues, sometimes seeing eye to eye and other times exchanging differing opinions.",
+    "Since its description, the lifecycle of this protozoan parasite has eluded discovery.",
+    "Yet, as stated above, its discovery happened at a time when it was still not visible.",
+    "When one makes a \"discovery,\" is it the scientific investigator or the dreamer who discovers?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "discourse",
+    "discourteous",
+    "discourtesy",
+    "discover",
+    "discovery",
+    "discredit",
+    "discreditable",
+    "discreditably",
+    "discreet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432493_80a4b171d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432493_acdc2da889_o.png",
+      "id_image": "discovery_2116910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361687_95f67fe56d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361687_6b1484ed0e_o.png",
+      "id_image": "discovery_3534064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432448_f7e26db18e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432448_1b5ed269fd_o.png",
+      "id_image": "discovery_4515584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432428_da46a7bd33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432428_b18e73fa12_o.png",
+      "id_image": "discovery_4515650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432388_f2c644906c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432388_e5df49aeda_o.png",
+      "id_image": "discovery_5234365"
+    }
+  ]
+}

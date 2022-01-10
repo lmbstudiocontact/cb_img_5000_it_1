@@ -1,0 +1,148 @@
+{
+  "english": "drip",
+  "phat_am": "drip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chảy nhỏ giọt",
+          "definition": "to (cause to) fall in single drops",
+          "world_new": [
+            "fall",
+            "single"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rain dripped off the roof",
+              "world_new": [
+                "roof"
+              ]
+            },
+            {
+              "ex_of_definition": "His hand was dripping blood.",
+              "world_new": [
+                "hand",
+                "dripping",
+                "blood"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước chảy nhỏ giọt",
+          "definition": "a small quantity (of liquid) falling in drops",
+          "world_new": [
+            "small",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A drip of water ran down the tap.",
+              "world_new": [
+                "water",
+                "tap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng nhỏ giọt",
+          "definition": "the noise made by dripping",
+          "world_new": [
+            "noise",
+            "dripping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can hear a drip somewhere.",
+              "world_new": [
+                "I",
+                "hear",
+                "somewhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ống truyền nhỏ giọt",
+          "definition": "an apparatus for passing a liquid slowly and continuously into a vein of the body",
+          "world_new": [
+            "apparatus",
+            "passing",
+            "liquid",
+            "slowly",
+            "continuously",
+            "vein",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a saline drip.",
+              "world_new": [
+                "saline"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Catheters or drips going through the skin can also provide the germ with a route of entry, as can a surgical wound.",
+    "His hands and those of his henchmen are dripping with blood.",
+    "All they can do is set up drips, perhaps for a couple of days, and then act as mortuary attendants.",
+    "The price charged to melters for sweet fat used for making dripping is 2.",
+    "I fear that for many years it will be a dripping roast for lawyers on both sides of the border.",
+    "Thousands of people in the distressed areas exist on bread and tea, with margarine or dripping.",
+    "Instead, dripping from his tongue, came platitude after platitude.",
+    "If he thought that these properties were dripping roasts, why did he introduce fair rents for them?"
+  ],
+  "list_see_also": [
+    "dripping",
+    "drip-dry"
+  ],
+  "list_browse": [
+    "drink to / drink (to) the health of",
+    "drink up",
+    "drink-driving",
+    "drinker",
+    "drip",
+    "drip-dry",
+    "dripping",
+    "drive",
+    "drive off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693794_ae4d040b44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693794_1a97ded9fe_o.png",
+      "id_image": "drip_1111094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338621_44cf25097e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338621_a043747cc3_o.png",
+      "id_image": "drip_3360460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383487_35f9bdb1e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383487_b544038026_o.png",
+      "id_image": "drip_3380341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338546_45b9f8777e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338546_213f94cc10_o.png",
+      "id_image": "drip_4417733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453463_50aa30a9f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453463_82bf2276dd_o.png",
+      "id_image": "drip_6316550"
+    }
+  ]
+}

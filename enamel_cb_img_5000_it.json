@@ -1,0 +1,102 @@
+{
+  "english": "enamel",
+  "phat_am": "iˈnӕməl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "men",
+          "definition": "a variety of glass applied as coating to a metal or other surface and made hard by heating",
+          "world_new": [
+            "variety",
+            "glass",
+            "applied",
+            "coating",
+            "metal",
+            "surface",
+            "heating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This pan is covered with enamel"
+            },
+            {
+              "ex_of_definition": "(also adjective) an enamel plate.",
+              "world_new": [
+                "plate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "men răng",
+          "definition": "the coating of the teeth.",
+          "world_new": [
+            "coating"
+          ]
+        },
+        {
+          "mean_english": "bức vẽ trên men",
+          "definition": "a glossy paint.",
+          "world_new": [
+            "glossy",
+            "paint"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tráng men",
+          "definition": "to cover or decorate with enamel.",
+          "world_new": [
+            "cover",
+            "decorate"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since enamels were in vogue at the time, he also mastered the complexities of this process.",
+    "In five enamels a diagonal cross is the motif, often featuring circular motifs with quatrefoil flowers.",
+    "Beds and enamel basins and sink baths and all kinds of stuff.",
+    "While his paintings were popular, his reputation was particularly enhanced by his skill at producing miniatures and enamels.",
+    "His work is also characterized with rapid, sweeping, bold lines and the use of modern enamels, machinery and other elements related to technology.",
+    "The sections were then covered in a 4:1 solution of glycerol: distilled water and glass coverslips held in place by nail enamel.",
+    "Physical consequences of bulimia include electrolyte imbalance, erosion of dental enamel and damage to the digestive system.",
+    "Several of the enamels have a reversed counterpart, which is sometimes located opposite."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "en suite",
+    "enable",
+    "enact",
+    "enactment",
+    "enamel",
+    "enamoured",
+    "encampment",
+    "encase",
+    "enchant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675449_fe59029c3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675449_ef1782a31b_o.png",
+      "id_image": "enamel_2245653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320401_cf3b5c35ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320401_77b10a7950_o.png",
+      "id_image": "enamel_3701356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320381_57309ecb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320381_09951ab751_o.png",
+      "id_image": "enamel_4728475"
+    }
+  ]
+}

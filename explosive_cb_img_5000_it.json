@@ -1,0 +1,93 @@
+{
+  "english": "explosive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dễ nổ",
+          "definition": "likely to explode",
+          "world_new": [
+            "likely",
+            "explode"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hydrogen is a dangerously explosive gas.",
+              "world_new": [
+                "gas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất nổ",
+          "definition": "(a) material that is likely to explode",
+          "world_new": [
+            "material",
+            "likely",
+            "explode"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "gelignite and other explosives.",
+              "world_new": [
+                "gelignite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In experiments using plate impact or high explosives, strain rates up to 10 5 -10 6 s 1 are reached.",
+    "He described it as significant, and he has confirmed that the material included arms, ammunition and explosives.",
+    "I gather that there will be several substantial dumps of weaponry, explosives and detonators.",
+    "The forensic experts come later to analyse what specific explosives were used.",
+    "The need for explosives and munitions has fallen.",
+    "Is it true that they have been waiting for two years for explosives to clear the entrance?",
+    "Test borings have been taken, pits have been opened by explosives and rock samples have been analysed.",
+    "Explosives with a light covering will not affect anything like the amount of traffic which has just been mentioned."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exploratory",
+    "explore",
+    "explorer",
+    "explosion",
+    "explosive",
+    "exponent",
+    "export",
+    "exportation",
+    "exporter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696784_84eea120eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696784_2dbf4d4ae8_o.png",
+      "id_image": "explosive_224677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078935_7e8756ae4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078935_8998e120fb_o.png",
+      "id_image": "explosive_2790375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386542_2103da0da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386542_0d1c1b6071_o.png",
+      "id_image": "explosive_4321601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456333_15dac43704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456333_d903c2eae5_o.png",
+      "id_image": "explosive_4695119"
+    }
+  ]
+}

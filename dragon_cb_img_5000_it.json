@@ -1,0 +1,69 @@
+{
+  "english": "dragon",
+  "phat_am": "ˈdrӕɡən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con rồng",
+          "definition": "a mythical beast, a usually large, winged, fire-breathing reptile",
+          "world_new": [
+            "mythical",
+            "beast",
+            "large",
+            "winged",
+            "reptile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "St George and the dragon.",
+              "world_new": [
+                "St"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pavilion has a projected hip-and-gable roof supported by two columns decorated with carved entwining dragons.",
+    "Furthermore, she appeared to self-correct primarily on the basis of semantic information (dragons do not bark).",
+    "We have sown dragon's teeth.",
+    "They long for tanks and the \"dragons\"and the\"whippets\" to come along the rural roads, because then they can put in for compensation—and get it, on a very handsome scale.",
+    "He questioned his adviser about how the name could mean nine dragons.",
+    "I am concerned about the proliferation of ombudsmen—like the dragon's teeth or the story of the sorcerer's apprentice, they seem to be spawning everywhere.",
+    "A crusade against dragons can be both inspiring and exciting.",
+    "I fear that we are sowing dragon's teeth and that we shall regret it bitterly as time goes on."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "draft dodger",
+    "draft evasion",
+    "drag",
+    "drag and drop",
+    "dragon",
+    "dragonfly",
+    "drain",
+    "drainage",
+    "draining board"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044035_4629b58940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044035_b45f11c8a0_o.png",
+      "id_image": "dragon_292010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044000_978d2d79a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044000_a428f4062b_o.png",
+      "id_image": "dragon_774949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662264_2d1cbf0c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662264_b1e3543170_o.png",
+      "id_image": "dragon_982782"
+    }
+  ]
+}

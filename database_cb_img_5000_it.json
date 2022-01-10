@@ -1,0 +1,80 @@
+{
+  "english": "database",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ sở dữ liệu",
+          "definition": "(also data-bank) computing a large amount of information which is stored in a computer",
+          "world_new": [
+            "large",
+            "amount",
+            "information",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The photographs of millions of people have been put on a national police database.",
+              "world_new": [
+                "people",
+                "national",
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As some of the scenarios are based on very few cases from the database, generalizability of the results is also limited.",
+    "A detailed search included multiple electronic databases, bibliographies of found papers and review articles.",
+    "The data storage for other cases could be some database systems.",
+    "On the other hand, new translations, computer technology, electronic databases and the feasibility of word searches make such enterprises easier to contemplate.",
+    "The sensitivity and precision results for the search of the specialized databases and trial registries for the acupuncture project were 14.2% and 17.6%, respectively.",
+    "A large statistical database has been obtained which provides considerable insight to the structural and transport properties of thermally stratified turbulence.",
+    "It is possible to define a set of rules that explicitly defines the possible transitions in terms of the difference between consecutive database states.",
+    "The general interpretation of this climbing is that a typical key is being \"sampled\" from the database."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dashboard",
+    "dashing",
+    "data",
+    "data-processing",
+    "database",
+    "date",
+    "dated",
+    "dateline",
+    "daughter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424888_d0874fd71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424888_47d19f832e_o.png",
+      "id_image": "database_338051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424843_a5e2909d84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424843_5fcc89bf59_o.png",
+      "id_image": "database_526009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664984_1d8134daec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664984_995afb9936_o.png",
+      "id_image": "database_586264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424743_03efa2539b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424743_4a56d960ab_o.png",
+      "id_image": "database_586276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309586_47052338e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309586_4cce5b4dd6_o.png",
+      "id_image": "database_586283"
+    }
+  ]
+}

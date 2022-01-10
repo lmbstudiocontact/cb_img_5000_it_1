@@ -1,0 +1,60 @@
+{
+  "english": "correlation",
+  "phat_am": "(British) ˌkorəˈleiʃən; (American) ˌkoːrəˈleiʃən, ˌkorəˈleiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tương quan",
+          "definition": "a mutual relationship between two or more things",
+          "world_new": [
+            "mutual",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a strong correlation between heroin abuse and HIV infection.",
+              "world_new": [
+                "strong",
+                "heroin",
+                "abuse",
+                "HIV",
+                "infection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In order to eliminate such effects, we conducted a partial correlation analysis controlling for the illness duration.",
+    "However, as correlations elucidate relative differences or ranks and not absolute amounts, this should not affect the conclusions.",
+    "We used principal-factor analysis (starting with squared multiple correlations as the prior communality estimates) to extract the principal factors from the 17 premenstrual symptoms.",
+    "The concept of correlation coefficients is used to select the minimum number of design variables.",
+    "The correlation between spread of verbal utterances and reduction of nonverbal negative constructions may be detected in the longitudinal data as well.",
+    "In addition, we removed items with negative item- total correlations.",
+    "These signal turnover rates seem to be high enough to avoid significant time correlations.",
+    "Data obtained by such scales have been typically processed by means of inferential statistical procedures, such as correlation or factor analysis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "correction",
+    "corrective",
+    "correctly",
+    "correctness",
+    "correlation",
+    "correspond",
+    "correspondence",
+    "correspondence course",
+    "correspondent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685634_68f61d9f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685634_4120541384_o.png",
+      "id_image": "correlation_5835658"
+    }
+  ]
+}

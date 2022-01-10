@@ -1,0 +1,95 @@
+{
+  "english": "corruption",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tham nhũng",
+          "definition": "the act of corrupting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Finance Minister has been charged with corruption and accepting bribes.",
+              "world_new": [
+                "charged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự mục nát",
+          "definition": "a word that has changed considerably from its original form",
+          "world_new": [
+            "considerably",
+            "its",
+            "original",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Caterpillar is probably a corruption of the Old French word ‘chatepelose’ meaning ‘hairy cat’.",
+              "world_new": [
+                "probably",
+                "French",
+                "meaning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Together they formed the impetus for greed and corruption, not democratic cohesion.",
+    "The indicators of institutional quality are corruption, bureaucratic quality and the rule of law.",
+    "The measures are attempting to catch the smaller corruptions.",
+    "The economic reform index, log of price level, corruption index, and the war dummy are the intermediate variables.",
+    "Following most of the empirical literature on the economic effects of corruption, the paper uses cross-country regressions.",
+    "However, even if corruption reduces pollution via its effect on income, this indirect effect is invariably dominated by the direct effect.",
+    "The opening up and expansion of the democratic space under mutipartyism has, nonetheless, had positive effects on corruption.",
+    "On the other hand, the economic recovery is believed to be one factor that will speed up the process of combating the corruption problem."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "corrugated",
+    "corrupt",
+    "corruptibility",
+    "corruptible",
+    "corruption",
+    "corset",
+    "cortege",
+    "cos",
+    "cosily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067010_019685503b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067010_42b0e82e78_o.png",
+      "id_image": "corruption_2473007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374832_0313e8df45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374832_41623acb60_o.png",
+      "id_image": "corruption_2631527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066915_300d872b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066915_f900581d32_o.png",
+      "id_image": "corruption_2631542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445073_2636f11761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445073_defec215c0_o.png",
+      "id_image": "corruption_5434133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374712_0d72f9dedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374712_65dbc5f142_o.png",
+      "id_image": "corruption_5434202"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "english": "crop",
+  "phat_am": "krop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vụ mùa",
+          "definition": "a plant which is farmed and harvested",
+          "world_new": [
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine crop of rice",
+              "world_new": [
+                "fine",
+                "rice"
+              ]
+            },
+            {
+              "ex_of_definition": "We grow a variety of crops, including cabbages, wheat and barley.",
+              "world_new": [
+                "grow",
+                "variety",
+                "including",
+                "wheat",
+                "barley"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tay cầm của roi da",
+          "definition": "a short whip used when horse-riding.",
+          "world_new": [
+            "short",
+            "whip"
+          ]
+        },
+        {
+          "mean_english": "kiểu cắt tóc ngắn",
+          "definition": "a (short) haircut",
+          "world_new": [
+            "haircut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a crop of red hair.",
+              "world_new": [
+                "red",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái diều ở cổ gia cầm",
+          "definition": "(of certain birds) the first stomach, which hangs like a bag from the neck.",
+          "world_new": [
+            "certain",
+            "stomach",
+            "bag",
+            "neck"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gặm",
+          "definition": "to cut or nibble short",
+          "world_new": [
+            "cut",
+            "nibble",
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sheep crop the grass.",
+              "world_new": [
+                "sheep",
+                "grass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the second step, information on the technical relationship between specific crops and resource use is used to link household economic behaviour to the environment.",
+    "Large numbers on the crops do not in themselves account for the peaks in flight activity shown on certain days and dates.",
+    "If the tank had little water, they would avoid operations demanding more water, even go for drier crops in certain parts.",
+    "At medium intensity or cropping this system is thus recommendable to land-constrained poor farmers who do not use external inputs such as fertilizer.",
+    "However, it is less likely to benefit crops such as sunflower and cotton that have been shown to be as attractive to ovipositing females.",
+    "If climate change alters supplies of individual crops, prices are likely to change.",
+    "Yield increases over two years with pigeonpea were highest among all evaluated cropping systems for maize (+150%) and signi®cant for cassava (+66%).",
+    "The fresh weight of crops in each sub-plot was recorded."
+  ],
+  "list_see_also": [
+    "crop up"
+  ],
+  "list_browse": [
+    "crookedly",
+    "crookedness",
+    "croon",
+    "crooner",
+    "crop",
+    "crop up",
+    "croquet",
+    "cross",
+    "cross one’s fingers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434463_488b17f7dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434463_01787d33c7_o.png",
+      "id_image": "crops_1686495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434393_b2c0aa917f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434393_e034480659_o.png",
+      "id_image": "crops_3239276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364062_8f478dbcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364062_87420cdb8b_o.png",
+      "id_image": "crop_1583433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364017_27753b8833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364017_13dab4260c_o.png",
+      "id_image": "crop_1791909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319401_03ccf0b88b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319401_a1143e621a_o.png",
+      "id_image": "crop_593505"
+    }
+  ]
+}

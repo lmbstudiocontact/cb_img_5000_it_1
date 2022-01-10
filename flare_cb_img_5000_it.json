@@ -1,0 +1,93 @@
+{
+  "english": "flare",
+  "phat_am": "fleə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "loé sáng",
+          "definition": "to burn with a bright unsteady light",
+          "world_new": [
+            "burn",
+            "bright",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The candle flared.",
+              "world_new": [
+                "candle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xoè ra (váy)",
+          "definition": "(of a skirt, trousers etc) to become wider at the bottom edge",
+          "world_new": [
+            "skirt",
+            "trousers",
+            "become",
+            "bottom",
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flared skirt.",
+              "world_new": [
+                "skirt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are in sole charge of this ground, and have the duty of lighting the flares to guide landing aeroplanes.",
+    "Flaring gas affects the design of the platform itself, for one thing.",
+    "However, the discharge is not quite uniform and a large number of shor t cathode flares is evident.",
+    "Flaring might perhaps produce very high levels of methane capture but anything else, they said, could not go above about 70 %.",
+    "In astrophysics, interest in forbidden lines is motivated by the possibility of using them for ion temperature, and density measurements in solar flares and in the solar corona.",
+    "No intrinsic value can be ascribed to the gas flared during this period.",
+    "There was great relief when green flares were observed, indicating that all was well.",
+    "Another example where the assumption of anomalous resistivity is used is in the treatment of solar flares, which are generally assumed to be due to magnetic reconnection."
+  ],
+  "list_see_also": [
+    "flare up"
+  ],
+  "list_browse": [
+    "flange",
+    "flank",
+    "flannel",
+    "flap",
+    "flare",
+    "flare up",
+    "flash",
+    "flashily",
+    "flashing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322951_5fb18f279e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322951_64f1bac896_o.png",
+      "id_image": "flare_1974790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438078_421e35e949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438078_22a1eb8edd_o.png",
+      "id_image": "flare_2485275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382056_54f00c20a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382056_2dc0a7cc4f_o.png",
+      "id_image": "flare_3814283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059580_96317bde6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059580_755b4da17f_o.png",
+      "id_image": "flare_6009534"
+    }
+  ]
+}

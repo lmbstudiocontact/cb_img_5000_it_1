@@ -1,0 +1,48 @@
+{
+  "english": "diplomat",
+  "phat_am": "ˈdipləmӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà ngoại giao",
+          "definition": "a person engaged in diplomacy",
+          "world_new": [
+            "person",
+            "engaged",
+            "diplomacy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a diplomat at the American embassy.",
+              "world_new": [
+                "American",
+                "embassy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diphtheria",
+    "diphthong",
+    "diploma",
+    "diplomacy",
+    "diplomat",
+    "diplomatic",
+    "diplomatically",
+    "dire",
+    "direct"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320356_d982f4551d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320356_4032625a97_o.png",
+      "id_image": "diplomat_4849734"
+    }
+  ]
+}

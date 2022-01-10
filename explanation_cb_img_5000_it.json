@@ -1,0 +1,70 @@
+{
+  "english": "explanation",
+  "phat_am": "ekspləˈneiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giảng giải",
+          "definition": "the act or process of explaining",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let me give a few words of explanation."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời giải thích",
+          "definition": "a statement or fact that explains",
+          "world_new": [
+            "statement",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several possible explanations for the explosion.",
+              "world_new": [
+                "possible",
+                "explosion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An explanation for these differences will require further investigations, but one plausible interpretation may be related to teaching policy.",
+    "But it was not a sufficient explanation to discredit him altogether.",
+    "Therefore, the psychiatric conditions were not regarded as a plausible explanation of the symptoms.",
+    "The economic explanation for the timber market effects of a negative stock shock is not difficult to see.",
+    "A theoretical explanation of these unexpected findings seems in order.",
+    "Even so, an explanation why just these symptoms co-occur would be welcome.",
+    "One cannot dismiss a purely historical explanation, however.",
+    "Here, then, an alternative explanation of the equitable man is required."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "expire",
+    "expiry",
+    "explain",
+    "explain away",
+    "explanation",
+    "explanatory",
+    "expletive",
+    "explicable",
+    "explicit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309581_838530f19e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309581_a600dd6b29_o.png",
+      "id_image": "explanation_5986426"
+    }
+  ]
+}

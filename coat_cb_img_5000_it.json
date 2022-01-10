@@ -1,0 +1,154 @@
+{
+  "english": "coat",
+  "phat_am": "kəut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo choàng",
+          "definition": "an item of outdoor clothing, with sleeves, that covers from the shoulders usually to the knees",
+          "world_new": [
+            "item",
+            "outdoor",
+            "clothing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a winter coat",
+              "world_new": [
+                "winter"
+              ]
+            },
+            {
+              "ex_of_definition": "a coat and hat.",
+              "world_new": [
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo vét",
+          "definition": "a jacket",
+          "world_new": [
+            "jacket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man’s coat and trousers.",
+              "world_new": [
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ lông thú",
+          "definition": "the hair or wool of an animal",
+          "world_new": [
+            "hair",
+            "wool",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some dogs have smooth coats.",
+              "world_new": [
+                "smooth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp sơn",
+          "definition": "a covering (eg of paint)",
+          "world_new": [
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wall will need two coats of paint.",
+              "world_new": [
+                "wall",
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ",
+          "definition": "to cover",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She coated the biscuits with chocolate.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Hence, we analytically confirm experimental predictions that surface superconductivity may be suppressed by coating a superconductor with a normal metal.",
+    "By controlling the thickness of the layer, one can introduce a wanted optical path difference between the coated and the uncoated cells.",
+    "Sections (10 mm) were mounted onto slides coated with poly-l-lysine.",
+    "Seed coats were manually scarified using rabbit-toothed tweezers and seeds immediately placed on agar.",
+    "Let us go out of doors, put on our coats of course.",
+    "Xenopus laevis egg jelly coats consist of small diffusible proteins bound to a complex system of structurally stable networks composed of high molecular weight glycoconjugates.",
+    "His research concentrated on gas diffusion through seed coats and the involvement of their phenolic compounds in the regulation of oxygen supply to the embryo.",
+    "In most cases, however, the bacterial density in the suspensions surrounding the differently coated surfaces was similar at the same sampling time point."
+  ],
+  "list_see_also": [
+    "coating",
+    "coat of arms"
+  ],
+  "list_browse": [
+    "coastal",
+    "coaster",
+    "coastguard",
+    "coastline",
+    "coat",
+    "coat of arms",
+    "coating",
+    "coax",
+    "cob"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063940_f340d2139f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063940_c93541c65c_o.png",
+      "id_image": "coat_1337896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442273_a0b6975cf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442273_c6f4e0b52b_o.png",
+      "id_image": "coat_617981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327171_bc4dc93417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327171_bc616c5211_o.png",
+      "id_image": "coat_618014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371857_5f83086e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371857_82570dc166_o.png",
+      "id_image": "coat_618025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682244_da0ff7979d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682244_a392e53790_o.png",
+      "id_image": "coat_658844"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "firework",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "pháo hoa; pháo hiệu",
+          "definition": "a small exploding device giving off a colourful display of lights",
+          "world_new": [
+            "small",
+            "device",
+            "colourful",
+            "display"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rockets are my favourite fireworks",
+              "world_new": [
+                "my",
+                "favourite"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a firework display",
+              "world_new": [
+                "display"
+              ]
+            },
+            {
+              "ex_of_definition": "If your sister finds out, there’ll be fireworks (= a display of anger)!",
+              "world_new": [
+                "your",
+                "sister",
+                "display"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is someone who has fireworks in his possession going to be arrested by the police and charged with possessing fireworks?",
+    "Of course, it is already illegal to sell fireworks to children.",
+    "None of us who are in our mature years can remember from our youth anything like the type of fireworks that we see nowadays.",
+    "The period of sale of fireworks is an issue for the voluntary code of practice.",
+    "The ceremony thus became a component of a solemn feast in the church, including orchestral music, fireworks and alms to the poor, all paid for by the girl's family.",
+    "I have no plans to introduce further controls on fireworks.",
+    "I shall come on to the dates later, as there is a big issue about the periods when fireworks can be used.",
+    "Indeed, we take measures to ensure that unsafe fireworks do not find their way on to the market."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fireplace",
+    "fireproof",
+    "fireside",
+    "firewood",
+    "firework",
+    "firing-squad",
+    "firm",
+    "firmament",
+    "firmly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325771_e76ec9eb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325771_dd70c421fe_o.png",
+      "id_image": "firework_2445483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370607_d90a853324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370607_c1be3ec086_o.png",
+      "id_image": "firework_439515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062535_658d663a01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062535_86a7c17fee_o.png",
+      "id_image": "firework_4803098"
+    }
+  ]
+}

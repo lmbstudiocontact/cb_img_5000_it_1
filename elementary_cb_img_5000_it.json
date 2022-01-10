@@ -1,0 +1,55 @@
+{
+  "english": "elementary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cơ bản",
+          "definition": "very simple; not advanced",
+          "world_new": [
+            "advanced"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "elementary mathematics.",
+              "world_new": [
+                "mathematics"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two elementary schools prepared food in their own kitchens and served 770 students.",
+    "He considers the motion appears to be composed of two elementary motions along great circles of the celestial sphere.",
+    "Each move is composed of one or more elementary, verbal or nonverbal actions such as summons, greeting, or informing.",
+    "Elementary stateful types are those which do not carry stateful types, even though the types themselves can be stateful.",
+    "Thus, what distinguishes one person from another is the pattern, structure or configuration in space of the constituent elementary particles from which they are made.",
+    "Initial experiments with the more elaborate static scheme for elementary validity outlined in section 6.1 yield quite natural and precise typings, too.",
+    "By using equation (11), the strategic analysis now reduces to elementary computations involving the dot product.",
+    "We also consider strengthening the guarantees of the library for elementary and full validity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "elegance",
+    "elegant",
+    "elegy",
+    "element",
+    "elementary",
+    "elements",
+    "elephant",
+    "elevate",
+    "elevating"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439698_0a81b54919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439698_23386be658_o.png",
+      "id_image": "elementary_957197"
+    }
+  ]
+}

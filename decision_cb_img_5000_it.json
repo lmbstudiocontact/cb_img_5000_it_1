@@ -1,0 +1,71 @@
+{
+  "english": "decision",
+  "phat_am": "diˈsiʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyết định",
+          "definition": "the act of deciding; a judgement",
+          "world_new": [
+            "act",
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a time/moment of decision"
+            },
+            {
+              "ex_of_definition": "I think you made the wrong decision.",
+              "world_new": [
+                "I",
+                "think",
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the simulations we presented, the decision nodes are effectively the output representations.",
+    "This was both a political and a technical decision.",
+    "To isolate the problem, assume that if satisfactory reasoning is not forthcoming, the decision can be reversed.",
+    "We developed a diagnostic decision rule for the indication of a lumbar puncture and empirical treatment for bacterial meningitis (9;10).",
+    "They were told to read and make the decision as quickly and accurately as possible.",
+    "As regards psychological distress, no association was found with decision latitude, while conflicts at work increased the risk of psychological distress.",
+    "His decision to exclude secondary stresses (1999: 14), but to include two 'equal' stresses, is very problematic.",
+    "Therefore, these methods implicitly assume that there is no uncertainty surrounding the decision that the proposed research is supposed to inform."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decimate",
+    "decimation",
+    "decimetre",
+    "decipher",
+    "decision",
+    "decisive",
+    "decisively",
+    "decisiveness",
+    "deck"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044420_97b4fa5474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044420_a83816e497_o.png",
+      "id_image": "decision_1900209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662719_d1549bc1aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662719_2be638c65c_o.png",
+      "id_image": "decision_1900265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351577_a439380e75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351577_de3215af68_o.png",
+      "id_image": "decision_993690"
+    }
+  ]
+}

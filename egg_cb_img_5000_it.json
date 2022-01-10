@@ -1,0 +1,123 @@
+{
+  "english": "egg",
+  "phat_am": "eɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả trứng",
+          "definition": "an oval object usually covered with shell, laid by a bird, reptile etc, from which a young one is hatched",
+          "world_new": [
+            "oval",
+            "object",
+            "shell",
+            "bird",
+            "reptile",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The female bird is sitting on the eggs in the nest.",
+              "world_new": [
+                "female",
+                "bird",
+                "sitting",
+                "nest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả trứng",
+          "definition": "such an object laid by a hen, used as food",
+          "world_new": [
+            "object",
+            "hen",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you rather have boiled, fried, or scrambled eggs?",
+              "world_new": [
+                "rather",
+                "fried"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trứng",
+          "definition": "in the female mammal, the cell from which the young one is formed; ovum",
+          "world_new": [
+            "female",
+            "mammal",
+            "cell",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The egg is fertilized by the male sperm.",
+              "world_new": [
+                "male",
+                "sperm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "thúc giục ai làm gì",
+          "definition": "to urge (somebody) on (to do something)",
+          "world_new": [
+            "urge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He egged his friend on to steal the radio.",
+              "world_new": [
+                "friend",
+                "steal",
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "eggplant",
+    "eggshell",
+    "egg white",
+    "put all one’s eggs in one basket",
+    "teach one’s grandmother to suck eggs"
+  ],
+  "list_browse": [
+    "effusively",
+    "EFL",
+    "eg",
+    "egest",
+    "egg",
+    "egg white",
+    "eggplant",
+    "eggshell",
+    "ego"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682669_fe72e3023b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682669_ac2d89dd10_o.png",
+      "id_image": "egg_1461478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682704_d3c7c07676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682704_4349314b63_o.png",
+      "id_image": "egg_188924"
+    }
+  ]
+}

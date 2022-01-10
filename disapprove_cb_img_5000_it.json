@@ -1,0 +1,50 @@
+{
+  "english": "disapprove",
+  "phat_am": "disəˈpruːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phản đối",
+          "definition": "to have an unfavourable opinion (of)",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her mother disapproved of her new boyfriend.",
+              "world_new": [
+                "mother",
+                "boyfriend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "disapproval",
+    "disapproving",
+    "disapprovingly"
+  ],
+  "list_browse": [
+    "disappointed",
+    "disappointing",
+    "disappointment",
+    "disapproval",
+    "disapprove",
+    "disapproving",
+    "disapprovingly",
+    "disarm",
+    "disarmament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673304_ff0c6ca3fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673304_7ff01518d5_o.png",
+      "id_image": "disapprove_1982943"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "enable",
+  "phat_am": "iˈneibl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho phép",
+          "definition": "to make able by giving means, power or authority (to do something)",
+          "world_new": [
+            "means",
+            "power",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The money I inherited enabled me to go on a world cruise.",
+              "world_new": [
+                "money",
+                "I",
+                "inherited",
+                "world",
+                "cruise"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The scene also enables members across the world to interact on a fairly equal basis.",
+    "The evolution history explorer enables the designer to explore the evolution history of any item selected from the overview.",
+    "The proposed approach enables design decision rules, which are used in the mapping process, to be extracted from past design information.",
+    "If the task of architecture is to represent order, its means are enabled by eloquence.",
+    "The concept of shape grammar enables the establishment of an initial shape or subset of shapes, which are subsequently transformed through the application of rules.",
+    "A low dynamic requirement enables the users to control patient hematocrit and minimize possible blood transfusion requirements.",
+    "Mercantilist economic doctrines too enabled the condemnation of the 'indolent' including 'savages'.",
+    "Neither time nor the scaffolding condition enabled the late talkers to narrow the gap between their narrative skills and those of the comparison peers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "emulsion",
+    "emulsion paint",
+    "en route",
+    "en suite",
+    "enable",
+    "enact",
+    "enactment",
+    "enamel",
+    "enamoured"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320481_e2b29467a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320481_f1c5c2f314_o.png",
+      "id_image": "enable_1827844"
+    }
+  ]
+}

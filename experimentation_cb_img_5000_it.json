@@ -1,0 +1,67 @@
+{
+  "english": "experimentation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thí nghiệm; sự thử nghiệm",
+          "definition": "the practice of making experiments",
+          "world_new": [
+            "practice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They found the solution by a process of experimentation.",
+              "world_new": [
+                "found",
+                "solution",
+                "process"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Controlled interventionist experimentation could help to move beyond the \"wanderings through the scholastic maze\" that traditional zoology had brought.",
+    "Our experimentation reveals at least that a deliberative model is not sufficient to account for what is at stake in public discussions.",
+    "Thus, the prototype machine did not have a usable interface which meant experimentation was time-consuming and error-prone.",
+    "Unit structures should emphasize networks and h eterarchies rather than hierarchies, and experimentation must be encouraged.",
+    "Perhaps this is because there is a reluctance to become involved in physical experimentation with these materials and recognition of the high costs involved.",
+    "Roberts proposes that self-experimentation is a powerful heuristic for creative thinking, and in particular, for generating new ideas.",
+    "This is especially likely at the margins, when new kinds of family are being created through either social or biological experimentation.",
+    "However, trial-and-error experimentation, adaptation of past organizational configurations, and consultants' intuitions, while potentially of some value, do not constitute a systematic engineering process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "experienced",
+    "experiment",
+    "experimental",
+    "experimentally",
+    "experimentation",
+    "expert",
+    "expertise",
+    "expertly",
+    "expertness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354157_f3502a26a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354157_0cf2fe988e_o.png",
+      "id_image": "experimentation_2854692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665164_0731ebb979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665164_2679b7e0a2_o.png",
+      "id_image": "experimentation_2854722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309836_06708d8f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309836_3f0bf65076_o.png",
+      "id_image": "experimentation_2854807"
+    }
+  ]
+}

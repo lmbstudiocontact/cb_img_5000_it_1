@@ -1,0 +1,96 @@
+{
+  "english": "comment",
+  "phat_am": "ˈkoment",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời bình",
+          "definition": "(a) spoken or written remark",
+          "world_new": [
+            "spoken",
+            "remark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made several comments about her untidy appearance.",
+              "world_new": [
+                "untidy",
+                "appearance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bình luận",
+          "definition": "(with on) to make such a remark",
+          "world_new": [
+            "remark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He commented on her appearance.",
+              "world_new": [
+                "appearance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I thank them for organizing this exciting and timely panel, and for their comments on my paper.",
+    "I get excellent comments from people who are interested in this subject.",
+    "Conversely, the auditors should modify their report as necessary if they find the comments valid.",
+    "The former is condemned and the latter is naturalized, not even commented upon.",
+    "Each of the five sections of the book is prefaced by cogent editorial comments.",
+    "We are especially indebted to the par ticipants at the conference who have offered helpful comments on our work, both orally and in writing.",
+    "Unless indicated otherwise, only differences that are statistically significant at the 5 per cent level have been commented on.",
+    "Participants' comments also illustrated dissatisfaction with the training received."
+  ],
+  "list_see_also": [
+    "commentary",
+    "commentate",
+    "commentator"
+  ],
+  "list_browse": [
+    "commencement",
+    "commend",
+    "commendable",
+    "commendation",
+    "comment",
+    "commentary",
+    "commentate",
+    "commentator",
+    "commerce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319391_2d11ae0ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319391_da8ec973c9_o.png",
+      "id_image": "comment_2482337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319321_f32dc775dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319321_57e5b0fb04_o.png",
+      "id_image": "comment_5638465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319261_bd61f4db8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319261_abb8e7dd50_o.png",
+      "id_image": "comment_5853658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674339_9df644214d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674339_a370415241_o.png",
+      "id_image": "comment_655236"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "english": "fix",
+  "phat_am": "fiks",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cố định",
+          "definition": "to make firm or steady",
+          "world_new": [
+            "firm",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fixed the post firmly in the ground",
+              "world_new": [
+                "fixed",
+                "firmly",
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "He fixed his eyes on the door.",
+              "world_new": [
+                "fixed",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gắn chặt vào",
+          "definition": "to attach; to join",
+          "world_new": [
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fixed the shelf to the wall.",
+              "world_new": [
+                "fixed",
+                "shelf",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sửa sang",
+          "definition": "to mend or repair",
+          "world_new": [
+            "mend",
+            "repair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has succeeded in fixing my watch.",
+              "world_new": [
+                "my",
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dán mắt nhìn",
+          "definition": "to direct (attention, a look etc) at",
+          "world_new": [
+            "direct",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fixed all her attention on me.",
+              "world_new": [
+                "fixed",
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thu xếp; bố trí",
+          "definition": "(often with up) to arrange; to settle",
+          "world_new": [
+            "settle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you fixed a price yet?",
+              "world_new": [
+                "fixed",
+                "price",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "We fixed (up) a meeting.",
+              "world_new": [
+                "fixed",
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hãm",
+          "definition": "to make (something) permanent by the use of certain chemicals",
+          "world_new": [
+            "permanent",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to fix a photographic print.",
+              "world_new": [
+                "photographic",
+                "print"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuẩn bị",
+          "definition": "to prepare; to get ready",
+          "world_new": [
+            "ready"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll fix dinner tonight.",
+              "world_new": [
+                "dinner",
+                "tonight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình thế khó khăn",
+          "definition": "trouble; a difficulty",
+          "world_new": [
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m in a terrible fix!",
+              "world_new": [
+                "terrible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this way the equilibrium can be seen to fix the strategies of the players.",
+    "If this is fixed then the automaton is a fixed structure deterministic or a fixed structure stochastic automaton.",
+    "The weighted mean difference was k2n99 for both the fixed and random effects models.",
+    "In classical political economy, voluntary arrangements to fix prices and restrict competition were part of a citizen's broader right to contract.",
+    "Here we will just give the necessary definitions for the sake of self-containedness and to fix notation.",
+    "They were calculated from girth measurements performed with permanent metal dendrometers fixed on the trunks.",
+    "To fix ideas and put the mathematical background in place, we start with some formal definitions.",
+    "In our context, their suggestions imply that a likelihood approach with random variety effects reduces bias in the estimation of (fixed) year effects."
+  ],
+  "list_see_also": [
+    "fixation",
+    "fixed",
+    "fixedly",
+    "fixture",
+    "fix on",
+    "fix (someone) up with (something)"
+  ],
+  "list_browse": [
+    "fitting",
+    "five",
+    "five-year-old",
+    "fiver",
+    "fix",
+    "fix (someone) up with (something)",
+    "fix on",
+    "fixation",
+    "fixed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679649_4f3b0e2d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679649_5b6793d0b1_o.png",
+      "id_image": "fix_1473250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439453_69a5be5b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439453_39b1907b9a_o.png",
+      "id_image": "fix_2558055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679534_65aebdcb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679534_2c7e849be6_o.png",
+      "id_image": "fix_3501870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324496_c4ff3f1fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324496_7828a31160_o.png",
+      "id_image": "fix_648416"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "english": "dial",
+  "phat_am": "ˈdaiəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt của đồng hồ",
+          "definition": "the face of a watch or clock",
+          "world_new": [
+            "face",
+            "watch",
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My watch has a dial you can see in the dark.",
+              "world_new": [
+                "watch",
+                "see",
+                "dark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đĩa số",
+          "definition": "the turning disc over the numbers on a telephone.",
+          "world_new": [
+            "disc",
+            "telephone"
+          ]
+        },
+        {
+          "mean_english": "bản hoặc đĩa trên máy thu thanh hoặc thu hình chỉ bước sóng",
+          "definition": "any disc etc bearing numbers etc used to give information",
+          "world_new": [
+            "disc",
+            "bearing",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Just turn the dial to increase the volume.",
+              "world_new": [
+                "turn",
+                "increase",
+                "volume"
+              ]
+            },
+            {
+              "ex_of_definition": "the dial on a radio.",
+              "world_new": [
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quay số",
+          "definition": "to turn a telephone dial to get a number",
+          "world_new": [
+            "turn",
+            "telephone",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dialled the wrong number.",
+              "world_new": [
+                "wrong",
+                "number"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The operator dialled and then had to get a little slip of paper and put down how long a call lasted from the start.",
+    "The meters—which are the same for local and trunk calls dialled by subscribers—are very reliable and are tested regularly.",
+    "They can do so by dialling 0660 100 721.",
+    "In fact, the engine gets bigger, the paintwork becomes glossier and there are more dials and flashing lights on the dashboard.",
+    "To alter the feed dials from imperial to metric can be done at a cost of approximately £40 to £50.",
+    "The initial list of the extensions that may be dialled direct reflects the present capacity of the telephone exchange to accept such calls.",
+    "We mean the ordinary citizen who has looked out of his window, seen something suspicious and dialled 999.",
+    "He dialled the number and got through to the scheme, but he was transferred and then cut off."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diagnosis",
+    "diagonal",
+    "diagonally",
+    "diagram",
+    "dial",
+    "dialect",
+    "dialectic",
+    "dialectical",
+    "dialogue"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369067_bac0b6603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369067_ea06ced758_o.png",
+      "id_image": "dial_1042072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061060_c3bfa1e9db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061060_fce52fe8b6_o.png",
+      "id_image": "dial_1677219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369087_f0447cd35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369087_fed204597a_o.png",
+      "id_image": "dial_247637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679314_2dc32635a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679314_a9b4ff15f7_o.png",
+      "id_image": "dial_5517638"
+    }
+  ]
+}

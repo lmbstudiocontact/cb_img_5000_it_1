@@ -1,0 +1,87 @@
+{
+  "english": "door",
+  "phat_am": "doː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cửa",
+          "definition": "the usually hinged barrier, usually of wood, which closes the entrance of a room, house etc",
+          "world_new": [
+            "barrier",
+            "wood",
+            "entrance",
+            "room",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knocked loudly on the door.",
+              "world_new": [
+                "loudly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phương tiện để đạt được cái gì",
+          "definition": "a means of achieving something",
+          "world_new": [
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the door to success.",
+              "world_new": [
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "doorbell",
+    "doorknob",
+    "doorman",
+    "doormat",
+    "doorstep",
+    "doorway",
+    "on one’s doorstep"
+  ],
+  "list_browse": [
+    "donkey’s years/ages",
+    "donor",
+    "doodle",
+    "doom",
+    "door",
+    "doorbell",
+    "doorknob",
+    "doorman",
+    "doormat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046655_2155e50ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046655_4bdb7c7f95_o.png",
+      "id_image": "door_1230015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424723_8817c7d2e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424723_4f0c6e6152_o.png",
+      "id_image": "door_1230026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046695_96b5be1a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046695_2ab982b3af_o.png",
+      "id_image": "door_252752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046665_f6b174d1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046665_116f308a6b_o.png",
+      "id_image": "door_605649"
+    }
+  ]
+}

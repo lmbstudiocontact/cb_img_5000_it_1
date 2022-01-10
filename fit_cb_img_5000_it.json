@@ -1,0 +1,221 @@
+{
+  "english": "fit",
+  "phat_am": "fit",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mạnh khoẻ; sung sức",
+          "definition": "in good health",
+          "world_new": [
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am feeling very fit.",
+              "world_new": [
+                "I",
+                "feeling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thích hợp; xứng đáng",
+          "definition": "suitable; correct for a particular purpose or person",
+          "world_new": [
+            "correct",
+            "particular",
+            "purpose",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They prepared a magnificent dinner fit for a king.",
+              "world_new": [
+                "prepared",
+                "magnificent",
+                "dinner",
+                "king"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vừa khớp",
+          "definition": "the right size or shape for a particular person, purpose etc",
+          "world_new": [
+            "right",
+            "size",
+            "shape",
+            "particular",
+            "person",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your dress is a very good fit.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vừa",
+          "definition": "to be the right size or shape (for someone or something)",
+          "world_new": [
+            "right",
+            "size",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coat fits (you) very well.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp",
+          "definition": "to be suitable for",
+          "world_new": [
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her speech fitted the occasion.",
+              "world_new": [
+                "speech",
+                "occasion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lắp",
+          "definition": "to put (something) in position",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must fit a new lock on the door.",
+              "world_new": [
+                "lock",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắm sửa",
+          "definition": "to supply with; to equip with",
+          "world_new": [
+            "supply",
+            "equip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fitted the cupboard with shelves.",
+              "world_new": [
+                "cupboard"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn đau đột ngột",
+          "definition": "a sudden attack of illness, especially epilepsy",
+          "world_new": [
+            "sudden",
+            "attack",
+            "illness",
+            "epilepsy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from fits."
+            }
+          ]
+        },
+        {
+          "mean_english": "trận cười rộ",
+          "definition": "something which happens as suddenly as this",
+          "world_new": [
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fit of laughter/coughing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His central support also recovered, aided by the party's need to have some provincial governments fit for display.",
+    "Results of the model indicate a reasonable fit of the model to the data.",
+    "A three-factor model of separate depressive, positive and negative dimensions provided a better fit to the data than either a two-factor or unidimensional model.",
+    "The goodness of fit in all specifications is reasonable and the null hypotheses of no misspecification and homoscedasticity are not rejected either.",
+    "Is his omission due to the fact that the classical approach to visual imagery would not easily fit the model?",
+    "However, many of the interesting problems of generalization in psychological science do not fit this mold.",
+    "However, the precision of estimation was reduced for models fitted at the youngest ages, reflecting the lower accumulative rates of parenthood in the teenage years.",
+    "It seems on the face of it rather unlikely, but all of the known examples do fit into this framework."
+  ],
+  "list_see_also": [
+    "fitness",
+    "fitter",
+    "fitting",
+    "fit in",
+    "fit out",
+    "see/think fit"
+  ],
+  "list_browse": [
+    "fishy",
+    "fission",
+    "fissure",
+    "fist",
+    "fit",
+    "fit in",
+    "fit like a glove",
+    "fit out",
+    "fitness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439953_f142f28631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439953_741f07cf21_o.png",
+      "id_image": "fit_217225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369702_e8a1d8c14f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369702_7c8719a095_o.png",
+      "id_image": "fit_2548451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369657_07cdd19f35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369657_9f0daff8d4_o.png",
+      "id_image": "fit_2843704"
+    }
+  ]
+}

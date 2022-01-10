@@ -1,0 +1,75 @@
+{
+  "english": "drawer",
+  "phat_am": "droː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngăn kéo",
+          "definition": "a sliding box without a lid which fits into a chest, table etc",
+          "world_new": [
+            "box",
+            "lid",
+            "chest",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the bottom drawer of my desk.",
+              "world_new": [
+                "bottom",
+                "my",
+                "desk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She will get only a short glance at it, and then it will disappear again into the doctor's pocket or drawer.",
+    "However, when considering a simple daily task such as opening a drawer, we realize that it is difficult to perform it with a hybrid controller.",
+    "On return to the apartment, a previously undiscovered empty pill bottle was found in the bedside table drawer.",
+    "In the end, he returns to his village to look after his dying father, his magnum opus lying unfinished in a drawer.",
+    "For example, a 16-year-old obtained his first contraceptives by stealing them from his father's drawer.",
+    "Other older books had been stuffed in corners to steady chest of drawers within a shipping crate.",
+    "A few additional wills are found only in the drawers of a filing cabinet that contains original documents for various instruments.",
+    "There was also a bed, a clothes-chest, a chest of drawers, an armchair, a folding table with chairs and a spinning wheel."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "draw up",
+    "draw/cast lots",
+    "drawback",
+    "drawbridge",
+    "drawer",
+    "drawing",
+    "drawing pin",
+    "drawing room",
+    "drawl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350827_a3ff6047e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350827_a30ae73c3d_o.png",
+      "id_image": "drawer_1494701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306646_ab9fd76be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306646_dd9a264808_o.png",
+      "id_image": "drawer_1691556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662044_1a68634765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662044_b51e3ab763_o.png",
+      "id_image": "drawer_5243350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421853_ef32472871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421853_fea5f37453_o.png",
+      "id_image": "drawer_699334"
+    }
+  ]
+}

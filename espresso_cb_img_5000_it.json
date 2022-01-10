@@ -1,0 +1,86 @@
+{
+  "english": "espresso",
+  "phat_am": "eˈspresou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cà phê espresso",
+          "definition": "a type of strong black coffee made by forcing boiling water or steam through ground coffee beans.",
+          "world_new": [
+            "type",
+            "strong",
+            "black",
+            "coffee",
+            "water",
+            "steam",
+            "ground",
+            "coffee"
+          ]
+        },
+        {
+          "mean_english": "một ly cà phê espresso",
+          "definition": "a cup of this type of coffee",
+          "world_new": [
+            "cup",
+            "type",
+            "coffee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ordered a double espresso.",
+              "world_new": [
+                "double"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Home espresso machines have increased in popularity with the general rise of interest in espresso.",
+    "Espresso, coffee and baked goods were served in their cafs.",
+    "For caf bombn, the condensed milk is added to the espresso.",
+    "Espresso bars are a type of coffeehouse that specialize in serving espresso and espresso-based drinks.",
+    "The qualification of the provision of a substantial meal would easily include espresso bars and cafés of that kind.",
+    "Its shops offer espresso, coffee, tea, coffee- and tea-based cold and hot specialty drinks, a variety of pastries and other snacks, and coffee supplies.",
+    "Peet's primarily retails beans for home brewing, features dark roasts, and did not serve espresso until 1984.",
+    "Some upscale espresso bars even offer alcoholic beverages such as grappa and sambuca."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "especial",
+    "especially",
+    "espionage",
+    "esplanade",
+    "espresso",
+    "essay",
+    "essence",
+    "essential",
+    "essentially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315301_94575ab517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315301_a71828ea10_o.png",
+      "id_image": "espresso_1423984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315246_8df3f1ebc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315246_82a63770e3_o.png",
+      "id_image": "espresso_5158868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051755_627c459dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051755_50480d8a20_o.png",
+      "id_image": "espresso_5181586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430193_3dfc711cc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430193_5131f7ae52_o.png",
+      "id_image": "espresso_808784"
+    }
+  ]
+}

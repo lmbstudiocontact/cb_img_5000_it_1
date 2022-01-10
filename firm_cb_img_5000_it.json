@@ -1,0 +1,94 @@
+{
+  "english": "firm",
+  "phat_am": "fəːm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mạnh mẽ; chắc chắn",
+          "definition": "(fixed) strong and steady",
+          "world_new": [
+            "strong",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a firm handshake.",
+              "world_new": [
+                "handshake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xác định; không thay đổi",
+          "definition": "decided; not changing one’s mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a firm refusal.",
+              "world_new": [
+                "refusal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hãng; công ty",
+          "definition": "a business company",
+          "world_new": [
+            "business",
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an engineering firm.",
+              "world_new": [
+                "engineering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The firm determines its production plans to maximize its profit.",
+    "The notion of sectoral specialisation is supported by another branch of recent analysis which involves understanding differences in the characteristics of firm owners.",
+    "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+    "Business groups, as a specific subtype of concentrated interests, can benefit from firms' structural power.",
+    "Most philosophers and psychologists shared the firm belief that their disciplines were substantially different in some ways.",
+    "In regions with higher pollution levy rates, firms tend to have lower pollution intensity.",
+    "What features surviving firms have obviously depends on the answers to these questions.",
+    "We have a firm scientific foundation for approaching the problem."
+  ],
+  "list_see_also": [
+    "firmly"
+  ],
+  "list_browse": [
+    "fireside",
+    "firewood",
+    "firework",
+    "firing-squad",
+    "firm",
+    "firmament",
+    "firmly",
+    "first",
+    "first aid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680799_7645c1de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680799_fd18b7b1c3_o.png",
+      "id_image": "firm_1622690"
+    }
+  ]
+}

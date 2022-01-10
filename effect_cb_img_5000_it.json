@@ -1,0 +1,130 @@
+{
+  "english": "effect",
+  "phat_am": "iˈfekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hiệu quả; tác dụng",
+          "definition": "a result or consequence",
+          "world_new": [
+            "result",
+            "consequence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is suffering from the effects of overeating",
+              "world_new": [
+                "suffering",
+                "effects"
+              ]
+            },
+            {
+              "ex_of_definition": "His discovery had little effect at first.",
+              "world_new": [
+                "discovery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ấn tượng",
+          "definition": "an impression given or produced",
+          "world_new": [
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The speech did not have much effect (on them)",
+              "world_new": [
+                "speech"
+              ]
+            },
+            {
+              "ex_of_definition": "a pleasing effect.",
+              "world_new": [
+                "pleasing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thực hiện",
+          "definition": "to make happen; to bring about",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to effect a reconciliation between his parents.",
+              "world_new": [
+                "reconciliation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Qualitative and quantitative measures of the business environment are statistically strongly and significantly correlated with respect to their effects on business performance (ibid.).",
+    "This tool uses a set of known plans to learn the preconditions and effects of the action within the plans.",
+    "This would provide a qualitative description of the mixing of single-particle and collective effects.",
+    "Here we add in the mediating variables of dietary change to examine what effect they have on this key element of psychological well-being.",
+    "Again, in this application the theory simplifies because of lack of a paternal genetic effect on the fruits (tomatoes are almost purely maternal tissue).",
+    "They have not studied directly the effect of depletion upon the remaining players and the characteristics of their game.",
+    "Part of the answer lies in the phonetic redundancy of the signal itself, and the rest in the effects of that redundancy on auditory processing.",
+    "The first two segments were designed to provoke disagreement, whereas the third segment permitted an assessment of carryover effects of the prior conflict."
+  ],
+  "list_see_also": [
+    "effective",
+    "effectively",
+    "effectiveness",
+    "effects",
+    "effectual",
+    "come into effect",
+    "for effect",
+    "in effect",
+    "put into effect",
+    "take effect"
+  ],
+  "list_browse": [
+    "eerie",
+    "eerily",
+    "eeriness",
+    "efface",
+    "effect",
+    "effective",
+    "effectively",
+    "effectiveness",
+    "effects"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328616_628230ca9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328616_7df283a7d1_o.png",
+      "id_image": "effect_1176368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328576_64dcbc45be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328576_b5508a4715_o.png",
+      "id_image": "effect_5099806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373292_50e70430c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373292_546db21c06_o.png",
+      "id_image": "effect_5444849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683579_e3656cd36a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683579_68c7638c58_o.png",
+      "id_image": "effect_6315913"
+    }
+  ]
+}

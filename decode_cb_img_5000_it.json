@@ -1,0 +1,68 @@
+{
+  "english": "decode",
+  "phat_am": "diːˈkoud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giải mã",
+          "definition": "to translate (a coded message) into ordinary understandable language",
+          "world_new": [
+            "translate",
+            "ordinary",
+            "understandable",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machine was capable of decoding enemy communications.",
+              "world_new": [
+                "machine",
+                "capable",
+                "enemy",
+                "communications"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A comparison of phonological skills in children with reading comprehension difficulties and children with decoding difficulties.",
+    "According to this translation strategy the source language utterance is decoded until a non-linguistic meaning is abstracted, via phonological, morphological, syntactical and lexical semantic analysis.",
+    "A total of 15 poor comprehenders and 15 normal readers, matched for decoding skill, chronological age, and nonverbal ability, participated in this experiment.",
+    "When in decoding mode, such information derives from word strings recognized in the input.",
+    "The data is stored in binary, which is then decoded and played back.",
+    "We expect such plasticity also in the visual system to facilitate successful decoding with a retina implant.",
+    "Ambisonics encoding attempts to preserve spatial information, and this information is decoded over a chosen loudspeaker array.",
+    "Thus, the older the learner, the more memory load would be imposed by decoding the surface form, even outside of the supposed critical period."
+  ],
+  "list_see_also": [
+    "decoder"
+  ],
+  "list_browse": [
+    "declaim",
+    "declaration",
+    "declare",
+    "decline",
+    "decode",
+    "decoder",
+    "decompose",
+    "decomposer",
+    "decomposition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044110_b0dbb45abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044110_a96e49cb19_o.png",
+      "id_image": "decode_2456546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307041_3f122998d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307041_981c2e9f17_o.png",
+      "id_image": "decode_3500698"
+    }
+  ]
+}

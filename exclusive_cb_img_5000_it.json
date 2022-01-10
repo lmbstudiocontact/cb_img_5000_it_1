@@ -1,0 +1,108 @@
+{
+  "english": "exclusive",
+  "phat_am": "ikˈskluːsiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dành riêng",
+          "definition": "given to only one individual or group etc",
+          "world_new": [
+            "individual",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The story is exclusive to this newspaper.",
+              "world_new": [
+                "story",
+                "newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độc đáo",
+          "definition": "fashionable and expensive",
+          "world_new": [
+            "fashionable",
+            "expensive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "exclusive shops/restaurants."
+            }
+          ]
+        },
+        {
+          "mean_english": "riêng biệt",
+          "definition": "(of a group etc) not easily or readily mixing with others or allowing others in",
+          "world_new": [
+            "group",
+            "easily",
+            "readily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a very exclusive club.",
+              "world_new": [
+                "club"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loại trừ",
+          "definition": "tending to exclude.",
+          "world_new": [
+            "exclude"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The possible outcomes in the module are both exclusive and exhaustive.",
+    "Likewise, other factors may affect whether one can justifiably give exclusive propositions decisive assent.",
+    "The elements of our descriptive domains are neither mutually exclusive nor independent.",
+    "The national narrative is based on an attempt to maintain an exclusive monopoly over truth, pain, victimhood, justice.",
+    "I think it is clear, however, that these terms are inclusive rather than exclusive in their force.",
+    "In addition to the non-exclusive relationships found, there was also the nature of the discriminating factors to be taken into consideration.",
+    "Based on our findings, perceptual similarity may qualify as a sort of conclusive evidence for two-year-olds that labels do not denote mutually exclusive categories.",
+    "Furthermore, individual liberation and private morality are not mutually exclusive ideals."
+  ],
+  "list_see_also": [
+    "exclusively",
+    "exclusiveness",
+    "exclusive of"
+  ],
+  "list_browse": [
+    "exclamation mark",
+    "exclude",
+    "excluding",
+    "exclusion",
+    "exclusive",
+    "exclusive of",
+    "exclusively",
+    "exclusiveness",
+    "excrement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667079_a13597dd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667079_d5a64ece6b_o.png",
+      "id_image": "exclusive_4171875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048740_62702e8420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048740_0a0feede88_o.png",
+      "id_image": "exclusive_5360000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667014_67046d6eb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667014_8cf9105c8c_o.png",
+      "id_image": "exclusive_5619772"
+    }
+  ]
+}

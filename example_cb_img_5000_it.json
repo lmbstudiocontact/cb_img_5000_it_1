@@ -1,0 +1,91 @@
+{
+  "english": "example",
+  "phat_am": "iɡˈzaːmpl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mẫu",
+          "definition": "something that represents other things of the same kind; a specimen",
+          "world_new": [
+            "specimen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an example of his handwriting.",
+              "world_new": [
+                "handwriting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ví dụ",
+          "definition": "something that shows clearly or illustrates a fact etc",
+          "world_new": [
+            "clearly",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you give me an example of how this word is used?"
+            }
+          ]
+        },
+        {
+          "mean_english": "gương",
+          "definition": "a person or thing that is a pattern to be copied",
+          "world_new": [
+            "person",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was an example to the rest of the class.",
+              "world_new": [
+                "rest",
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự làm gương",
+          "definition": "a warning to be heeded",
+          "world_new": [
+            "warning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let this be an example to you, and never do it again!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "for example",
+    "make an example of",
+    "set (someone) an example"
+  ],
+  "list_browse": [
+    "exalted",
+    "examination",
+    "examine",
+    "examiner",
+    "example",
+    "exasperate",
+    "exasperation",
+    "excavate",
+    "excavation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312971_b7e9a30333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312971_e40dc8168f_o.png",
+      "id_image": "example_1622689"
+    }
+  ]
+}

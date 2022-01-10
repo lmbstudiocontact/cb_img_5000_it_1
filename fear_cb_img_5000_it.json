@@ -1,0 +1,134 @@
+{
+  "english": "fear",
+  "phat_am": "fiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sợ hãi",
+          "definition": "(a) feeling of great worry or anxiety caused by the knowledge of danger",
+          "world_new": [
+            "feeling",
+            "great",
+            "worry",
+            "anxiety",
+            "knowledge",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldier tried not to show his fear",
+              "world_new": [
+                "soldier"
+              ]
+            },
+            {
+              "ex_of_definition": "She has a deep-seated fear of spiders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sợ (ai/cái gì)",
+          "definition": "to feel fear because of (something)",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She feared her father when he was angry",
+              "world_new": [
+                "father",
+                "angry"
+              ]
+            },
+            {
+              "ex_of_definition": "I fear for my father’s safety (= I am worried because I think he is in danger).",
+              "world_new": [
+                "I",
+                "my",
+                "safety",
+                "I",
+                "worried",
+                "I",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lo ngại",
+          "definition": "to regret",
+          "world_new": [
+            "regret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I fear you will not be able to see him today.",
+              "world_new": [
+                "I",
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She feared death much but felt it was coming soon, which caused a state of urgency in her.",
+    "Five per cent of those questioned feared they would become more restless, irritable and ' exited\\nervous\\flustered ' again.",
+    "When the patients experience fears or terminal illness, emotional support becomes important.",
+    "Undercurrents of such relationships led to exaggerated fears and a condemnation of any hint of extra-marital inclinations.",
+    "Nursing homes were both feared and, in a form that met their cultural needs, seen as places that should be built.",
+    "Even when contamination is low or nonexistent, consumer fears over impurities in their food can cause immediate, severe, and long-lasting economic consequences.",
+    "Patients may express alternatingly fears and concerns about dy ing and hopes f or cure or remission.",
+    "49 could be described as having a non-specific anxiety, with yet others having more specific fears and panic attacks."
+  ],
+  "list_see_also": [
+    "fearful",
+    "fearfully",
+    "fearless",
+    "fearlessly",
+    "for fear of",
+    "in fear of"
+  ],
+  "list_browse": [
+    "fawn",
+    "fax",
+    "fax number",
+    "FBI",
+    "fear",
+    "fearful",
+    "fearfully",
+    "fearless",
+    "fearlessly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070680_d0cdcf5921_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070680_3c79bc4135_o.png",
+      "id_image": "fear_2367133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688774_8a83dfa598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688774_c3dd51b80d_o.png",
+      "id_image": "fear_4897333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688879_6767bcc03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688879_22d8bdb56b_o.png",
+      "id_image": "fear_708633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378657_5dcdb43def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378657_b6367d1879_o.png",
+      "id_image": "fear_817782"
+    }
+  ]
+}

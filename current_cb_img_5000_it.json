@@ -1,0 +1,104 @@
+{
+  "english": "current",
+  "phat_am": "ˈkarənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hiện tại",
+          "definition": "of or belonging to the present",
+          "world_new": [
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the current month",
+              "world_new": [
+                "month"
+              ]
+            },
+            {
+              "ex_of_definition": "the current temperature.",
+              "world_new": [
+                "temperature"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hướng",
+          "definition": "(the direction of) a stream of water or air",
+          "world_new": [
+            "direction",
+            "stream",
+            "water",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the current of a river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng, luồng",
+          "definition": "(a) flow of electricity",
+          "world_new": [
+            "flow",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electrical current.",
+              "world_new": [
+                "electrical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The simulation analysis clarified the role of individual ionic currents in the membrane conductance with different glutamate levels.",
+    "The currents are uniformly bounded so there must be subsequences with weak limits.",
+    "The islands create a diverse water circulation system with weak currents.",
+    "Outward currents were observed in all recorded bipolar cells.",
+    "The different temporal scales in which the currents can be stronger or weaker also render them more or less influential on ice conditions, respectively.",
+    "Saqvait are also scattered throughout the region, predominantly between islands and in narrow areas where currents are perpetually strong.",
+    "To answer this question, pericyte currents were monitored under voltage-clamp conditions.",
+    "They comprise several discrete depositional units, representing sediments driven by bottom currents."
+  ],
+  "list_see_also": [
+    "currently",
+    "current account",
+    "current affairs"
+  ],
+  "list_browse": [
+    "curliness",
+    "curly",
+    "currant",
+    "currency",
+    "current",
+    "current account",
+    "current affairs",
+    "currently",
+    "curriculum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358922_313e2f2a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358922_433d3f09a2_o.png",
+      "id_image": "current_2361619"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "exposure",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động phơi bày",
+          "definition": "(an) act of exposing or state of being exposed",
+          "world_new": [
+            "act",
+            "state",
+            "exposed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prolonged exposure of the skin to hot sun can be harmful.",
+              "world_new": [
+                "skin",
+                "hot",
+                "sun",
+                "harmful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộn phim ảnh",
+          "definition": "one frame of a photographic film etc",
+          "world_new": [
+            "frame",
+            "photographic",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have two exposures left.",
+              "world_new": [
+                "I",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This low diversification represents substantial risk exposure to participants.",
+    "In most instances, exposure to environmental risk also varies according to a continuum.",
+    "Because of lack of exposures, it is unclear whether the lower fine-grained deposits also have a lenticular outline.",
+    "Second, training studies have manipulated exposure frequency on small sets of novel words.",
+    "Fish were % starved 2 days prior and during the exposure period.",
+    "Also, the persistence of serum antibodies makes it difficult to differentiate between previous and recent exposures to a pathogen.",
+    "This interpretation could be tested by systematically varying the exposure to a particular language before testing for cross-linguistic transfer.",
+    "In summary, our results suggest that exposure to combinations of environmental stresses may increase the expression of additive genetic variability for fecundity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exporter",
+    "expose",
+    "exposed",
+    "exposition",
+    "exposure",
+    "expound",
+    "express",
+    "expression",
+    "expressionless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078700_54e47ce30b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078700_0f502940ef_o.png",
+      "id_image": "exposure_316535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341281_9419df7f5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341281_db7d766c73_o.png",
+      "id_image": "exposure_5982598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078645_5fbab75ef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078645_3cda50db84_o.png",
+      "id_image": "exposure_6315640"
+    }
+  ]
+}

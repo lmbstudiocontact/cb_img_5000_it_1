@@ -1,0 +1,116 @@
+{
+  "english": "correct",
+  "phat_am": "kəˈrekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sửa",
+          "definition": "to remove faults and errors from",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These spectacles will correct his eye defect.",
+              "world_new": [
+                "spectacles",
+                "eye",
+                "defect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữa bài",
+          "definition": "(of a teacher etc) to mark errors in",
+          "world_new": [
+            "teacher",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have fourteen exercise books to correct.",
+              "world_new": [
+                "I",
+                "exercise"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính xác",
+          "definition": "free from faults or errors",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This sum is correct.",
+              "world_new": [
+                "sum"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng",
+          "definition": "right; not wrong",
+          "world_new": [
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did I get the correct idea from what you said?",
+              "world_new": [
+                "I",
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "You are quite correct.",
+              "world_new": [
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "correction",
+    "corrective",
+    "correctly",
+    "correctness"
+  ],
+  "list_browse": [
+    "corpulence",
+    "corpulent",
+    "corpus",
+    "corpuscle",
+    "correct",
+    "correction",
+    "corrective",
+    "correctly",
+    "correctness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686074_b0172f53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686074_7089c82ee6_o.png",
+      "id_image": "correct_4565470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445978_2dbf7f381f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445978_6f4cc5e4ce_o.png",
+      "id_image": "correct_4806202"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "daylight",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ban ngày",
+          "definition": "the light given by the sun",
+          "world_new": [
+            "light",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Daylight streamed in through the window",
+              "world_new": [
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) daylight hours."
+            }
+          ]
+        },
+        {
+          "mean_english": "rạng đông",
+          "definition": "dawn",
+          "world_new": [
+            "dawn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "To get there on time we must leave before daylight.",
+              "world_new": [
+                "time",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this room, daylight plays between varying intensities, between shadow and light.",
+    "Therefore, fruits were placed on the forest floor during daylight hours to measure their behaviour.",
+    "The medium has its greatest potential when it is revealed in daylight because it is the strongest, purest and most subtle of lights.",
+    "Throughout this period the subject sat on a comfortable chair in a room that was illuminated by daylight.",
+    "Illumination was provided by diffuse daylight and supplemented by fluorescent light.",
+    "Pigmentation of haloarchaea is light dependent ; thus, cells grown in the presence or absence of daylight were used.",
+    "We designed the layered ceiling to wrap around daylight, slowing it and creating a static quality in the space.",
+    "The three functions that describe the daylight spectral variations are overinterpreted too."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "day return",
+    "day school",
+    "daybreak",
+    "daydream",
+    "daylight",
+    "daytime",
+    "daze",
+    "dazed",
+    "dazzle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045990_2a4f06017f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045990_06ca45c76f_o.png",
+      "id_image": "daylight_2130685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308991_d1a06912ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308991_f63f201b9d_o.png",
+      "id_image": "daylight_2358493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353167_cd7cf58af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353167_02c7351819_o.png",
+      "id_image": "daylight_4661013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045915_51ec26488f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045915_c2190c7f3e_o.png",
+      "id_image": "daylight_6316156"
+    }
+  ]
+}

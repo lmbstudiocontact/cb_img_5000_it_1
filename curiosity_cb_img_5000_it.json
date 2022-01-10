@@ -1,0 +1,84 @@
+{
+  "english": "curiosity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính ham hiểu biết",
+          "definition": "eagerness to learn",
+          "world_new": [
+            "eagerness",
+            "learn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was very unpopular because of her curiosity about other people’s affairs.",
+              "world_new": [
+                "unpopular"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "của hiếm",
+          "definition": "something strange and rare",
+          "world_new": [
+            "strange",
+            "rare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That old chair is quite a curiosity.",
+              "world_new": [
+                "old",
+                "chair",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their curiosity had been supplanted by real experience so that they were no longer simply hearing, but actively listening.",
+    "She was described as elegant and engaging in the highest degree and of judicious taste in her remarks and curiosities.",
+    "By the end of this period, artesana was considered to be nothing more than a collection of curiosities.",
+    "We may have imported some goods, but in the main they were curiosities.",
+    "Appropriately enough, both the monstrosities and the curiosities, both the unhappy and the happy couples are put on display, in a kind of freak show or curio cabinet, respectively.",
+    "In the 20th century, curiosity and the outward urge took astrobiology and popular culture to infinity, and beyond.",
+    "Finally, a last point, just out of curiosity: the authors mention several times that there were production effects in their elicitation task.",
+    "All kinds of curiosities can be aroused."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "curdle",
+    "cure",
+    "curfew",
+    "curio",
+    "curiosity",
+    "curious",
+    "curiously",
+    "curl",
+    "curl up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315181_c8e3a63f12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315181_15cc32fbed_o.png",
+      "id_image": "curiosity_4953286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}

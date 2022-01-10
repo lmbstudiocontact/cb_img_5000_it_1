@@ -1,0 +1,131 @@
+{
+  "english": "fiddle",
+  "phat_am": "ˈfidl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn viôlông",
+          "definition": "a violin",
+          "world_new": [
+            "violin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She played the fiddle."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngón lừa bịp; sự gian lận",
+          "definition": "a dishonest business arrangement",
+          "world_new": [
+            "dishonest",
+            "business",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tax fiddle.",
+              "world_new": [
+                "tax"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chơi viôlông",
+          "definition": "to play a violin",
+          "world_new": [
+            "play",
+            "violin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fiddled while they danced."
+            }
+          ]
+        },
+        {
+          "mean_english": "chơi đùa không cẩn thận cái gì trong tay",
+          "definition": "(with with) to make restless, aimless movements",
+          "world_new": [
+            "restless",
+            "aimless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stop fiddling with your pencil!",
+              "world_new": [
+                "your",
+                "pencil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gian lận",
+          "definition": "to manage (money, accounts etc) dishonestly",
+          "world_new": [
+            "manage",
+            "dishonestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has been fiddling the accounts for years."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fiddles can take place in local authority and general elections.",
+    "We must suspect that these figures have been \"fiddled\", as every other figure had been \"fiddled\".",
+    "Fiddles can take place in postal ballots as well as in branch or workplace ballots.",
+    "There are many fiddles possible to reduce the borrowing requirement that have either a substantial effect on real resources or no effect on real resources.",
+    "Everyone knows that fiddling takes place with both student grants and assisted places scheme grants.",
+    "We all know that these \"fiddles\" go on and that there is no secret about them.",
+    "We have fiddled figures on the reclassification of the working families tax credit and a series of other things.",
+    "However, some economic organisations believe that although the figures are not fiddled, they are not necessarily accurate."
+  ],
+  "list_see_also": [
+    "fiddler",
+    "fiddler crab",
+    "on the fiddle"
+  ],
+  "list_browse": [
+    "fickleness",
+    "fiction",
+    "fictional",
+    "fictitious",
+    "fiddle",
+    "fiddler",
+    "fiddler crab",
+    "fidelity",
+    "fidget"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445828_844506c038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445828_2aef6e3f5a_o.png",
+      "id_image": "fiddle_2128786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375602_37fc3148e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375602_9da5baf740_o.png",
+      "id_image": "fiddle_350449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445873_c266a0a9fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445873_390619eb25_o.png",
+      "id_image": "fiddle_352491"
+    }
+  ]
+}

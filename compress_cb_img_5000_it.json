@@ -1,0 +1,83 @@
+{
+  "english": "compress",
+  "phat_am": "kəmˈpres",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ép; nén",
+          "definition": "to press together; to force into a narrower space",
+          "world_new": [
+            "press",
+            "force",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All his belongings were compressed into a very small suitcase.",
+              "world_new": [
+                "belongings",
+                "small",
+                "suitcase"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The surface of the stem was highly compressed, so that it is hard to recognize patterns of leaf bases.",
+    "The amplified stretched pulse is then compressed to ; 50 fs by a final pulse compressor.",
+    "Then the original expressions were compressed into briefer statements.",
+    "The haemoptysis in this case could have been due to erosion of a small vessel of the compressed lung by the false aneurysm.",
+    "There are 3 arm spines of which the middle one is distinctly enlarged and may be laterally compressed.",
+    "Recently, compressed sensing (compressive sampling) has attracted a lot of attention from both mathematicians and computer scientists.",
+    "First they say that in the plan 'time is compressed, frozen or negated' (p. 145).",
+    "The second incorporates a very low density foam ablator that is compressed by a series of transmitted and reflected shocks."
+  ],
+  "list_see_also": [
+    "compressible",
+    "compression",
+    "compressed air"
+  ],
+  "list_browse": [
+    "comprehensive",
+    "comprehensive school",
+    "comprehensively",
+    "comprehensiveness",
+    "compress",
+    "compressed air",
+    "compressible",
+    "compression",
+    "comprise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314871_b11738fc02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314871_401fcd8739_o.png",
+      "id_image": "compress_1250196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669489_a3c611d91d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669489_56d1d519c3_o.png",
+      "id_image": "compress_1653101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358992_edec8ea3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358992_5214546b2e_o.png",
+      "id_image": "compress_286532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358907_500b572dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358907_37ce52dc68_o.png",
+      "id_image": "compress_3690072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429663_f01277e6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429663_dc061b2cac_o.png",
+      "id_image": "compress_4427886"
+    }
+  ]
+}

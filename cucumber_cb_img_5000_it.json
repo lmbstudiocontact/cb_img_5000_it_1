@@ -1,0 +1,75 @@
+{
+  "english": "cucumber",
+  "phat_am": "ˈkjuːkambə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả dưa chuột",
+          "definition": "a type of creeping plant with long green edible fruit, often used in salads etc",
+          "world_new": [
+            "type",
+            "plant",
+            "long",
+            "green",
+            "edible",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Finely slice the cucumber.",
+              "world_new": [
+                "slice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We used 0.1% since many cucumbers have immature seeds.",
+    "A funny thing happens when cucumbers meet food processing: they emerge with different names in different dialects.",
+    "Tomato was the most pilose followed by cucumber then eggplant.",
+    "This resulted in significantly lower mortality of whitefly following exposure to entomopathogenic nematodes on poinsettia than on the other plants tested (including cucumber and chrysanthemum).",
+    "Within the mixed cages more whiteflies moved to new leaves on cucumber and bean compared to tomato plants.",
+    "Fewer whiteflies were recorded on tomato compared to cucumber and bean in this study.",
+    "This study analysed the joint effects of seed maturity and position on the performance of cucumber seeds.",
+    "The formation of test arrays and a core collection in cucumber using phenotypic and molecular marker data."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cubic",
+    "cubic centimetre",
+    "cubicle",
+    "cuckoo",
+    "cucumber",
+    "cud",
+    "cuddle",
+    "cuddly",
+    "cudgel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316486_94e87c8f9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316486_55a2ef2dd0_o.png",
+      "id_image": "cucumber_1839345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671129_b3ec4f27e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671129_9c533d28a8_o.png",
+      "id_image": "cucumber_5389171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671179_1976d2caac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671179_004f20f191_o.png",
+      "id_image": "cucumber_590694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052835_fd712d88de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052835_aab82f859f_o.png",
+      "id_image": "cucumber_6108350"
+    }
+  ]
+}

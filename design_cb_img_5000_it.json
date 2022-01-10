@@ -1,0 +1,153 @@
+{
+  "english": "design",
+  "phat_am": "diˈzain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thiết kế",
+          "definition": "to invent and prepare a plan of (something) before it is built or made",
+          "world_new": [
+            "invent",
+            "prepare",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A famous architect designed this building.",
+              "world_new": [
+                "famous",
+                "architect",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản thiết kế",
+          "definition": "a sketch or plan produced before something is made",
+          "world_new": [
+            "sketch",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a design for a dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách trang trí",
+          "definition": "style; the way in which something has been made or put together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is very modern in design",
+              "world_new": [
+                "modern"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t like the design of that building.",
+              "world_new": [
+                "I",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họa tiết",
+          "definition": "a pattern etc",
+          "world_new": [
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The curtains have a flower design on them.",
+              "world_new": [
+                "flower"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý định",
+          "definition": "a plan formed in the mind; (an) intention",
+          "world_new": [
+            "plan",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our holidays coincided by design and not by accident.",
+              "world_new": [
+                "accident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To do this, we designed the esc -calculus in order to facilitate the proof.",
+    "A second experiment was designed to measure the rate of parasite transmission between hosts.",
+    "Although it was designed for percussive sounds, it produced many interesting results from long, non-percussive soundfiles.",
+    "In this sense, the response to a stressor is designed to be beneficial for the fish and involves all levels of animal organisation.",
+    "A camel is said to be a horse designed by a committee.",
+    "Contracts of such length are inevitably designed under conditions of uncertainty.",
+    "In some cases the visitor may be given the opportunity to play, intercept, change or make sound contributions for the designs.",
+    "A robust adaptive control algorithm is designed to compensate for disturbance; then trajectory tracking has been achieved."
+  ],
+  "list_see_also": [
+    "designer",
+    "designing"
+  ],
+  "list_browse": [
+    "desertion",
+    "deserve",
+    "deserving",
+    "desiccated",
+    "design",
+    "designate",
+    "designated driver",
+    "designation",
+    "designer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373987_9151ff8c62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373987_c140400131_o.png",
+      "id_image": "design_2210196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373957_8291bd9195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373957_07b09eeb9a_o.png",
+      "id_image": "design_2271575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329231_2deff37ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329231_8e2a54ceb3_o.png",
+      "id_image": "design_2752907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444123_10c77bff2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444123_1aa8babf9a_o.png",
+      "id_image": "design_4296000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374032_bbf78788b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374032_71d02ac632_o.png",
+      "id_image": "design_997305"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "english": "fish",
+  "phat_am": "fiʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá",
+          "definition": "a kind of creature that lives in water and breathes through gills",
+          "world_new": [
+            "kind",
+            "creature",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are plenty of fish around the coast.",
+              "world_new": [
+                "coast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt của cá dùng làm thức ăn",
+          "definition": "its flesh eaten as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you prefer meat or fish?",
+              "world_new": [
+                "prefer",
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt cá; đánh cá; câu cá",
+          "definition": "to (try to) catch fish (in)",
+          "world_new": [
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She likes fishing",
+              "world_new": [
+                "fishing"
+              ]
+            },
+            {
+              "ex_of_definition": "He fished the river all day.",
+              "world_new": [
+                "river",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm; mò",
+          "definition": "(usually with for) to search for",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fished around in her handbag for a handkerchief.",
+              "world_new": [
+                "handbag",
+                "handkerchief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "moi; câu",
+          "definition": "(usually with for) to try to get by indirect means",
+          "world_new": [
+            "try",
+            "indirect",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is always fishing for compliments.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Prior to the experiment, fish were allowed to acclimatize for 2 months.",
+    "We collected 2681 fishes, representing 46 species and 10 families.",
+    "Permanent lakes contain fish, which preferentially prey upon large individuals.",
+    "Thus, as a fish species extends its depth range, it also acquires a broader taxonomic range of endoparasites.",
+    "A total of 11 fish out of 180, died between infection and dissection and were excluded from the analysis.",
+    "The results from both models indicate that demersal fish stocks are both biologically and economically overfished and subject to both biological and economic overfishing.",
+    "The speed of straight swimming and turning performance, by means of on-line visual feedback of the fishes' position and orientation, are then evaluated.",
+    "Fish were % starved 2 days prior and during the exposure period."
+  ],
+  "list_see_also": [
+    "fishing",
+    "fishy",
+    "fishball",
+    "fisherman",
+    "fish farm",
+    "fish farmer",
+    "fish hatchery",
+    "fishing line",
+    "fishing rod",
+    "fish merchant",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "first-hand",
+    "first-rate",
+    "first/full cousin",
+    "firstly",
+    "fish",
+    "fish farm",
+    "fish farmer",
+    "fish hatchery",
+    "fish merchant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680704_cc4fac3469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680704_a305f85e66_o.png",
+      "id_image": "fish_184359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062385_f1af74dea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062385_720264bc7c_o.png",
+      "id_image": "fish_184360"
+    }
+  ]
+}

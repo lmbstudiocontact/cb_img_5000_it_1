@@ -1,0 +1,69 @@
+{
+  "english": "entrepreneur",
+  "phat_am": "ontrəprəˈnəː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà doanh nghiệp",
+          "definition": "a person who starts or organizes a business company, especially one involving risk",
+          "world_new": [
+            "person",
+            "business",
+            "company",
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What this company needs is a real entrepreneur.",
+              "world_new": [
+                "company",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rates of increase in the number of entrepreneurs and government employees in the rural economy are relatively small (5.8% and 5.5%, respectively).",
+    "Studies show that many small entrepreneurs have been employed in the formal sector before setting up their own enterprises.",
+    "Banks finance entrepreneurs and maximize profits or bank capital accruing to current shareholders.",
+    "Under what circumstances might we expect the presence of political entrepreneurs to operate in a normatively desirable manner?",
+    "And agitating against bilingual education are monied entrepreneurs.",
+    "Local entrepreneurs accumulated capital from investments in livestock, commerce, and flour-mills, among other ventures.",
+    "However, my general proposition was that the prosperity of any economic enterprise depends on the collective efforts of its entrepreneurs, managers and workers.",
+    "But after 1986, the income of nonparticipant entrepreneurs steadily increases, peaking after 1992."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "entreat",
+    "entreaty",
+    "entrée",
+    "entrepot",
+    "entrepreneur",
+    "entrust",
+    "entry",
+    "entry-level",
+    "entwine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054380_12c58f4983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054380_2929a8c119_o.png",
+      "id_image": "entrepreneur_1012347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317806_96cf12fa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317806_cb9b79e211_o.png",
+      "id_image": "entrepreneur_2761035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317841_380aecab4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317841_ced7ee26ed_o.png",
+      "id_image": "entrepreneur_875297"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "flan",
+  "phat_am": "flæn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh flan kiểu Anh",
+          "definition": "a pastry pie or cake without a top that is filled with cheese, fruit, or vegetables",
+          "world_new": [
+            "pastry",
+            "pie",
+            "cake",
+            "top",
+            "filled",
+            "cheese",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mushroom/raspberry flan."
+            }
+          ]
+        },
+        {
+          "mean_english": "bánh flan",
+          "definition": "a sweet baked dessert made from eggs, milk, and sugar; crème caramel British",
+          "world_new": [
+            "sweet",
+            "baked",
+            "dessert",
+            "milk"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Desserts include flan, bread pudding, rice pudding, and tres leches.",
+    "A typical flan of this sort is round, with shortcrust pastry.",
+    "I am more flan happy to say that we support that view and shall do all that we can to encourage it.",
+    "The most common method for producing a fourre was to take a flan of copper, wrap it with silver foil, heat it, and strike it with the dies.",
+    "An easily recognizable characteristic of the dessert is that the flan fills the interior part of the pumpkin and that the pumpkin is often presented in its entirety.",
+    "The fruit has a sweet, mild taste which may have a hint of pineapple but is best described as reminiscent of caramel flan.",
+    "Leche flan is a staple dessert in celebratory feasts.",
+    "Quiches and savoury flans are eaten, but not considered indigenous."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flame of the forest",
+    "flaming",
+    "flamingo",
+    "flammable",
+    "flan",
+    "flange",
+    "flank",
+    "flannel",
+    "flap"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678354_9867371457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678354_d6cd112ed7_o.png",
+      "id_image": "flan_2690267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059855_377b3a922f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059855_c4c58bfaa9_o.png",
+      "id_image": "flan_4516491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678244_a24e6a2bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678244_d45ec3fce9_o.png",
+      "id_image": "flan_6313400"
+    }
+  ]
+}

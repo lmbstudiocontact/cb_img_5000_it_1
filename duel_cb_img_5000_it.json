@@ -1,0 +1,80 @@
+{
+  "english": "duel",
+  "phat_am": "ˈdjuəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đấu súng hoặc đấu kiếm",
+          "definition": "a fight (with swords or pistols) between two people over a matter of honour/honor etc",
+          "world_new": [
+            "fight",
+            "people",
+            "matter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a duel to the death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc đấu giữa hai người hoặc hai bên",
+          "definition": "any contest between two people or two sides",
+          "world_new": [
+            "contest",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a duel for first place.",
+              "world_new": [
+                "place"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đọ súng hoặc đọ kiếm tay đôi",
+          "definition": "to fight a duel.",
+          "world_new": [
+            "fight"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ductless glands",
+    "dud",
+    "due",
+    "due to",
+    "duel",
+    "duet",
+    "duffel bag",
+    "duffel coat",
+    "duke"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450603_291d95f90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450603_4225f11a07_o.png",
+      "id_image": "duel_3570424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450583_c0ac0b95a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450583_c579177f89_o.png",
+      "id_image": "duel_3746461"
+    }
+  ]
+}

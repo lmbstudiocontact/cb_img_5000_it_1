@@ -1,0 +1,96 @@
+{
+  "english": "dye",
+  "phat_am": "dai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhuộm",
+          "definition": "to give a permanent colour to (clothes, cloth etc)",
+          "world_new": [
+            "permanent",
+            "colour",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m sure she dyes her hair.",
+              "world_new": [
+                "sure",
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc nhuộm",
+          "definition": "a powder or liquid for colouring",
+          "world_new": [
+            "powder",
+            "liquid",
+            "colouring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of green dye.",
+              "world_new": [
+                "bottle",
+                "green"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "True blue owes its origin to a proverb true blue will never stain, which alluded to the difficulty of finding a true blue dye.",
+    "To improve the sequencing performance, besides all modifications in the synthesis of the enzyme, significant changes in the dye structure were also made.",
+    "Screening of gap junction antagonists on dye coupling in the rabbit retina block store-operated calcium channels.",
+    "This may have been due to the fairly rapid diffusion of the dye used to mark the vortices in the rolling-barge case.",
+    "They are labelled, typically with fluorescent dyes and quenchers, for subsequent detection by suitable spectroscopic or spectrometric methods.",
+    "With this arrangement, we were able to spread the dye uniformly around the inner cylinder.",
+    "Studies using retrograde transport of fluorescent dyes and simultaneous peptide immunohistochemistry in the rat.",
+    "Marking termites, by using paints or through consumption of dyes, may influence termite behaviour and survivorship."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dwell",
+    "dwell on",
+    "dwelling",
+    "dwindle",
+    "dye",
+    "dyke",
+    "dynamic",
+    "dynamically",
+    "dynamics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689044_2694865f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689044_b2c15daea0_o.png",
+      "id_image": "dye_1053045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448943_6f798906bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448943_2dda3610ac_o.png",
+      "id_image": "dye_3967401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448913_e7672ae3f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448913_08f2b9f9d4_o.png",
+      "id_image": "dye_5238415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688934_dc181b8bd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688934_7ff451132d_o.png",
+      "id_image": "dye_5732052"
+    }
+  ]
+}

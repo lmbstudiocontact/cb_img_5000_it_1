@@ -1,0 +1,121 @@
+{
+  "english": "flood",
+  "phat_am": "flad",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn lũ lụt",
+          "definition": "a great overflow of water",
+          "world_new": [
+            "great",
+            "overflow",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If it continues to rain like this, we shall have floods.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số lượng hoặc khối lượng lớn",
+          "definition": "any great quantity",
+          "world_new": [
+            "great",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flood of fan mail.",
+              "world_new": [
+                "fan",
+                "mail"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngập nước",
+          "definition": "to (cause something to) overflow with water",
+          "world_new": [
+            "overflow",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left the water running and flooded the kitchen.",
+              "world_new": [
+                "left",
+                "water",
+                "running",
+                "kitchen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Severe damages to property and life occur during years of high floods.",
+    "The precise sense of gelad may have been 'water-crossing liable to be rendered impassable by flooding'.",
+    "Countries that attempt to achieve sustainable ecological economies may be flooded with cheap, environmentally damaging goods from abroad; their domestic industries may suffer.",
+    "Unlike floods, typhoons, or some manner of epidemics, populations cannot be publicly marshaled to 'resist' or 'fortify themselves' against the coming disaster.",
+    "A spectacular example of this problem is illustrated by various stories of flooding and\\or land sinking which were related to white settlers by aborigines.",
+    "Their tent was flooded, buried under snow drifts, and, one night, its pole snapped.",
+    "Few nutrients are applied to the soil, which remains flooded most of the time when there is heavy rain.",
+    "The reservoir has a capacity of 70,000 cubic metres, flooded an area of 37,325 square metres, and is 6000 metres long."
+  ],
+  "list_see_also": [
+    "flooding",
+    "floodgate",
+    "open the floodgates",
+    "floodlight",
+    "floodlighting",
+    "floodlit",
+    "flood-tide"
+  ],
+  "list_browse": [
+    "flock",
+    "flog",
+    "flog a dead horse",
+    "flogging",
+    "flood",
+    "flood-tide",
+    "floodgate",
+    "flooding",
+    "floodlight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365677_ecf26ee73f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365677_ca58575cff_o.png",
+      "id_image": "flood_3217082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320731_d1abacf61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320731_a11cc791c1_o.png",
+      "id_image": "flood_3436914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365742_d30b618eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365742_9a03b46956_o.png",
+      "id_image": "flood_491273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057560_7e502a121a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057560_94d6b4b30a_o.png",
+      "id_image": "flood_491279"
+    }
+  ]
+}

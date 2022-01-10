@@ -1,0 +1,59 @@
+{
+  "english": "conquest",
+  "phat_am": "ˈkoŋkwest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chinh phục",
+          "definition": "(an) act of conquering",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Norman Conquest"
+            },
+            {
+              "ex_of_definition": "the conquest of the Aztec Empire by a small band of Spanish conquistadors.",
+              "world_new": [
+                "small",
+                "band"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "connive",
+    "connoisseur",
+    "conquer",
+    "conqueror",
+    "conquest",
+    "conscience",
+    "conscientious",
+    "conscientious objector",
+    "conscientiously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425703_ff8bdb5873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425703_06eeea5371_o.png",
+      "id_image": "conquer_2597236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425663_27739f37a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425663_92dfff6643_o.png",
+      "id_image": "conquer_6257400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665814_414b514368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665814_faaa7ac609_o.png",
+      "id_image": "conquest_3901923"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "english": "early",
+  "phat_am": "ˈəːli",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đầu",
+          "definition": "near the beginning (of a period of time etc)",
+          "world_new": [
+            "beginning",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "early in my life",
+              "world_new": [
+                "my",
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "early in the afternoon.",
+              "world_new": [
+                "afternoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sớm",
+          "definition": "sooner than others; sooner than usual; sooner than expected or than the appointed time",
+          "world_new": [
+            "appointed",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He arrived early"
+            },
+            {
+              "ex_of_definition": "She came an hour early.",
+              "world_new": [
+                "hour"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầu; sớm",
+          "definition": "belonging to, or happening, near the beginning of a period of time etc",
+          "world_new": [
+            "happening",
+            "beginning",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "early morning",
+              "world_new": [
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "in the early part of the century.",
+              "world_new": [
+                "part",
+                "century"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu",
+          "definition": "belonging to the first stages of development",
+          "world_new": [
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "early musical instruments.",
+              "world_new": [
+                "musical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sớm",
+          "definition": "happening etc sooner than usual or than expected",
+          "world_new": [
+            "happening",
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the baby’s early arrival",
+              "world_new": [
+                "arrival"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s too early to get up yet.",
+              "world_new": [
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh chóng",
+          "definition": "prompt",
+          "world_new": [
+            "prompt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hope for an early reply to my letter.",
+              "world_new": [
+                "I",
+                "hope",
+                "reply",
+                "my",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His earlier research includes the development of system architectures for shop floor control, cell control, and distributed scheduling.",
+    "Predicative uses of adjectives emerged significantly earlier than attributive uses (in 15 of 16 children, p<0.001 by binomial sign test).",
+    "The earliest of this musical research was understandably of a rather general nature.",
+    "In an actual physical case, the dissipative effects will inhibit the earlier collapse from occurring.",
+    "In this respect, it is worth returning to the earlier characterisation of the governance realm.",
+    "The report was more comprehensive than earlier observations and there was obvious intent in their work, undertaken quickly and with relatively little support.",
+    "Previous reports have described increased variability at much earlier stages of lexical development (typically less than 50 words).",
+    "In particular, sympathy cannot produce certain patterns observed in deep serial derivations where one rule undoes the effect of an earlier rule."
+  ],
+  "list_see_also": [
+    "earliness",
+    "early bird"
+  ],
+  "list_browse": [
+    "eardrum",
+    "earl",
+    "earliness",
+    "earlobe",
+    "early",
+    "early bird",
+    "early/late riser",
+    "earmark",
+    "earn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333376_db9a892631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333376_dcc9de4600_o.png",
+      "id_image": "early_6117302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378187_2cdd952a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378187_46b666b43e_o.png",
+      "id_image": "early_6381378"
+    }
+  ]
+}

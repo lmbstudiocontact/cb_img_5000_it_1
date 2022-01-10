@@ -1,0 +1,117 @@
+{
+  "english": "criminal",
+  "phat_am": "ˈkriminl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về tội phạm",
+          "definition": "concerned with crime",
+          "world_new": [
+            "crime"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "criminal law.",
+              "world_new": [
+                "law"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phạm pháp",
+          "definition": "against the law",
+          "world_new": [
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Theft is a criminal offence/offense."
+            }
+          ]
+        },
+        {
+          "mean_english": "tội",
+          "definition": "very wrong; wicked",
+          "world_new": [
+            "wicked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a criminal waste of food.",
+              "world_new": [
+                "waste",
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phạm tội",
+          "definition": "a person who has been found guilty of a crime",
+          "world_new": [
+            "person",
+            "found",
+            "guilty",
+            "crime"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a hardened criminal who had spent many years in prison.",
+              "world_new": [
+                "spent",
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crib death",
+    "cricket",
+    "cricketer",
+    "crime",
+    "criminal",
+    "criminally",
+    "crimson",
+    "cringe",
+    "crinkle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320231_ed9a81d0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320231_4765a2d0ff_o.png",
+      "id_image": "criminal_1331408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365052_46d17a740f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365052_8bc58494e8_o.png",
+      "id_image": "criminal_2302379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365022_1052a03e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365022_854bf627be_o.png",
+      "id_image": "criminal_2861240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364952_82aef53da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364952_ea910be7d9_o.png",
+      "id_image": "criminal_4321413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364907_21554dfc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364907_9193957c7d_o.png",
+      "id_image": "criminal_5640938"
+    }
+  ]
+}

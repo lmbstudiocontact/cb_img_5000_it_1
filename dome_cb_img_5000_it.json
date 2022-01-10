@@ -1,0 +1,75 @@
+{
+  "english": "dome",
+  "phat_am": "doum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mái vòm",
+          "definition": "a roof shaped like half a ball",
+          "world_new": [
+            "roof",
+            "shaped",
+            "half",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the dome of the cathedral.",
+              "world_new": [
+                "cathedral"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Though debated, ' ' pits, spots, and domes ' ' (or lenticulae) bear many morphologic and morphometric hallmarks of diapirism.",
+    "They form small lava domes and flows generally associated with extensional faults.",
+    "In figure 4 we compare these scalings with the radius and height evolution of our representative domes.",
+    "The domes range in diameter from 10 to 100 km, with mean diameters and heights of 24 km and 700 m, respectively.",
+    "Linear stability theory reveals the possibility of non-axisymmetrical, fingering-like instability in these domes.",
+    "On the other hand, transitions occur in the dominant force balance in non-isothermal domes as a result of cooling.",
+    "The third stage includes the emplacement of several dacitic domes outside of the central crater and at different times.",
+    "The problem of mantled gneiss domes."
+  ],
+  "list_see_also": [
+    "domed"
+  ],
+  "list_browse": [
+    "dollar",
+    "dolly",
+    "dolphin",
+    "domain",
+    "dome",
+    "domed",
+    "domestic",
+    "domestic help",
+    "domesticate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665949_23dae5d4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665949_b947151b8f_o.png",
+      "id_image": "dome_1594703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665919_dba6be81ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665919_3a76241c61_o.png",
+      "id_image": "dome_2069538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425753_1750ecac22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425753_1492540740_o.png",
+      "id_image": "dome_2484050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310716_69ffc1b5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310716_7e243c4d26_o.png",
+      "id_image": "dome_2918268"
+    }
+  ]
+}

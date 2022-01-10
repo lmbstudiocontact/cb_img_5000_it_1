@@ -1,0 +1,73 @@
+{
+  "english": "concert",
+  "phat_am": "ˈkonsət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi hòa nhạc",
+          "definition": "a musical entertainment",
+          "world_new": [
+            "musical",
+            "entertainment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an orchestral concert.",
+              "world_new": [
+                "orchestral"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When confronted by concerted union action, many bituminous mine operators offered to collaborate with each other and the union for their mutual economic advantage.",
+    "Where there have been concerted sound modelling efforts, it has mostly been directed at traditional musical instruments.",
+    "The arts work with older people involved placing the products of their work in the arts world, in exhibitions, concerts and so on.",
+    "His events are often billed as outdoor concerts.",
+    "On the whole, popular music concerts were the most common type.",
+    "The students being assessed in both concerts sang, played the piano, clarinet, trumpet, saxophone, acoustic and electric guitars and bass guitar.",
+    "Binary fission of membrane-contained cells facilitates concerted replication of fragmented genomes and membrane structures facilitate essential energy production pathways.",
+    "At weekends dancing and concerts attract up to 1000 persons, many of whom stay overnight."
+  ],
+  "list_see_also": [
+    "in concert"
+  ],
+  "list_browse": [
+    "concept map",
+    "conception",
+    "concern",
+    "concerning",
+    "concert",
+    "concerted",
+    "concertina",
+    "concerto",
+    "concession"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668444_fdc32f7b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668444_f05bbb2453_o.png",
+      "id_image": "concert_1784526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357772_169892415e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357772_eeee015563_o.png",
+      "id_image": "concert_3126472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428508_9a3898931d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428508_fa18a3efd0_o.png",
+      "id_image": "concert_3994036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050165_6917b905f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050165_af9f04bf3c_o.png",
+      "id_image": "concert_6060714"
+    }
+  ]
+}

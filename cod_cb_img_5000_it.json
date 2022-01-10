@@ -1,0 +1,61 @@
+{
+  "english": "cod",
+  "phat_am": "kod",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá tuyết",
+          "definition": "a type of edible fish found in northern seas",
+          "world_new": [
+            "type",
+            "edible",
+            "fish",
+            "found",
+            "northern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pan-roasted fillet of cod.",
+              "world_new": [
+                "fillet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cod-liver oil"
+  ],
+  "list_browse": [
+    "cocky",
+    "cocoa",
+    "coconut",
+    "cocoon",
+    "cod",
+    "cod-liver oil",
+    "coddle",
+    "code",
+    "code switching"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680559_cafabf5439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680559_c030c33986_o.png",
+      "id_image": "cod_2255646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325486_b29c154999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325486_4e35165e50_o.png",
+      "id_image": "cod_5023344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062170_05259facea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062170_ceb8046be6_o.png",
+      "id_image": "cod_6255740"
+    }
+  ]
+}

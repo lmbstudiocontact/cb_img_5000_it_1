@@ -1,0 +1,168 @@
+{
+  "english": "dash",
+  "phat_am": "dӕʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xông tới",
+          "definition": "to move with speed and violence",
+          "world_new": [
+            "move",
+            "speed",
+            "violence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A squirrel dashed across the road.",
+              "world_new": [
+                "squirrel",
+                "across",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đập mạnh",
+          "definition": "to knock, throw etc violently, especially so as to break",
+          "world_new": [
+            "knock",
+            "throw",
+            "violently",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dashed the bottle to pieces against the wall.",
+              "world_new": [
+                "bottle",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm mất hy vọng",
+          "definition": "to bring down suddenly and violently or to make very depressed",
+          "world_new": [
+            "bring",
+            "suddenly",
+            "violently",
+            "depressed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our hopes were dashed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lao tới",
+          "definition": "a sudden rush or movement",
+          "world_new": [
+            "sudden",
+            "rush",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child made a dash for the door.",
+              "world_new": [
+                "child",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a small amount of something, especially liquid",
+          "world_new": [
+            "small",
+            "amount",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "whisky with a dash of soda.",
+              "world_new": [
+                "whisky",
+                "soda"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu gạch ngang (-)",
+          "definition": "(in writing) a short line (–) to show a break in a sentence etc.",
+          "world_new": [
+            "short",
+            "line",
+            "break",
+            "sentence"
+          ]
+        },
+        {
+          "mean_english": "sự hăng hái",
+          "definition": "energy and enthusiasm",
+          "world_new": [
+            "energy",
+            "enthusiasm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All his activities showed the same dash and spirit.",
+              "world_new": [
+                "spirit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "dashing",
+    "dash off"
+  ],
+  "list_browse": [
+    "darkroom",
+    "darling",
+    "dart",
+    "darts",
+    "dash",
+    "dash off",
+    "dashboard",
+    "dashing",
+    "data"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047090_0dd45336c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047090_deec9de332_o.png",
+      "id_image": "dash_1183236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425268_b3b0d0e527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425268_b0015c85b4_o.png",
+      "id_image": "dash_1183243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665424_811fb28bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665424_2a8e9cd5e5_o.png",
+      "id_image": "dash_1674912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425198_2296b13fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425198_68d1d654ef_o.png",
+      "id_image": "dash_1685689"
+    }
+  ]
+}

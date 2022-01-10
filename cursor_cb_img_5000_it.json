@@ -1,0 +1,84 @@
+{
+  "english": "cursor",
+  "phat_am": "(British) kəːsə; (American) kəːrsər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con trỏ",
+          "definition": "a small, sometimes flashing, movable symbol on a computer screen that marks the place where the next character typed on the keyboard will appear or where some action is required",
+          "world_new": [
+            "small",
+            "flashing",
+            "movable",
+            "symbol",
+            "computer",
+            "screen",
+            "place",
+            "character",
+            "keyboard",
+            "appear",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Simply touch the spot on the text where you want to move the cursor.",
+              "world_new": [
+                "touch",
+                "spot",
+                "text",
+                "want",
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, should there be more than one red beam overlapping at the cursor position, the total influence for the lamps may total 100% or more.",
+    "The joystick and cursor are spatially separated and not physically connected.",
+    "The other two pins are used to represent the cursor of a word processor.",
+    "The indentation points are given by the list of column numbers at which to position the cursor for a possible indentation for the current line.",
+    "Visual feedback of the four dimensions was presented as two square grids each containing a cursor, again emphasising the pairwise division.",
+    "The user may not move the cursor except into editable fields.",
+    "When precision requirements were low, the arrowhead cursor shape influenced movement durations instead, with the effects again as might be expected from illusory figures.",
+    "The acousmograph enables one to select a passage on the screen and then listen to it whilst following the cursor on the graphic."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "curry powder",
+    "curse",
+    "cursed with",
+    "cursive",
+    "cursor",
+    "cursorily",
+    "cursory",
+    "curt",
+    "curtail"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051035_582553e42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051035_730a790c46_o.png",
+      "id_image": "cursor_122927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314466_a18ca40ebc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314466_dbbbe41535_o.png",
+      "id_image": "cursor_2142311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429313_9e6b01fff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429313_8a2d5fe4c0_o.png",
+      "id_image": "cursor_4713182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050970_49d6310b9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050970_558980cb73_o.png",
+      "id_image": "cursor_4713302"
+    }
+  ]
+}

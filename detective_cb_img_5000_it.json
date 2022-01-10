@@ -1,0 +1,74 @@
+{
+  "english": "detective",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thám tử",
+          "definition": "a person who tries to find criminals or watches suspected persons",
+          "world_new": [
+            "person",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a private detective",
+              "world_new": [
+                "private"
+              ]
+            },
+            {
+              "ex_of_definition": "She was questioned by detectives."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We were assured by the police that the sources of information for private detectives were not police sources.",
+    "I believe that we must do all we can to recruit more detectives.",
+    "In total, the number of detectives and other experts involved in all these activities has been increased by 150.",
+    "I cannot take a walk down the street without the detectives beside me.",
+    "I know that it has been stated that the detectives are in a different building, but that is not true.",
+    "Detectives will he able, if the draft goes ahead, to eavesdrop on doctors, psychiatrists, social workers and journalists.",
+    "Detectives lent to assist in elucidating any specially serious crime are not charged for.",
+    "I agreed particularly about the use which private detectives make of bugging devices."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "detailed",
+    "detain",
+    "detainee",
+    "detect",
+    "detective",
+    "detention",
+    "deter",
+    "detergent",
+    "deteriorate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063935_3f75a58508_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063935_2abaa6c58a_o.png",
+      "id_image": "detective_1865678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063895_eeaa4ca177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063895_f3751227c3_o.png",
+      "id_image": "detective_2267553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063855_f2f48af9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063855_6bd5b10043_o.png",
+      "id_image": "detective_2307565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682059_315d30153f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682059_6e76e33199_o.png",
+      "id_image": "detective_2646542"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "evolution",
+  "phat_am": "iːvəˈluːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiến triển",
+          "definition": "gradual working out or development",
+          "world_new": [
+            "gradual",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the evolution of our form of government.",
+              "world_new": [
+                "our",
+                "form",
+                "government"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tiến hoá",
+          "definition": "the development of the higher kinds of animals (eg man), plants etc, from the lower kinds",
+          "world_new": [
+            "development",
+            "lower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Darwin’s theory of evolution.",
+              "world_new": [
+                "theory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Are they on the barrack square and do they do all the general military evolutions?",
+    "At this special display will the public be entertained by the evolutions of the helicopter, which, we understand, is now capable of leaving the ground?",
+    "To perform physical evolutions perfunctorily because some good may come from them later on gives young people a distaste for physical training.",
+    "Dilations of irreversible evolutions in algebraic quantum theory.",
+    "The volumes become larger or smaller in their course of time evolutions if they experience some compressibility.",
+    "An example of the latter is provided by the emerging domain of laser control of molecular evolutions where light-matter interactions are to be modelled in the most precise way.",
+    "The evolutions of the two types of deterministic structures, the spanwise and streamwise vortices, were first clarified in order to determine their roles in the transition process.",
+    "Thus, the evolutions of mean and turbulence profiles and uf spectra show that the three x stations chosen are in the (apparent) self-preserving region of the axisymmetric mixing layer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "evilness",
+    "evocation",
+    "evocative",
+    "evoke",
+    "evolution",
+    "evolutionary",
+    "evolve",
+    "ewe",
+    "ex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357197_0c24033872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357197_f85783305a_o.png",
+      "id_image": "evolution_2586952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049675_e5c9033f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049675_44e16a0f84_o.png",
+      "id_image": "evolution_2597668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357132_f8c815ffd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357132_64bba5a020_o.png",
+      "id_image": "evolution_5660272"
+    }
+  ]
+}

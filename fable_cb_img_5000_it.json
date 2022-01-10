@@ -1,0 +1,76 @@
+{
+  "english": "fable",
+  "phat_am": "ˈfeibl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "truyện ngụ ngôn",
+          "definition": "a story (usually about animals) that teaches a lesson about human behaviour/behavior",
+          "world_new": [
+            "story",
+            "lesson",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Aesop’s fables."
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền thuyết",
+          "definition": "a legend or untrue story",
+          "world_new": [
+            "legend",
+            "untrue",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you think the story is fact or fable?",
+              "world_new": [
+                "think",
+                "story",
+                "fact"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ponge made the mirror the subject of his 'fable'.",
+    "The doubling of props was further matched by the characters' frequent transitions between the worlds of domesticity and fable.",
+    "The first volume contained mostly stories and fables about animals, the scientific conversations were in the third volume, and the moral tales in the fourth.",
+    "However, as far as practical philosophy makes use of verbal examples, for instance of fables, it sticks to the discursive media.",
+    "Surely, we would banish such a report to the realm of fables.",
+    "He argues that in their moral treatises, theologians and great philosophers have often effectively employed incredible fables that were patently untrue.",
+    "I look down towards his feet; but that's a fable.",
+    "No longer a fable of antique curiosity, the riddle expressed the urgent need for reform."
+  ],
+  "list_see_also": [
+    "fabulous",
+    "fabulously"
+  ],
+  "list_browse": [
+    "eyeshadow",
+    "eyesight",
+    "eyesore",
+    "F",
+    "fable",
+    "fabric",
+    "fabricate",
+    "fabrication",
+    "fabulous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076060_5347e4e512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076060_e90bd492be_o.png",
+      "id_image": "fable_2178191"
+    }
+  ]
+}

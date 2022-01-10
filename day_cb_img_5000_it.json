@@ -1,0 +1,165 @@
+{
+  "english": "day",
+  "phat_am": "dei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ban ngày",
+          "definition": "the period from sunrise to sunset",
+          "world_new": [
+            "period",
+            "sunrise",
+            "sunset"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She worked all day"
+            },
+            {
+              "ex_of_definition": "The days are warm, but the nights are cold.",
+              "world_new": [
+                "warm",
+                "cold"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngày",
+          "definition": "a part of this period eg that part spent at work",
+          "world_new": [
+            "part",
+            "period",
+            "part",
+            "spent",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long is your working day?",
+              "world_new": [
+                "long",
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "I see him every day.",
+              "world_new": [
+                "I",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngày",
+          "definition": "the period of twenty-four hours from one midnight to the next",
+          "world_new": [
+            "period",
+            "midnight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How many days does September have?",
+              "world_new": [
+                "September"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời buổi",
+          "definition": "the period of, or of the greatest activity, influence, strength etc of (something or someone)",
+          "world_new": [
+            "period",
+            "activity",
+            "influence",
+            "strength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was far less traffic on the roads in my grandfather’s day",
+              "world_new": [
+                "far",
+                "traffic",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "In the days of steam power, a five-person crew was required if a steam locomotive pulled a single passenger carriage.",
+              "world_new": [
+                "steam",
+                "power",
+                "crew",
+                "steam",
+                "locomotive",
+                "single",
+                "passenger",
+                "carriage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A single leaf was placed in each pot containing larvae and this was replaced every second day.",
+    "Trimedlure emitters from the barrier and the monitoring traps were replaced every two months and tri-pack attractants and dichlorvos strips were replaced every 45 days.",
+    "The food/water mixture was replaced every other day.",
+    "On average, there are 10 requests per day.",
+    "They remained with us two or three days, consuming over 60 steers per diem.",
+    "Broadcasting of the fertilizer in flooded rice fields is easy and can be done in less than a day for an entire hectare.",
+    "If hemodynamic stability can be achieved, sinus rhythm returns in the vast majority of patients spontaneously within a few days after surgery.",
+    "Females were replaced every 4 days for six sequential matings in the first experiment and nine sequential matings in the second experiment."
+  ],
+  "list_see_also": [
+    "daybreak",
+    "daydream",
+    "daylight",
+    "day return",
+    "day school",
+    "daytime",
+    "call it a day",
+    "day by day",
+    "make someone’s day",
+    "one day",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "dawdling",
+    "dawn",
+    "dawn on",
+    "dawning",
+    "day",
+    "day by day",
+    "day etc in",
+    "day of reckoning",
+    "day return"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664409_a52d3c0450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664409_8138102a32_o.png",
+      "id_image": "day_183258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664344_b3f4a7d511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664344_52333b07b6_o.png",
+      "id_image": "day_2254640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664319_b36b204166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664319_61a56f6786_o.png",
+      "id_image": "day_4198955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046100_1af5037a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046100_7765fa42a7_o.png",
+      "id_image": "day_721071"
+    }
+  ]
+}

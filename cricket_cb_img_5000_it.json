@@ -1,0 +1,97 @@
+{
+  "english": "cricket",
+  "phat_am": "ˈkrikit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn crikê",
+          "definition": "an outdoor game played with bats, a ball and wickets, between two sides of eleven each",
+          "world_new": [
+            "outdoor",
+            "game",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was watching a game of cricket on the TV.",
+              "world_new": [
+                "game",
+                "TV"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con dế",
+          "definition": "an insect related to the grasshopper, the male of which makes a chirping noise.",
+          "world_new": [
+            "insect",
+            "related",
+            "grasshopper",
+            "male",
+            "noise"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Even among aficionados, it is not generally known what owners feed to their crickets.",
+    "First, whereas in the case of ordinary animals the loser of a fight cries out, the crickets that wins the fight does so.",
+    "The purpose is to improve the accuracy of judging the relative merits of crickets by combining many variables.",
+    "The crickets are compared with respect to size, and those that are obviously smaller than those caught by the others are immediately released.",
+    "As crickets can easily lose their strength or their legs when touched, great care must be exercised in handling them.",
+    "In the night-time forest, analogous treatments are given to a passing mosquito and the chirping crickets, respectively.",
+    "As morning approaches, the hunters start focusing on large crickets.",
+    "A postinsemination barrier to fertilization isolates two closely related ground crickets."
+  ],
+  "list_see_also": [
+    "cricketer",
+    "not cricket"
+  ],
+  "list_browse": [
+    "crevice",
+    "crew",
+    "crib",
+    "crib death",
+    "cricket",
+    "cricketer",
+    "crime",
+    "criminal",
+    "criminally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675499_26f7f83d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675499_e56565874d_o.png",
+      "id_image": "cricket_1499920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435623_d5883659f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435623_eebe34c143_o.png",
+      "id_image": "cricket_2849894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365477_b9b2d83f91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365477_8f1cdd50e4_o.png",
+      "id_image": "cricket_297076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057190_2f1ca721ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057190_4babaae27e_o.png",
+      "id_image": "cricket_4982518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435538_33090b8871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435538_d8b92c3829_o.png",
+      "id_image": "cricket_6223306"
+    }
+  ]
+}

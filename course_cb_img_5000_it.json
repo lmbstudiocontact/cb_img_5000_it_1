@@ -1,0 +1,171 @@
+{
+  "english": "course",
+  "phat_am": "koːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quá trình",
+          "definition": "a series (of lectures, medicines etc)",
+          "world_new": [
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m taking a course (of lectures) in sociology",
+              "world_new": [
+                "sociology"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s having a course of treatment for his leg.",
+              "world_new": [
+                "treatment",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một món trong bữa ăn",
+          "definition": "a division or part of a meal",
+          "world_new": [
+            "division",
+            "part",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now we’ve had the soup, what’s (for) the next course?",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sân chơi",
+          "definition": "the ground over which a race is run or a game (especially golf) is played",
+          "world_new": [
+            "ground",
+            "race",
+            "run",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a racecourse",
+              "world_new": [
+                "racecourse"
+              ]
+            },
+            {
+              "ex_of_definition": "a golf course.",
+              "world_new": [
+                "golf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiều hướng",
+          "definition": "the path or direction in which something moves",
+          "world_new": [
+            "path",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the course of the Nile."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến trình",
+          "definition": "the progress or development of events",
+          "world_new": [
+            "progress",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Things will run their normal course despite the strike.",
+              "world_new": [
+                "run",
+                "their",
+                "normal",
+                "despite",
+                "strike"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường lối hành động",
+          "definition": "a way (of action)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s the best course of action in the circumstances?",
+              "world_new": [
+                "best",
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition to teaching linguistics courses for teachers, she teaches children's literature.",
+    "My judgement is that such experiences are no less vivid than ordinary experience, although of course greatly reduced in informational content.",
+    "Governments that are responsive are generally more legitimate than those that do not, and should experience less instability, all other things being equal, of course.",
+    "From 1961 onwards archaeology was taught as a so-called further education course, which followed studies in another discipline lasting four to five years.",
+    "The preface tells us that the book is intended to back up a second-year university course, presumably in stratigraphy as defined by the author.",
+    "On a day-to-day level, re-ection of a mediational character was drawn into teaching sessions across the entire course.",
+    "However, they found the methodology course itself too theoretical.",
+    "She discusses in detail four areas of verbal hygiene: copy editing, teaching grammar in schools, 'political correctness', and self-help language courses for women."
+  ],
+  "list_see_also": [
+    "coursebook",
+    "coursework",
+    "in the course of",
+    "in due course",
+    "of course",
+    "off/on course"
+  ],
+  "list_browse": [
+    "courageous",
+    "courageously",
+    "courgette",
+    "courier",
+    "course",
+    "coursebook",
+    "coursework",
+    "court",
+    "court-martial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371027_8e6c2a6e6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371027_ddc1d5e9cf_o.png",
+      "id_image": "course_3965926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371012_48548fcf90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371012_034aca8962_o.png",
+      "id_image": "course_4728718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063000_28766d36c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063000_21b5107da1_o.png",
+      "id_image": "course_5352122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681249_dfbcba6f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681249_95e5aaaf2b_o.png",
+      "id_image": "course_5965835"
+    }
+  ]
+}

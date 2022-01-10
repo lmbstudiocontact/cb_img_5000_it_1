@@ -1,0 +1,141 @@
+{
+  "english": "copy",
+  "phat_am": "ˈkopi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản sao",
+          "definition": "an imitation or reproduction",
+          "world_new": [
+            "imitation",
+            "reproduction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That dress is a copy of one I saw at a Paris fashion show",
+              "world_new": [
+                "dress",
+                "I",
+                "saw",
+                "fashion"
+              ]
+            },
+            {
+              "ex_of_definition": "He made eight copies of the pamphlet on the photocopier.",
+              "world_new": [
+                "pamphlet",
+                "photocopier"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một bản của cuốn sách, tờ báo",
+          "definition": "a single book, newspaper etc",
+          "world_new": [
+            "single",
+            "book",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I have six copies of this dictionary, please?",
+              "world_new": [
+                "I",
+                "dictionary",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản thảo",
+          "definition": "written or typed material for publishing",
+          "world_new": [
+            "material",
+            "publishing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He writes copy for advertisements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sao chép",
+          "definition": "to make an imitation or reproduction of (something)",
+          "world_new": [
+            "imitation",
+            "reproduction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Copy the way I speak",
+              "world_new": [
+                "I",
+                "speak"
+              ]
+            },
+            {
+              "ex_of_definition": "Copy this passage into your notebook.",
+              "world_new": [
+                "passage",
+                "your",
+                "notebook"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this sense, then, control relies on planning to provide an adequate efference copy.",
+    "All artwork must be accompanied by three hard copy printouts, these must match the electronic files.",
+    "He also most generously assisted the author in securing copies of a number of the sources cited in this paper.",
+    "Authors should submit three copies of each illustration.",
+    "All copy will be reviewed by the editorial staff and is subject to editing.",
+    "Contributors receive seventy-five copies of their papers free.",
+    "These master actors teach their students the repertoire of their particular genres by having them copy what they do.",
+    "It then takes the real arm and camera off-line, and manipulates the visual grid with efference copies."
+  ],
+  "list_see_also": [
+    "copier",
+    "copyright"
+  ],
+  "list_browse": [
+    "copper",
+    "copra",
+    "copulate",
+    "copulation",
+    "copy",
+    "copyright",
+    "coral",
+    "cord",
+    "cordial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333261_344992194c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333261_2f167fd420_o.png",
+      "id_image": "copy_1265884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688299_06b6a9fe69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688299_4ed49879f4_o.png",
+      "id_image": "copy_3056374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688239_2239277c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688239_c3db3332f3_o.png",
+      "id_image": "copy_4371362"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "english": "fake",
+  "phat_am": "feik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ giả",
+          "definition": "a worthless imitation (especially intended to deceive); forgery",
+          "world_new": [
+            "worthless",
+            "imitation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That picture is a fake.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ mạo nhận",
+          "definition": "a person who pretends to be something he/she is not",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pretended to be a doctor, but he was a fake.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giả",
+          "definition": "made in imitation of something more valuable, especially with the intention of deceiving",
+          "world_new": [
+            "imitation",
+            "valuable",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fake diamonds.",
+              "world_new": [
+                "diamonds"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giả danh",
+          "definition": "pretending to be something one is not",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fake clergyman.",
+              "world_new": [
+                "clergyman"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giả mạo",
+          "definition": "to pretend or imitate in order to deceive",
+          "world_new": [
+            "pretend",
+            "imitate",
+            "order",
+            "deceive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He faked his father’s signature on the cheque/check.",
+              "world_new": [
+                "signature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "faithfully",
+    "faithfulness",
+    "faithless",
+    "faithlessness",
+    "fake",
+    "falcon",
+    "falconry",
+    "fall",
+    "fall asleep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337091_ecbf3a7f5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337091_170810b071_o.png",
+      "id_image": "fake_1717700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692444_0b3f55f084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692444_6983ed37d2_o.png",
+      "id_image": "fake_2233992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692399_77d05b9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692399_cb58536752_o.png",
+      "id_image": "fake_2742130"
+    }
+  ]
+}

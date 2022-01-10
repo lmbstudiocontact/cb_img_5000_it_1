@@ -1,0 +1,82 @@
+{
+  "english": "coverage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mức bảo hiểm",
+          "definition": "the amount of protection given by insurance",
+          "world_new": [
+            "amount",
+            "protection",
+            "insurance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "insurance coverage.",
+              "world_new": [
+                "insurance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đưa tin",
+          "definition": "the extent of the inclusion of items in a news report etc",
+          "world_new": [
+            "extent",
+            "inclusion",
+            "news",
+            "report"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The TV coverage of the Olympic Games was extensive.",
+              "world_new": [
+                "TV",
+                "Olympic",
+                "extensive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Issues of independence and transparency may be more complicated for private payer technology coverage decisions.",
+    "Assessment approaches for receiving social care: content and coverage.",
+    "The economic incentives that influence media content can have a spillover effect on politics through that coverage.",
+    "Strategy 0 : no change in policy : single-dose vaccination at the existing coverage (70 or 90 %).",
+    "These findings indicate that, under conditions of reduced astrocytic coverage of neurons, diffusion is facilitated and takes place in a reduced volume.",
+    "This enables the designer to tailor the state space coverage to the evaluation resources available.",
+    "For each of the counties in our sample, knowing the aggregate coverage level limits the possible range of black and white coverage levels.",
+    "Again, the empirical and theoretical coverage is exemplary in its thoroughness."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cover ground",
+    "cover story",
+    "cover-girl",
+    "cover-up",
+    "coverage",
+    "covering",
+    "coverlet",
+    "covert",
+    "covet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325521_b23279ccd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325521_661388ab75_o.png",
+      "id_image": "coverage_2419573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062235_6be2c29ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062235_4c9762a87a_o.png",
+      "id_image": "coverage_5746262"
+    }
+  ]
+}

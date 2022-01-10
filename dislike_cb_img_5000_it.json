@@ -1,0 +1,100 @@
+{
+  "english": "dislike",
+  "phat_am": "disˈlaik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "không thích",
+          "definition": "not to like; to have strong feelings against",
+          "world_new": [
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dislikes going to the dentist",
+              "world_new": [
+                "dentist"
+              ]
+            },
+            {
+              "ex_of_definition": "I know he dislikes me.",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự không thích",
+          "definition": "strong feeling directed against a thing, person or idea",
+          "world_new": [
+            "strong",
+            "feeling",
+            "person",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He doesn’t go to football matches because of his dislike of crowds",
+              "world_new": [
+                "football"
+              ]
+            },
+            {
+              "ex_of_definition": "He has few dislikes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many respondents gave very explicit details of their dietary likes and dislikes and stated that they wished dietary vitamin supplements or holistic diets.",
+    "At the start of the trial, several patients reported that they strongly disliked having to take medication.",
+    "Depending on whether the critic likes or dislikes the particular lesson, the novel has been praised or criticized.",
+    "Much of his analysis then depends on how intensely and how widely it is thus disliked.",
+    "Another put down copulation then went to some lengths to tell the others it was only the word she disliked.",
+    "Products that are liked by similar-minded people will have priority over products that are disliked.",
+    "First, the questionnaire was designed so that the tolerance questions did not necessarily ask about the group identified as most disliked in 1998.",
+    "Individuals are able to set goals according to their own likes and dislikes."
+  ],
+  "list_see_also": [
+    "take a dislike to"
+  ],
+  "list_browse": [
+    "disintegration",
+    "disinterested",
+    "disk drive",
+    "diskette",
+    "dislike",
+    "dislocate",
+    "dislocation",
+    "dislodge",
+    "disloyal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430718_b04afb56b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430718_692044a833_o.png",
+      "id_image": "dislike_2665170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052290_62e002ebb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052290_aca40dfb53_o.png",
+      "id_image": "dislike_5638824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360027_8144f958d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360027_1278eea0f8_o.png",
+      "id_image": "dislike_951451"
+    }
+  ]
+}

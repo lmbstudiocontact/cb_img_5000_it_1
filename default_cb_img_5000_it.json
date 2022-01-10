@@ -1,0 +1,100 @@
+{
+  "english": "default",
+  "phat_am": "diˈfoːlt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỡ nợ",
+          "definition": "failure to do something which is required by law, especially paying back a debt",
+          "world_new": [
+            "failure",
+            "law",
+            "especially",
+            "debt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tenant is in default on paying the rent.",
+              "world_new": [
+                "tenant",
+                "rent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc định",
+          "definition": "the way in which a software program behaves or things appear on a computer screen unless you change them",
+          "world_new": [
+            "software",
+            "program",
+            "appear",
+            "computer",
+            "screen",
+            "unless",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) default settings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vỡ nợ",
+          "definition": "to not do something you are legally obliged to do, especially if you do not pay back a debt",
+          "world_new": [
+            "legally",
+            "especially",
+            "pay",
+            "debt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She defaulted on her loan.",
+              "world_new": [
+                "loan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other examples are defaults which, in the absence of decisive evidence, prefer one interpretation over the other.",
+    "In this respect, they behave exactly as defaults.",
+    "The dependence between the individual defaults is driven by a small number of systematic factors.",
+    "In addition, this layer will use defaults to specify any missing values in a feature structure input.",
+    "Second, the sovereignty status of countries limits the extent to which countries can be \"punished\" for defaulting.",
+    "Employees could then be automatically defaulted into a balanced fund based on their age, unless they actively select some other investment portfolio.",
+    "However, in the current paper we will be concerned with purely monotonic processing which is essentially unaffected by the availability of defaults.",
+    "Our approach uses both defaulting mechanism and attribute grammars with semantic propagation rules."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deeply",
+    "deepness",
+    "deer",
+    "deface",
+    "default",
+    "defeat",
+    "defeated",
+    "defeatism",
+    "defeatist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043200_ea406f6d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043200_e765e019a7_o.png",
+      "id_image": "default_5762278"
+    }
+  ]
+}

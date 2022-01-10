@@ -1,0 +1,139 @@
+{
+  "english": "flight",
+  "phat_am": "flait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bay",
+          "definition": "act of flying",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the flight of a bird.",
+              "world_new": [
+                "bird"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyến bay",
+          "definition": "a journey in a plane",
+          "world_new": [
+            "journey",
+            "plane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long is the flight to New York?",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dãy bậc thang; cầu thang",
+          "definition": "a number of steps or stairs",
+          "world_new": [
+            "number",
+            "steps"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flight of steps.",
+              "world_new": [
+                "steps"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn chim; bầy côn trùng",
+          "definition": "a number of birds etc flying or moving through the air",
+          "world_new": [
+            "number",
+            "moving",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flight of geese"
+            },
+            {
+              "ex_of_definition": "a flight of arrows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động hoặc trường hợp lẩn trốn hoặc bỏ chạy",
+          "definition": "the act of fleeing or running away from an enemy, danger etc",
+          "world_new": [
+            "act",
+            "running",
+            "enemy",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general regarded the flight of his army as a disgrace.",
+              "world_new": [
+                "general",
+                "army",
+                "disgrace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The bottom two flights are the widest ever built in this country at 2.1 metres.",
+    "The ' autobiographical flights ' make fascinating reading.",
+    "Although this bat was netted at 18h05, on nights after capture and tagging it tended to leave the tree roost later (c. 19h00) and make only short flights.",
+    "Also, in our airport domain \"to enter\" is used only to refer to flights entering sectors.",
+    "During this period, the three most expensive flights were £4,900.70, £4,413.60 and £3,345.90.",
+    "The management of the flow of air traffic and the scheduling of incoming and outgoing flights should ensure that there is no overcrowding.",
+    "The majority of these flights are believed to be communications and logistic support helicopter flights, whilst just under half comprise fighter and fighter bomber sorties.",
+    "Beyond the material impositions of machinery and bodies, radio spawned new visions for imaginary flights while securing opportunities for economic expansion through networks of capital and exchange."
+  ],
+  "list_see_also": [
+    "flighty",
+    "flight attendant",
+    "flight deck",
+    "in flight"
+  ],
+  "list_browse": [
+    "flexible",
+    "flexitime",
+    "flick",
+    "flicker",
+    "flight",
+    "flight attendant",
+    "flight deck",
+    "flighty",
+    "flimsy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058275_d6dc9f3973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058275_ca84ec9809_o.png",
+      "id_image": "flight_3310773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366437_09c98a5d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366437_fd85ba4da3_o.png",
+      "id_image": "flight_384038"
+    }
+  ]
+}

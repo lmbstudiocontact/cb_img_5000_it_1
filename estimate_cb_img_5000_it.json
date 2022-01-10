@@ -1,0 +1,114 @@
+{
+  "english": "estimate",
+  "phat_am": "ˈestimeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ước tính",
+          "definition": "to judge size, amount, value etc, especially roughly or without measuring",
+          "world_new": [
+            "judge",
+            "size",
+            "amount",
+            "value",
+            "roughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He estimated that the journey would take two hours.",
+              "world_new": [
+                "journey"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh giá",
+          "definition": "to form an idea or judgement of how good etc something is",
+          "world_new": [
+            "form",
+            "idea",
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I estimated my chances of escape as very good.",
+              "world_new": [
+                "I",
+                "my",
+                "escape"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "số lượng ước tính",
+          "definition": "a calculation (eg of the probable cost etc of something)",
+          "world_new": [
+            "calculation",
+            "probable",
+            "cost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave us an estimate of the cost of repairing the stonework",
+              "world_new": [
+                "cost",
+                "stonework"
+              ]
+            },
+            {
+              "ex_of_definition": "a rough estimate.",
+              "world_new": [
+                "rough"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it should be emphasized that this survey was too limited to enable exact estimates.",
+    "They use many alternative sets of energy parameters that fluctuate about the estimated value and calculate a structure for each set.",
+    "The estimated cumulative percentage of patients remaining in remission was 98 after 2 years, 85 after 5 years and 85 after 10 years.",
+    "Furthermore, the coefficient estimates for many of the control variables tend to be statistically significant and have the expected sign.",
+    "Preliminary estimates also included interactions of provider volume with a state dummy variable.",
+    "As a result, we obtain minimum estimates of the effects of treatment with anger controlled.",
+    "The force tracking is obtained by estimating the parameters of the environment and then computing the reference position based on this estimation.",
+    "The basic reproduction ratio between herds in this study was estimated to be 0.6."
+  ],
+  "list_see_also": [
+    "estimation"
+  ],
+  "list_browse": [
+    "estate",
+    "estate agent",
+    "estate car",
+    "esteem",
+    "estimate",
+    "estimation",
+    "estrogen",
+    "estuary",
+    "et cetera"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429738_06bd47872f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429738_e76af4f854_o.png",
+      "id_image": "estimate_2421996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314876_e540ea61c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314876_ca0e48e58c_o.png",
+      "id_image": "estimate_4668446"
+    }
+  ]
+}

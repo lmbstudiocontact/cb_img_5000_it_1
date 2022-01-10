@@ -1,0 +1,45 @@
+{
+  "english": "cop",
+  "phat_am": "kop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viết tắt của từ copper (đồng)",
+          "definition": "a slang abbreviation of copper2",
+          "world_new": [
+            "slang"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an undercover cop.",
+              "world_new": [
+                "undercover"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cooperation",
+    "cooperative",
+    "coordinate",
+    "coordination",
+    "cop",
+    "cope",
+    "copier",
+    "copious",
+    "copiously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070210_ebc97d90b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070210_ecd2bd7ce4_o.png",
+      "id_image": "cop_1865647"
+    }
+  ]
+}

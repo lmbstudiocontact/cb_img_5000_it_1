@@ -1,0 +1,85 @@
+{
+  "english": "embroider",
+  "phat_am": "imˈbroidə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thêu",
+          "definition": "to decorate with designs in needlework",
+          "world_new": [
+            "decorate",
+            "needlework"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She embroidered her name on her handkerchief",
+              "world_new": [
+                "name",
+                "handkerchief"
+              ]
+            },
+            {
+              "ex_of_definition": "an embroidered tablecloth.",
+              "world_new": [
+                "tablecloth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When a little girl asks him to stand on his head, he throws up on her dress embroidered with gold.",
+    "He wore silk boots embroidered with gold, and a sash of blue girded his waist.",
+    "The student's name, number, and name of the school are often embroidered on the blouse or shirt.",
+    "Most of the decorations are embroidered, flowers and regional animals are among the most common designs found in polleras.",
+    "Over him was spread a rich, dyed samite cloth, embroidered with many golden flowers, and before him burned a single candle, no more, no less.",
+    "The costume includes white sari embroidered with bright golden brocade (known as kasavu) at the edges.",
+    "In addition, heralds and pursuivants wear black velvet caps with a badge embroidered.",
+    "Below the finial, a streamer is attached with the unit badge at the top and its designation embroidered in gold at the end."
+  ],
+  "list_see_also": [
+    "embroidery"
+  ],
+  "list_browse": [
+    "embody",
+    "embolism",
+    "embossed",
+    "embrace",
+    "embroider",
+    "embroidery",
+    "embroil",
+    "embryo",
+    "embryological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322541_58975b4db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322541_aba7d48e11_o.png",
+      "id_image": "embroidery_2589578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059270_b8ab2e7679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059270_cea6529316_o.png",
+      "id_image": "embroidery_2961456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367362_ff1a3a3dbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367362_7cece68632_o.png",
+      "id_image": "embroidery_2961473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437653_e91a7456a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437653_b29db693c8_o.png",
+      "id_image": "embroidery_5558251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677759_da19389dba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677759_d46ffd9946_o.png",
+      "id_image": "embroider_2927825"
+    }
+  ]
+}

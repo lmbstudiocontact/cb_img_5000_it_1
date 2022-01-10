@@ -1,0 +1,257 @@
+{
+  "english": "flat",
+  "phat_am": "flӕt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng phẳng",
+          "definition": "level; without rise or fall",
+          "world_new": [
+            "rise",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flat surface.",
+              "world_new": [
+                "surface"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đều đều",
+          "definition": "dull; without interest",
+          "world_new": [
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For some reason the performance was rather flat.",
+              "world_new": [
+                "reason",
+                "performance",
+                "rather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẳng thừng",
+          "definition": "(of something said, decided etc) definite; emphatic",
+          "world_new": [
+            "emphatic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flat denial.",
+              "world_new": [
+                "denial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bẹp",
+          "definition": "(of a tyre/tire) not inflated, having lost most of its air",
+          "world_new": [
+            "lost",
+            "its",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His car had a flat tyre/tire.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hả hơi",
+          "definition": "(of drinks) no longer fizzy",
+          "world_new": [
+            "fizzy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "flat lemonade",
+              "world_new": [
+                "lemonade"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adverb) My beer has gone flat.",
+              "world_new": [
+                "beer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáng",
+          "definition": "slightly lower than a musical note should be",
+          "world_new": [
+            "slightly",
+            "lower",
+            "musical",
+            "note"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That last note was flat",
+              "world_new": [
+                "note"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adverb) He was singing a bit flat.",
+              "world_new": [
+                "singing",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "sóng sượt; sõng soài",
+          "definition": "stretched out",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was lying flat on her back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "căn hộ",
+          "definition": "a set of rooms on one floor, with kitchen and bathroom, in a larger building or block; apartment American",
+          "world_new": [
+            "rooms",
+            "floor",
+            "kitchen",
+            "bathroom",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you live in a house or a flat?",
+              "world_new": [
+                "live",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu giáng",
+          "definition": "(in musical notation) a sign (♭) which makes a note a semitone lower.",
+          "world_new": [
+            "musical",
+            "sign",
+            "note",
+            "semitone",
+            "lower"
+          ]
+        },
+        {
+          "mean_english": "lòng (sông, bàn tay…)",
+          "definition": "a level, even part",
+          "world_new": [
+            "level",
+            "even",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the flat of her hand.",
+              "world_new": [
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đất bằng phẳng; dải đất phẳng thấp, nhất là gần nước",
+          "definition": "an area of flat land, especially beside the sea, a river etc",
+          "world_new": [
+            "area",
+            "land",
+            "sea",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mud flats.",
+              "world_new": [
+                "mud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "None of their developmental curves are pictured here, because there is nothing to see, except a virtually zero-rate flat line over the months.",
+    "The vortex is shown in figure 4; the sawdust on the flat bed was lifted up by the backwash vortex, not by the breaker.",
+    "Here there were experiments in new residential arrangements such as communes or singleperson flats.",
+    "Preliminary data from the regional flat files suggested that there would be about twice as many men in the sample as women.",
+    "A similar suction force is exerted on a flat plate in aerodynamic theory.",
+    "The target was a flat thick foil placed perpendicularly to the beam, which could be moved along the x and y direction by external motions.",
+    "The meter was calibrated by temporarily affixing it to the flat floor of the tunnel ahead of the wavy wall.",
+    "These parameters are the ramp angle, ramp surface friction, hip mass and size of the flat feet."
+  ],
+  "list_see_also": [
+    "flatly",
+    "flatten",
+    "flatmate",
+    "flat rate",
+    "flat out"
+  ],
+  "list_browse": [
+    "flashing",
+    "flashlight",
+    "flashy",
+    "flask",
+    "flat",
+    "flat out",
+    "flat rate",
+    "flatly",
+    "flatmate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367422_9c74b5c6de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367422_6734059a8b_o.png",
+      "id_image": "flat_203881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322431_2e7987e127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322431_df3a8635ac_o.png",
+      "id_image": "flat_460545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367297_c191ea2a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367297_3dfc69e5a5_o.png",
+      "id_image": "flat_4845883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677504_c5cc2d25bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677504_c373cc4f4b_o.png",
+      "id_image": "flat_553978"
+    }
+  ]
+}

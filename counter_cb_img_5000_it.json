@@ -1,0 +1,165 @@
+{
+  "english": "counter",
+  "phat_am": "ˈkauntə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thẻ để đánh bạc",
+          "definition": "a token used in numbering or playing certain games",
+          "world_new": [
+            "token",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "counters for playing ludo.",
+              "world_new": [
+                "ludo"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ngược lại",
+          "definition": "(with to) in the opposite direction or manner to",
+          "world_new": [
+            "opposite",
+            "direction",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The emerging election results are running counter to most forecasts.",
+              "world_new": [
+                "election",
+                "running"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đáp lại",
+          "definition": "to meet or answer (a stroke or move etc by another)",
+          "world_new": [
+            "meet",
+            "answer",
+            "stroke",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He successfully countered all the criticisms that were directed at him.",
+              "world_new": [
+                "successfully"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "ngược chiều",
+          "definition": "against or opposite",
+          "world_new": [
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "counter-clockwise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy đếm",
+          "definition": "a kind of table or surface on which goods are laid",
+          "world_new": [
+            "kind",
+            "table",
+            "surface",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you get me some sweets from the confectionery counter?",
+              "world_new": [
+                "confectionery"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In contrast, he would challenge or counter the person's jibes, with the same intensity as he would if he were debating an issue.",
+    "Friendship attachments provide a sense of security and a sense of belonging which potentially counters isolation and loneliness.",
+    "Further, concentration should counter a lot of secondary costs related to cultivation, for example: labour time, fencing costs, transportation and supervision.",
+    "The high producers have a physiological level of fertility related to lactation as the sole significant counter to pregnancy.",
+    "Recall that the theoretical relationship between efficiency concerns and the incidence of non-partisan cabinet appointments is counter-intuitively negative.",
+    "It would be worthwhile to supplement the above results with counter-examples demonstrating that this or that side condition is indispensible.",
+    "At the same time, he also displayed characteristic political cunning, knowing just how far he could go without provoking a destructive counter-reaction.",
+    "Counter-examples are complete total orders, for which every subset with more than two elements is necessarily redundant."
+  ],
+  "list_see_also": [
+    "counter-"
+  ],
+  "list_browse": [
+    "count on",
+    "countable",
+    "countdown",
+    "countenance",
+    "counter",
+    "counter-attack",
+    "counteract",
+    "counteraction",
+    "counterclockwise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064185_449480db38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064185_334f1c7284_o.png",
+      "id_image": "counter_2403404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372117_d891db0b73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372117_5ab8597ae5_o.png",
+      "id_image": "counter_2596411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327381_2051bbfa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327381_d94c002805_o.png",
+      "id_image": "counter_3884791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682459_8778020a31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682459_814c3e9c72_o.png",
+      "id_image": "counter_6090977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682414_7d201f4d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682414_3c8bfc902d_o.png",
+      "id_image": "counter_6091461"
+    }
+  ]
+}

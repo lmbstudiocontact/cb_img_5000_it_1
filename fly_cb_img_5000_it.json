@@ -1,0 +1,165 @@
+{
+  "english": "fly",
+  "phat_am": "flai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con ruồi",
+          "definition": "a type of small winged insect",
+          "world_new": [
+            "type",
+            "small",
+            "winged",
+            "insect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She swatted a fly away with her hand.",
+              "world_new": [
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ruồi giả (làm mồi câu cá)",
+          "definition": "a fish hook made to look like a fly so that a fish will take it in its mouth",
+          "world_new": [
+            "fish",
+            "hook",
+            "look",
+            "fish",
+            "its",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which fly should I use to catch a trout?",
+              "world_new": [
+                "I",
+                "catch",
+                "trout"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vạt cài cúc (ở áo)",
+          "definition": "a piece of material with buttons or a zip, especially at the front of trousers",
+          "world_new": [
+            "piece",
+            "material",
+            "zip",
+            "front",
+            "trousers"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your flies are undone.",
+              "world_new": [
+                "undone"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bay",
+          "definition": "to (make something) go through the air on wings etc or in an aeroplane",
+          "world_new": [
+            "air",
+            "wings",
+            "aeroplane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pilot flew (the plane) across the sea.",
+              "world_new": [
+                "pilot",
+                "across",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy trốn",
+          "definition": "to run away (from)",
+          "world_new": [
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He flew (the country)."
+            }
+          ]
+        },
+        {
+          "mean_english": "(về thời gian) trôi qua rất nhanh",
+          "definition": "(of time) to pass quickly",
+          "world_new": [
+            "pass",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The days flew past."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With the definitions given in the previous section, consider a population where the initial generation consists of one female tsetse fly.",
+    "In sum, we were able to 'account' for a substantial proportion of the mature flies that were released.",
+    "And while donors fly the civil society banner with apparent confidence, the actual body of empirical research underlying the cause is surprisingly thin.",
+    "The sterile insect technique has demonstrated its ability to reduce fruit fly populations, and consequently reduce damage to fruit.",
+    "In these systems the flies are restricted to a limited space and lack freedom to make choices.",
+    "If these chemicals serve as mating aggregation stimuli, then one would anticipate a more regular encounter of female flies in trapping surveys.",
+    "For each cross, 5 pairs of flies were kept in a food vial and transferred every 2-3 days to vial with fresh food.",
+    "This noninvasive technique permits the rapid assessment of the overall retinal integrity for a large number of flies."
+  ],
+  "list_see_also": [
+    "a fly in the ointment"
+  ],
+  "list_browse": [
+    "fluster",
+    "flute",
+    "flutter",
+    "flux",
+    "fly",
+    "fly in the face of",
+    "fly into",
+    "fly off the handle",
+    "flyer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055545_f0282034e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055545_4f8520c200_o.png",
+      "id_image": "fly_1357476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363522_79e54d8455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363522_466e34196c_o.png",
+      "id_image": "fly_2230885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363497_f8a84eab0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363497_dc643063a8_o.png",
+      "id_image": "fly_4469569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434098_5803894c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434098_890fbcf43f_o.png",
+      "id_image": "fly_5039292"
+    }
+  ]
+}

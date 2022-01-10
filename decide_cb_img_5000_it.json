@@ -1,0 +1,77 @@
+{
+  "english": "decide",
+  "phat_am": "diˈsaid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quyết định",
+          "definition": "to (cause to) make up one’s mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have decided to retire",
+              "world_new": [
+                "I",
+                "retire"
+              ]
+            },
+            {
+              "ex_of_definition": "What decided you against going?"
+            }
+          ]
+        },
+        {
+          "mean_english": "quyết định",
+          "definition": "to settle or make the result (of something) etc certain",
+          "world_new": [
+            "settle",
+            "result",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The last goal decided the match.",
+              "world_new": [
+                "goal",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Music stemming from literary or visual contexts presents particular problems when it comes to deciding what is appropriate knowledge.",
+    "A central issue here is in deciding where 'continuity' resides.",
+    "The deciding factor in this decision proves to be the degree of complexity in the symmetry.",
+    "After the ultimatum, it decides more drastic action is needed.",
+    "When deciding to attend the theatre, what factors most strongly affect which show you choose?",
+    "When a teacher decides to work with the extra vocabulary, one theme requires three sessions per week over a four-week period.",
+    "The amount of the magnification being decided upon, it only is necessary to place the front and back of the camera in correct relative positions.",
+    "As the chimpanzees decided which objects were to be named and shown, they also incorporated many aspects of the teacher's role into their own behavior."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deception",
+    "deceptive",
+    "deceptively",
+    "decibel",
+    "decide",
+    "deciduous",
+    "decilitre",
+    "decimal",
+    "decimal currency"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351617_fa1fcdda60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351617_14aa4b9d5f_o.png",
+      "id_image": "decide_4301938"
+    }
+  ]
+}

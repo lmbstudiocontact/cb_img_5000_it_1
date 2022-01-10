@@ -1,0 +1,69 @@
+{
+  "english": "flyer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phi công; nhà phi hành",
+          "definition": "a person who flies an aeroplane etc or is in one.",
+          "world_new": [
+            "person",
+            "aeroplane"
+          ]
+        },
+        {
+          "mean_english": "tờ quảng cáo",
+          "definition": "a sheet of paper advertising a product, event etc",
+          "world_new": [
+            "sheet",
+            "paper",
+            "advertising",
+            "product",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were handing out flyers to passers-by."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fly",
+    "fly in the face of",
+    "fly into",
+    "fly off the handle",
+    "flyer",
+    "flying saucer",
+    "flying visit",
+    "flyleaf",
+    "flyover"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673634_b179a0416a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673634_0acbe6392a_o.png",
+      "id_image": "flyer_4213268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363332_c22889970f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363332_048e79748f_o.png",
+      "id_image": "flyer_4469789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055415_05c26aa614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055415_e302d51b05_o.png",
+      "id_image": "flyer_543952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673679_c0d05f2966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673679_3dda69c206_o.png",
+      "id_image": "flyer_648476"
+    }
+  ]
+}

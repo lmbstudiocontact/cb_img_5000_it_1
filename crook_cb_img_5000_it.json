@@ -1,0 +1,107 @@
+{
+  "english": "crook",
+  "phat_am": "kruk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gậy móc",
+          "definition": "a (shepherd’s or bishop’s) stick, bent at the end.",
+          "world_new": [
+            "stick",
+            "bent"
+          ]
+        },
+        {
+          "mean_english": "kẻ lừa đảo",
+          "definition": "a criminal",
+          "world_new": [
+            "criminal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two crooks stole the old woman’s jewels.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khuỷu tay",
+          "definition": "the inside of the bend (of one’s arm at the elbow)",
+          "world_new": [
+            "bend",
+            "arm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She held the puppy in the crook of her arm.",
+              "world_new": [
+                "arm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "uốn cong",
+          "definition": "to bend (especially one’s finger) into the shape of a hook",
+          "world_new": [
+            "bend",
+            "shape",
+            "hook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She crooked her finger to beckon him.",
+              "world_new": [
+                "crooked",
+                "finger",
+                "beckon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "crooked",
+    "crookedly",
+    "crookedness"
+  ],
+  "list_browse": [
+    "crocodile tears",
+    "crocus",
+    "croissant",
+    "crony",
+    "crook",
+    "crooked",
+    "crookedly",
+    "crookedness",
+    "croon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434603_f79bc6dc8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434603_c723cbfa3c_o.png",
+      "id_image": "crook_1425970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319476_c3673eddff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319476_ab79149373_o.png",
+      "id_image": "crook_1792761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319441_fdd2ff7059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319441_915e203435_o.png",
+      "id_image": "crook_3113359"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "english": "field",
+  "phat_am": "fiːld",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng ruộng",
+          "definition": "a piece of land enclosed for growing crops, keeping animals etc",
+          "world_new": [
+            "piece",
+            "land",
+            "keeping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our house is surrounded by fields.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bãi",
+          "definition": "a wide area",
+          "world_new": [
+            "wide",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "playing fields (= an area for games, sports etc).",
+              "world_new": [
+                "area",
+                "games",
+                "sports"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mỏ",
+          "definition": "a piece of land etc where minerals or other natural resources are found",
+          "world_new": [
+            "piece",
+            "land",
+            "natural",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil-field"
+            },
+            {
+              "ex_of_definition": "a coalfield.",
+              "world_new": [
+                "coalfield"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lĩnh vực",
+          "definition": "an area of knowledge, interest, study etc",
+          "world_new": [
+            "area",
+            "knowledge",
+            "interest",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in the fields of literature/economic development",
+              "world_new": [
+                "development"
+              ]
+            },
+            {
+              "ex_of_definition": "her main fields of interest.",
+              "world_new": [
+                "main",
+                "interest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trường",
+          "definition": "an area affected, covered or included by something",
+          "world_new": [
+            "area",
+            "affected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a magnetic field",
+              "world_new": [
+                "magnetic"
+              ]
+            },
+            {
+              "ex_of_definition": "in his field of vision.",
+              "world_new": [
+                "vision"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiến trường",
+          "definition": "an area of battle",
+          "world_new": [
+            "area",
+            "battle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the field of Waterloo"
+            },
+            {
+              "ex_of_definition": "(also adjective) a field-gun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chặn và ném trả lại (chơi cricket)",
+          "definition": "(in cricket, basketball etc) to catch (the ball) and return it.",
+          "world_new": [
+            "cricket",
+            "basketball",
+            "catch",
+            "return"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fielding",
+    "field glasses",
+    "field hockey",
+    "field trip",
+    "fieldwork"
+  ],
+  "list_browse": [
+    "fiddler",
+    "fiddler crab",
+    "fidelity",
+    "fidget",
+    "field",
+    "field glasses",
+    "field hockey",
+    "field trip",
+    "fielding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685854_90aa38a9c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685854_fba2f3bf34_o.png",
+      "id_image": "field_2153183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375472_b92d35e860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375472_8d017f3f79_o.png",
+      "id_image": "field_2290322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445688_93afe82958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445688_9bec2fbd14_o.png",
+      "id_image": "field_4212554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330706_3750cc750d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330706_325d60908b_o.png",
+      "id_image": "field_4484301"
+    }
+  ]
+}

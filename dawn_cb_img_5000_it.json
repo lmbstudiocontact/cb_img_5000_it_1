@@ -1,0 +1,115 @@
+{
+  "english": "dawn",
+  "phat_am": "doːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bình minh",
+          "definition": "(especially of daylight) to begin to appear",
+          "world_new": [
+            "begin",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As soon as the day dawned, we set off on our journey.",
+              "world_new": [
+                "soon",
+                "day",
+                "our",
+                "journey"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rạng đông",
+          "definition": "the very beginning of a day; very early morning",
+          "world_new": [
+            "beginning",
+            "morning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must get up at dawn."
+            }
+          ]
+        },
+        {
+          "mean_english": "buổi sơ khai",
+          "definition": "the very beginning of something",
+          "world_new": [
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the dawn of civilization.",
+              "world_new": [
+                "civilization"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe that it is an important feature of this dawning of mutual comprehension.",
+    "We have just had one, and another is dawning.",
+    "I do not want to create any more false dawns—there are too many in this political world.",
+    "As the new millennium dawns, many forces press toward a more complete integration of our understanding of the development of psychopathology.",
+    "By then, another era of country music was dawning.",
+    "The full force of that interruption has not dawned upon me.",
+    "I should have thought that that was as clear as a pikestaff, but it has not appprently dawned on the men themselves.",
+    "Admittedly, there have been false dawns in this respect in the past."
+  ],
+  "list_see_also": [
+    "dawning",
+    "dawn on"
+  ],
+  "list_browse": [
+    "daunting",
+    "dawdle",
+    "dawdler",
+    "dawdling",
+    "dawn",
+    "dawn on",
+    "dawning",
+    "day",
+    "day by day"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424368_9174c064d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424368_e771a05522_o.png",
+      "id_image": "dawn_1146828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353402_b68760bf15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353402_607803e97f_o.png",
+      "id_image": "dawn_1207568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353342_2e6bdacf48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353342_52338ab3b1_o.png",
+      "id_image": "dawn_2071649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046140_fac6bd63c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046140_6c16c7e9dd_o.png",
+      "id_image": "dawn_3104466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046205_8aceace750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046205_53dd86abd9_o.png",
+      "id_image": "dawn_721073"
+    }
+  ]
+}

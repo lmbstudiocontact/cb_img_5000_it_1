@@ -1,0 +1,69 @@
+{
+  "english": "decor",
+  "phat_am": "ˈdeikoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ trang trí",
+          "definition": "the decoration of a room etc and the arrangement of the objects in it",
+          "world_new": [
+            "decoration",
+            "room",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was a comfortable room, but I didn’t like the decor.",
+              "world_new": [
+                "comfortable",
+                "room",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the workmen spoke very highly of the effect of having good colour schemes and decor.",
+    "Their decor, service, and cuisine are on the highest international level—and so, quite rightly, are their bills.",
+    "The landscape and the room decor are so different in kind that they seem merely juxtaposed on either side of the glazing.",
+    "A chronological examination of die libretti demonstrates, however, a gradual demand for realism to the extent that writing and decor became more equally weighted.",
+    "The outside decor lends itself to system-build, which is sometimes very good, but sometimes—as we know from experience — it is disastrous.",
+    "All aspects of the decor in this room defer to the desire on the part of travellers to belong in the landscape.",
+    "They found a home that had a similar floor plan and decor to his own, and reported that he had settled in quite comfortably.",
+    "The decor creates a frame of representation which strongly suggests a particular mood."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decoder",
+    "decompose",
+    "decomposer",
+    "decomposition",
+    "decor",
+    "decorate",
+    "decoration",
+    "decorative",
+    "decorator"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044040_430090b570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044040_49810fc320_o.png",
+      "id_image": "decor_1198316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043995_de3a04ede2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043995_0da2f7bcd9_o.png",
+      "id_image": "decor_4257669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662269_5c2e1f4888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662269_c6c10e704f_o.png",
+      "id_image": "decor_4954622"
+    }
+  ]
+}

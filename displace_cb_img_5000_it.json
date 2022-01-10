@@ -1,0 +1,92 @@
+{
+  "english": "displace",
+  "phat_am": "disˈpleis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyển chỗ",
+          "definition": "to disarrange or put out of place",
+          "world_new": [
+            "disarrange",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Thousands of people in the border areas have been displaced by the fighting.",
+              "world_new": [
+                "people",
+                "border",
+                "fighting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếm chỗ",
+          "definition": "to take the place of",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog had displaced her doll in the little girl’s affections.",
+              "world_new": [
+                "dog",
+                "doll"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given sufficient processing time, would the postverbal noun be successful in displacing the filler as theme, regardless of its plausibility?",
+    "The foreign locus of decisionmaking also creates opportunities for displacing or at least sharing blame when politically unpopular decisions are taken.",
+    "In particular, we can account for the ' displaced ' position of the verb stem in the morphology.",
+    "However, he displaces attention from the readers of books to their producers.",
+    "Of course, in a rational healthcare system, it will be the least productive activities that are displaced first.",
+    "Once the exclusive domain of women, childbirth practices are now dominated by a largely male obstetric workforce, displacing the traditionally female dominated practice of midwifery.",
+    "The remainder is given over to a single tonic butterfly in which the second note is displaced downwards by two octaves.",
+    "Promotion of woodlots by external organizations appears to displace local collective action in protecting the woodlot and contributes to lower tree survival rates."
+  ],
+  "list_see_also": [
+    "displacement",
+    "displaced person"
+  ],
+  "list_browse": [
+    "dispenser",
+    "dispersal",
+    "disperse",
+    "dispirited",
+    "displace",
+    "displaced person",
+    "displacement",
+    "display",
+    "displease"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670059_b0de2424f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670059_70ec907932_o.png",
+      "id_image": "displace_1042379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359552_3d2fa9a877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359552_4b3d508b26_o.png",
+      "id_image": "displace_2359155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430223_3203e8d8b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430223_1db30170fc_o.png",
+      "id_image": "displace_2359160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359482_f46990c060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359482_4aa7e1a733_o.png",
+      "id_image": "displace_5488359"
+    }
+  ]
+}

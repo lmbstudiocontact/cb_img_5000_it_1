@@ -1,0 +1,91 @@
+{
+  "english": "difficulty",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khó khăn",
+          "definition": "the state or quality of being hard (to do) or not easy",
+          "world_new": [
+            "state",
+            "quality",
+            "easy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have difficulty in understanding him.",
+              "world_new": [
+                "I",
+                "understanding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó khăn",
+          "definition": "an obstacle or objection",
+          "world_new": [
+            "obstacle",
+            "objection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a habit of foreseeing difficulties.",
+              "world_new": [
+                "habit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gặp khó khăn",
+          "definition": "trouble, especially money trouble",
+          "world_new": [
+            "trouble",
+            "money",
+            "trouble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm was in difficulties.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The difficulties faced by the editors poke through in several places.",
+    "The controls were asked about events and difficulties over a time period matched to that of their paired case.",
+    "Of course, there are always difficulties recording people in real life situations while trying to remain as inconspicuous as possible.",
+    "The campaign against the radical liberals encountered a number of difficulties.",
+    "None of the participants reported a history of speech or hearing difficulties.",
+    "The authors eventually utilised multiple methods to try to overcome the difficulties of definition and the multi-faceted nature of quality of life and care.",
+    "Landlords who are prepared to house benefit recipients may experience serious difficulties with the system.",
+    "Despite high levels of satisfaction, three-fifths of the users who had experience of domiciliary care packages mentioned difficulties."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "different",
+    "differentiate",
+    "differentiation",
+    "difficult",
+    "difficulty",
+    "diffidence",
+    "diffident",
+    "diffidently",
+    "diffuse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367042_b091faf67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367042_41bdff4e91_o.png",
+      "id_image": "difficulty_4516936"
+    }
+  ]
+}

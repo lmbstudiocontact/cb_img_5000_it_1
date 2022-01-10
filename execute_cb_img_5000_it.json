@@ -1,0 +1,85 @@
+{
+  "english": "execute",
+  "phat_am": "ˈeksikjuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hành quyết",
+          "definition": "to put to death by order of the law",
+          "world_new": [
+            "death",
+            "order",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After the war, many traitors were executed.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực hiện",
+          "definition": "to carry out (instructions etc",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The computer’s processor executes the instructions in sequence.",
+              "world_new": [
+                "processor",
+                "sequence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu diễn",
+          "definition": "to perform (a movement etc, usually requiring skill)",
+          "world_new": [
+            "perform",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stopped the car and then executed a three-point turn.",
+              "world_new": [
+                "car",
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "execution",
+    "executioner",
+    "executive",
+    "executor"
+  ],
+  "list_browse": [
+    "excruciating",
+    "excursion",
+    "excusable",
+    "excuse",
+    "execute",
+    "execution",
+    "executioner",
+    "executive",
+    "executor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666829_a0b82b9334_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666829_b7ec8a53d1_o.png",
+      "id_image": "execute_2654584"
+    }
+  ]
+}

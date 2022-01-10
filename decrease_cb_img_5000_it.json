@@ -1,0 +1,102 @@
+{
+  "english": "decrease",
+  "phat_am": "diˈkriːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giảm",
+          "definition": "to make or become less",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The population of the island has gradually decreased.",
+              "world_new": [
+                "population",
+                "island",
+                "gradually"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự giảm sút",
+          "definition": "a growing less",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a decrease of fifty per cent",
+              "world_new": [
+                "per",
+                "cent"
+              ]
+            },
+            {
+              "ex_of_definition": "a gradual decrease in unemployment.",
+              "world_new": [
+                "gradual",
+                "unemployment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The epicyst increases as the endoplasmic core decreases in size.",
+    "Changes to public health nursing services may be related to the decreases in population to physician ratios.",
+    "In other words, as the rate of import increases, the proportion of the obsidian assemblage that is green decreases.",
+    "Comparing the two cohorts, the average age of retirement decreased by 1.6 years (from 63.8 to 62.2 years-of-age).",
+    "Activation decreases with the number of words, sentences and paragraphs elapsed as the algorithm proceeds through the text.",
+    "However, for higher-order radial modes it falls off as the overlap of the interacting wave functions decreases.",
+    "Rapidly decreasing separation between adjacent bifurcation points did not allow the identification of higher periodicities.",
+    "In the case when design decisions were made probabilistically, the effects of the domain heuristics on the run time completely switched, significantly decreasing run time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "decorous",
+    "decorously",
+    "decorum",
+    "decoy",
+    "decrease",
+    "decree",
+    "decrepit",
+    "dedicate",
+    "dedicated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043675_7914b8dc11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043675_a5f94d813a_o.png",
+      "id_image": "decrease_1011587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306636_fac3b3121b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306636_441875d936_o.png",
+      "id_image": "decrease_267983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043665_a99e221a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043665_0bbf3bcb07_o.png",
+      "id_image": "decrease_5260144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306571_4a328ba3aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306571_0c37a9f4f3_o.png",
+      "id_image": "decrease_6315561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043610_b9545ffeb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043610_d017698e10_o.png",
+      "id_image": "decrease_6344119"
+    }
+  ]
+}

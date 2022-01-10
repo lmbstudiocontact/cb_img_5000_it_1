@@ -1,0 +1,135 @@
+{
+  "english": "duplicate",
+  "phat_am": "ˈdjuːplikət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sao y nguyên cái gì",
+          "definition": "exactly the same as something else",
+          "world_new": [
+            "exactly",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a duplicate key.",
+              "world_new": [
+                "key"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật giống hệt một vật khác",
+          "definition": "another thing of exactly the same kind",
+          "world_new": [
+            "exactly",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He managed to find a perfect duplicate of the ring she had lost.",
+              "world_new": [
+                "find",
+                "perfect",
+                "ring",
+                "lost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản sao",
+          "definition": "an exact copy of something written",
+          "world_new": [
+            "exact",
+            "copy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave everyone a duplicate of her report.",
+              "world_new": [
+                "report"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sao y nguyên",
+          "definition": "to make an exact copy or copies of",
+          "world_new": [
+            "exact",
+            "copy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He duplicated the letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Isolates suspected to be duplicates of strains already present in the collection were omitted.",
+    "The results were screened and duplicates were eliminated.",
+    "However, the effect of substituting answers is that unevaluated arguments in the environment of closures are duplicated.",
+    "As data also contain personal identifiers such as date of birth and postal code, duplicates could be identified and excluded.",
+    "Here, one half of a pattern is duplicated and reversed on the opposite side.",
+    "However, we must ensure that no large arguments are duplicated.",
+    "Footnotes in the separate viola part relate to editorial decisions made concerning it alone, and these comments are not duplicated in the piano reduction.",
+    "All duplicates and all items containing capitals and diacritics were removed."
+  ],
+  "list_see_also": [
+    "duplication",
+    "duplicator"
+  ],
+  "list_browse": [
+    "dunno",
+    "duo",
+    "dupe",
+    "duplex",
+    "duplicate",
+    "duplication",
+    "duplicator",
+    "duplicitous",
+    "duplicity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379877_c5cd2e6c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379877_d4988fddf3_o.png",
+      "id_image": "duplicate_1296707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334851_a269f2da06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334851_8cd169be83_o.png",
+      "id_image": "duplicate_1365267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071795_6afdf15b7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071795_fb04c481aa_o.png",
+      "id_image": "duplicate_3399866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334786_613d098e07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334786_b91b6a28c4_o.png",
+      "id_image": "duplicate_5966661"
+    }
+  ]
+}

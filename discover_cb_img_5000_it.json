@@ -1,0 +1,94 @@
+{
+  "english": "discover",
+  "phat_am": "disˈkavə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khám phá",
+          "definition": "to find by chance, especially for the first time",
+          "world_new": [
+            "find",
+            "chance",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Columbus discovered America"
+            },
+            {
+              "ex_of_definition": "Marie Curie discovered radium.",
+              "world_new": [
+                "radium"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm ra",
+          "definition": "to find out",
+          "world_new": [
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to discover what’s going on!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now my childish image is of a paleontologist who has discovered his favorite dinosaur.",
+    "One can see the critical value of what has been read, discovered and described.",
+    "The non-jurors had just discovered the joys of disestablishment, at first through circumstance, but then through theological conviction.",
+    "Depending on how the placenta accreta is discovered, two different types of conservative treatment can be used.",
+    "Rather than abstract concepts, categories are treated as real entities which have been discovered by science.",
+    "Mutants he discovered in this work were of interest in numerous ways.",
+    "The location of the critical layer was also discovered independently.",
+    "A few amphoroid kraters have also been discovered in domestic contexts which do not indicate a high status."
+  ],
+  "list_see_also": [
+    "discovery"
+  ],
+  "list_browse": [
+    "discouragement",
+    "discourse",
+    "discourteous",
+    "discourtesy",
+    "discover",
+    "discovery",
+    "discredit",
+    "discreditable",
+    "discreditably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054025_70d5388676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054025_51f1aaa400_o.png",
+      "id_image": "discover_2196209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672254_34d18ac76e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672254_d3364d7c37_o.png",
+      "id_image": "discover_3775255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053925_28b06b9e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053925_fe34bc5d11_o.png",
+      "id_image": "discover_4776027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317441_baa37d9459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317441_39bcbf0d84_o.png",
+      "id_image": "discover_4785366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432518_1d059752a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432518_42bab84400_o.png",
+      "id_image": "discover_4797094"
+    }
+  ]
+}

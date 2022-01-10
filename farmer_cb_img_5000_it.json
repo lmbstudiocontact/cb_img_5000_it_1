@@ -1,0 +1,69 @@
+{
+  "english": "farmer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người nông dân; người chủ trại",
+          "definition": "the owner or tenant of a farm who works on the land etc",
+          "world_new": [
+            "owner",
+            "tenant",
+            "farm",
+            "works",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dairy farmer.",
+              "world_new": [
+                "dairy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Which farmers and which regions will be the early adopters of the new technology in developing countries?",
+    "For all farm categories, current acreage increased from 5 years in the past, and farmers predicted further increases in the future.",
+    "As a simplified representation of the farm labour force, the farmer carries out tasks on both sows and batches.",
+    "The processes and successes of two farmer research projects were studied.",
+    "On the other hand, farmers without off-farm employment might have time to manage their systems intensively in order to achieve pesticide use reduction.",
+    "By-products of trees provide farmers in many countries with useful material or cash.",
+    "This is in contrast to the current industry vertical integration that is outside of farmers' control.",
+    "Most of the new players contributing to the growth in organic production must necessarily be conventional farmers converting to organics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "farcical",
+    "fare",
+    "farewell",
+    "farm",
+    "farmer",
+    "farmhouse",
+    "farming",
+    "farmland",
+    "farmyard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072455_aeaf06c44d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072455_f118bf9835_o.png",
+      "id_image": "farmer_2654068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335651_e1564c5f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335651_20d4878999_o.png",
+      "id_image": "farmer_307959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335606_7a318a8fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335606_ce56fa3ec0_o.png",
+      "id_image": "farmer_949560"
+    }
+  ]
+}

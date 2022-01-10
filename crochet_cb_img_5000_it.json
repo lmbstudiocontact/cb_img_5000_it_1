@@ -1,0 +1,97 @@
+{
+  "english": "crochet",
+  "phat_am": "ˈkrəuʃei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đan bằng kim móc",
+          "definition": "to knit using a single small needle with a hooked end (a crochet hook)",
+          "world_new": [
+            "knit",
+            "single",
+            "small",
+            "needle",
+            "hooked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was crocheting a scarf for her husband.",
+              "world_new": [
+                "scarf",
+                "husband"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đan bằng kim móc",
+          "definition": "work done in this way",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She enjoys doing crochet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are too many loopholes with national regulations crocheted in elsewhere, making individual interpretations possible and the whole thing impenetrable.",
+    "I allude to the knitted or crocheted artificial silk jumper.",
+    "She began each day with her daily devotions followed by reading, quilting, crochet-work, or music composition.",
+    "The definition may expand to include related textile crafts such as a crochet hook or tatting shuttles.",
+    "She is an original designer and maker of handmade crafts and future classics, through knitting, crochet, tatting and embroidery.",
+    "It is the equivalent of crochet work and sewing samplers.",
+    "Make a slip-knot in yarn and put it on the crochet hook or right-hand needle.",
+    "For instance, designers might want a color scheme to look \"autumnal,\" or a knitted fabric to look like crochet-work."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "critically",
+    "criticism",
+    "criticize",
+    "croak",
+    "crochet",
+    "crock",
+    "crockery",
+    "crocodile",
+    "crocodile tears"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434788_812a0015ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434788_a2a5f7dae8_o.png",
+      "id_image": "crochet_1328138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319626_d4785e906b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319626_37ed5d87f0_o.png",
+      "id_image": "crochet_2722249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364297_a37d9aabb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364297_b1ca84d37e_o.png",
+      "id_image": "crochet_2856486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056130_9622f6483f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056130_0ff6e5e401_o.png",
+      "id_image": "crochet_4017347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364227_5085224f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364227_a5cfcd0f7c_o.png",
+      "id_image": "crochet_4301439"
+    }
+  ]
+}

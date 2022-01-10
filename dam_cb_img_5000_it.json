@@ -1,0 +1,104 @@
+{
+  "english": "dam",
+  "phat_am": "dӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đập nước",
+          "definition": "a bank or wall of earth, concrete etc to keep back water",
+          "world_new": [
+            "bank",
+            "wall",
+            "earth",
+            "concrete",
+            "keep",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A new dam was being built at the mouth of the valley.",
+              "world_new": [
+                "mouth",
+                "valley"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước ngăn lại",
+          "definition": "the water kept back.",
+          "world_new": [
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xây đập ngăn nước",
+          "definition": "to hold back by means of a dam",
+          "world_new": [
+            "hold",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The river has been dammed up.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They then join with community members in participatory processes in order to evaluate dam planning.",
+    "Locks allow vessels to move across dams, but may constitute a capacity bottleneck in the waterway network.",
+    "A dam of modeling clay was used to allow the shear testing to be conducted in submersion.",
+    "Work started in 1960, and the dam that came into operation in 1971 created one of the largest man-made lakes in the world.",
+    "Instead, the provinces in which those dams were located were empowered to decide on their privatisation.",
+    "In this pedigree only 7 dams were crossed with more than 1 sire while 6 sires were mated with more than one dam.",
+    "Researchers contacted communities and informed them about dam projects the government was planning.",
+    "I began to teach them courses about environmental legislation and law and social and environmental impacts of big dams."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dairy cow",
+    "dairy farm",
+    "daisy",
+    "dally",
+    "dam",
+    "damage",
+    "damaged",
+    "dame",
+    "damn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311596_3349a64370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311596_ceb22d3d9d_o.png",
+      "id_image": "dam_2321431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311541_d1495d51a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311541_ae5a2f744b_o.png",
+      "id_image": "dam_3722851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048175_18657f3016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048175_16955a6fb4_o.png",
+      "id_image": "dam_5782512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426493_ef76a28a22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426493_899359629c_o.png",
+      "id_image": "dam_778653"
+    }
+  ]
+}

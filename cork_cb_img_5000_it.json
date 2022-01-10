@@ -1,0 +1,106 @@
+{
+  "english": "cork",
+  "phat_am": "koːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "li e; bần",
+          "definition": "the outer bark of the cork tree (an oak of South Europe, North Africa etc)",
+          "world_new": [
+            "outer",
+            "bark",
+            "tree",
+            "oak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cork floats well"
+            },
+            {
+              "ex_of_definition": "(also adjective) cork floor tiles.",
+              "world_new": [
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nút chai",
+          "definition": "a stopper for a bottle etc made of cork",
+          "world_new": [
+            "stopper",
+            "bottle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put the cork back in the wine-bottle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng nút bần",
+          "definition": "to put a cork or stopper in",
+          "world_new": [
+            "stopper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He corked the bottle.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cork (with hole) end rests in a groove immediately over an opening in a sheet of galvanised iron which forms the cover of a water tank below.",
+    "His simile of the champagne cork was delicious.",
+    "The corks should be of good quality and waxed to prevent evaporation of the spirit.",
+    "Ordinary glass specimen tubes 6 in. by 1 in. with bored corks, the holes of which are closed with 90-mesh wire gauze, will form suitable breeding-cages.",
+    "Within the manufacturing sector, the tendency was for the decline of the traditional sectors (textile, extractive industries, wood and cork manufacture), where input substitution had shown some progress.",
+    "The upper end of the cage is closed with a cork stopper.",
+    "As cork is only saleable when available in substantial quantities, no outlet has been found for the thin linings of crown corks.",
+    "A beetle refuge was provided in each miniplot consisting of a square of cork flooring tile (40 x 40 x 5 mm)."
+  ],
+  "list_see_also": [
+    "corkscrew"
+  ],
+  "list_browse": [
+    "cordon",
+    "cordon off",
+    "core",
+    "coriander",
+    "cork",
+    "corkscrew",
+    "corn",
+    "corn on the cob",
+    "cornea"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332261_bf21db9445_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332261_d4ef3abc41_o.png",
+      "id_image": "cork_4185214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068970_66195e8349_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068970_30929a4152_o.png",
+      "id_image": "cork_4471418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332311_6eee95de79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332311_6674929719_o.png",
+      "id_image": "cork_804683"
+    }
+  ]
+}

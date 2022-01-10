@@ -1,0 +1,70 @@
+{
+  "english": "coliseum",
+  "phat_am": "ˌkoləˈsiːəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khán phòng",
+          "definition": "a large theatre/theater, cinema, stadium or other building for sports events, public meetings etc",
+          "world_new": [
+            "large",
+            "cinema",
+            "stadium",
+            "building",
+            "sports",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the famous Colosseum in Rome.",
+              "world_new": [
+                "famous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coldness",
+    "coleslaw",
+    "coleus",
+    "colic",
+    "coliseum",
+    "collaborate",
+    "collaboration",
+    "collaborator",
+    "collage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059650_04ae8a733f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059650_fe48d06d56_o.png",
+      "id_image": "coliseum_1891858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678019_74941c3817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678019_a39b982046_o.png",
+      "id_image": "coliseum_4624129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059590_b26704d1e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059590_f609a636b9_o.png",
+      "id_image": "coliseum_5169683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323066_5861a52820_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323066_1a3f31c2bd_o.png",
+      "id_image": "coliseum_746786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322946_e4c3574722_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322946_4e81c12d91_o.png",
+      "id_image": "coliseum_804329"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "crusade",
+  "phat_am": "kruːˈseid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thập tự chinh",
+          "definition": "Medieval wars against the Muslims in the Middle Ages, led by Christian kings.",
+          "world_new": [
+            "Christian"
+          ]
+        },
+        {
+          "mean_english": "cuộc vận động lớn",
+          "definition": "a campaign in support of a good cause",
+          "world_new": [
+            "campaign",
+            "support",
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the crusade against cigarette advertising.",
+              "world_new": [
+                "cigarette",
+                "advertising"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham gia cuộc vận động",
+          "definition": "to take part in a crusade.",
+          "world_new": [
+            "part"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "crusader"
+  ],
+  "list_browse": [
+    "crumbly",
+    "crumple",
+    "crunch",
+    "crunchy",
+    "crusade",
+    "crusader",
+    "crush",
+    "crushing",
+    "crust"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361967_75003c89d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361967_4c8928189b_o.png",
+      "id_image": "crusade_5234359"
+    }
+  ]
+}

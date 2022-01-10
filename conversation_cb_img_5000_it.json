@@ -1,0 +1,73 @@
+{
+  "english": "conversation",
+  "phat_am": "konvəˈseiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội thoại",
+          "definition": "talk between people",
+          "world_new": [
+            "talk",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two men were carrying on an animated conversation.",
+              "world_new": [
+                "animated"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Without such specification, it remains unclear why some changes made in conversation lead to corrections, and others don't.",
+    "Current lack of such data is easily explained through difficulties of recording private conversations.",
+    "To the extent that conversations are implicitly expected or planned to co-occur with dinners, coffee breaks, or other scheduled activities, they are also temporally constrained.",
+    "Contemporary discourses centring upon the body have dominated theoretical conversations in cultural studies for the last generation.",
+    "The literature reviews give manageable starting places for grounding such research projects in a variety of disciplinary conversations.",
+    "An initial warm-up conversation was followed by four narrative tasks in which the child was expected to produce at least one narrative.",
+    "In any conversation where information is conveyed, the interlocutors must have somewhat different models, at least before the end of the conversation.",
+    "In what follows, we ask whether and how political conversation influences efficacy."
+  ],
+  "list_see_also": [
+    "conversational"
+  ],
+  "list_browse": [
+    "conventionality",
+    "converge",
+    "convergence",
+    "convergent",
+    "conversation",
+    "conversational",
+    "converse",
+    "conversely",
+    "conversion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042745_14fe03a637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042745_61d5b074df_o.png",
+      "id_image": "conversation_1147949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350007_f438969521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350007_9b7d99f6cf_o.png",
+      "id_image": "conversation_1147953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042705_ec51d17e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042705_386134faa9_o.png",
+      "id_image": "conversation_1147954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349982_b134a2b60e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349982_0f5524a50c_o.png",
+      "id_image": "conversation_1147983"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "deadline",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạn cuối",
+          "definition": "a time by which something must be done or finished",
+          "world_new": [
+            "time",
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Monday is the deadline for handing in this essay.",
+              "world_new": [
+                "Monday",
+                "essay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were continually pressed by deadlines and emergency situations, which needed to be taken care of immediately for production to continue.",
+    "They cited three main strengths: the imposition of deadlines, the support of the rest of the group, and the expertise of the facilitator.",
+    "It becomes easier to acquiesce than to risk appearing unprofessional with your publisher or readers, especially in a business when the deadline was yesterday.",
+    "Within the strict deadlines of this project, it proved impossible for pupils to complete the steep learning curve required to use the software effectively.",
+    "This is a kind of soft real-time constraint since deadlines can be missed without disastrous consequences.",
+    "However, the ambitious targets and deadlines seem to suggest that there is an expectation that problems will be put right very quickly, if not overnight.",
+    "Clearly, country-level variation does not account for variation in the chances of member states transposing directives in any given week after the deadline.",
+    "It is not possible to specify a goal involving the maintenance of a condition or achievement of a condition by a deadline."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dead end",
+    "dead heat",
+    "dead language",
+    "deaden",
+    "deadline",
+    "deadlock",
+    "deadly",
+    "deaf",
+    "deaf-mute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353002_8680fb4ca3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353002_8fee3417f3_o.png",
+      "id_image": "deadline_287490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663999_de0863e450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663999_e7eecd57a9_o.png",
+      "id_image": "deadline_3772898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352987_a35dcef205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352987_72e332be15_o.png",
+      "id_image": "deadline_448741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664029_ea02ac4897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664029_715165e250_o.png",
+      "id_image": "deadline_850145"
+    }
+  ]
+}

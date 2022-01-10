@@ -1,0 +1,104 @@
+{
+  "english": "compose",
+  "phat_am": "kəmˈpəuz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo thành",
+          "definition": "to form by putting parts together",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The word ‘cat’ is composed of three letters.",
+              "world_new": [
+                "composed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "soạn",
+          "definition": "to write (eg music, poetry etc)",
+          "world_new": [
+            "music",
+            "poetry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mozart began to compose when he was six years old.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trấn tĩnh",
+          "definition": "to control (oneself) after being upset",
+          "world_new": [
+            "control",
+            "upset"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took a moment to compose herself before beginning her speech.",
+              "world_new": [
+                "moment",
+                "beginning",
+                "speech"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now the best enhancement is composed together with each successively good enhancement and the process is run again.",
+    "A comparison of composing processes and written products in timed-essay tests across paper-and-pencil and computer modes.",
+    "Secondly, there can be no sense in insisting that the universe is composed of matter and not of ch'i.",
+    "There is a variety of style and type of approach so that the composing process does not become formulaic.",
+    "Boys appeared to express greater enjoyment of composing than girls.",
+    "Both argue that rights have complex str uctures composed of various intricate combinations of claims, privileges, powers, and immunities.",
+    "By contrast, in the 'central region' of the lordship some military tenancies were composed of multiple knights' fees, and were distributed over wide geographical areas.",
+    "She observed positive relationships between preschoolers' performance at reading as well as composing yoo'ons, and their performance at associating two syllables sharing their final vowels."
+  ],
+  "list_see_also": [
+    "composed",
+    "composer",
+    "composition",
+    "composure"
+  ],
+  "list_browse": [
+    "compliment",
+    "complimentary",
+    "comply",
+    "component",
+    "compose",
+    "composed",
+    "composer",
+    "composition",
+    "compost"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315526_75ec28b285_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315526_9bb0fa4683_o.png",
+      "id_image": "compose_2748433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359627_413ed99bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359627_3744b023d0_o.png",
+      "id_image": "compose_3365393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359612_157d00d8f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359612_159b18ce54_o.png",
+      "id_image": "compose_3424993"
+    }
+  ]
+}

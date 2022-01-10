@@ -1,0 +1,92 @@
+{
+  "english": "flag",
+  "phat_am": "flӕɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cờ",
+          "definition": "a piece of cloth with a particular design representing a country, party, association etc",
+          "world_new": [
+            "piece",
+            "cloth",
+            "particular",
+            "design",
+            "country",
+            "party",
+            "association"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The flag was flapping in the wind",
+              "world_new": [
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "the French flag.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "yêú đi; sút đi; héo đi",
+          "definition": "to become tired or weak",
+          "world_new": [
+            "become",
+            "tired",
+            "weak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Halfway through the race he began to flag.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "flag-pole / flagstaff",
+    "flag down"
+  ],
+  "list_browse": [
+    "fjord",
+    "fl oz",
+    "flabbergasted",
+    "flabby",
+    "flag",
+    "flag down",
+    "flag-pole / flagstaff",
+    "flagellum",
+    "flagrancy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060855_3892af8f5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060855_d755875e7d_o.png",
+      "id_image": "flag_124757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323891_9cb16c11f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323891_fa080c05c9_o.png",
+      "id_image": "flag_202621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060765_cd9386a436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060765_1bd915d175_o.png",
+      "id_image": "flag_649087"
+    }
+  ]
+}

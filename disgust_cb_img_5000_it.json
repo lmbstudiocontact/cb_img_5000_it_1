@@ -1,0 +1,104 @@
+{
+  "english": "disgust",
+  "phat_am": "disˈɡast",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phẫn nộ",
+          "definition": "to cause feelings of dislike or sickness in",
+          "world_new": [
+            "cause",
+            "dislike",
+            "sickness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The smell of that soup disgusts me",
+              "world_new": [
+                "smell",
+                "soup"
+              ]
+            },
+            {
+              "ex_of_definition": "She was disgusted by your behaviour/behavior.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phẫn nợ",
+          "definition": "the state or feeling of being disgusted",
+          "world_new": [
+            "state",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left the room in disgust.",
+              "world_new": [
+                "left",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As soon as most dealers actually knew anything, they would get disgusted with what they had been doing, and wanted out.",
+    "She told me that she was disgusted by what she saw.",
+    "We have been shocked and disgusted by their attitude.",
+    "There were disgusted nods, but little sense of sympathy from either.",
+    "He reviews evidence that humans can categorize facial expressions into the categories happy, sad, fearful, angry, surprised, and disgusted, and that this categorization may operate similarly in different cultures.",
+    "I am afraid that we on this side are rather disgusted by the manner in which this proposal has been disposed of.",
+    "The normal person may be ir ritated or disgusted when seeing someone disrobing on the bus, but he or she is unlikely to suffer such impairments.",
+    "All over this country, people representing all the major parties will be disgusted by the fact that these questions are being treated as trivial."
+  ],
+  "list_see_also": [
+    "disgusting",
+    "disgustingly"
+  ],
+  "list_browse": [
+    "disgraceful",
+    "disgracefully",
+    "disgruntled",
+    "disguise",
+    "disgust",
+    "disgusting",
+    "disgustingly",
+    "dish",
+    "dish out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053110_b085739ae4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053110_a3c6fabbd1_o.png",
+      "id_image": "disgusted_3362320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431688_096f8463aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431688_33cc98b1f0_o.png",
+      "id_image": "disgusted_708623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671349_869f2f8a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671349_1f59ef7bf4_o.png",
+      "id_image": "disgusting_6000846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316606_36cb20e6a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316606_e849277fd6_o.png",
+      "id_image": "disgusting_6002585"
+    }
+  ]
+}

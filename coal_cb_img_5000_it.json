@@ -1,0 +1,66 @@
+{
+  "english": "coal",
+  "phat_am": "kəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "than đá",
+          "definition": "a black mineral burned for fuel, heat etc",
+          "world_new": [
+            "black",
+            "mineral",
+            "fuel",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lump of coal.",
+              "world_new": [
+                "lump"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "coalfield",
+    "haul (someone) over the coals"
+  ],
+  "list_browse": [
+    "coaching",
+    "coachman",
+    "coagulate",
+    "coagulation",
+    "coal",
+    "coalfield",
+    "coalition",
+    "coarse",
+    "coarsely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327471_9ca7a6a9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327471_30247c05c8_o.png",
+      "id_image": "coal_1870741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442518_6f73584c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442518_b9c7f575f3_o.png",
+      "id_image": "coal_307117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064150_94eb1802b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064150_4cc0444010_o.png",
+      "id_image": "coal_3977989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372057_64dff8f934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372057_643370324f_o.png",
+      "id_image": "coal_6027366"
+    }
+  ]
+}

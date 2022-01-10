@@ -1,0 +1,90 @@
+{
+  "english": "drizzle",
+  "phat_am": "ˈdrizl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mưa phùn",
+          "definition": "(only with itas subject) to rain in small drops",
+          "world_new": [
+            "rain",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s drizzling outside.",
+              "world_new": [
+                "outside"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự mưa phùn",
+          "definition": "fine, light rain",
+          "world_new": [
+            "fine",
+            "light",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain gradually slowed to a light drizzle.",
+              "world_new": [
+                "rain",
+                "gradually",
+                "light"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The weather was rather cold with a heavy drizzle.",
+    "Being a hot month there is no rain, yet drizzle can occur rarely.",
+    "The overcast skies often are accompanied by fog and drizzle, though usually not rain.",
+    "Observations suggest that when marine stratus is present alone, drizzle is minimized.",
+    "Weather at the time of departure was a 3kn mph wind and light drizzle that did not significantly restrict visibility.",
+    "Rain is very common, sometimes torrential though often settling to days of drizzle.",
+    "Although the weather was mainly overcast and there was occasional drizzle, everyone was in good spirits and there was generally a good atmosphere.",
+    "Drizzle is normally produced by low stratiform clouds and stratocumulus clouds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "driver’s license",
+    "driveway",
+    "driving",
+    "driving licence",
+    "drizzle",
+    "drone",
+    "droop",
+    "drop",
+    "drop a brick / drop a clanger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383017_d1057b4781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383017_990cfc3be0_o.png",
+      "id_image": "drizzle_1458930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075030_f5c982ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075030_6e3c9c11bf_o.png",
+      "id_image": "drizzle_1458939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452868_81aea88c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452868_11d9aee804_o.png",
+      "id_image": "drizzle_1458966"
+    }
+  ]
+}

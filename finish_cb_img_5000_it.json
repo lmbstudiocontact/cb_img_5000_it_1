@@ -1,0 +1,131 @@
+{
+  "english": "finish",
+  "phat_am": "ˈfiniʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết thúc",
+          "definition": "to bring or come to an end",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s finished her work",
+              "world_new": [
+                "finished",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "The music finished.",
+              "world_new": [
+                "music",
+                "finished"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn, uống hoặc dùng phần còn lại của cái gì",
+          "definition": "to use, eat, drink etc the last of",
+          "world_new": [
+            "eat",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you finished your tea?",
+              "world_new": [
+                "finished",
+                "your",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng đuợc hoàn tất",
+          "definition": "the last touch (of paint, polish etc) that makes the work perfect",
+          "world_new": [
+            "touch",
+            "paint",
+            "polish",
+            "work",
+            "perfect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wood has a beautiful finish.",
+              "world_new": [
+                "wood",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần cuối; đích",
+          "definition": "the last part (of a race etc)",
+          "world_new": [
+            "part",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was a close finish.",
+              "world_new": [
+                "close"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We finish the article with some concluding remarks.",
+    "To finish the proof just note that the projections of any two different two-dimensional unstable manifolds cannot intersect.",
+    "From the start to the finish of an operatic project, librettists adjusted and readjusted their texts around the traditional imperatives of vocal and theatrical types.",
+    "The rules at the university where he taught that student barred his giving her a grade before she had finished her paper.",
+    "He finds that candidates who previously finished as the top loser tend to increase their support if they run again.",
+    "The programmer cannot predict the order in which processes are going to finish their works, as this depends on runtime issues.",
+    "The interviewer finished by administering a closed questionnaire about the text.",
+    "The small differences in starting and finishing dates which exist in all cases are not very significant."
+  ],
+  "list_see_also": [
+    "finished",
+    "finish off",
+    "finish up"
+  ],
+  "list_browse": [
+    "fingernail",
+    "fingerprint",
+    "fingertip",
+    "finicky",
+    "finish",
+    "finish off",
+    "finish up",
+    "finished",
+    "finite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441923_c30fce847c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441923_9fe812a061_o.png",
+      "id_image": "finish_1929097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441978_641e546cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441978_71762d5299_o.png",
+      "id_image": "finish_495469"
+    }
+  ]
+}

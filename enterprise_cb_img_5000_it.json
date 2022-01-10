@@ -1,0 +1,99 @@
+{
+  "english": "enterprise",
+  "phat_am": "ˈentəpraiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nghiệp",
+          "definition": "something that is attempted or undertaken (especially if it requires boldness or courage)",
+          "world_new": [
+            "attempted",
+            "boldness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "business enterprises",
+              "world_new": [
+                "business"
+              ]
+            },
+            {
+              "ex_of_definition": "a completely new enterprise.",
+              "world_new": [
+                "completely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính táo bạo",
+          "definition": "willingness to try new lines of action",
+          "world_new": [
+            "willingness",
+            "try",
+            "lines",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need someone with enterprise and enthusiasm.",
+              "world_new": [
+                "enthusiasm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+    "The selection procedure followed a two stage sampling for micro enterprises.",
+    "A multinational attacked the nation's dignity by colonising a national image for its global enterprise.",
+    "It was also a challenge to the methodological and epistemological principles on which the entire internationalist natural scientific enterprise was based.",
+    "Acts in the 1870s and 1880s tended toward increasing the size and scope of corporate enterprises.",
+    "They have purchased shares of privatized state enterprises and played a role in corporate governance.",
+    "This affinity to the methods of the natural sciences reduces social science to a technical enterprise which has no necessary value implications.",
+    "The risk-taking necessary for artistic enterprise was becoming less common."
+  ],
+  "list_see_also": [
+    "enterprising",
+    "enterprise culture",
+    "enterprise zone"
+  ],
+  "list_browse": [
+    "entanglement",
+    "enter",
+    "enter into",
+    "enter on/upon",
+    "enterprise",
+    "enterprise culture",
+    "enterprise zone",
+    "enterprising",
+    "entertain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673154_97b4815ff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673154_5fc08ed919_o.png",
+      "id_image": "enterprise_1622607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318276_94d1112496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318276_6fa9040e7b_o.png",
+      "id_image": "enterprise_2503673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054855_c1325a1cd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054855_963ea0056d_o.png",
+      "id_image": "enterprise_4133434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433558_1f83fcc805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433558_01c5fa1a4f_o.png",
+      "id_image": "enterprise_875309"
+    }
+  ]
+}

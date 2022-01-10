@@ -1,0 +1,87 @@
+{
+  "english": "cocoa",
+  "phat_am": "ˈkoukou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cacao",
+          "definition": "(a powder made from) the crushed seeds of the cacao tree, used in making chocolate",
+          "world_new": [
+            "powder",
+            "cacao",
+            "tree",
+            "chocolate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For this recipe you need dark chocolate containing 85% chocolate.",
+              "world_new": [
+                "recipe",
+                "dark",
+                "chocolate",
+                "chocolate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước cacao",
+          "definition": "a drink made from the powder",
+          "world_new": [
+            "drink",
+            "powder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cup of cocoa.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The activities that engaged the villagers' attention included keeping productive food-crop farms, organizing fishing expeditions, hunting, and cultivating cocoa farms.",
+    "All that is required is the clearing of forested land and the planting of cocoa trees.",
+    "Since older cocoa trees generated less and poorer quality cocoa, labour costs increased.",
+    "Chapter 2 describes the development of the chocolate trade and describes the different races of cocoa.",
+    "The cost of replanting cocoa trees is relatively high after several planting cycles.",
+    "At the current stage of cocoa breeding, selection for adaptation to planting density is a higher priority than selection for yield efficiency.",
+    "As rural households found their incomes from cocoa and coffee collapsing, many compensated for those losses by increasing food production.",
+    "Despite vigorous attempts by cocoa farmers to reduce the cost of production, their efforts were not nearly enough to stem the tide of decline."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cockroach",
+    "cocksure",
+    "cocktail",
+    "cocky",
+    "cocoa",
+    "coconut",
+    "cocoon",
+    "cod",
+    "cod-liver oil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325881_29ea1f5a16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325881_bdab4cfd18_o.png",
+      "id_image": "cocoa_3200399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062620_b53e1949ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062620_3003931cb9_o.png",
+      "id_image": "cocoa_3855809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680929_62ea38539b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680929_833210314f_o.png",
+      "id_image": "cocoa_5236149"
+    }
+  ]
+}

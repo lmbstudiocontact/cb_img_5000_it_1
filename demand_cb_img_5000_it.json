@@ -1,0 +1,159 @@
+{
+  "english": "demand",
+  "phat_am": "diˈmaːnd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "yêu cầu",
+          "definition": "to ask or ask for firmly and sharply",
+          "world_new": [
+            "ask",
+            "ask",
+            "firmly",
+            "sharply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I demanded an explanation.",
+              "world_new": [
+                "I",
+                "explanation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đòi hỏi",
+          "definition": "to require or need",
+          "world_new": [
+            "require"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The proposal demands careful thought.",
+              "world_new": [
+                "proposal",
+                "careful",
+                "thought"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đòi hỏi",
+          "definition": "a request made so that it sounds like a command",
+          "world_new": [
+            "request",
+            "command"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The management refused to meet the workers’ demands for more money.",
+              "world_new": [
+                "management",
+                "meet",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự yêu cầu",
+          "definition": "an urgent claim",
+          "world_new": [
+            "urgent",
+            "claim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children make a lot of demands on my time.",
+              "world_new": [
+                "my",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhu cầu",
+          "definition": "willingness or desire to buy or obtain (certain goods etc); a need for (certain goods etc)",
+          "world_new": [
+            "willingness",
+            "desire",
+            "buy",
+            "obtain",
+            "goods",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no demand for books of this kind.",
+              "world_new": [
+                "kind"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Demissie allowed his field commanders sufficient freedom of action while demanding full accountability.",
+    "Thus, direct or tacit pronatalism survived because of historically specific, regional demands for labor.",
+    "As temporary workers they could learn their tasks and adapt to the demands of work discipline.",
+    "That principle, to recall, said that an agent should per form those actions demanded by plans it was optimal to adopt.",
+    "In summer, there would be sufficient solar energy to meet the hot water demand for the centre.",
+    "While labour demand is modelled, labour supply is supposed to follow the demand within the framework of constant nominal wage rates.",
+    "Obtaining robustness for a discourse parser is a demanding task due to the many unresolved theoretical issues regarding the derivation of the discourse structure.",
+    "When physical capital is complementary with human capital in production, returns on and the demand for skills rise with capital intensity."
+  ],
+  "list_see_also": [
+    "demanding",
+    "on demand"
+  ],
+  "list_browse": [
+    "delude",
+    "deluge",
+    "delusion",
+    "deluxe",
+    "demand",
+    "demanding",
+    "demeanour",
+    "dementia",
+    "demo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334001_84cfbec075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334001_6d7597b5bd_o.png",
+      "id_image": "demand_1888488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449018_05f71a06ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449018_8ea3fb1f23_o.png",
+      "id_image": "demand_3382611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070960_89c913daa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070960_39151ffef5_o.png",
+      "id_image": "demand_4497181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333881_4f0844f5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333881_b46ef2522e_o.png",
+      "id_image": "demand_5823815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689139_85aab2e0fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689139_14395e2038_o.png",
+      "id_image": "demand_992826"
+    }
+  ]
+}

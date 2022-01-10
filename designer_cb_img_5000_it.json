@@ -1,0 +1,81 @@
+{
+  "english": "designer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thiết kế",
+          "definition": "a person who makes designs or patterns",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fashion designer",
+              "world_new": [
+                "fashion"
+              ]
+            },
+            {
+              "ex_of_definition": "He is the designer of the yacht.",
+              "world_new": [
+                "yacht"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, agent designers are faced with a choice of a number of potential interaction protocols that could help them achieve their design objectives.",
+    "In the design process, designers have to deal with all of these aspects to balance beauty and usability of products.",
+    "In fact, from the system designers' perspective, other programming language implementations were used to stand in for future pure functional implementations.",
+    "No diagnosis is found and the agent (or its designers) should start looking for a modeling error.",
+    "In this section, we address the needs of system designers who require solutions to application problems and who consider using agent technology for this purpose.",
+    "Thus, it is desirable for test designers to formally examine the reliability and validity of tests and develop procedures that minimize measurement error.",
+    "The book claims that it is suitable for 'composers, musicians, teachers, sound designers, architects, film makers and screenwriters', but this seems overambitious to me.",
+    "The other four contribute towards what the designers claim to be an overall density of 15 dwellings per acre."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "design",
+    "designate",
+    "designated driver",
+    "designation",
+    "designer",
+    "designing",
+    "desirability",
+    "desirable",
+    "desire"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329071_fbed66d293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329071_aa4cf8552e_o.png",
+      "id_image": "designer_2310243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444083_146da9d8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444083_4aa5039a83_o.png",
+      "id_image": "designer_439279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373722_7cbda81b2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373722_a663d3e537_o.png",
+      "id_image": "designer_4861263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443903_e81cee4583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443903_1d523155d9_o.png",
+      "id_image": "designer_5965526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328941_dd747519a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328941_20afc5a03a_o.png",
+      "id_image": "designer_6385077"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "conflict",
+  "phat_am": "ˈkonflikt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xung đột",
+          "definition": "(a) disagreement",
+          "world_new": [
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was considerable conflict about which plan should be accepted.",
+              "world_new": [
+                "considerable",
+                "plan",
+                "accepted"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc xung đột",
+          "definition": "a fight or battle",
+          "world_new": [
+            "fight",
+            "battle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the innocent victims of a bloody conflict.",
+              "world_new": [
+                "innocent",
+                "bloody"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "mâu thuẫn",
+          "definition": "to contradict each other; to disagree",
+          "world_new": [
+            "contradict",
+            "disagree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two accounts of what had happened conflicted (with each other)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Resolution of physician-patient conflicts in courts has become an ordinary event.",
+    "The women still wanted to address local conflict, but in addition the group turned more and more into a social, mutual support network.",
+    "Lower levels of empathy may contribute to conflict in social interactions and thereby heighten levels of negative emotions experienced by some children.",
+    "This conflict in turn will promote volatility in partisan preferences.",
+    "As regards psychological distress, no association was found with decision latitude, while conflicts at work increased the risk of psychological distress.",
+    "Not only did all parties deny that deeply entrenched economic interests had become part and parcel of the conflict.",
+    "A final source of the conflicting results may lie in the left - right and yes - no decision tasks.",
+    "From the sociotechnical viewpoint, technical decisions, social interaction, and conflict management are the three essential components in the collaborative design process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "confirmed",
+    "confiscate",
+    "confiscation",
+    "conflagration",
+    "conflict",
+    "confluence",
+    "conform",
+    "conformity",
+    "confound"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048745_3b84fb8cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048745_e84c9944e8_o.png",
+      "id_image": "conflict_1006630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667024_4f29b35818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667024_c3f530b3c8_o.png",
+      "id_image": "conflict_5065298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666994_071400f10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666994_1faf9a91d4_o.png",
+      "id_image": "conflict_5266134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356117_647fcb9e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356117_8f91c038f3_o.png",
+      "id_image": "conflict_6159325"
+    }
+  ]
+}

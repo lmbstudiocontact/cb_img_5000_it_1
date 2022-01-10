@@ -1,0 +1,98 @@
+{
+  "english": "divine",
+  "phat_am": "diˈvain",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thần thánh",
+          "definition": "of or belonging to God or a god",
+          "world_new": [
+            "God"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "divine wisdom.",
+              "world_new": [
+                "wisdom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyệt diệu",
+          "definition": "very good or excellent",
+          "world_new": [
+            "excellent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What divine weather!",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiên đoán",
+          "definition": "to find out by keen understanding",
+          "world_new": [
+            "find",
+            "keen",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I managed to divine the truth.",
+              "world_new": [
+                "I",
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, the majority of divines, though they spoke of sanctification preceding justification, did not mean that one worked for justification.",
+    "Theologians, bishops, divines and churches differ on it.",
+    "The second hermeneutic asks the same question about the divine author.",
+    "If theists believe that divine commands are morally relevant, they are acting conscientiously in taking them into account.",
+    "The correct answer is the one he divined.",
+    "Our universities produced scholars, divines, doctors and lawyers of world renown.",
+    "The primal scenes 'are not reproduced as recollections, but have to be divined - constructed - gradually and laboriously from an aggregate of indications '.",
+    "Note that this does not mean that the purpose theorist must hold divine command theory (or any other religious ethics)."
+  ],
+  "list_see_also": [
+    "divination",
+    "diviner",
+    "divining",
+    "divinity"
+  ],
+  "list_browse": [
+    "divide",
+    "dividend",
+    "dividers",
+    "divination",
+    "divine",
+    "diviner",
+    "diving",
+    "diving board",
+    "divining"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427718_78cdb545d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427718_530c0282bf_o.png",
+      "id_image": "divine_1806453"
+    }
+  ]
+}

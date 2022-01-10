@@ -1,0 +1,196 @@
+{
+  "english": "drain",
+  "phat_am": "drein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thoát nước",
+          "definition": "to clear (land) of water by the use of ditches and pipes",
+          "world_new": [
+            "clear",
+            "water",
+            "pipes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are plans to drain the marsh.",
+              "world_new": [
+                "marsh"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rút nước",
+          "definition": "(of water) to run away",
+          "world_new": [
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water drained away/off into the ditch.",
+              "world_new": [
+                "water",
+                "ditch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ráo nước",
+          "definition": "to pour off the water etc from or allow the water etc to run off from",
+          "world_new": [
+            "pour",
+            "water",
+            "allow",
+            "water",
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you drain the vegetables?"
+            },
+            {
+              "ex_of_definition": "He drained the petrol tank",
+              "world_new": [
+                "petrol",
+                "tank"
+              ]
+            },
+            {
+              "ex_of_definition": "The blood drained from her face.",
+              "world_new": [
+                "blood",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "uống cạn",
+          "definition": "to drink everything contained in",
+          "world_new": [
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drained his glass.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hút hết",
+          "definition": "to use up completely (the money, strength etc of)",
+          "world_new": [
+            "completely",
+            "money",
+            "strength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The effort drained all his energy.",
+              "world_new": [
+                "effort",
+                "energy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cống rãnh",
+          "definition": "something (a ditch, trench, waterpipe etc) designed to carry away water",
+          "world_new": [
+            "ditch",
+            "trench",
+            "carry",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heavy rain has caused several drains to overflow.",
+              "world_new": [
+                "heavy",
+                "rain",
+                "overflow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bòn rút",
+          "definition": "something which slowly exhausts a supply, especially of one’s money or strength",
+          "world_new": [
+            "slowly",
+            "supply",
+            "money",
+            "strength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His car is a constant drain on his money.",
+              "world_new": [
+                "car",
+                "constant",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Section from a lung lobe drained by banded veins.",
+    "The issues here are whether the land has laser grading, surface drains, and re-use system.",
+    "The vitreous was then drained with the aid of small pieces of membrane filter.",
+    "When the marshes were drained the new farmers chose to live on the embankments beside the canals and rivers.",
+    "We also measured the cytokine transcript levels in spleen and in several lymph nodes draining the intestine.",
+    "In the case of malaria eradication, for example, the health programme budget could include public works expenditure for draining swamps.",
+    "Venous blood is gravity drained into the reservoir bag and pumped to the heat exchanger/hollow fibre oxygenator structure.",
+    "Moreover, competencies and innovation may be drained away from the public sector rather than being reinforced by the collaboration with the private partner."
+  ],
+  "list_see_also": [
+    "drainage",
+    "draining board",
+    "drainpipe",
+    "down the drain"
+  ],
+  "list_browse": [
+    "drag",
+    "drag and drop",
+    "dragon",
+    "dragonfly",
+    "drain",
+    "drainage",
+    "draining board",
+    "drainpipe",
+    "drake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306851_205f9038dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306851_cdb2bf85c8_o.png",
+      "id_image": "drain_2482638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351037_f70fcff304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351037_32a9031309_o.png",
+      "id_image": "drain_4745355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043920_d74a974da2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043920_cc5cf7319b_o.png",
+      "id_image": "drain_525815"
+    }
+  ]
+}

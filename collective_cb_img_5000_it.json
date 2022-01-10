@@ -1,0 +1,101 @@
+{
+  "english": "collective",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tập thể",
+          "definition": "of a number of people etc combined into one group",
+          "world_new": [
+            "number",
+            "people",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This success was the result of a collective effort.",
+              "world_new": [
+                "success",
+                "result",
+                "effort"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập thể",
+          "definition": "of a noun, taking a singular verb but standing for many things taken as a whole",
+          "world_new": [
+            "noun",
+            "singular",
+            "verb",
+            "standing",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Cattle’ is a collective noun.",
+              "world_new": [
+                "noun"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tập thể",
+          "definition": "a farm or organization run by a group of workers for the good of all of them",
+          "world_new": [
+            "farm",
+            "organization",
+            "run",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The peasant farmers worked on collectives.",
+              "world_new": [
+                "peasant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Respondents' workplaces are organized into three categories of central state, local state, and local collectives.",
+    "Of the twenty-one collectives, six took more singular agreement in 2000 than in 1990, two remained unchanged, and thirteen decreased in their proportion of singular verb agreement.",
+    "The further organisation of the \"advanced collectives\"which was largely completed in 1957, into agricultural\"people's communes\" is now in progress.",
+    "Consumers, distributors and collectives have not received the attention they deserve.",
+    "We are not talking about individuals as opposed to collectives.",
+    "The latter claims that the collectives belonging to the class category are 'generally uncomfortable' (1986: 176) with the plural (cf. p. 86).",
+    "Hopefully, this investigation has cleared the way for a more in-depth examination of usage and a classification of collectives.",
+    "In other words, while certain collectives appear to be homogeneous, others are heterogeneous."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "colleague",
+    "collect",
+    "collected",
+    "collection",
+    "collective",
+    "collectively",
+    "collector",
+    "college",
+    "collide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058515_bb2b104cd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058515_e0cbd1ff1b_o.png",
+      "id_image": "collective_1402120"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "corn",
+  "phat_am": "koːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt ngũ cốc",
+          "definition": "the seeds of cereal plants, especially (in Britain) wheat, or (in North America) maize.",
+          "world_new": [
+            "cereal",
+            "wheat",
+            "maize"
+          ]
+        },
+        {
+          "mean_english": "ngô",
+          "definition": "the plants themselves; grain American",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a field of corn.",
+              "world_new": [
+                "field"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cục chai ở chân",
+          "definition": "a little bump of hard skin found on the foot",
+          "world_new": [
+            "bump",
+            "skin",
+            "found",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a corn on my little toe.",
+              "world_new": [
+                "I",
+                "my",
+                "toe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "corn on the cob",
+    "corned beef",
+    "cornflakes",
+    "cornflour",
+    "cornflower"
+  ],
+  "list_browse": [
+    "core",
+    "coriander",
+    "cork",
+    "corkscrew",
+    "corn",
+    "corn on the cob",
+    "cornea",
+    "corned beef",
+    "corner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331926_29509d0b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331926_8df01a5b38_o.png",
+      "id_image": "corn_1408034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068580_bd6f13b432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068580_dbf28f038a_o.png",
+      "id_image": "corn_1488298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068675_9e478e0864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068675_7d37329246_o.png",
+      "id_image": "corn_517606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446993_e9a0e2d24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446993_26d1f4d66a_o.png",
+      "id_image": "corn_525038"
+    }
+  ]
+}

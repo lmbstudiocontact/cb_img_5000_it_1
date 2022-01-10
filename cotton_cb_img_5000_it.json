@@ -1,0 +1,125 @@
+{
+  "english": "cotton",
+  "phat_am": "ˈkotn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bông",
+          "definition": "a soft substance obtained from the seeds of the cotton plant, used in making thread or cloth",
+          "world_new": [
+            "soft",
+            "substance",
+            "plant",
+            "thread",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "1.3 million of the country’s 5 million farmers cultivate cotton.",
+              "world_new": [
+                "cultivate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vải bông",
+          "definition": "the yarn or cloth made from this",
+          "world_new": [
+            "yarn",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a reel of cotton",
+              "world_new": [
+                "reel"
+              ]
+            },
+            {
+              "ex_of_definition": "This shirt is made of cotton",
+              "world_new": [
+                "shirt"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a cotton shirt.",
+              "world_new": [
+                "shirt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn ý",
+          "definition": "to understand",
+          "world_new": [
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll soon cotton on (to what you mean).",
+              "world_new": [
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cotton, wheat, and tobacco farmers confronted an uncertain economic environment and were willing to accept restrictions on production in exchange for high, guaranteed prices.",
+    "Men were responsible for agricultural production including cotton, and women assisted in planting and harvesting.",
+    "The most important genetically engineered crops that have been introduced contained genes encoding insect resistance and herbicide tolerance; they were soybean, maize, cotton and canola.",
+    "Imports of raw cotton only gradually took up the slack-and then only in quite erratic fashion.",
+    "This period also witnessed an increase in railroad mileage as well as growth in such industries as timbering, sawmills, and cotton textile mills.",
+    "Seventy-eight per cent of the interviewed cotton producers, including small and large farms, grew at least one of the other host plants on their land.",
+    "Positive significant shares of soybeans, sugarcane, tobacco, cotton, and fruits18 suggest higher pesticide usage on most of the major cash crops for export.",
+    "Part of the cotton cloth consisted of fine muslin, which earned high piece rates around that time."
+  ],
+  "list_see_also": [
+    "cotton candy",
+    "cotton wool"
+  ],
+  "list_browse": [
+    "cot",
+    "cot death",
+    "cottage",
+    "cottage cheese",
+    "cotton",
+    "cotton candy",
+    "cotton wool",
+    "cotyledon",
+    "couch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328471_356df998b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328471_1730a7df5d_o.png",
+      "id_image": "cotton_3174960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373192_f40c151dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373192_e1cedeacf5_o.png",
+      "id_image": "cotton_3944317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683519_812610c0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683519_601bdf5242_o.png",
+      "id_image": "cotton_4637058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443398_67722c3c3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443398_3603c15148_o.png",
+      "id_image": "cotton_5579799"
+    }
+  ]
+}

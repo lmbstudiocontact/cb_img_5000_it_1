@@ -1,0 +1,57 @@
+{
+  "english": "defensive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tính chất bảo vệ",
+          "definition": "protective or resisting attack",
+          "world_new": [
+            "protective",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a defensive attitude",
+              "world_new": [
+                "attitude"
+              ]
+            },
+            {
+              "ex_of_definition": "defensive action.",
+              "world_new": [
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "defenceless",
+    "defend",
+    "defendant",
+    "defender",
+    "defensive",
+    "defer",
+    "deference",
+    "deferment",
+    "defiance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661249_f055cb9d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661249_1cc90ee9f8_o.png",
+      "id_image": "defensive_2748776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042785_866d681403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042785_0c8098e467_o.png",
+      "id_image": "defensive_4443666"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "doughnut",
+  "phat_am": "-nat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh cam vòng",
+          "definition": "a ring-shaped cake, with a hole in the middle, fried in fat",
+          "world_new": [
+            "cake",
+            "hole",
+            "middle",
+            "fried",
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jam doughnut.",
+              "world_new": [
+                "jam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She uses her power of persuasion to suggest that he leave and have some doughnuts, and he agrees, driving away.",
+    "Hoon activities can include speeding, burnouts, doughnuts or screeching tyres.",
+    "As it is, many of our cities resemble doughnuts with no jam left in the middle.",
+    "One recipe for the snack 'scramble', for instance, calls for a package of 'doughnut-shaped oat cereal' and a package of 'bite-size crisp rice squares'.",
+    "In the initial doughnut-like profile, positive and negative small clumps are arranged, in turn, at regular intervals.",
+    "He is addicted to doughnuts and sleeps a lot.",
+    "However, he finds solace in his love of doughnuts.",
+    "When these were brought to him he changed his mind, asked for two doughnuts instead, ate them, then walked out without paying."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doubtfully",
+    "doubtfulness",
+    "doubtless",
+    "dough",
+    "doughnut",
+    "dove",
+    "dowdy",
+    "down",
+    "down in the mouth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423138_a39b2b76d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423138_d27bdd4593_o.png",
+      "id_image": "doughnut_190976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663169_c4985fe791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663169_41f95da0cb_o.png",
+      "id_image": "doughnut_262506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352047_5448cc1973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352047_65e9727d43_o.png",
+      "id_image": "doughnut_527753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423038_34520b9fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423038_bdc294bee5_o.png",
+      "id_image": "doughnut_532825"
+    }
+  ]
+}

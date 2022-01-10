@@ -1,0 +1,121 @@
+{
+  "english": "complex",
+  "phat_am": "ˈkompleks",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phức tạp",
+          "definition": "composed of many parts",
+          "world_new": [
+            "composed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a complex piece of machinery.",
+              "world_new": [
+                "piece",
+                "machinery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rắc rối",
+          "definition": "complicated or difficult",
+          "world_new": [
+            "complicated",
+            "difficult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a complex problem.",
+              "world_new": [
+                "problem"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "khu liên hợp",
+          "definition": "something made up of many different pieces",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leisure complex will include a swimming pool, tennis courts, and a library.",
+              "world_new": [
+                "leisure",
+                "include",
+                "swimming",
+                "pool",
+                "tennis",
+                "library"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc cảm",
+          "definition": "an abnormal mental state caused by experiences in one’s past which affect one’s behaviour",
+          "world_new": [
+            "abnormal",
+            "mental",
+            "state",
+            "affect",
+            "behaviour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a complex about her weight",
+              "world_new": [
+                "weight"
+              ]
+            },
+            {
+              "ex_of_definition": "an inferiority complex.",
+              "world_new": [
+                "inferiority"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Personhood is the complex of physical, spiritual, psychological and social aspects that make up an individual life.",
+    "The rules for organizing frameworks and assigning surfaces to them are complex and not fully-understood.",
+    "This exchangeable end effector permits the robot to perform more complex duties.",
+    "Since a and are complex, the problem consists of eight ordinary differential equations subject to eight shock and two boundary conditions in the equilibrium zone.",
+    "This conflicting opinion, together with complex cultural and socioeconomic issues surrounding wetlands, has given rise to a plethora of views on how to develop wetlands.",
+    "The government, however, has a strong steering role with complex regulations affecting virtually every aspect of the health system.",
+    "We did not attempt to estimate the spatiotemporal structure of the receptive fields of complex cells.",
+    "It appears that endogenous and/or exogenous serotonin in preimplantation embryos could be involved in complex autocrine/paracrine regulations of embryo development and embryo-maternal interactions."
+  ],
+  "list_see_also": [
+    "complexity"
+  ],
+  "list_browse": [
+    "complete",
+    "completely",
+    "completeness",
+    "completion",
+    "complex",
+    "complexion",
+    "complexity",
+    "compliance",
+    "compliant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670714_4a58fb300a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670714_078fb8fa25_o.png",
+      "id_image": "complex_6133813"
+    }
+  ]
+}

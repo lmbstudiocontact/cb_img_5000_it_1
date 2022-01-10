@@ -1,0 +1,66 @@
+{
+  "english": "commander",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chỉ huy",
+          "definition": "a person who commands",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was the commander of the expedition.",
+              "world_new": [
+                "expedition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung tá",
+          "definition": "in the British navy, an officer of the rank next below the captain.",
+          "world_new": [
+            "British",
+            "navy",
+            "officer",
+            "rank",
+            "captain"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The system has rules that trigger alerts and recommendations to report to the convoy commander.",
+    "My informants also insisted that zonal commanders, political officials and civilians organised relations between civilians and guerrillas differently, particularly during early phases of the war.",
+    "Padilla stood up for them and, as the commander of the navy, prohibited the officers under his authority to sign the manifesto.",
+    "The base commander or another senior war veteran would walk the plot boundaries with the settlers from either side fixing the demarcation lines.",
+    "The commander, after widespread pressure from the other soldiers, decided to fulfil the requests and ordered an excavation to be carried out.",
+    "Obviously, the commander here is unwilling to comply with his orders.",
+    "They created an institutional barrier that distilled news of the district and checked the commander's contact with the population.",
+    "This becomes most apparent in brigade commanders' and technicians' reports detailing problems at the 'work front'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "comma",
+    "command",
+    "commandant",
+    "commandeer",
+    "commander",
+    "commander-in-chief",
+    "commanding",
+    "commandment",
+    "commando"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319516_04432f375a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319516_1219d327d9_o.png",
+      "id_image": "commander_2809690"
+    }
+  ]
+}

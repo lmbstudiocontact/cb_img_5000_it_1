@@ -1,0 +1,72 @@
+{
+  "english": "fabric",
+  "phat_am": "ˈfӕbrik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại vải được dệt",
+          "definition": "(a type of) cloth or material",
+          "world_new": [
+            "type",
+            "cloth",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nylon is a man-made fabric.",
+              "world_new": [
+                "man-made"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Knitted fabrics; knit type, wale, and course count per linear inch.",
+    "Matching black fabrics from the same source were used in most cases; otherwise black cotton twill was substituted.",
+    "Subsequent visitors, therefore, found themselves bereft of guidance when viewing other fabrics, and their comments were correspondingly limited.",
+    "Whatever the clinoform shape, most sediment fabrics are granular and grain-supported, that is, packstone, grainstone and rudstone.",
+    "Tectonic fabrics range from protomylonitic to ultramylonitic, and deformation occurred at up to amphibolite facies.",
+    "However, an important pure shear component or late-stage pure-shear regime, unambiguously indicated by quartz c-axis fabrics, has often obscured the sense of shear.",
+    "Our experimental set-ups include some oversimplifications of the pretectonic fabrics and syntectonic behaviour of natural orogens.",
+    "Filamentous fabrics in lowtemperature mineral assemblages : are they fossil biomarkers?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eyesight",
+    "eyesore",
+    "F",
+    "fable",
+    "fabric",
+    "fabricate",
+    "fabrication",
+    "fabulous",
+    "fabulously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075920_841b377d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075920_caaacd71c9_o.png",
+      "id_image": "fabric_3930525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383722_99bd6ba450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383722_e41df52570_o.png",
+      "id_image": "fabric_5857060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076010_aa0145a823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076010_184b388580_o.png",
+      "id_image": "fabric_737881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383817_e5654c395a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383817_2bb5c54e3b_o.png",
+      "id_image": "fabric_737886"
+    }
+  ]
+}

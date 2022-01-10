@@ -1,0 +1,70 @@
+{
+  "english": "fluorescent",
+  "phat_am": "fluəˈresnt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "(vật lý) huỳnh quang",
+          "definition": "giving off a certain kind of light",
+          "world_new": [
+            "certain",
+            "kind",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fluorescent light",
+              "world_new": [
+                "light"
+              ]
+            },
+            {
+              "ex_of_definition": "fluorescent paint.",
+              "world_new": [
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The use of fluorescent techniques is adding to our knowledge of ribosome dynamics.",
+    "The sections were examined for label with a fluorescent microscope using a filter used to view rhodamine fluorescence.",
+    "The fluorescent signal at the outer margin of the retina is due to auto-fluorescence from photoreceptor outer segment fragments and oil droplets.",
+    "Rapid sizing of short tandem repeat alleles using capillary array electrophoresis and energy-transfer fluorescent primers.",
+    "Cellular internalization of enhanced green fluorescent protein ligated to a human calcitonin-based carrier peptide.",
+    "The first appearance of a paracellular permeability barrier was examined during blastulation using fluorescent assays.",
+    "The laser line at 488 nm was used for exdtation of the fluorescent probes, and images collected with a 515 nm longpass filter.",
+    "Cells were evaluated for fluorescence and the percentage of live cells (non-fluorescent) was calculated."
+  ],
+  "list_see_also": [
+    "fluorescence"
+  ],
+  "list_browse": [
+    "fluidity",
+    "fluke",
+    "flunk",
+    "fluorescence",
+    "fluorescent",
+    "fluoride",
+    "fluorine",
+    "flurry",
+    "flush"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055935_1afa0be8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055935_68eb7dfb3b_o.png",
+      "id_image": "fluorescent_2605857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364022_3cbf2b463e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364022_a1d42ec891_o.png",
+      "id_image": "fluorescent_2624137"
+    }
+  ]
+}

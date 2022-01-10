@@ -1,0 +1,84 @@
+{
+  "english": "dictatorship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chế độ độc tài",
+          "definition": "the authority of a dictator",
+          "world_new": [
+            "authority",
+            "dictator"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His dictatorship depended on the support of the army.",
+              "world_new": [
+                "support",
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nền chuyên chính",
+          "definition": "a state ruled by a dictator",
+          "world_new": [
+            "state",
+            "ruled",
+            "dictator"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That country is a dictatorship now.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The best way in which to avoid dictatorships and repressive regimes is to enrich the peoples of those countries, rather than impoverishing them.",
+    "They risk their lives to flee from dictatorships, conflict and misery.",
+    "When people talk about elective dictatorships, perhaps that is what they mean.",
+    "Oppressive dictatorships were backed for fear of mass rebellion.",
+    "We must not, it seems to me, be distracted or brainwashed by simplistic rhetoric about bolstering up brutal dictatorships.",
+    "Dictatorships suppress choice and debase the life of the population in all aspects, impeding progress.",
+    "In the end, those dictatorships tumbled because we faced them down.",
+    "European history has shown how extremist parties, dressed in democratic clothes and using populist and nationalist propaganda, have often led democracy to dictatorships."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dicey",
+    "dictate",
+    "dictation",
+    "dictator",
+    "dictatorship",
+    "diction",
+    "dictionary",
+    "die",
+    "die away"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059790_0ca021357f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059790_4a0db06623_o.png",
+      "id_image": "dictatorship_2473039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323071_cfb3a32b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323071_2a224c982e_o.png",
+      "id_image": "dictatorship_2529655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678114_4b8643e39d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678114_f6962ab7d8_o.png",
+      "id_image": "dictatorship_3158198"
+    }
+  ]
+}

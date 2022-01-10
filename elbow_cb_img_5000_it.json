@@ -1,0 +1,94 @@
+{
+  "english": "elbow",
+  "phat_am": "ˈelbəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuỷu tay",
+          "definition": "the joint where the arm bends",
+          "world_new": [
+            "joint",
+            "arm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He leant forward on his elbows.",
+              "world_new": [
+                "forward"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "huých khủy tay",
+          "definition": "to push with the elbow",
+          "world_new": [
+            "push"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He elbowed his way through the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The police sat on their elbows and said that it was nothing to do with them—it was not a breach of the peace.",
+    "Newspapers and magazines should not be burdened by high postal charges, either, and thus elbowed out of the market.",
+    "The safety precautions there are thick rubber gloves reaching to the elbows, and goggles.",
+    "The safest thing to do is to touch elbows.",
+    "There is the same pace of argument, the same stylish footwork, the same skilful use of the elbows.",
+    "People are having their ankles and elbows blown off.",
+    "Of course, they fight for more money—they use their sharp elbows to try to achieve that end—but, in my experience, that has always been a successful and good relationship.",
+    "The replacement of joints—not just hips but ankles, knees, elbows and wrists—is now possible but the operations cost a great deal."
+  ],
+  "list_see_also": [
+    "elbow room",
+    "at one’s elbow"
+  ],
+  "list_browse": [
+    "elastic band",
+    "elasticity",
+    "elated",
+    "elation",
+    "elbow",
+    "elbow room",
+    "elder",
+    "elderly",
+    "eldest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682064_4c4a0718fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682064_c51e7fb546_o.png",
+      "id_image": "elbow_2813314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441928_e7c2ed233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441928_e9df174062_o.png",
+      "id_image": "elbow_2904454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681959_3060345540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681959_953f545794_o.png",
+      "id_image": "elbow_5672141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063750_1cb2b7e56d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063750_2e400efc52_o.png",
+      "id_image": "elbow_5726846"
+    }
+  ]
+}

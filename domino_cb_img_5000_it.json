@@ -1,0 +1,70 @@
+{
+  "english": "domino",
+  "phat_am": "ˈdominəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cờ đô mi nô",
+          "definition": "an oblong piece of wood etc marked with spots with which the game of dominoes is played",
+          "world_new": [
+            "oblong",
+            "piece",
+            "wood",
+            "marked",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two old men were playing a game of dominoes.",
+              "world_new": [
+                "old",
+                "game"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Observers first had to adjust a tiltable plane such that it coincided with the perceived plane of the domino's motion.",
+    "Fives and threes is a game of skill, but dominoes are out.",
+    "Chance comes first in drawing the cards or dominoes, but from then on a great deal of skill is needed.",
+    "As the dominoes fall, one by one, an additional segment of the economy is devastated.",
+    "If we remove finitely many dominoes out of this pattern, the only way to tile the uncovered space is to rebuild the pattern.",
+    "The destruction is beginning to gather the momentum of a falling line of dominoes.",
+    "A great many people want to play dominoes in the \"pub\" in the same way that a great many other people want to play darts.",
+    "The tiles are dominoes composed of two unit squares; there are just two tile types."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dominate",
+    "domination",
+    "domineering",
+    "dominion",
+    "domino",
+    "donate",
+    "donation",
+    "done",
+    "done for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425468_dc38f8cdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425468_f1c9e8b407_o.png",
+      "id_image": "domino_1728659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047270_aa84136aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047270_9200549480_o.png",
+      "id_image": "domino_2094474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665614_e125f1529e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665614_127d00bff1_o.png",
+      "id_image": "domino_5798100"
+    }
+  ]
+}

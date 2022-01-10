@@ -1,0 +1,95 @@
+{
+  "english": "cramp",
+  "phat_am": "krӕmp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuột rút",
+          "definition": "(a) painful stiffening of the muscles",
+          "world_new": [
+            "painful",
+            "stiffening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The swimmer got cramp and drowned.",
+              "world_new": [
+                "swimmer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bị chuột rút",
+          "definition": "to put into too small a space",
+          "world_new": [
+            "small",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were all cramped together in a tiny room.",
+              "world_new": [
+                "cramped",
+                "tiny",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cản trở",
+          "definition": "to restrict; Lack of money cramped our efforts."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The most commonly reported symptom was diarrhoea (n l 290, 65 %), followed by nausea (n l 276, 62 %), vomiting (n l 262, 58 %) and abdominal cramps (n l 178, 40 %).",
+    "They are all cramped on a tiny site which does not conform to any regulation, possibly not even to the building regulations of 1902.",
+    "While abdominal cramps were as frequent as among the cases, other symptoms such as nausea\\vomiting, diarrhoea, anorexia and fever, were significantly less frequent.",
+    "The crampedness of the numerator is inherited from the context (cr), while the denominator is always cramped (true).",
+    "Without wide fiscal reforms, the freedom of decision of the new local authorities will be cramped.",
+    "The variables in the data set included incubation period, duration of illness and the number of persons reporting diarrhoea, cramps, vomiting, nausea and fever.",
+    "Beyond that there is no recreation, apart from what the men can make for themselves cramped in their own cells.",
+    "In some rural areas, there is a floating population of adults, engaged and married couples, cramped up with their parents or parents-in-law."
+  ],
+  "list_see_also": [
+    "cramped"
+  ],
+  "list_browse": [
+    "crafty",
+    "crag",
+    "craggy",
+    "cram",
+    "cramp",
+    "cramped",
+    "cranberry",
+    "crane",
+    "crane driver"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061000_6f7cc372e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061000_10b5064e55_o.png",
+      "id_image": "cramp_1813423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679284_346bedd655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679284_9b1fb218f5_o.png",
+      "id_image": "cramp_2243595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679179_3042531131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679179_2fa82b3801_o.png",
+      "id_image": "cramp_3997953"
+    }
+  ]
+}

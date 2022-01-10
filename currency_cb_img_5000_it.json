@@ -1,0 +1,82 @@
+{
+  "english": "currency",
+  "phat_am": "ˈkarənsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền tệ",
+          "definition": "the money (notes and coins) of a country",
+          "world_new": [
+            "money",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the currencies of the world",
+              "world_new": [
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "foreign currency.",
+              "world_new": [
+                "foreign"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The contrasting interpretations of the purposes and objectives of community currencies cause difficulties when it comes to seeking state support for incorporation and mainstreaming.",
+    "Agents can hold any of the two currencies without any restrictions.",
+    "We follow the original redux framework, assuming that the rigidity is in prices denominated in the producers' currencies. 12.",
+    "Such transfers would then defer sterling's recovery indefinitely and might even make permanent the loss of primacy among the major reserve currencies of the world.",
+    "Unlike the abstract image of money, currencies in history were actually not easily found on demand.",
+    "The figures are dollar values converted from domestic currencies using single-year official exchange rates.",
+    "Therefore, the operation of an exchange market is required for trading outside currencies.",
+    "Similarly, the financial media have stocks and currencies that buy, sell, and trade, all unaccusatively."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "curler",
+    "curliness",
+    "curly",
+    "currant",
+    "currency",
+    "current",
+    "current account",
+    "current affairs",
+    "currently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051450_a129f98cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051450_fd46ed9b58_o.png",
+      "id_image": "currency_2078734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358997_32da8c35e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358997_dae4ccc726_o.png",
+      "id_image": "currency_2200843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358967_aa5a97fb28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358967_9417994d39_o.png",
+      "id_image": "currency_2654482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314851_7ed3dc78bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314851_cea271ab9c_o.png",
+      "id_image": "currency_2782059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429788_86c712a7e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429788_3dbe368fb3_o.png",
+      "id_image": "currency_333743"
+    }
+  ]
+}

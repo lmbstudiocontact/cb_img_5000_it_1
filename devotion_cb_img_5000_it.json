@@ -1,0 +1,60 @@
+{
+  "english": "devotion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tận tâm",
+          "definition": "great love",
+          "world_new": [
+            "great",
+            "love"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had an her undying devotion for her children."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tận tụy",
+          "definition": "the act of devoting or of being devoted",
+          "world_new": [
+            "act",
+            "devoted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her devotion to duty was admirable.",
+              "world_new": [
+                "duty",
+                "admirable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "devoid",
+    "devote",
+    "devoted",
+    "devotee",
+    "devotion",
+    "devour",
+    "devout",
+    "dew",
+    "dexterity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061900_9453131cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061900_7b4940670d_o.png",
+      "id_image": "devotion_708648"
+    }
+  ]
+}

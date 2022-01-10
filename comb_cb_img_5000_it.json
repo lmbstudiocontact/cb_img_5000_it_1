@@ -1,0 +1,140 @@
+{
+  "english": "comb",
+  "phat_am": "kəum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái lược",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nylon comb.",
+              "world_new": [
+                "nylon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái lược bờm",
+          "definition": "an object (often decorative) of similar appearance worn by some women to keep a hair-style in place.",
+          "world_new": [
+            "object",
+            "similar",
+            "appearance",
+            "worn",
+            "keep",
+            "place"
+          ]
+        },
+        {
+          "mean_english": "tổ ong",
+          "definition": "the honey cells made by bees",
+          "world_new": [
+            "honey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a honeycomb.",
+              "world_new": [
+                "honeycomb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mào (chim, gà)",
+          "definition": "the crest of some birds.",
+          "world_new": [
+            "crest"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chải đầu",
+          "definition": "to arrange and smooth with a comb",
+          "world_new": [
+            "arrange",
+            "smooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Comb your hair!",
+              "world_new": [
+                "your",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sục sạo",
+          "definition": "to search (a place) thoroughly (for something)",
+          "world_new": [
+            "search",
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They combed the hills for the missing climber.",
+              "world_new": [
+                "missing",
+                "climber"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several basic sound transformation devices are provided - dynamic shaping, transposition, comb filtering, several banks of band-pass filters, amplitude modulation, and granulation.",
+    "The difficult part is encoding: we have to transform a generalised duplicator into a generalised sharing, that is, a tree into a comb.",
+    "The birds' feathers appear ruffled, the comb pale; the birds cease to perch, and, as the disease advances, they lie prostrate upon the ground.",
+    "As they walked, they waggled their abdomens from side to side, while their hind legs moved backwards and forwards, apparently combing pollen from the anthers.",
+    "Note that, in the cases m = 0 and m = 1, this agrees with our previous definitions of comb and once-iterated comb.",
+    "The fungus-growers cultivate symbiotic fungi on fungusgardens (fungus combs), which are made from litter consumed by termites.",
+    "Filaments are forming dense, interconnected fibrous cylinders around each comb cell (fc).",
+    "The dorsal spines of the comb are nearly as long as the ventral portion of the pronotum, while the lateral spines are quite short."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "column",
+    "column graph",
+    "columnist",
+    "coma",
+    "comb",
+    "combat",
+    "combatant",
+    "combination",
+    "combine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675354_7a58bf658d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675354_95a3652370_o.png",
+      "id_image": "comb_2071615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365447_79cf689de5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365447_aa595cb013_o.png",
+      "id_image": "comb_224014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320441_9824d7a4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320441_2eabae33fa_o.png",
+      "id_image": "comb_410442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057180_892bfd69c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057180_a145fa2be4_o.png",
+      "id_image": "comb_456667"
+    }
+  ]
+}

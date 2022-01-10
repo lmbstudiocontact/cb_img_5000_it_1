@@ -1,0 +1,77 @@
+{
+  "english": "dangerous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính là mối hiểm họa",
+          "definition": "very unsafe and likely to be the cause of danger",
+          "world_new": [
+            "unsafe",
+            "likely",
+            "cause",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dangerous road",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "a dangerous enemy",
+              "world_new": [
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "Crocodiles are dangerous animals."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But it is as dangerous as it is useful for two reasons.",
+    "Only statements and conversations considered to be subversive or dangerous attracted the attention of those in authority and came to be recorded via judicial processes.",
+    "If everything is dangerous, then we always have something to do.",
+    "Women, fire, and dangerous things : what categories reveal about the mind.",
+    "The result is that many politicians feel it is dangerous to allow one ethnic group to produce the president for eight years.",
+    "There are numerous examples of treatments that were widely used yet it was later discovered that they were either ineffective or dangerous.",
+    "Following this interpretation, it may be dangerous to reject the variant reading 66° as a mere corruption.",
+    "His motivation for undertaking the dangerous journey was the hope of making money on a good deal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dancing",
+    "dandelion",
+    "dandruff",
+    "danger",
+    "dangerous",
+    "dangle",
+    "dare",
+    "daredevil",
+    "daring"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310681_8ecb1e9459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310681_c0aa043b49_o.png",
+      "id_image": "dangerous_1901052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665824_d4f6784aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665824_a2e899627c_o.png",
+      "id_image": "dangerous_5264731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310621_bf706a8170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310621_0bfcd4d71c_o.png",
+      "id_image": "dangerous_5848269"
+    }
+  ]
+}

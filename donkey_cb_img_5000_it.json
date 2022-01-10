@@ -1,0 +1,72 @@
+{
+  "english": "donkey",
+  "phat_am": "ˈdoŋki",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lừa",
+          "definition": "a domesticated animal with long ears related to the horse but smaller.",
+          "world_new": [
+            "domesticated",
+            "animal",
+            "long",
+            "related",
+            "horse"
+          ]
+        },
+        {
+          "mean_english": "người ngu ngốc",
+          "definition": "a stupid person",
+          "world_new": [
+            "stupid",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be such a donkey!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At all the towns mentioned there were large herds of cattle, numerous goats, and not a few donkeys.",
+    "Moreover, the intricacies of herding camels, horses, donkeys, cattle, sheep and goats are simply alluded to in passing, without being investigated.",
+    "My experience of the armed forces is that all the donkeys have now left.",
+    "Incorporation and denaturing in this respect are doing no more than what we have done for donkeys' years.",
+    "I see no justification for introducing legislation to prohibit the import of donkeys.",
+    "With the exception of the air base which is fenced off, the donkeys are free to graze on the island.",
+    "The donkeys were introduced to their experimental routine 19 days before the start of the trial.",
+    "When placed at the back of the tongue the donkeys were frequently able to recover the boli and eject them from their mouths."
+  ],
+  "list_see_also": [
+    "donkey work",
+    "donkey’s years/ages"
+  ],
+  "list_browse": [
+    "donation",
+    "done",
+    "done for",
+    "done in",
+    "donkey",
+    "donkey work",
+    "donkey’s years/ages",
+    "donor",
+    "doodle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309891_e2c89e2f46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309891_af0b37cca2_o.png",
+      "id_image": "donkey_4540485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046825_cbf4ea45cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046825_d9158dd9ba_o.png",
+      "id_image": "donkey_6158658"
+    }
+  ]
+}

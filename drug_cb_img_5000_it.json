@@ -1,0 +1,115 @@
+{
+  "english": "drug",
+  "phat_am": "draɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc",
+          "definition": "any substance used in medicine",
+          "world_new": [
+            "substance",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has been prescribed a new drug for her stomach pains.",
+              "world_new": [
+                "stomach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ma túy; thuốc ngủ",
+          "definition": "a substance, sometimes one used in medicine, taken by some people to achieve a certain effect, eg great happiness or excitement",
+          "world_new": [
+            "substance",
+            "medicine",
+            "people",
+            "achieve",
+            "certain",
+            "effect",
+            "great",
+            "happiness",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think she takes drugs",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            },
+            {
+              "ex_of_definition": "He behaves as though he is on drugs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dùng ma túy; thuốc ngủ",
+          "definition": "to make to lose consciousness by giving a drug",
+          "world_new": [
+            "lose",
+            "consciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The kidnappers drugged him and tied him up."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, patients were often reluctant to be prescribed a detoxification drug which had not led to them successfully achieving abstinence in the past.",
+    "In the following we highlight information on the molecular targets and actions of two classes of drugs, psychostimulants and opiates.",
+    "Patients were treated with different psychotropic drugs prior to the study.",
+    "First, it provided a larger selection of drugs then ever before and at regulated prices.",
+    "Drug screening tests are routinely performed on all first-episode patients.",
+    "The nearer that this model is approached, the more successful a purely quantitative approach will be, as in drug trials.",
+    "For any of us who had forgotten the old adage that a drug is a poison, this book supplies a useful reminder.",
+    "Three-fourths were direct costs for inpatient care, acute outpatient care, physician visits for followup treatment, drugs, and so on."
+  ],
+  "list_see_also": [
+    "druggist",
+    "drug addict",
+    "drugstore"
+  ],
+  "list_browse": [
+    "drowsiness",
+    "drowsy",
+    "drudge",
+    "drudgery",
+    "drug",
+    "drug addict",
+    "druggist",
+    "drugstore",
+    "drum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692209_9e1df29913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692209_3f4f4b5514_o.png",
+      "id_image": "drug_2843761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692164_f93eb6230d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692164_4448539324_o.png",
+      "id_image": "drug_2861164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692249_29dbd630df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692249_1a8c92c5ed_o.png",
+      "id_image": "drug_452700"
+    }
+  ]
+}

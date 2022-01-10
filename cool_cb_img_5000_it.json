@@ -1,0 +1,194 @@
+{
+  "english": "cool",
+  "phat_am": "kuːl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mát",
+          "definition": "slightly cold",
+          "world_new": [
+            "slightly",
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cool weather.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình tĩnh",
+          "definition": "calm or not excitable",
+          "world_new": [
+            "calm",
+            "excitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very cool in a crisis.",
+              "world_new": [
+                "crisis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãnh đạm",
+          "definition": "not very friendly",
+          "world_new": [
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was very cool towards me."
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyệt vời",
+          "definition": "great; terrific; fantastic",
+          "world_new": [
+            "fantastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wow, that’s really cool!"
+            },
+            {
+              "ex_of_definition": "You look cool in those jeans!",
+              "world_new": [
+                "look",
+                "jeans"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm nguội đi",
+          "definition": "to make or become less warm",
+          "world_new": [
+            "become",
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jelly will cool better in the refrigerator",
+              "world_new": [
+                "jelly",
+                "better",
+                "refrigerator"
+              ]
+            },
+            {
+              "ex_of_definition": "She cooled her hands in the stream.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình tĩnh lại",
+          "definition": "to become less strong",
+          "world_new": [
+            "become",
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His affection for her has cooled",
+              "world_new": [
+                "affection"
+              ]
+            },
+            {
+              "ex_of_definition": "Her anger cooled.",
+              "world_new": [
+                "anger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khí mát mẻ",
+          "definition": "cool air or atmosphere",
+          "world_new": [
+            "air",
+            "atmosphere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the cool of the evening.",
+              "world_new": [
+                "evening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The custard, having been made in the morning, was left unrefrigerated and uncovered to cool in the bowl for the rest of the day.",
+    "These constituents are formed rapidly from cooled droplets of magma that take on dynamic shape during transport.",
+    "Systems can also be heated or cooled, expanded and contracted, pressurised or exploded.",
+    "Characterization of a cryogenically cooled high-pressure gas jet for laser 0 cluster interaction experiments.",
+    "During subsequent cycles of warming and cooling the uptake of solvent is reflected in an increase in the volume of ° the unit cell.",
+    "Suppose the stanza turned out to appeal to the choice that modern subjects make to safeguard choice, to remain cool customers in the faith market.",
+    "If the layer of cool air is thin, then the interaction of the aperture wakes with the hot mean flow may be important.",
+    "If the weather is cool, then mating, and subsequent oviposition, are delayed."
+  ],
+  "list_see_also": [
+    "coolly",
+    "coolness",
+    "coolant",
+    "cool box",
+    "cool-headed",
+    "cool down",
+    "keep one’s cool",
+    "lose one’s cool"
+  ],
+  "list_browse": [
+    "cookery",
+    "cookery book",
+    "cookie",
+    "cooking",
+    "cool",
+    "cool box",
+    "cool down",
+    "cool-headed",
+    "coolant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304936_be4378403c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304936_47b6b4805d_o.png",
+      "id_image": "cool_4952973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349137_9ca814b20b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349137_7399f923f7_o.png",
+      "id_image": "cool_501088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304941_6c7894cae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304941_70463989bd_o.png",
+      "id_image": "cool_817775"
+    }
+  ]
+}

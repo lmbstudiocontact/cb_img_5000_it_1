@@ -1,0 +1,137 @@
+{
+  "english": "family",
+  "phat_am": "ˈfӕməli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gia đình",
+          "definition": "(singular or plural) a man, his wife and their children",
+          "world_new": [
+            "wife",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These houses were built for families"
+            },
+            {
+              "ex_of_definition": "The (members of the) Clark family are all very athletic",
+              "world_new": [
+                "athletic"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a family holiday.",
+              "world_new": [
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gia tộc",
+          "definition": "a group of people related to each other, including cousins, grandchildren etc",
+          "world_new": [
+            "group",
+            "people",
+            "related",
+            "including"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He comes from a wealthy family",
+              "world_new": [
+                "wealthy"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the family home.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con cái",
+          "definition": "the children of a man and his wife",
+          "world_new": [
+            "wife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When I get married, I would like a large family.",
+              "world_new": [
+                "I",
+                "married",
+                "I",
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(sinh vật học), (ngôn ngữ học) họ",
+          "definition": "a group of plants, animals, languages etc that are connected in some way",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In spite of its name, a koala bear is not a member of the bear family.",
+              "world_new": [
+                "spite",
+                "its",
+                "name",
+                "koala",
+                "bear",
+                "member",
+                "bear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some surrogates need to review what the patient and/or family has experienced in the past with end of life issues.",
+    "Under these plans, convicts were granted access to land and encouraged to bring their families from the mainland.",
+    "In the compensation plans for injured workers and the victim's family, workers with longer tenure were rewarded.",
+    "Psychological therapies, family treatments and vocational rehabilitation are described.",
+    "In rice fields, these three families or subfamilies made up 63% of species and 86% of all individuals present.",
+    "Only in a small proportion of cases were referrals made purely on grounds of existing illness in patient or family.",
+    "The morbid risk represents the percentage of family members who develop the specific disorder.",
+    "The families were recruited from local birth records."
+  ],
+  "list_see_also": [
+    "family name",
+    "family planning",
+    "family tree"
+  ],
+  "list_browse": [
+    "familiarity",
+    "familiarization",
+    "familiarize",
+    "familiarly",
+    "family",
+    "family name",
+    "family planning",
+    "family tree",
+    "famine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381692_68cabdcb89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381692_8e4eb1313f_o.png",
+      "id_image": "family_437491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073650_e26efe3a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073650_686f2f03ee_o.png",
+      "id_image": "family_599547"
+    }
+  ]
+}

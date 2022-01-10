@@ -1,0 +1,75 @@
+{
+  "english": "conservation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bảo tồn",
+          "definition": "the act of conserving especially wildlife, the countryside, old buildings etc",
+          "world_new": [
+            "act",
+            "wildlife",
+            "countryside",
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "conservation of the wetlands."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accordingly, past soil conservation research was geared mainly towards structural methods.",
+    "To stress the need to take uncertainty into account is just to get back to the primal question and not a guide to conservation measures.",
+    "The cut-off rate of return for conservation investments in barley is lower than 5 per cent.",
+    "Capital transfers may also contribute to forest conservation because they may alleviate poverty.",
+    "Hence, we conclude that trade intervention is a second-best approach for global biodiversity conservation.",
+    "One difficulty in doing this is that it requires identifying changes in the agricultural system that will complement conservation and improve short-term profitability.",
+    "Here state regulation has not worked due to a variety of reasons, which manifested in the form of violation of both access and conservation rules.",
+    "The positive contribution of tropical rainforest conservation to climate regulation is also a significant benefit and this will be dealt with in detail first."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "consensus",
+    "consent",
+    "consequence",
+    "consequently",
+    "conservation",
+    "conservationist",
+    "conservatism",
+    "conservative",
+    "conservatory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425403_f94d43abec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425403_c9441714db_o.png",
+      "id_image": "conservation_2191418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665554_e919b58bd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665554_4fa142ccf4_o.png",
+      "id_image": "conservation_3906464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425363_119e363a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425363_1aea7b9d38_o.png",
+      "id_image": "conservation_4127086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310286_6b1068a3e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310286_1c059581ba_o.png",
+      "id_image": "conservation_5705943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310416_ea71cb2f7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310416_69757831fc_o.png",
+      "id_image": "conservation_757017"
+    }
+  ]
+}

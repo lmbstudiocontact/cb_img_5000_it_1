@@ -1,0 +1,95 @@
+{
+  "english": "cracker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh quy giòn",
+          "definition": "a thin crisp biscuit",
+          "world_new": [
+            "thin",
+            "crisp",
+            "biscuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cheese and crackers.",
+              "world_new": [
+                "cheese",
+                "crackers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "pháo",
+          "definition": "a small exploding firework",
+          "world_new": [
+            "small",
+            "firework"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fire crackers.",
+              "world_new": [
+                "fire",
+                "crackers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "pháo ống",
+          "definition": "a decorated paper tube, containing paper hats etc, which gives a loud crack when pulled apart",
+          "world_new": [
+            "paper",
+            "tube",
+            "paper",
+            "loud",
+            "crack",
+            "apart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Christmas cracker.",
+              "world_new": [
+                "Christmas"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crack",
+    "crack down (on)",
+    "crackdown",
+    "cracked",
+    "cracker",
+    "crackers",
+    "crackle",
+    "crackling",
+    "crackly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061565_ac0d8389db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061565_833f609c87_o.png",
+      "id_image": "cracker_1521270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061645_438052d047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061645_7474658255_o.png",
+      "id_image": "cracker_449500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679884_83cf571faa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679884_0fd7c4389f_o.png",
+      "id_image": "cracker_616077"
+    }
+  ]
+}

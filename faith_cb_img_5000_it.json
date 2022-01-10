@@ -1,0 +1,103 @@
+{
+  "english": "faith",
+  "phat_am": "feiθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tin tưởng",
+          "definition": "trust or belief",
+          "world_new": [
+            "trust",
+            "belief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had faith in his ability.",
+              "world_new": [
+                "ability"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đức tin",
+          "definition": "religious belief",
+          "world_new": [
+            "religious",
+            "belief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Years of hardship had not caused him to lose his faith.",
+              "world_new": [
+                "hardship",
+                "lose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời hứa",
+          "definition": "loyalty to one’s promise",
+          "world_new": [
+            "loyalty",
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was determined to keep faith with him.",
+              "world_new": [
+                "determined",
+                "keep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "faithful",
+    "faithfully",
+    "Yours faithfully",
+    "faithfulness",
+    "faithless",
+    "faithlessness",
+    "in (all) good faith"
+  ],
+  "list_browse": [
+    "fairness",
+    "fairy",
+    "fairy story",
+    "fairy tale",
+    "faith",
+    "faithful",
+    "faithfully",
+    "faithfulness",
+    "faithless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074280_b8eba9bc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074280_c3cdb76b3f_o.png",
+      "id_image": "faith_1783653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074260_94601326a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074260_b6a8df149a_o.png",
+      "id_image": "faith_2849804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382202_de93bb2a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382202_17d58a6122_o.png",
+      "id_image": "faith_4118167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074180_be0b4fd8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074180_013e545127_o.png",
+      "id_image": "faith_6396814"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "deer",
+  "phat_am": "diə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hươu, nai",
+          "definition": "a kind of large, grass-eating animal, the male of which sometimes has antlers",
+          "world_new": [
+            "kind",
+            "large",
+            "animal",
+            "male"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a herd of deer.",
+              "world_new": [
+                "herd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within an unknown time period, deer mice develop metacestode infections and eventually are preyed upon by foxes, the definitive host.",
+    "Here, water is thought to have poured from the mouths of bronze deer positioned in recesses around the font.",
+    "The deer were divided in two groups depending on the climatic characteristics of the sites (fig. 1).",
+    "Extracting nematodes from lungs or muscle of the deer could not be undertaken.",
+    "Ants and ant parts were found in the stomachs of deer mice at the fox pen site (12.1%) and the campground site (11.2%).",
+    "The simplest explanation for the association is that these bones belonged to parts of deer carcasses deposited with the burial as grave goods.",
+    "Tapir tracks were second only to red brocket deer in terms of terrestrial mammal track densities.",
+    "The production of the larvae in faeces of infected deer is expressed as the number of larvae per gram of faeces (lpg)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deep-sea",
+    "deepen",
+    "deeply",
+    "deepness",
+    "deer",
+    "deface",
+    "default",
+    "defeat",
+    "defeated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421423_ae63a06d76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421423_be1ce9dcf6_o.png",
+      "id_image": "deer_292647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043275_acf09c6fb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043275_6db35cae0d_o.png",
+      "id_image": "deer_621915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421363_70799f874b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421363_35306f0f31_o.png",
+      "id_image": "deer_667710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661579_285029c198_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661579_c284b92e16_o.png",
+      "id_image": "deer_721088"
+    }
+  ]
+}

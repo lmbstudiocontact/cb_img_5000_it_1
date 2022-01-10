@@ -1,0 +1,114 @@
+{
+  "english": "debate",
+  "phat_am": "diˈbeit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc tranh luận",
+          "definition": "a discussion or argument, especially a formal one in front of an audience",
+          "world_new": [
+            "discussion",
+            "argument",
+            "formal",
+            "front",
+            "audience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Parliamentary debate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tranh luận",
+          "definition": "to hold a formal discussion (about)",
+          "world_new": [
+            "hold",
+            "formal",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Parliament will debate the question tomorrow.",
+              "world_new": [
+                "question",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cân nhắc",
+          "definition": "to think about or talk about something before coming to a decision",
+          "world_new": [
+            "think",
+            "talk",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We debated whether to go by bus or train.",
+              "world_new": [
+                "bus",
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rather, one needs to accept that immersion pedagogy is located in a range of sociopolitical, cultural, economic, and educational debates.",
+    "The political capital that is necessary for starting an organization is linked to existing debates and politically engaged institutional actors.",
+    "What is it about language that evokes such irrational nationalistic debates ?",
+    "Nevertheless, this book makes a useful contribution to historical debates about the causes of the mutinies.",
+    "The first part deals with a number of issues debated in the capability literature in development economics and development ethics.",
+    "Categorization is among the most hotly debated methods of data management.",
+    "We might still disagree about what is feasible, or how much feasibility matters, but at least we can figure out what we are really debating.",
+    "Revulsion to dismemberment (or to creating a member where there was none, as it were) further manifests itself in debates over the acceptability of transsexuals."
+  ],
+  "list_see_also": [
+    "debatable"
+  ],
+  "list_browse": [
+    "death certificate",
+    "death penalty",
+    "deathly",
+    "debatable",
+    "debate",
+    "debauched",
+    "debauchery",
+    "debilitate",
+    "debility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352357_407a4381cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352357_26ebc110be_o.png",
+      "id_image": "debate_1147948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308131_8db599c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308131_a8bb66bf86_o.png",
+      "id_image": "debate_2688835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423338_4fcb4271d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423338_df17fefc0c_o.png",
+      "id_image": "debate_3571109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423313_b438204cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423313_a67be26fdb_o.png",
+      "id_image": "debate_5605909"
+    }
+  ]
+}

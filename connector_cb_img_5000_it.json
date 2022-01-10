@@ -1,0 +1,76 @@
+{
+  "english": "connector",
+  "phat_am": "kəˈnektə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ kết nối",
+          "definition": "something which is used to connect two pieces of equipment",
+          "world_new": [
+            "connect",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cable connector.",
+              "world_new": [
+                "cable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This cap protected the connectors and microelectrode drive when the animal was not in the testing apparatus.",
+    "Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.",
+    "Intuitively, taking advantage of sequential evaluation of boolean connectors in such a context means mixing enumeration of variable assignments and evaluation of boolean expressions.",
+    "It can be an option for zero, or no connector, between clauses.",
+    "The initial connectors are gradually replaced, first by means of linear chaining through coordination and ellipsis, and eventually by subordination.",
+    "An alternative to writing scripts or specialised glue code is to construct the glue code compositionally, out of primitive connectors.",
+    "This metaphor naturally lends itself to an intuitive graphical representation of connectors and their composition that strongly resembles (asynchronous) electronic circuit diagrams.",
+    "Usually, architectures are described by their components and connectors that establish the proper relationships between the former."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "conk",
+    "connect",
+    "connecting flight",
+    "connection",
+    "connector",
+    "connivance",
+    "connive",
+    "connoisseur",
+    "conquer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047680_a15df4b24d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047680_cdefe288a1_o.png",
+      "id_image": "connector_403032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310766_0c44c6081d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310766_4329da5cc8_o.png",
+      "id_image": "connector_4669094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425758_0094fe03a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425758_774b628116_o.png",
+      "id_image": "connector_4669106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310726_d908c77a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310726_d8c127bb5d_o.png",
+      "id_image": "connector_4780364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354982_ff89d15c0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354982_10c1ef01a9_o.png",
+      "id_image": "connector_559967"
+    }
+  ]
+}

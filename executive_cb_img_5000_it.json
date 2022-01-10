@@ -1,0 +1,119 @@
+{
+  "english": "executive",
+  "phat_am": "iɡˈzekjutiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "điều hành",
+          "definition": "(in a business organization etc) concerned with management",
+          "world_new": [
+            "business",
+            "organization",
+            "management"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "executive skills."
+            }
+          ]
+        },
+        {
+          "mean_english": "hành pháp",
+          "definition": "concerned with the carrying out of laws etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "executive powers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành hành pháp",
+          "definition": "the branch of the government that puts the laws into effect.",
+          "world_new": [
+            "branch",
+            "government",
+            "effect"
+          ]
+        },
+        {
+          "mean_english": "uỷ viên ban quản trị",
+          "definition": "a person or body of people in an organization etc that has power to direct or manage",
+          "world_new": [
+            "person",
+            "body",
+            "people",
+            "organization",
+            "power",
+            "direct",
+            "manage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is an executive in an insurance company.",
+              "world_new": [
+                "insurance",
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, medial frontal lesions were related to executive dysfunction, not empathic deficit.",
+    "Other contributing factors may include decline in sensory input (hearing and visual acuity), working memory and executive function.",
+    "Clearly, research efforts need to be directed towards assessing the development of more specific aspects of cognitive functioning, such as executive functions.",
+    "The organization committee presented monthly reports to the executive.",
+    "Presidential systems are coded 1 if the populace directly elects the chief executive and 0 otherwise.",
+    "Unlike criminal matters and the policing of trades and markets, religious courts had no executive powers in matters of family law.",
+    "These findings point to an association with wideranging aspects of executive function, including planning and strategy formation, plus evaluating, checking, and monitoring of errors.",
+    "Nor have these changes made the executive branch any more accountable to the popularly elected legislature than it was before."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "excuse",
+    "execute",
+    "execution",
+    "executioner",
+    "executive",
+    "executor",
+    "exemplary",
+    "exemplify",
+    "exempt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426698_c1d5b678c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426698_ec482ae7c5_o.png",
+      "id_image": "executive_2111179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355887_c6659129e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355887_0ac6743479_o.png",
+      "id_image": "executive_2910466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426608_d9bbcdca10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426608_a870334463_o.png",
+      "id_image": "executive_3603777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355847_6c01cc7724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355847_a995127a81_o.png",
+      "id_image": "executive_5138170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311696_bb4f7031fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311696_ce687b9904_o.png",
+      "id_image": "executive_6078592"
+    }
+  ]
+}

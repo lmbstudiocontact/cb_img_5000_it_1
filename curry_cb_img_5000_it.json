@@ -1,0 +1,114 @@
+{
+  "english": "curry",
+  "phat_am": "ˈkari",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món cà ri",
+          "definition": "(an originally Indian dish of) meat, vegetables etc cooked with spices",
+          "world_new": [
+            "Indian",
+            "dish",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lamb curry.",
+              "world_new": [
+                "lamb"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nấu cà ri",
+          "definition": "to cook in this way",
+          "world_new": [
+            "cook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you going to curry this meat?",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chải lông (cho ngựa)",
+          "definition": "to rub down or comb and clean (a horse).",
+          "world_new": [
+            "rub",
+            "comb",
+            "clean"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Let id : 1 be the curry of the identity map.",
+    "It was hotter than the curry; flesh and blood would bear it no longer.",
+    "One could not curry favour with him; he was as straight as die.",
+    "In addition, many of the primitive parsers can be simplified by assuming that the functions representing parsers and the functions representing success continuations are curried.",
+    "Moreover, currying and partial applications are comfortable tools to generate abstractions (closures), since for beginners they are easier to use than the lambda constructs.",
+    "Accepted marketing practices therefore include currying favour with journalists to provide guaranteed positive reviews before an album's release.",
+    "Of particular interest are two specific classes of higher-order expressions that can be eliminated, namely: curried applications and instantiated function-type arguments that are non-accumulating.",
+    "Multi-ary application and abstraction is obtained by currying, application is usually represented by juxtaposition rather than explicitly using app, and let is lambda-application."
+  ],
+  "list_see_also": [
+    "curried",
+    "curry powder"
+  ],
+  "list_browse": [
+    "current affairs",
+    "currently",
+    "curriculum",
+    "curried",
+    "curry",
+    "curry favour/favor",
+    "curry powder",
+    "curse",
+    "cursed with"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314676_18bcaf0b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314676_4b2fe7656d_o.png",
+      "id_image": "curry_1900806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051180_130d618edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051180_22fa9f44b2_o.png",
+      "id_image": "curry_2014020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358727_0391c58e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358727_5df8effda7_o.png",
+      "id_image": "curry_3813111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314591_f5f6ef14b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314591_a248f1d90e_o.png",
+      "id_image": "curry_5495506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429583_851502094b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429583_ef703ca216_o.png",
+      "id_image": "curry_644703"
+    }
+  ]
+}

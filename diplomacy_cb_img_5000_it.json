@@ -1,0 +1,83 @@
+{
+  "english": "diplomacy",
+  "phat_am": "diˈplouməsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành ngoại giao",
+          "definition": "the business of making agreements, treaties etc between countries; the business of looking after the affairs of one’s country etc in a foreign country",
+          "world_new": [
+            "business",
+            "business",
+            "country",
+            "foreign",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "international diplomacy.",
+              "world_new": [
+                "international"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài ngoại giao",
+          "definition": "skill and tact in dealing with people, persuading them etc",
+          "world_new": [
+            "skill",
+            "tact",
+            "dealing",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Use a little diplomacy and she’ll soon agree to help.",
+              "world_new": [
+                "soon",
+                "agree",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "diplomat",
+    "diplomatic",
+    "diplomatically"
+  ],
+  "list_browse": [
+    "dip into",
+    "diphtheria",
+    "diphthong",
+    "diploma",
+    "diplomacy",
+    "diplomat",
+    "diplomatic",
+    "diplomatically",
+    "dire"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320451_32230b057b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320451_749c23bbfd_o.png",
+      "id_image": "diplomacy_4849868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435573_6fdeff237f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435573_a8b85cb2ec_o.png",
+      "id_image": "diplomacy_4960673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057155_204a8c4383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057155_2ea70bd136_o.png",
+      "id_image": "diplomacy_4960724"
+    }
+  ]
+}

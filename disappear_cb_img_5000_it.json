@@ -1,0 +1,101 @@
+{
+  "english": "disappear",
+  "phat_am": "disəˈpiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biến mất",
+          "definition": "to vanish from sight",
+          "world_new": [
+            "vanish",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sun disappeared slowly below the horizon.",
+              "world_new": [
+                "sun",
+                "slowly",
+                "horizon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất đi",
+          "definition": "to fade out of existence",
+          "world_new": [
+            "fade",
+            "existence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This custom had disappeared by the end of the century.",
+              "world_new": [
+                "custom",
+                "century"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến mất",
+          "definition": "to go away so that other people do not know where one is",
+          "world_new": [
+            "people",
+            "know"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A search is being carried out for the boy who disappeared from his home on Monday.",
+              "world_new": [
+                "search",
+                "boy",
+                "home",
+                "Monday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The improvement disappeared after sleeping horizontally for a night.",
+    "The discrepancy is minor and disappears toward the end of the sample.",
+    "The resounding presence of her voice masks a deeper lack: she comes from nothing and disappears into thin air.",
+    "When the test spot was moved in nonpreferred directions, the selectivity for opposing motion disappeared.",
+    "However, the essential theatrical dimension of the accelerating tape delay will have disappeared.",
+    "As shrinks further, the only interior equilibrium that still exists is nonmonetary, but it disappears as becomes sufficiently low.",
+    "Firstly, our database also considers the pension plans disappearing during the time period analysed.",
+    "In short, \"the nation is an audience to be created by histories, poems, and pictures of a disappearing rural life\" (28)."
+  ],
+  "list_see_also": [
+    "disappearance"
+  ],
+  "list_browse": [
+    "disagreeable",
+    "disagreeably",
+    "disagreement",
+    "disallow",
+    "disappear",
+    "disappearance",
+    "disappoint",
+    "disappointed",
+    "disappointing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673619_a146067b42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673619_56ae20c18b_o.png",
+      "id_image": "disappear_5773005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673584_3c841c55c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673584_c0db627ce8_o.png",
+      "id_image": "disappear_5906162"
+    }
+  ]
+}

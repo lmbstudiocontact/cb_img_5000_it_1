@@ -1,0 +1,93 @@
+{
+  "english": "crime",
+  "phat_am": "kraim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tội phạm",
+          "definition": "act(s) punishable by law",
+          "world_new": [
+            "punishable",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Murder is a crime"
+            },
+            {
+              "ex_of_definition": "Crime is on the increase.",
+              "world_new": [
+                "increase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tội ác",
+          "definition": "something wrong though not illegal",
+          "world_new": [
+            "wrong",
+            "illegal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a crime to cut down those trees!",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other words, in refusing to attribute any role to crime, these studies are forced into the same zero-sum framework they attempt to challenge.",
+    "Likewise, what was regarded as crime and what we would today label as tort was often equally unclear.",
+    "One problem with his conclusions derives from his use of the surviving records of convictions for indictable offences as a proxy for all crime.",
+    "In addition, it developed the principles of progressive fines and punishments, and a hesitant distinction between violent and non-violent crimes.",
+    "The poverty, disease, and crime in the new urban slums were seen as resulting from the genetic inferiority of the inhabitants.",
+    "Although the process still continues, the certainty that racial crimes will be punished has greatly reduced their occurrence.",
+    "For its part, the defense may (but is not obliged to) present an alternative theory of the events associated with the crime.",
+    "Their offences were often petty, consisting of minor thefts rather than white-collar crimes."
+  ],
+  "list_see_also": [
+    "criminal",
+    "criminally"
+  ],
+  "list_browse": [
+    "crib",
+    "crib death",
+    "cricket",
+    "cricketer",
+    "crime",
+    "criminal",
+    "criminally",
+    "crimson",
+    "cringe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435508_6b3a3665d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435508_e2cbef3571_o.png",
+      "id_image": "crime_2495671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365237_336e8f2179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365237_14d68e903a_o.png",
+      "id_image": "crime_3839555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320296_8f1d179270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320296_b643cf3b94_o.png",
+      "id_image": "crime_4201303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435388_3be786a4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435388_477641cfe0_o.png",
+      "id_image": "crime_5318855"
+    }
+  ]
+}

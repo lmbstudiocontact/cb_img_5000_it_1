@@ -1,0 +1,58 @@
+{
+  "english": "fairy",
+  "phat_am": "ˈfeəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thần tiên",
+          "definition": "an imaginary creature in the form of a very small (often winged) human, with magical powers",
+          "world_new": [
+            "imaginary",
+            "creature",
+            "form",
+            "small",
+            "human",
+            "magical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children often believe in fairies.",
+              "world_new": [
+                "believe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fairy story",
+    "fairy tale"
+  ],
+  "list_browse": [
+    "fair test",
+    "fairground",
+    "fairly",
+    "fairness",
+    "fairy",
+    "fairy story",
+    "fairy tale",
+    "faith",
+    "faithful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382312_d4709e6bba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382312_5e62b301d9_o.png",
+      "id_image": "fairy_2210053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692579_a8dd6df6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692579_3f4d837ccc_o.png",
+      "id_image": "fairy_2332701"
+    }
+  ]
+}

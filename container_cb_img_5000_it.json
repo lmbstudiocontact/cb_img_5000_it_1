@@ -1,0 +1,103 @@
+{
+  "english": "container",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật đựng (chai, lọ)",
+          "definition": "something made to contain things",
+          "world_new": [
+            "contain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He brought his lunch in a plastic container.",
+              "world_new": [
+                "lunch",
+                "plastic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công ten nơ",
+          "definition": "a very large sealed metal box for carrying goods on a lorry, ship etc",
+          "world_new": [
+            "large",
+            "metal",
+            "box",
+            "goods",
+            "lorry",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship carried twenty containers",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a container ship, a container lorry.",
+              "world_new": [
+                "ship",
+                "lorry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were also displeased that some products were supplied in containers that had to be shared between several farmers.",
+    "Generics have primarily been added to these languages to support type-safe polymorphic containers.",
+    "Composting was carried out using containers made up of encircled chicken wires with 63.5 cm diameter and 30.48 cm height.",
+    "In each quadrat we arranged 20 round plastic containers (15 cm d iameter) in a g rid.",
+    "The pupae collected from each of the cultures were placed in clean plastic containers and adults were provided with 20% honey-water as food upon emergence.",
+    "Puparia were then extracted from sawdust and kept in separate containers until they hatched.",
+    "Leafminers that pupated were individually placed into 10-ml glass containers covered with vented parafilm.",
+    "Similarly, pottery specialists often devote more time to style and typology than to the role of ceramics and other food containers in culinary technologies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contact lens",
+    "contagion",
+    "contagious",
+    "contain",
+    "container",
+    "contaminate",
+    "contamination",
+    "contemplate",
+    "contemplation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307826_4f9efdcfb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307826_691b9a1f12_o.png",
+      "id_image": "container_1580227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351942_0267cb6785_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351942_7abf3f42e9_o.png",
+      "id_image": "container_1738098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351897_efe2c3147f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351897_37ec6448c3_o.png",
+      "id_image": "container_1740635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422913_97bdf20d91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422913_c5fa8e744f_o.png",
+      "id_image": "container_2928758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351992_6172fff15e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351992_685e8b3686_o.png",
+      "id_image": "container_883694"
+    }
+  ]
+}

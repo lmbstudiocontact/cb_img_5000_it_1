@@ -1,0 +1,87 @@
+{
+  "english": "collaborate",
+  "phat_am": "kəˈlӕbəreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cộng tác",
+          "definition": "to work together (with someone) on a piece of work",
+          "world_new": [
+            "work",
+            "piece",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He and his brother collaborated on a book about aeroplanes/airplanes.",
+              "world_new": [
+                "brother",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cộng tác với địch",
+          "definition": "to work along (with someone) to betray secrets etc",
+          "world_new": [
+            "work",
+            "betray"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was known to have collaborated with the enemy.",
+              "world_new": [
+                "enemy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "collaboration",
+    "collaborator"
+  ],
+  "list_browse": [
+    "coleslaw",
+    "coleus",
+    "colic",
+    "coliseum",
+    "collaborate",
+    "collaboration",
+    "collaborator",
+    "collage",
+    "collapse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367727_e4415cbd11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367727_4f96482da1_o.png",
+      "id_image": "collaborate_2191420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322741_36b905a948_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322741_0d24a434ed_o.png",
+      "id_image": "collaborate_4133366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437918_df9ac3325b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437918_083e759479_o.png",
+      "id_image": "collaboration_2721208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059385_e236cab01e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059385_b5f1b1a339_o.png",
+      "id_image": "collaboration_2861698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367477_f6287858d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367477_145e374aa3_o.png",
+      "id_image": "collaboration_5541899"
+    }
+  ]
+}

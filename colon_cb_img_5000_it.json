@@ -1,0 +1,75 @@
+{
+  "english": "colon",
+  "phat_am": "ˈkəulən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu hai chấm",
+          "definition": "the punctuation mark (:), used eg to separate sentence-like units within a sentence, or to introduce a list etc .",
+          "world_new": [
+            "punctuation",
+            "mark",
+            "eg",
+            "separate",
+            "sentence",
+            "introduce",
+            "list"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ruột kết",
+          "definition": "a part of the large intestine",
+          "world_new": [
+            "part",
+            "large",
+            "intestine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cancer of the colon",
+              "world_new": [
+                "cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "collision",
+    "colloquial",
+    "colloquialism",
+    "colloquially",
+    "colon",
+    "colonel",
+    "colonial",
+    "colonialism",
+    "colonialist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366352_ca090086de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366352_dd73a530fe_o.png",
+      "id_image": "colon_2375494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676494_6a89f39773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676494_7c83611734_o.png",
+      "id_image": "colon_2688248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436693_146e2c8021_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436693_e197c0b506_o.png",
+      "id_image": "colon_286488"
+    }
+  ]
+}

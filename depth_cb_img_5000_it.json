@@ -1,0 +1,93 @@
+{
+  "english": "depth",
+  "phat_am": "depθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ sâu",
+          "definition": "the distance from the top downwards or from the surface inwards especially if great",
+          "world_new": [
+            "distance",
+            "top",
+            "surface",
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Coal is mined at a depth of 1,000 m.",
+              "world_new": [
+                "m"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cường độ",
+          "definition": "intensity or strength especially if great",
+          "world_new": [
+            "intensity",
+            "strength",
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The depth of colour in the painting is astonishing",
+              "world_new": [
+                "colour",
+                "painting",
+                "astonishing"
+              ]
+            },
+            {
+              "ex_of_definition": "The depth of his feeling prevented him from speaking.",
+              "world_new": [
+                "feeling",
+                "speaking"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Discursive anchoring, in other words, is part of communicative practice that penetrates the depths of experience.",
+    "Variations in these ratios reflect the different degrees and depths of partial melting and/or differences in source composition.",
+    "The resulting files of depths to particular velocities along the track of the profiles were then processed to produce maps by the method described above.",
+    "548 batholith crystallized at different depths and have been juxtaposed at the present level of erosion.",
+    "Generally, copal found at the greatest depths was the most fossilized, thus the most labor-intensive and valuable.",
+    "They drew him from the depths; they led him a blind and tottering man.",
+    "We also discuss the particular depths at which the third-order asymptotic analyses break down.",
+    "The equilibrium depths (open symbols) are also shown in figure 19."
+  ],
+  "list_see_also": [
+    "depths",
+    "in-depth",
+    "in depth"
+  ],
+  "list_browse": [
+    "depression",
+    "deprivation",
+    "deprive",
+    "deprived",
+    "depth",
+    "depths",
+    "deputation",
+    "depute",
+    "deputize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374642_7b1d062a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374642_cc7c97f4db_o.png",
+      "id_image": "depth_2280439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684899_a8583cbc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684899_157f2412c7_o.png",
+      "id_image": "depth_5772867"
+    }
+  ]
+}

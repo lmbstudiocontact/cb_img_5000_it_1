@@ -1,0 +1,81 @@
+{
+  "english": "cooker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bếp nướng",
+          "definition": "an apparatus on which food is cooked; a stove",
+          "world_new": [
+            "apparatus",
+            "food",
+            "stove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has an electric cooker.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loại quả dùng để nấu ăn",
+          "definition": "an apple etc used in cooking, not for eating raw.",
+          "world_new": [
+            "apple",
+            "cooking",
+            "raw"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In most houses a cooker is ordinarily installed.",
+    "For example, sideboards should be placed close together, whereas a fridge and a cooker should be far away from each other.",
+    "The most useful combination has turned out to be a heat sensor above the cooker which when activated both switches off the cooker and alerts the staff.",
+    "Those which have been most commonly identified are dressing, doing hair, standing, going to bed, using a cooker, walking, climbing stairs, washing and bathing, and toileting.",
+    "I am dealing with cookers first, because this is the area in which most consumer complaints have arisen.",
+    "Solar cookers have to be used outside when the sun is hot.",
+    "Food was usually prepared on a wood-fired range although one family used a gas cooker and another a converted oil drum.",
+    "The solution is a pressure cooker which provides a tenderly cooked meal at low cost."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "convulsive",
+    "convulsively",
+    "cook",
+    "cook up",
+    "cooker",
+    "cookery",
+    "cookery book",
+    "cookie",
+    "cooking"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305076_a27a42fc7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305076_7fc2ea755e_o.png",
+      "id_image": "cooker_170970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305041_c30687860c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305041_3886a88d1b_o.png",
+      "id_image": "cooker_4405769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660444_5a0dc0063c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660444_dfdd567a6d_o.png",
+      "id_image": "cooker_4975302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660479_8c569b28ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660479_9c786d5b19_o.png",
+      "id_image": "cooker_675834"
+    }
+  ]
+}

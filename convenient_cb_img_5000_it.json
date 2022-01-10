@@ -1,0 +1,95 @@
+{
+  "english": "convenient",
+  "phat_am": "kənˈviːnjənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuận tiện",
+          "definition": "suitable; not causing trouble or difficulty",
+          "world_new": [
+            "trouble",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When would it be convenient for me to come?"
+            }
+          ]
+        },
+        {
+          "mean_english": "thuận lợi",
+          "definition": "easy to use, run etc",
+          "world_new": [
+            "easy",
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a convenient size of house.",
+              "world_new": [
+                "size",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ đi đến",
+          "definition": "easy to reach etc; accessible",
+          "world_new": [
+            "easy",
+            "reach",
+            "accessible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Keep this in a convenient place.",
+              "world_new": [
+                "place"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it will be convenient to give a terse summary of the notions of (bi)simulations, presented within our own framework.",
+    "For partial and complete adherers, making changes to the diet was preferable, easier, more affordable and more convenient than increasing physical activity.",
+    "The scheduling of the post-intervention questionnaire had to be arranged at a time which was convenient to the schools.",
+    "A convenient testing time with the child and a caregiver was arranged.",
+    "The concept of an argumentative structure, with the two notions of argument and acceptability, are a convenient framework for developing practical reasoning tools.",
+    "Art of government, on the other hand, is the right disposition of things, arranged so as to lead to a convenient end.",
+    "If the identified control was not at home at the time of the call, a mutually convenient time was arranged to conduct the interview.",
+    "Although this is a mathematically convenient assumption, the way humans look at the world does not always conform to it."
+  ],
+  "list_see_also": [
+    "conveniently",
+    "convenience"
+  ],
+  "list_browse": [
+    "convection",
+    "convene",
+    "convener",
+    "convenience",
+    "convenient",
+    "conveniently",
+    "convent",
+    "convent school",
+    "convention"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305941_c3e46f8c14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305941_8bfc736d02_o.png",
+      "id_image": "convenient_5773085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042930_6d1425c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042930_779002bc4c_o.png",
+      "id_image": "convenient_5906060"
+    }
+  ]
+}

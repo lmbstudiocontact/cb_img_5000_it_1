@@ -1,0 +1,118 @@
+{
+  "english": "compare",
+  "phat_am": "kəmˈpeə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "so sánh",
+          "definition": "to put (things etc) side by side in order to see to what extent they are the same or different",
+          "world_new": [
+            "side",
+            "side",
+            "order",
+            "see",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you compare his work with hers you will find hers more accurate",
+              "world_new": [
+                "work",
+                "find",
+                "accurate"
+              ]
+            },
+            {
+              "ex_of_definition": "This is a good essay compared with your last one.",
+              "world_new": [
+                "essay",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ví",
+          "definition": "to describe as being similar to",
+          "world_new": [
+            "describe",
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She compared him to a greedy pig.",
+              "world_new": [
+                "greedy",
+                "pig"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng được so sánh",
+          "definition": "to be near in standard or quality",
+          "world_new": [
+            "standard",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He just can’t compare with Mozart."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A variety of text learning algorithms has been studied and compared in relation to user profiling.",
+    "The results will be compared against various other systems published in the literature.",
+    "Finally, the statistical analysis module determines appropriate sample size and estimates form errors by comparing measured data with required data.",
+    "Depending on the threshold selected, the potential impact on the respective posts can be compared.",
+    "As an example, suppose that we pooled all samples from the same gender and compared the differential expression of some genes between the two genders.",
+    "In 2002, however, investment dropped as much as 61% compared with 2001.",
+    "One human study with magnetic resonance spectroscopy showed changes in the hippocampus in elderly memory training participants compared to controls.",
+    "By contrast, a much higher proportion of the large gene family of olfactory receptors have retained their functionality in mice, as compared to humans."
+  ],
+  "list_see_also": [
+    "comparable",
+    "comparative",
+    "comparatively",
+    "comparison"
+  ],
+  "list_browse": [
+    "company",
+    "comparable",
+    "comparative",
+    "comparatively",
+    "compare",
+    "comparison",
+    "compartment",
+    "compass",
+    "compass rose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432498_8c174769dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432498_9914153174_o.png",
+      "id_image": "compare_2036930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672084_a2b1218dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672084_8a6fdb4076_o.png",
+      "id_image": "compare_2748413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672049_f2f4bacc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672049_dcc64a2ff1_o.png",
+      "id_image": "compare_2782038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361612_1e7c63dbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361612_d594b135e7_o.png",
+      "id_image": "compare_4410211"
+    }
+  ]
+}

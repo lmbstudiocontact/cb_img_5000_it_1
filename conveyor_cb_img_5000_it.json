@@ -1,0 +1,64 @@
+{
+  "english": "conveyor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật chuyên chở",
+          "definition": "a person or thing that conveys",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The gentle handling offered by the conveyor makes it suitable for food products that are prone to breakage.",
+              "world_new": [
+                "gentle",
+                "suitable",
+                "food",
+                "prone",
+                "breakage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "convexity",
+    "convey",
+    "conveyance",
+    "conveyancing",
+    "conveyor",
+    "conveyor belt",
+    "convict",
+    "conviction",
+    "convince"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660749_b7f222968d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660749_aa41557b90_o.png",
+      "id_image": "conveyor_1245742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042335_3a5ddb81c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042335_e11cedfef3_o.png",
+      "id_image": "conveyor_314109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305351_2c055c2559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305351_bb895613ca_o.png",
+      "id_image": "conveyor_783040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420393_c5386731a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420393_dd8accb962_o.png",
+      "id_image": "conveyor_802773"
+    }
+  ]
+}

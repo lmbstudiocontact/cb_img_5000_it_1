@@ -1,0 +1,129 @@
+{
+  "english": "complete",
+  "phat_am": "kəmˈpliːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầy đủ",
+          "definition": "whole; with nothing missing",
+          "world_new": [
+            "missing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a complete set of Shakespeare’s plays."
+            }
+          ]
+        },
+        {
+          "mean_english": "toàn diện",
+          "definition": "thorough",
+          "world_new": [
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My car needs a complete overhaul",
+              "world_new": [
+                "car",
+                "overhaul"
+              ]
+            },
+            {
+              "ex_of_definition": "a complete surprise.",
+              "world_new": [
+                "surprise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn thành",
+          "definition": "finished",
+          "world_new": [
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My picture will soon be complete.",
+              "world_new": [
+                "picture",
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn thành",
+          "definition": "to finish; to make complete",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When will he complete the job?",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "This stamp completes my collection.",
+              "world_new": [
+                "stamp",
+                "my",
+                "collection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A third complex was under construction in 1225, and completed in 1260, consisting of common rooms, outbuildings, refectory, dormitory, cloister, kitchen, bakehouse and stables.",
+    "All except for three had completed secondary education.",
+    "The questionnaire was completed in the classroom in the presence of the researcher and member of the teaching staff.",
+    "Respondent age, gender and education level completed at the time of the interview were included in all models as demographic control variables.",
+    "Although the field work for this study was completed before these books appeared, the writing up has been done with these studies in mind.",
+    "They completed telephone screening (n>3500) and diagnostic interviews (n=608), and provided informed consent to enter the protocol (n=156).",
+    "The self-administered questionnaire (which was completed between the first and the second interview) included a dietary inventory and some mental health and attitudinal scales.",
+    "Results of the end of semester exam - completed three months following data collection - were analyzed."
+  ],
+  "list_see_also": [
+    "completely",
+    "completeness",
+    "completion"
+  ],
+  "list_browse": [
+    "complaint",
+    "complement",
+    "complementary",
+    "complementary colour",
+    "complete",
+    "completely",
+    "completeness",
+    "completion",
+    "complex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431083_c1a070940f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431083_043b5bb67d_o.png",
+      "id_image": "complete_1617768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431018_383cd43cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431018_70abcded89_o.png",
+      "id_image": "complete_3860428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052570_505ca8ccc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052570_b0352b5c6d_o.png",
+      "id_image": "complete_5059804"
+    }
+  ]
+}

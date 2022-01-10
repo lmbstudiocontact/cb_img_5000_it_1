@@ -1,0 +1,157 @@
+{
+  "english": "dream",
+  "phat_am": "driːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấc mơ",
+          "definition": "thoughts and pictures in the mind that come mostly during sleep",
+          "world_new": [
+            "mind",
+            "mostly",
+            "sleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a terrible dream last night.",
+              "world_new": [
+                "I",
+                "terrible",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự mơ màng",
+          "definition": "a state of being completely occupied by one’s own thoughts",
+          "world_new": [
+            "state",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t sit there in a dream!",
+              "world_new": [
+                "sit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều mơ ước",
+          "definition": "something perfect or very beautiful",
+          "world_new": [
+            "perfect",
+            "beautiful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your house is a dream!",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ước vọng",
+          "definition": "an ambition or hope",
+          "world_new": [
+            "ambition",
+            "hope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s my dream to win a Nobel Prize.",
+              "world_new": [
+                "my",
+                "win"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mơ ước",
+          "definition": "(sometimes with of) to see visions and pictures in the mind, especially when asleep",
+          "world_new": [
+            "see",
+            "mind",
+            "asleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For years I dreamed of being a great artist",
+              "world_new": [
+                "I",
+                "great",
+                "artist"
+              ]
+            },
+            {
+              "ex_of_definition": "I dreamt last night that the house had burnt down.",
+              "world_new": [
+                "I",
+                "night",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three questions not solved by revonsuo's theory are: (1) why are realistic threat perceptions absent from many if not most recurrent dreams?",
+    "My memories are fresh and vivid as some of the more powerful dreams that come to me in the dark before morning.",
+    "The need is not for new revelation but, rather, for freshly inspired inter pretation, and it is in this regard that dreams are so critical.",
+    "All features rise or fall together so that variation in the magnitude of dreaming describes the joint variation in all features.",
+    "Home rule all round within an imperial framework is as dead and perhaps seems no less fantastical than long-vanished dreams of racial imperialism.",
+    "Just as dreams are understood through the tradition, the tradition is understood, by some, through dreams.",
+    "Different fields have widely varying definitions for dreaming.",
+    "There can be many possible sources of this endogenous activity during sleep, all of which could be considered to \"cause\" dreaming in some sense."
+  ],
+  "list_see_also": [
+    "dreamer",
+    "dreamless",
+    "dreamy",
+    "dreamily",
+    "dreaminess",
+    "dream up"
+  ],
+  "list_browse": [
+    "dreadful",
+    "dreadfully",
+    "dreadfulness",
+    "dreadlocks",
+    "dream",
+    "dream up",
+    "dreamer",
+    "dreamily",
+    "dreaminess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421673_09192ca28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421673_bfb19005a3_o.png",
+      "id_image": "dream_3890845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306476_6e565907d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306476_7a84a423cb_o.png",
+      "id_image": "dream_4743132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350637_df0f7b4d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350637_c650fba373_o.png",
+      "id_image": "dream_6213273"
+    }
+  ]
+}

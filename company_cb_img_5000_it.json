@@ -1,0 +1,139 @@
+{
+  "english": "company",
+  "phat_am": "ˈkampəni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công ty",
+          "definition": "a number of people joined together for a (commercial) purpose",
+          "world_new": [
+            "number",
+            "people",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a glass-manufacturing company."
+            }
+          ]
+        },
+        {
+          "mean_english": "khách khứa",
+          "definition": "guests",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m expecting company tonight.",
+              "world_new": [
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình bạn hữu",
+          "definition": "companionship",
+          "world_new": [
+            "companionship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was grateful for her company",
+              "world_new": [
+                "I",
+                "grateful"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s always good company."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm người làm việc chung cùng nhau",
+          "definition": "a group of companions",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got into bad company.",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đại đội",
+          "definition": "a large group of soldiers, especially part of an infantry battalion",
+          "world_new": [
+            "large",
+            "group",
+            "part",
+            "infantry",
+            "battalion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the 2nd Missouri Infantry Company."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Oil companies have visited these localities but their collecting was more in the nature of spot-checks.",
+    "To let respondents spontaneously express their opinions, an open-ended question requested of them to list conditions in their companies which they found attractive and unattractive.",
+    "Shareholders expect returns on investments in pharmaceutical and biotechnologic companies.",
+    "This difference reflects the purposeful selection of producers by the organic contracting company, especially during the introduction of organic agriculture to the region.",
+    "A major turning point in the company's history was the six-month world tour which was undertaken in 1964.",
+    "Senior staff were headhunted by other companies, whilst there was a great turnover in staff amongst the labouring grades.",
+    "Therefore, an efficient product configuration system is required for a company to handle information regarding the characteristics of many product variants.",
+    "But there is always the pain and the loss that the calculating tables of insurance companies are not able to express, calculate, or compensate for."
+  ],
+  "list_see_also": [
+    "keep (someone) company",
+    "part company (with)"
+  ],
+  "list_browse": [
+    "compact disc",
+    "companion",
+    "companionable",
+    "companionship",
+    "company",
+    "comparable",
+    "comparative",
+    "comparatively",
+    "compare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317511_18051d87bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317511_ac8f2e080d_o.png",
+      "id_image": "company_2761008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053990_72ce3e6c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053990_387e398894_o.png",
+      "id_image": "company_2798710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053935_541b9250df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053935_30034dc894_o.png",
+      "id_image": "company_4514945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432558_35809829ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432558_e1f2b4e809_o.png",
+      "id_image": "company_5663343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054050_c19a1176ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054050_3898c7ebe9_o.png",
+      "id_image": "company_992824"
+    }
+  ]
+}

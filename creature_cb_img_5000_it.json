@@ -1,0 +1,72 @@
+{
+  "english": "creature",
+  "phat_am": "ˈkriːtʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh vật",
+          "definition": "an animal or human being",
+          "world_new": [
+            "animal",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "all God’s creatures."
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ hạ",
+          "definition": "a term of contempt or pity",
+          "world_new": [
+            "term",
+            "contempt",
+            "pity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The poor creature could hardly stand.",
+              "world_new": [
+                "poor",
+                "hardly",
+                "stand"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What understanding of the creature's causal contribution will allow us to maintain that such theories really are co-operative ?",
+    "Violations of normative rules by cognitively humble creatures in their natural environments are more of a problem for normative rules than for the creatures.",
+    "Many virtual creatures are intended by their human creators as computer simulations of real life.",
+    "Their minds and wills atrophied, and they became solely creatures of sensual instinct.",
+    "A tentative suggestion is that the birds and animals may represent totemic creatures associated with patri-clans.",
+    "Furthermore, when looking for a controlled and manipulated creature's essence, being controlled and manipulated is perceived as a part of its very essence.",
+    "Despite the common ground of the titles and aspirations of these two books, they are very different creatures.",
+    "My count omits the border fantasy creatures with wings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "creatively",
+    "creativeness",
+    "creativity",
+    "creator",
+    "creature",
+    "crèche",
+    "credibility",
+    "credible",
+    "credibly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676944_6df95c5b14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676944_f8b69e909e_o.png",
+      "id_image": "creature_3539381"
+    }
+  ]
+}

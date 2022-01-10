@@ -1,0 +1,126 @@
+{
+  "english": "cost",
+  "phat_am": "kost",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra giá",
+          "definition": "to be obtainable at a certain price",
+          "world_new": [
+            "obtainable",
+            "certain",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This jacket costs 75 dollars",
+              "world_new": [
+                "jacket",
+                "costs"
+              ]
+            },
+            {
+              "ex_of_definition": "The victory cost two thousand lives.",
+              "world_new": [
+                "victory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ước tính giá phải trả",
+          "definition": "(past tense, past participle costed) to estimate the cost of (a future project)",
+          "world_new": [
+            "estimate",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The caterer costed the reception at three hundred dollars.",
+              "world_new": [
+                "caterer",
+                "reception"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá tiền",
+          "definition": "the price to be paid (for something)",
+          "world_new": [
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the cost of this coat?",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We expect the opportunity cost hypothesis to be most relevant for members of the traditional conservative parties, who have stronger ties to the business community.",
+    "Figure 2a illustrates specifically the total expected sampling cost of those plans and clearly shows a trend of increasing cost with smaller sampling units.",
+    "The adjustment cost hypothesis reduces the elasticity of capital supply.",
+    "This reduces the costs of financial intermediation and raises the overall return on investment.",
+    "The reduction in collateral relative to debt raises the costs of lending and reduces the return on investment and the aggregate rate of growth.",
+    "First, pricing and other policies that artificially 'subsidize' the returns to conversion activities on forest land or the costs of conversion need to be reformed.",
+    "Using the connection between language and reasoning to improve concept generation may assist in reducing the overall cost in the product realization cycle.",
+    "In contrast, when eco-forestry is unsubsidized, groups meeting their own set-up costs, the returns per hectare are still positive but very modest."
+  ],
+  "list_see_also": [
+    "costly",
+    "costliness",
+    "costs",
+    "at all costs"
+  ],
+  "list_browse": [
+    "cosmic",
+    "cosmonaut",
+    "cosmopolitan",
+    "cosset",
+    "cost",
+    "costliness",
+    "costly",
+    "costs",
+    "costume"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444443_808b8c6698_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444443_ae01a750e2_o.png",
+      "id_image": "cost_4310151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684379_ca6fa9a3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684379_92da61c9cc_o.png",
+      "id_image": "cost_4577192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684319_1022049043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684319_8b2f5fe578_o.png",
+      "id_image": "cost_5138520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329361_b59a590ea2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329361_9f2546fee3_o.png",
+      "id_image": "cost_6078490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329346_c7d53a4b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329346_0f1a4345d9_o.png",
+      "id_image": "cost_6159959"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "favourite",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "được ưa thích nhất",
+          "definition": "best-liked; preferred",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His favourite city is Paris.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật được yêu thích hơn những người hoặc vật khác",
+          "definition": "a person or thing that one likes best",
+          "world_new": [
+            "person",
+            "best"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Of all her paintings that is my favourite.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To be more precise, he runs away from the law by defiantly refusing to win the race as the favourite competitor.",
+    "It must be added that young listeners are not always concerned as to which genres their favourite music belongs.",
+    "It brokered back room deals to craft winning tickets and assure legislative ratification of its favourites.",
+    "It would then be interesting to have a chat-room on another site which discussed and voted for favourites.",
+    "Both these standpoints are popular, though convergence appears to be the favourite at present.",
+    "His conciliatory blend of piety and erudition as well as his medical expertise made him an imperial favourite.",
+    "During the 1950s, audiovisual material became the favourite toy of most colonial officials responsible for welfare and development programs.",
+    "The choice has been problematic and those familiar with the historic issues of the journal may search in vain for their favourites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fauna",
+    "favour",
+    "favourable",
+    "favourably",
+    "favourite",
+    "favouritism",
+    "fawn",
+    "fax",
+    "fax number"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071100_470306c414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071100_a63eec90b0_o.png",
+      "id_image": "favourite_1836022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334066_7a19cb8f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334066_6b0ceef434_o.png",
+      "id_image": "favourite_2373986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449043_55f3a60cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449043_6a6b785f66_o.png",
+      "id_image": "favourite_4001236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333961_e3cb89e03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333961_e39ca45f0f_o.png",
+      "id_image": "favourite_4780253"
+    }
+  ]
+}

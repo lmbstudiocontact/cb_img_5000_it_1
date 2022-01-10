@@ -1,0 +1,102 @@
+{
+  "english": "death",
+  "phat_am": "deθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái chết",
+          "definition": "the act of dying",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There have been several deaths in the town recently",
+              "world_new": [
+                "town",
+                "recently"
+              ]
+            },
+            {
+              "ex_of_definition": "Most people fear death.",
+              "world_new": [
+                "people",
+                "fear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị giết chết",
+          "definition": "something which causes one to die",
+          "world_new": [
+            "die"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smoking too much will be the death of him."
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng chết",
+          "definition": "the state of being dead",
+          "world_new": [
+            "state",
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her eyes were closed in death."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Characteristics of effective home-visiting programs include multidimensional assessment, many follow-up visits, and targeting people at lower risk of death.",
+    "The accumulation of polymers within the secretory pathway leads to hepatocyte death and, ultimately, to liver cirrhosis.",
+    "His reputation suffered after his death (his style did not develop during the last few decades of his life) and has still not been rehabilitated.",
+    "My death is the event that is supposed to make us morally concerned in the first place.",
+    "The parents were transferred to new bean plants to avoid overcrowding and early death of plants and aphids.",
+    "Intervals after stillbirths, after death under 2 years of age, and before and after illegitimacy were recorded separately and excluded from general tables.",
+    "The influence of the recent death of a spouse on the parenting function of the surviving parent.",
+    "Of the eight deaths observed on study, six were in the placebo group and two were in the creatine group."
+  ],
+  "list_see_also": [
+    "deathly",
+    "death bed",
+    "death certificate",
+    "death penalty",
+    "at death’s door",
+    "catch one’s death (of cold)",
+    "put to death",
+    "to death"
+  ],
+  "list_browse": [
+    "dean",
+    "dear",
+    "dearly",
+    "dearth",
+    "death",
+    "death bed",
+    "death certificate",
+    "death penalty",
+    "deathly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308226_6c1364d205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308226_975c57b075_o.png",
+      "id_image": "death_5778357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423398_683209bf2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423398_bf0d5ddd3b_o.png",
+      "id_image": "death_6001115"
+    }
+  ]
+}

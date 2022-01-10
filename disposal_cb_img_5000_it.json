@@ -1,0 +1,62 @@
+{
+  "english": "disposal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động vứt bỏ cái gì",
+          "definition": "the act of getting rid of something",
+          "world_new": [
+            "act",
+            "rid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the disposal of nuclear waste.",
+              "world_new": [
+                "nuclear",
+                "waste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Statistics on court disposals during the current year are not yet available.",
+    "All the land and other assets had not been valued and there had been no consideration of a clawback provision should the company profit from subsequent disposals.",
+    "With voluntary disposals, a sitting tenant has the right to buy.",
+    "As a result, for instance, the number of manufactured products, amount of disposals, and total sales figure in that turn are calculated.",
+    "The second stage of control is the authorisation of disposals of radioactive waste.",
+    "I remain satisfied that such disposals are safe.",
+    "Therefore, there should be more substantial fines, or disposals, which have an impact on the life of that person.",
+    "Details of such disposals are kept by health boards but are not held centrally."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "displease",
+    "displeased",
+    "displeasure",
+    "disposable",
+    "disposal",
+    "dispose",
+    "dispose of",
+    "disposition",
+    "dispossess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359252_44e8238885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359252_8a5edc40ee_o.png",
+      "id_image": "disposal_2911660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051605_eca663514f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051605_cb3956da6b_o.png",
+      "id_image": "disposal_3154583"
+    }
+  ]
+}

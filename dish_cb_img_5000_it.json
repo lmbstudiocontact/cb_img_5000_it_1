@@ -1,0 +1,79 @@
+{
+  "english": "dish",
+  "phat_am": "diʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đĩa",
+          "definition": "a plate, bowl etc in which food is brought to the table",
+          "world_new": [
+            "plate",
+            "bowl",
+            "food",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a large shallow dish.",
+              "world_new": [
+                "large",
+                "shallow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "món ăn",
+          "definition": "food mixed and prepared for the table",
+          "world_new": [
+            "food",
+            "mixed",
+            "prepared",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She served us an interesting dish containing chicken and almonds.",
+              "world_new": [
+                "interesting",
+                "chicken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "dishtowel",
+    "dishwasher",
+    "dish-washing",
+    "dishwater",
+    "dish out"
+  ],
+  "list_browse": [
+    "disguise",
+    "disgust",
+    "disgusting",
+    "disgustingly",
+    "dish",
+    "dish out",
+    "dish-washing",
+    "dishearten",
+    "dishevelled"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360837_08e86c9ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360837_d213bceb18_o.png",
+      "id_image": "dish_4975202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431518_0dc7055b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431518_dc7ae15745_o.png",
+      "id_image": "dish_4975252"
+    }
+  ]
+}

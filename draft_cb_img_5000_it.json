@@ -1,0 +1,164 @@
+{
+  "english": "draft",
+  "phat_am": "draːft",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phác thảo",
+          "definition": "a rough sketch or outline of something, especially written",
+          "world_new": [
+            "rough",
+            "sketch",
+            "outline"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve made a rough draft of my speech.",
+              "world_new": [
+                "rough",
+                "my",
+                "speech"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hối phiếu",
+          "definition": "an order (to a bank etc) for the payment of money",
+          "world_new": [
+            "order",
+            "bank",
+            "payment",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a draft for $80."
+            }
+          ]
+        },
+        {
+          "mean_english": "chế độ nghĩa vụ quân sự",
+          "definition": "conscription",
+          "world_new": [
+            "conscription"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He emigrated to avoid the draft.",
+              "world_new": [
+                "avoid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân đội",
+          "definition": "a group (of soldiers etc) taken from a larger group",
+          "world_new": [
+            "group",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a draft of troops.",
+              "world_new": [
+                "troops"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dự thảo",
+          "definition": "to make in the form of a rough plan",
+          "world_new": [
+            "form",
+            "rough",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you draft a report on this?",
+              "world_new": [
+                "report"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhập ngũ",
+          "definition": "to conscript into the army etc",
+          "world_new": [
+            "conscript",
+            "army"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was drafted into the Navy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More precisely, in an earlier draft of this paper the following was asked.",
+    "A reflection on ten years experience of providing qualitative research training in primary care research projects proposals or draft papers for publication.",
+    "The object recognition behaviour shown by mammals is not expected to be either equivalent to, or even to be a draft of, this human ability.",
+    "The poverty of direct sources aside, it is demonstrable that there were more technologies available for correctable musical drafts than is now generally acknowledged.",
+    "Hierarchies are rigid when it comes to the approval of the drafts and proposals prepared by a civil servant (fonctionnaire).",
+    "I would also thank the anonymous referees who helped me so much to improve the early draft of this paper.",
+    "Already, writers no longer produce manuscripts: early drafts of current work are electronically overwritten by later revisions.",
+    "The final chapter reviews developments in selected other jurisdictions and provides a draft of a parents' code."
+  ],
+  "list_see_also": [
+    "dodge the draft",
+    "draft dodger",
+    "draft evasion"
+  ],
+  "list_browse": [
+    "drab",
+    "drably",
+    "drabness",
+    "drachma",
+    "draft",
+    "draft dodger",
+    "draft evasion",
+    "drag",
+    "drag and drop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662569_8494aaa793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662569_3e4c52752e_o.png",
+      "id_image": "draft_1289255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044225_a4673302a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044225_07569e8d72_o.png",
+      "id_image": "draft_1289256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307246_ebe491027b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307246_24d9e0b8a0_o.png",
+      "id_image": "draft_3884716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422338_05f92cf184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422338_14579371a8_o.png",
+      "id_image": "draft_4208388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662474_ba97666f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662474_e03ea47534_o.png",
+      "id_image": "draft_4595100"
+    }
+  ]
+}

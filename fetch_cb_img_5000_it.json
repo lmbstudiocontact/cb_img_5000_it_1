@@ -1,0 +1,77 @@
+{
+  "english": "fetch",
+  "phat_am": "fetʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tìm về, đem về",
+          "definition": "to go and get (something or someone) and bring it",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He threw a stick for the dog to fetch.",
+              "world_new": [
+                "stick",
+                "dog"
+              ]
+            },
+            {
+              "ex_of_definition": "Fetch me some bread.",
+              "world_new": [
+                "bread"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bán được với (cái giá là)",
+          "definition": "to be sold for (a certain price)",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The picture fetched $100.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As it is, this fruit only just fetches enough to produce a small profit over and above freight charges.",
+    "Then came a tube railway, and eventually that land was fetching £3,000 an acre, ten times-the original price.",
+    "In some cases the grower conveyed them to the market himself and in others the wholesaler in the market fetched them from the grower.",
+    "We know that at present houses which are 20 or 30 years old are fetching three or four times as much as their pre-war value.",
+    "Two-bedroom houses which prewar cost between £450 and £600 freehold are now fetching £20,000 to £25,000.",
+    "He might buy it and sell it a couple of months later and be surprised to find that what he paid £80 for fetches £24,000.",
+    "They fetched prices between, at the one extreme, £21 million, and, at the other.",
+    "First, she invents a key, encrypts the known body with it, and checks whether the result matches the encrypted authenticator fetched from the network."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fester",
+    "festival",
+    "festive",
+    "festivity",
+    "fetch",
+    "fête",
+    "fetid",
+    "fetish",
+    "fetishism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446183_9bc1105bb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446183_2b700367f1_o.png",
+      "id_image": "fetch_6401089"
+    }
+  ]
+}

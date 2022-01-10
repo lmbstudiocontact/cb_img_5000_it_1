@@ -1,0 +1,67 @@
+{
+  "english": "cyclone",
+  "phat_am": "ˈsaikləun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gió xoáy",
+          "definition": "a violent wind-storm",
+          "world_new": [
+            "violent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cyclone ripped the roofs off houses and tore up trees."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The potential flow is towards the sink position and the creation of a cyclone is thus easily explained.",
+    "Floods, hail, and cyclones have on rare occasions produced the same effect.",
+    "Epidemics from pests and diseases, as well as droughts and cyclones, only made matters worse.",
+    "Of the remaining 2030 stems, 129 (6% + 1%) were dead from cyclone damage and 506 (25% + 2%) had experienced major damage.",
+    "The structure of the classic cyclone is contained in all introductory texts on meteorology.",
+    "The cyclones are discernably stronger than the anticyclones, implying the presence of a cyclonic shear over the forcing region.",
+    "He attributed this to the passage of a cyclone.",
+    "An image cyclone is generated near the left-hand wall by the normal flow boundary condition, and the cyclone-anticyclone pair propagates dgwnstream."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cycle",
+    "cyclic",
+    "cyclically",
+    "cyclist",
+    "cyclone",
+    "cygnet",
+    "cylinder",
+    "cylindrical",
+    "cymbal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667374_a93dd5bf3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667374_c72201cafc_o.png",
+      "id_image": "cyclone_1999797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667359_48dda7328e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667359_c2cb472fa2_o.png",
+      "id_image": "cyclone_3436669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049080_1ae3a50cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049080_6f369bd855_o.png",
+      "id_image": "cyclone_594603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049015_104cdaf23d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049015_08b590d3bb_o.png",
+      "id_image": "cyclone_6182921"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "evacuate",
+  "phat_am": "iˈvӕkjueit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "di tản",
+          "definition": "to leave or withdraw from (a place), especially because of danger",
+          "world_new": [
+            "leave",
+            "withdraw",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The troops evacuated their position because of the enemy’s advance.",
+              "world_new": [
+                "troops",
+                "their",
+                "position",
+                "advance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sơ tán",
+          "definition": "to cause (inhabitants etc) to leave a place, especially because of danger",
+          "world_new": [
+            "cause",
+            "leave",
+            "place",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children were evacuated from the city to the country during the war.",
+              "world_new": [
+                "city",
+                "country",
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The uterus should be evacuated of any placental tissue or any retained blood clots.",
+    "Let us ignore this difficulty and suppose we can totally evacuate the chamber.",
+    "This can be simply evacuated in the presence of a good light source and a good assistant.",
+    "However, the ammunition still on board has to be evacuated in order to carry out further archeological work.",
+    "So to evacuate a closure one simply jumps to its evacuation code, regardless of whether the closure is now a forwarding pointer or not.",
+    "Instead, it was decided to evacuate the personnel by means of an airlift.",
+    "If the integer is not in the range of the table, the closure is evacuated to to-space as usual.",
+    "Surprisingly, the authors evacuated the functional role of learning in their discussion."
+  ],
+  "list_see_also": [
+    "evacuation"
+  ],
+  "list_browse": [
+    "euphoric",
+    "euro",
+    "European",
+    "euthanasia",
+    "evacuate",
+    "evacuation",
+    "evade",
+    "evaluate",
+    "evaluation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358277_f942bf9f29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358277_717aba094b_o.png",
+      "id_image": "evacuate_1973154"
+    }
+  ]
+}

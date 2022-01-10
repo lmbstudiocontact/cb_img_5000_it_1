@@ -1,0 +1,86 @@
+{
+  "english": "combination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kết hợp",
+          "definition": "(the result of) combining or being combined",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The town was a combination of old and new architecture.",
+              "world_new": [
+                "town",
+                "old",
+                "architecture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dãy mã số mở ổ khoá",
+          "definition": "a set of numbers used to open certain types of lock",
+          "world_new": [
+            "open",
+            "certain",
+            "lock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He couldn’t open the safe as he had forgotten the combination",
+              "world_new": [
+                "open",
+                "safe"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a combination lock.",
+              "world_new": [
+                "lock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Varying combinations of muscle groups were stimulated and foot switches were used to trigger each channel at the appropriate period of the gait cycle.",
+    "To our knowledge, this is the first attempt to automatize the recognition of lf-instances among candidate combinations on a broader scale.",
+    "The generalizations are advanced on the basis of statistical data from the population census of 1897 in combination with other quantitative and qualitative sources.",
+    "Treatment solutions are typically constructed with combinations of complementary therapies, or combinations of complementary therapies and orthodox health services.",
+    "Moreover, to ignore this combination of linguistic and sociocultural factors would degrade psychological research.",
+    "Bilingual acquisition occurs in different sociocultural contexts, and it entails different language combinations and modalities (signed and oral).",
+    "Such summation occurs for all combinations of directions and determines the time course of relative probabilities for combinations.",
+    "It is a problem that most electroacoustic educators seek to address in combination with the provision of extensive practical composition skills."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coma",
+    "comb",
+    "combat",
+    "combatant",
+    "combination",
+    "combine",
+    "combine harvester",
+    "combustible",
+    "combustion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675274_4476902fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675274_b3b0d4c68a_o.png",
+      "id_image": "combination_4428829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057025_4a8fe884a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057025_57bc8a8029_o.png",
+      "id_image": "combination_5052338"
+    }
+  ]
+}

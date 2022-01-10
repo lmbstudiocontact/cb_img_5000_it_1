@@ -1,0 +1,99 @@
+{
+  "english": "despair",
+  "phat_am": "diˈspeə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thất vọng",
+          "definition": "to lose hope (of)",
+          "world_new": [
+            "lose",
+            "hope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I despair of ever teaching my son anything.",
+              "world_new": [
+                "I",
+                "ever",
+                "teaching",
+                "my",
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tuyệt vọng",
+          "definition": "the state of having given up hope",
+          "world_new": [
+            "state",
+            "hope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was filled with despair at the news.",
+              "world_new": [
+                "filled",
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ai thất vọng",
+          "definition": "(with the) something which causes someone to despair",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is the despair of his mother.",
+              "world_new": [
+                "mother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despairing, tried by distrust and trickery on the one hand and afraid to act for the necessity of not giving if it can be helped.",
+    "I suspect that, having read it, they despaired of having anything with which to attack us.",
+    "All the councillors in my local authority are despairing because they do not know what to do.",
+    "His speech was full of witticism, full of innuendo; the sort of speech that despairs really to meet the arguments put forward from these benches.",
+    "I have heard that repeatedly over the past few years—in despairing tones, from ministerial colleague.",
+    "In his two despairing paragraphs at the end he said that defence public expenditure was not under control.",
+    "Migration is taking place, and we can understand men, despairing of the future in this area, who are leaving.",
+    "I realise that such treatment is contained in no medical text, but everyone connected with the hospital despairs of the planning paralysis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "desktop",
+    "desktop publishing",
+    "desolate",
+    "desolation",
+    "despair",
+    "desperate",
+    "desperately",
+    "desperation",
+    "despicable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328296_ca4d4bd1c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328296_3c82f51c04_o.png",
+      "id_image": "despair_3220751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373102_b3bfb9252e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373102_983eaf7cc2_o.png",
+      "id_image": "despair_708667"
+    }
+  ]
+}

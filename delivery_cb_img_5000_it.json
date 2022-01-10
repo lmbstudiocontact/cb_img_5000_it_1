@@ -1,0 +1,90 @@
+{
+  "english": "delivery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giao thư, hàng",
+          "definition": "(an act of) handing over (letters, parcels etc)",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are two parcel deliveries a week.",
+              "world_new": [
+                "parcel",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá trình sinh đẻ",
+          "definition": "the process of the birth of a child",
+          "world_new": [
+            "process",
+            "birth",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the delivery of the twins."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prevention of preterm labour and delivery is the single most important challenge to modern obstetrics today.",
+    "Liposomes are lipid membrane particles that serve as vehicles or delivery systems for vaccine antigens.",
+    "However, economic progress and delivery of social services, such as healthcare and education, also depend on the success of the efforts to curb rampant corruption.",
+    "In addition, given the differences in culture and health care delivery systems worldwide, the transferability of findings of some studies is a complex issue.",
+    "Those stimuli in the food delivery area are closely associated (temporally and spatially) with food.",
+    "This is not a straightforward task, since ethical considerations and infrequency of actual shoulder dystocia deliveries limit prospective, comparative study of various manoeuvres.",
+    "Towards the end of pregnancy a raised blood pressure recording may be the sole indication for admission to hospital or even delivery.",
+    "Results have varied with the termite species and strain of fungus tested, and the concentration of inoculum and its mode of delivery to termite populations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deliquescence",
+    "deliquescent",
+    "deliver",
+    "deliver the goods",
+    "delivery",
+    "delta",
+    "delude",
+    "deluge",
+    "delusion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334206_cce80a683c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334206_86ce27eb6e_o.png",
+      "id_image": "delivery_423314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071180_99fcbe2efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071180_077e9bed0b_o.png",
+      "id_image": "delivery_423316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379007_fcde95b1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379007_0ec3d6dec8_o.png",
+      "id_image": "delivery_827377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378992_80898ba758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378992_bfe6359efa_o.png",
+      "id_image": "delivery_870135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071110_326c7df779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071110_737a27b8e0_o.png",
+      "id_image": "delivery_870138"
+    }
+  ]
+}

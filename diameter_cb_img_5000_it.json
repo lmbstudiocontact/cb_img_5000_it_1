@@ -1,0 +1,63 @@
+{
+  "english": "diameter",
+  "phat_am": "daiˈӕmitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường kính",
+          "definition": "(the length of) a straight line drawn from side to side of a circle, passing through its centre/center",
+          "world_new": [
+            "length",
+            "straight",
+            "line",
+            "drawn",
+            "side",
+            "side",
+            "circle",
+            "passing",
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Measure the diameter of the circle.",
+              "world_new": [
+                "circle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In opening up the torus, the non-circularity of the cross section is assumed small and decreasing to zero with increasing diameter of the torus.",
+    "To obtain infested fruits, a third instar larva was placed into a small plastic dish (diameter 17 mm, height 11 mm).",
+    "If lizards were on elevated perches, we recorded the diameter of the perch (cm) and height off the ground (m).",
+    "The seeds (diameter 1-2 mm) contain a peripheral embryo that forms a ring around the central perisperm.",
+    "Defined as the maximum diameter of the radius at the level of the middle of the tuberosity.",
+    "The diameter at entrance is 30 mm and diameter at tip is varied as 0, 3, 5, and 10 mm.",
+    "A glass capsule of 280 -300 mm in diameter was placed in the center of it.",
+    "Erodible fraction is defined as the percentage of soil mass < 0.84 mm diameter, and this parameter has been related to soil wind erodibility."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dialectic",
+    "dialectical",
+    "dialogue",
+    "dialysis",
+    "diameter",
+    "diamond",
+    "diamonds",
+    "diaphragm",
+    "diarrhoea"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438848_1b49216daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438848_17a6d43fb8_o.png",
+      "id_image": "diameter_5967631"
+    }
+  ]
+}

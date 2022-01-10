@@ -1,0 +1,75 @@
+{
+  "english": "diagnosis",
+  "phat_am": "-siːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời chẩn đoán",
+          "definition": "a conclusion reached by diagnosing",
+          "world_new": [
+            "conclusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What diagnosis did the doctor make?",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In these analyses, we found that certain donor characteristics and patient diagnoses were associated with substantially greater resource use.",
+    "Thus, we undertook to examine the effect of various approaches to allocating cost when multiple diagnoses are listed for hospitalizations.",
+    "However, because it was retrospective, some cases have been missed, and the reliability of diagnoses made by primary-care physicians may have been low.",
+    "In patients in whom the diagnosis is uncertain, physicians must, therefore, turn to other diagnostic modalities to inform the selection of appropriate treatments.",
+    "Second, embedded systems frequently consider system and software diagnosis in the allocation and assignment of error codes during coding tasks.",
+    "Prompt diagnosis and treatment of the underlying cause can reduce the severity of peripheral neuropathy or decrease the recovery time.",
+    "Also, it is a non-specific measure that does not discriminate between types of mental disorder nor does it provide for precise clinical diagnoses.",
+    "The additional avoided fatalities due to the combination with prehospital telemedicine diagnosis were modeled, reducing the door-to-needle delay for patient transferred by ambulance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dexterous",
+    "diabetes",
+    "diabetic",
+    "diagnose",
+    "diagnosis",
+    "diagonal",
+    "diagonally",
+    "diagram",
+    "dial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679994_5450dd65aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679994_f4e235bcd8_o.png",
+      "id_image": "diagnosis_1934430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324761_2a876fd02a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324761_c88cfbd6e6_o.png",
+      "id_image": "diagnosis_1934477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439803_92b8198acb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439803_61b08db36d_o.png",
+      "id_image": "diagnosis_3734023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324906_c7afd34491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324906_646c01656b_o.png",
+      "id_image": "diagnosis_883973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680039_ed31c5c96d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680039_0f2625e861_o.png",
+      "id_image": "diagnosis_943603"
+    }
+  ]
+}

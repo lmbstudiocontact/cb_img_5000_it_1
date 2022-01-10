@@ -1,0 +1,117 @@
+{
+  "english": "divide",
+  "phat_am": "diˈvaid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân chia",
+          "definition": "to separate into parts or groups",
+          "world_new": [
+            "separate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wall divided the garden in two",
+              "world_new": [
+                "wall",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "The group divided into three when we got off the bus",
+              "world_new": [
+                "group",
+                "bus"
+              ]
+            },
+            {
+              "ex_of_definition": "We are divided (= We do not agree) as to where to spend our holidays.",
+              "world_new": [
+                "spend",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia sẻ",
+          "definition": "(with betweenor among) to share",
+          "world_new": [
+            "share"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We divided the sweets between us."
+            }
+          ]
+        },
+        {
+          "mean_english": "chia",
+          "definition": "to find out how many times one number contains another",
+          "world_new": [
+            "find",
+            "times",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "6 divided by 2 equals 3."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I suggest dividing my study of analytical representation into four steps.",
+    "The nationalist camp, divided into two and then three rival groups, was feeble and spent much of the time in internecine conflict.",
+    "As mentioned above, voters can be divided into personal and party voters or, equivalently for our purposes, sincere and strategic voters.",
+    "Comments may conveniently be divided into those which are in sentence form, and those which are not.",
+    "The poem proper is divided into fifteen sections with an envoy.",
+    "The material here is divided into two sections.",
+    "Chapter 4 on cognitive deficits is divided into two sections.",
+    "The book is divided into four par ts on the basis of quite broad subject areas; each section contains six reprinted ar ticles."
+  ],
+  "list_see_also": [
+    "dividers",
+    "divisible",
+    "division",
+    "divisional",
+    "divisive"
+  ],
+  "list_browse": [
+    "diversion",
+    "diversity",
+    "divert",
+    "divest",
+    "divide",
+    "dividend",
+    "dividers",
+    "divination",
+    "divine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668019_4ba74e94aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668019_3b4de01055_o.png",
+      "id_image": "divide_1589480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668004_82f94bb2a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668004_c39cc6cffa_o.png",
+      "id_image": "divide_1753659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049630_16355f00cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049630_c535819567_o.png",
+      "id_image": "divide_1827171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427963_ffe06be0fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427963_1586c3ca30_o.png",
+      "id_image": "divide_5376871"
+    }
+  ]
+}

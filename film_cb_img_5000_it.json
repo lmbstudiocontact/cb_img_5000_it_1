@@ -1,0 +1,163 @@
+{
+  "english": "film",
+  "phat_am": "film",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phim",
+          "definition": "(a thin strip of) celluloid made sensitive to light on which photographs are taken",
+          "world_new": [
+            "thin",
+            "strip",
+            "sensitive",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "photographic film.",
+              "world_new": [
+                "photographic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ phim",
+          "definition": "a story, play etc shown as a motion picture in a cinema, on television etc",
+          "world_new": [
+            "story",
+            "play",
+            "motion",
+            "picture",
+            "cinema",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s in the middle of making a new film",
+              "world_new": [
+                "middle"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a film version of the novel.",
+              "world_new": [
+                "version",
+                "novel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màng",
+          "definition": "a thin skin or covering",
+          "world_new": [
+            "thin",
+            "skin",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A film of dust covered the shelf.",
+              "world_new": [
+                "dust",
+                "shelf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quay thành phim",
+          "definition": "to make a motion picture (of)",
+          "world_new": [
+            "motion",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are going to film the race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phủ bằng một lớp màng",
+          "definition": "(usually with over) to cover with a film",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her eyes gradually filmed (over) with tears.",
+              "world_new": [
+                "gradually"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During filming and after filming residents and interviewees took on an increasingly active role in the process.",
+    "A physical mechanism for the long-wave instability of thin liquid films is presented.",
+    "The more films obtained, the better defined are the random and systematic errors.",
+    "A total of 72 scenes were filmed across the three main variables (4 located objectsr3 levels of heightr3 levels of location controlr2 levels of continuity).",
+    "The diagnosis of malaria infection depends on the recognition of parasites in stained blood films.",
+    "Pulsed laser ablation mechanisms of thin metal films.",
+    "Because of their specific structural, electrical, mechanical and optical properties, tungsten- titanium thin films 0 coatings have many promising applications.",
+    "One was connected directly to the computer displaying the score and so was always filming the activity in the central space."
+  ],
+  "list_see_also": [
+    "filmy",
+    "film-maker",
+    "film star"
+  ],
+  "list_browse": [
+    "fillet",
+    "filling",
+    "filling-station",
+    "filly",
+    "film",
+    "film star",
+    "film-maker",
+    "filmy",
+    "filter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066140_c69dce7e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066140_a97d2d5347_o.png",
+      "id_image": "film_1974759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329341_6944f1f601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329341_7b025a2fb9_o.png",
+      "id_image": "film_2231875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329301_5d903a3e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329301_4e625c1a42_o.png",
+      "id_image": "film_2368409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065990_c3795f9118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065990_875d4f3111_o.png",
+      "id_image": "film_2468713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373852_aae96192f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373852_db1df52705_o.png",
+      "id_image": "film_5064600"
+    }
+  ]
+}

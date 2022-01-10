@@ -1,0 +1,163 @@
+{
+  "english": "fancy",
+  "phat_am": "ˈfӕnsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự mê thích nhất thời",
+          "definition": "a sudden (often unexpected) liking or desire",
+          "world_new": [
+            "sudden",
+            "liking",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child had many peculiar fancies.",
+              "world_new": [
+                "child",
+                "peculiar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức tưởng tượng",
+          "definition": "the power of the mind to imagine things",
+          "world_new": [
+            "power",
+            "mind",
+            "imagine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a tendency to indulge in flights of fancy.",
+              "world_new": [
+                "tendency",
+                "indulge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái được tưởng tượng",
+          "definition": "something imagined."
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "được làm cho đẹp mắt",
+          "definition": "decorated; not plain",
+          "world_new": [
+            "plain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fancy cakes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mong ước; muốn",
+          "definition": "to like the idea of having or doing something",
+          "world_new": [
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I fancy a cup of tea.",
+              "world_new": [
+                "I",
+                "cup",
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tưởng tượng; cho rằng",
+          "definition": "to think or have a certain feeling or impression (that)",
+          "world_new": [
+            "think",
+            "certain",
+            "feeling",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I fancied (that) you were angry.",
+              "world_new": [
+                "I",
+                "angry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mến; thích",
+          "definition": "to have strong sexual interest in (a person)",
+          "world_new": [
+            "strong",
+            "sexual",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fancies her a lot."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The old woman would not listen to such fancy stuff.",
+    "Imaginative fancy or indirect knowledge was rarely enough.",
+    "A fancy procedure and pretty pictures are not needed, critics will add, to know that brain activity differs between the two groups.",
+    "We may fancy an exotic past that contrasts with a humdrum or unhappy present, but we forge it with modern tools.",
+    "Rethinking a classic doesn't mean gussying it up with fancy folderol and extraneous trimming so that it no longer bears any resemblance to the original.",
+    "Such analyses were dangerously susceptible of countenancing individual fancy, undermining a national church.",
+    "The constraint is that the binary tree should be atiguously marked, a fancy name for a non-contiguous marking.",
+    "We must remember that masque performances were great occasions, replete with distractions - royalty, nobility, fancy dress, beautiful women, glorious jewellery."
+  ],
+  "list_see_also": [
+    "fanciful",
+    "fancifully",
+    "fancy dress",
+    "take a fancy to",
+    "take one’s fancy"
+  ],
+  "list_browse": [
+    "fanatically",
+    "fanaticism",
+    "fanciful",
+    "fancifully",
+    "fancy",
+    "fancy dress",
+    "fanfare",
+    "fang",
+    "fantastic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073275_a26898ee0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073275_a3d3e5dabd_o.png",
+      "id_image": "fancy_1808016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381317_cc8fee49d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381317_2978d7ce33_o.png",
+      "id_image": "fancy_1808026"
+    }
+  ]
+}

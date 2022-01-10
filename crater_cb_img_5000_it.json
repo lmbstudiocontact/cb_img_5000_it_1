@@ -1,0 +1,77 @@
+{
+  "english": "crater",
+  "phat_am": "ˈkreitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miệng núi lửa",
+          "definition": "the bowl-shaped mouth of a volcano",
+          "world_new": [
+            "mouth",
+            "volcano"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The island is covered in volcanic craters.",
+              "world_new": [
+                "island",
+                "volcanic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hố bom",
+          "definition": "a hollow made in the ground by a bomb etc",
+          "world_new": [
+            "hollow",
+            "ground",
+            "bomb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bombs left craters several yards wide and damaged nearby buildings.",
+              "world_new": [
+                "left",
+                "wide",
+                "damaged",
+                "nearby"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the positive focal point position, the craters have a semitoroidal shape, while at the negative position they resemble a hemisphere.",
+    "The homogenous, flat outer crater zone differs from morphological features obtained by slumping or by downfaulting of a terraced zone.",
+    "Impacts should destroy pre-existing fluid inclusions, but older inclusions survive outside terrestrial craters.",
+    "There is a strong tendency for larger craters to occur within them.",
+    "The schematic cross section shows scenarios in the vicinity of the fault-bound margin of a crater.",
+    "For femtosecond pulses, the crater profiles were without convexity formation.",
+    "An enlarged view of those spines (fig. 6 inset) show that they are located in crater-like holes in the tegument.",
+    "In these structures, a shallow outer portion surrounds an inner, deeper crater."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crash helmet",
+    "crash-land",
+    "crass",
+    "crate",
+    "crater",
+    "cravat",
+    "crave",
+    "craven",
+    "craving"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678464_fabac390d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678464_bfee9a16fd_o.png",
+      "id_image": "crater_1703655"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "damage",
+  "phat_am": "ˈdӕmidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hư hại",
+          "definition": "injury or hurt, especially to a thing",
+          "world_new": [
+            "injury",
+            "hurt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The storm did/caused a lot of damage",
+              "world_new": [
+                "storm"
+              ]
+            },
+            {
+              "ex_of_definition": "She suffered brain damage as a result of the accident.",
+              "world_new": [
+                "brain",
+                "result",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoản tiền được trả hay đòi phải trả để bồi thường thiệt hại",
+          "definition": "payment for loss or injury suffered",
+          "world_new": [
+            "payment",
+            "loss",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The court awarded him $5,000 damages.",
+              "world_new": [
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây hư hại",
+          "definition": "to make less effective or less usable etc; spoil",
+          "world_new": [
+            "effective",
+            "usable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bomb damaged several buildings",
+              "world_new": [
+                "bomb",
+                "damaged"
+              ]
+            },
+            {
+              "ex_of_definition": "The book was damaged in the post.",
+              "world_new": [
+                "book",
+                "damaged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The result of this damage is that there are now dead processors scattered at random in the system.",
+    "Structural damage to each tree was recorded: trunk snap, branch damage, bark damage, or a leaning bole.",
+    "Since increased canopy reduces the kinetic energy with which raindrops hit the ground, the damage to soil from rainfall is reduced.",
+    "Only guts that were removed without damage were used in further analysis.",
+    "Second, the authors propose that damage to visual/sensory features will simply make inaccessible the functional information associated with the visual representation.",
+    "In that disturbance, 10% of the boles were damaged and 15 months' equivalent of pine needle litter fell.",
+    "Seedling dynamics of a tropical tree: impacts of herbivory and meristem damage.",
+    "Older knowledge, perhaps because it has been relocated to regions that are damaged by the disease process, does not fare as well."
+  ],
+  "list_see_also": [
+    "damaged"
+  ],
+  "list_browse": [
+    "dairy farm",
+    "daisy",
+    "dally",
+    "dam",
+    "damage",
+    "damaged",
+    "dame",
+    "damn",
+    "damned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311486_05064cc513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311486_2d21673d81_o.png",
+      "id_image": "damage_2557075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426388_8124ec5487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426388_12bbe7fc18_o.png",
+      "id_image": "damage_2752079"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "extraction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguồn gốc",
+          "definition": "race or parentage",
+          "world_new": [
+            "race",
+            "parentage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is of Greek extraction."
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động rút, nhổ",
+          "definition": "(an) act of extracting eg a tooth.",
+          "world_new": [
+            "act",
+            "tooth"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The context of production is separated from the household and most significantly, in fact, extraction, production, distribution, and consumption are globalised.",
+    "Provided the fetus is not distressed and the degree of moulding is assessed as no more than moderate, vacuum extraction may be undertaken with confidence.",
+    "We have begun a systematic study of the extraction of organics from field samples using different solvents and extraction parameters (such as time and temperature).",
+    "Searching for meaning in gestural data: interpretive feature extraction and signal processing for affective and expressive content.",
+    "For each point, the bottom line indicates when it is visible, the top line indicates when it is selected for feature extraction.",
+    "Another important source of support comes from the information extraction and text mining field which allow the detection and extraction of relevant information from texts.",
+    "Decisions about quality criteria and data extraction were made by one reviewer and checked by a second, with any differences in opinion resolved through discussion.",
+    "The extraction of information is performed in two stages: ®rst, the perception and, second, the cognition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "extortion",
+    "extortionate",
+    "extra",
+    "extract",
+    "extraction",
+    "extracurricular",
+    "extradite",
+    "extradition",
+    "extramarital"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455108_d7bce97fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455108_c341da4d5a_o.png",
+      "id_image": "extraction_1338980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340191_6803f3e3f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340191_ca9d35ba59_o.png",
+      "id_image": "extraction_1386879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340166_6915ab29bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340166_b0d1f645a9_o.png",
+      "id_image": "extraction_1486196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340136_6c12fec146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340136_4e8d006dbb_o.png",
+      "id_image": "extraction_6315470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695369_b8592747b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695369_235fe1d146_o.png",
+      "id_image": "extraction_6348266"
+    }
+  ]
+}

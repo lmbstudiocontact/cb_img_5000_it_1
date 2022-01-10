@@ -1,0 +1,161 @@
+{
+  "english": "coach",
+  "phat_am": "kəutʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "toa",
+          "definition": "a railway carriage; car American",
+          "world_new": [
+            "railway"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The last two coaches of the train were derailed.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe buýt đường dài",
+          "definition": "a bus for tourists etc",
+          "world_new": [
+            "bus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "also adjective a coach tour.",
+              "world_new": [
+                "tour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "huấn luyện viên",
+          "definition": "a trainer in athletics, sport etc",
+          "world_new": [
+            "trainer",
+            "athletics",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tennis coach.",
+              "world_new": [
+                "tennis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáo viên luyện thi",
+          "definition": "a private teacher",
+          "world_new": [
+            "private",
+            "teacher"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They employed a coach to help their son with his mathematics.",
+              "world_new": [
+                "employed",
+                "help",
+                "their",
+                "son",
+                "mathematics"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe ngựa",
+          "definition": "a four-wheeled horse-drawn vehicle",
+          "world_new": [
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coach and horses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dạy",
+          "definition": "to prepare (a person) for an examination, contest etc",
+          "world_new": [
+            "prepare",
+            "examination",
+            "contest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He coached his friend for the Latin exam.",
+              "world_new": [
+                "friend",
+                "Latin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We had given them a glimpse of the outside world, but it was as if we had closed the door when we drove off in our air-conditioned coaches.",
+    "After his first marriage he had to learn the new urban polite code of dinner invitations and visits, in which the use of opulent coaches was of key importance.",
+    "Rehearsals had taken place sectionally at different schools, some of the children were too young to read music, and the teachers, coaches and animateurs credited were numerous.",
+    "I was quoting not imaginary times but actual times of buses and coaches.",
+    "In this sense, party leaders have much in common with coaches in league sports, who well understand why they keep score.",
+    "Further, the available data is not broken down separately by buses and coaches.",
+    "Apart from the matter of solid empirical corroboration, coaching in general, and executive coaching in particular, does have a number of practical shortcomings.",
+    "The follow-up may consist of a program of training and personal contact between the center and local authorities, parents, teachers or coaches."
+  ],
+  "list_see_also": [
+    "coaching",
+    "coachbuilder",
+    "coachman"
+  ],
+  "list_browse": [
+    "co-ed",
+    "co-educational",
+    "co-exist",
+    "co-existence",
+    "coach",
+    "coachbuilder",
+    "coaching",
+    "coachman",
+    "coagulate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372542_32b9e40f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372542_ff91ecb6f3_o.png",
+      "id_image": "coach_2357252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064500_282a9c738d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064500_817bc889ce_o.png",
+      "id_image": "coach_2374019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327766_a808aefe61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327766_62ccbde505_o.png",
+      "id_image": "coach_2396156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372402_d29720f2b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372402_af1914b695_o.png",
+      "id_image": "coach_6031985"
+    }
+  ]
+}

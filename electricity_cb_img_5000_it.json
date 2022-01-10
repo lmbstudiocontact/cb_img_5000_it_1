@@ -1,0 +1,95 @@
+{
+  "english": "electricity",
+  "phat_am": "elekˈtrisəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện",
+          "definition": "a form of energy used to give heat, light, power etc",
+          "world_new": [
+            "form",
+            "energy",
+            "heat",
+            "light",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pump is powered by electricity",
+              "world_new": [
+                "pump",
+                "powered"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t waste electricity.",
+              "world_new": [
+                "waste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are also no similar global alliances in electricity and the international investments of major electricity companies are not as extensive.",
+    "Flowing waters or teeming crowds: mental models of electricity.",
+    "Variation in operating costs across abatement facilities was mainly based on differences in the quantity of electricity used, equipment maintenance costs, and labour cost.",
+    "This slim volume assesses the coal procurement practices and strategies of the electricity utilities.",
+    "Again, the extension of electricity and water services and rehabilitation of roads mainly benefited rural areas which had been ignored by previous governments.",
+    "Deliberately, it is unclear whether the \"currents\" mentioned in the passage belong to water or to electricity.",
+    "The property rights over electricity grids are not limited by regulations, and there are only a few connections (with small capacity) between the national grids.",
+    "It is a contingent moral truth that passing a given amount of electricity through a person's body causes them severe pain."
+  ],
+  "list_see_also": [
+    "electric",
+    "electrical",
+    "electrically",
+    "electrician",
+    "electrics",
+    "electrified",
+    "electrify",
+    "electrification",
+    "electrifying",
+    "electric chair",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "electric current",
+    "electrical",
+    "electrically",
+    "electrician",
+    "electricity",
+    "electrics",
+    "electrification",
+    "electrified",
+    "electrify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680854_0dce4aca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680854_62d137c15a_o.png",
+      "id_image": "electricity_4152134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440703_b985b7d1b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440703_84c78bcc0c_o.png",
+      "id_image": "electricity_4647082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680759_f69bba5812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680759_8a4730128a_o.png",
+      "id_image": "electricity_5375252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370432_2ac5fc7504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370432_b6085d202c_o.png",
+      "id_image": "electricity_5613478"
+    }
+  ]
+}

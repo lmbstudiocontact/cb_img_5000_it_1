@@ -1,0 +1,71 @@
+{
+  "english": "combat",
+  "phat_am": "ˈkombӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trận đánh",
+          "definition": "(an act of) fighting",
+          "world_new": [
+            "act",
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two knights met each other in single combat.",
+              "world_new": [
+                "single"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chống lại",
+          "definition": "to fight against; to oppose",
+          "world_new": [
+            "fight",
+            "oppose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The residents of the town tried to combat the government’s plans to build a motorway.",
+              "world_new": [
+                "town",
+                "build",
+                "motorway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "combatant"
+  ],
+  "list_browse": [
+    "column graph",
+    "columnist",
+    "coma",
+    "comb",
+    "combat",
+    "combatant",
+    "combination",
+    "combine",
+    "combine harvester"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365267_b666076037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365267_208b1f03f1_o.png",
+      "id_image": "combat_1119868"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "derrick",
+  "phat_am": "ˈderik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cần trục lớn",
+          "definition": "an apparatus like a mechanical crane for lifting weights",
+          "world_new": [
+            "apparatus",
+            "mechanical",
+            "crane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was unloaded, using the large derricks on the quay.",
+              "world_new": [
+                "ship",
+                "large",
+                "quay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giàn khoan",
+          "definition": "a tower-like structure that holds the drill over an oil well.",
+          "world_new": [
+            "structure",
+            "drill",
+            "oil"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, when drilling is taking place, there can be considerable noise from the operations, together with visual intrusion from a derrick 120 ft.",
+    "Twenty-one derricks were attached to the upturned hull; each carried high-tensile steel cables that were connected to hydraulic winching machines ashore.",
+    "The company specialized in manufacturing machinery for derricks and in drilling oil wells.",
+    "Oil derricks sprouted on the hilltop within easy view of the harbor, on narrow town lots intended originally for houses.",
+    "Otherwise, a traveling cantilever derrick may be used to extend the deck one section at a time starting from the towers and working outward.",
+    "In the 1890s oil was discovered in the area, and oil derricks were set up in the lake sometime around 1891.",
+    "Then one of the heavy steel and concrete containers crashed from a derrick into the ship's hold and was damaged.",
+    "Wooden derricks were located by and above the openings to lift blocks out of the quarries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "derive",
+    "dermatologist",
+    "dermatology",
+    "derogatory",
+    "derrick",
+    "desalinate",
+    "desalination",
+    "descend",
+    "descendant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444693_47ac724e29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444693_98a499060d_o.png",
+      "id_image": "derrick_3716610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684739_e857331293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684739_abdbf47c1b_o.png",
+      "id_image": "derrick_882876"
+    }
+  ]
+}

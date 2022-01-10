@@ -1,0 +1,137 @@
+{
+  "english": "find",
+  "phat_am": "faind",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tìm thấy; thấy; bắt được",
+          "definition": "to come upon or meet with accidentally or after searching",
+          "world_new": [
+            "meet",
+            "accidentally",
+            "searching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Look what I’ve found!",
+              "world_new": [
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận thấy; thấy",
+          "definition": "to discover",
+          "world_new": [
+            "discover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I found that I couldn’t do the work.",
+              "world_new": [
+                "I",
+                "found",
+                "I",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho rằng; coi",
+          "definition": "to consider; to think (something) to be",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I found the British weather very cold.",
+              "world_new": [
+                "I",
+                "found",
+                "British",
+                "weather",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật tìm thấy, nhất là vật có giá trị hoặc dễ chịu",
+          "definition": "something found, especially something of value or interest",
+          "world_new": [
+            "found",
+            "value",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That old book is quite a find!",
+              "world_new": [
+                "old",
+                "book",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Age-standardized prevalence of measles, mumps and rubella virus antibodies was found to be 96.58, 75.40 and 95.69 % respectively.",
+    "None was attached to the intestinal wall and none was found in the pyloric caeca.",
+    "A significant reduction in the ablation pressure is found in comparison to the g 0 case.",
+    "All the non-didymozoid digeneans including the bucephalids, gorgoderids and hemiurids were found to be host generalists.",
+    "We examined samples with low levels of contamination, as 1 - 5 eggs were found per 10 g sand sample.",
+    "However, most serotypes are ubiquitous or unadapted and can be found in a number of animal hosts.",
+    "The smallest established trophonts found in the present study are 28 mm.",
+    "Carbonaceous/anomalous chondrites only represent 2% of finds (5% of falls)."
+  ],
+  "list_see_also": [
+    "findings",
+    "find one’s feet",
+    "find out"
+  ],
+  "list_browse": [
+    "financial",
+    "financially",
+    "financier",
+    "finch",
+    "find",
+    "find fault with",
+    "find one’s feet",
+    "find out",
+    "find/get one’s bearings"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682974_869aaa1c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682974_d08b11b899_o.png",
+      "id_image": "find_1397164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442883_2ca99bf0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442883_b7307feb28_o.png",
+      "id_image": "find_2247930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372547_00b32de864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372547_334ebf703a_o.png",
+      "id_image": "find_5059364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327791_03565df75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327791_ebb225683e_o.png",
+      "id_image": "find_5059378"
+    }
+  ]
+}

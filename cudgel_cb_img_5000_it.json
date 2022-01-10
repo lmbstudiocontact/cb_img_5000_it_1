@@ -1,0 +1,64 @@
+{
+  "english": "cudgel",
+  "phat_am": "ˈkadʒəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dùi cui",
+          "definition": "a heavy stick or club.",
+          "world_new": [
+            "heavy",
+            "stick",
+            "club"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bằng dùi cui",
+          "definition": "to beat with a cudgel",
+          "world_new": [
+            "beat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was cudgelled/cudgeled to death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cucumber",
+    "cud",
+    "cuddle",
+    "cuddly",
+    "cudgel",
+    "cue",
+    "cuff",
+    "cufflinks",
+    "cuisine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360597_18dae87169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360597_ed70379782_o.png",
+      "id_image": "cudgel_2206693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431223_25d61126ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431223_434277a180_o.png",
+      "id_image": "cudgel_2614509"
+    }
+  ]
+}

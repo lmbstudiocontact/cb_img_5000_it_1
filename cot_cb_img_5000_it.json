@@ -1,0 +1,75 @@
+{
+  "english": "cot",
+  "phat_am": "kot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giường, cũi của trẻ con",
+          "definition": "a small bed with high sides for a child etc : crib American",
+          "world_new": [
+            "small",
+            "bed",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the wooden rails of the cot is broken.",
+              "world_new": [
+                "wooden",
+                "broken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "võng",
+          "definition": "a camp bed.",
+          "world_new": [
+            "camp",
+            "bed"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Information on paediatric intensive care cots is not available centrally.",
+    "Is there water on the bottom of the cot?",
+    "In this respect, he stated that \"cot-caught word pairs may have contrasting low vowels, may have a single vowel, or may vary by word or word subset\" (1985:lx).",
+    "Some children die of cot deaths in the first 12 months of life, and nobody has the faintest idea what causes it.",
+    "Is the sheet in the cot still clean?",
+    "This distinction seems to us essential in order to estimate better prior to birth the possible increased risk to the unborn sibling of a case of cot death.",
+    "Pediatricians in district hospitals can have difficulty in arranging the urgent transfer of a sick baby if the nearest cardiac center has no suitable cot available.",
+    "During these numerous hospitalizations, my wife was always allowed to sleep in my room on an uncomfortable, rickety cot."
+  ],
+  "list_see_also": [
+    "cot death",
+    "cottage",
+    "cottage cheese"
+  ],
+  "list_browse": [
+    "costly",
+    "costs",
+    "costume",
+    "cosy",
+    "cot",
+    "cot death",
+    "cottage",
+    "cottage cheese",
+    "cotton"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065590_4aaf7c1e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065590_3a6c0c3b1d_o.png",
+      "id_image": "cot_1834865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683779_74ddd6e8ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683779_2cd4c17be2_o.png",
+      "id_image": "cot_4433785"
+    }
+  ]
+}

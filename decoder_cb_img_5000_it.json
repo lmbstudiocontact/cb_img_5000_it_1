@@ -1,0 +1,62 @@
+{
+  "english": "decoder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiết bị giải mã",
+          "definition": "a piece of electronic equipment that can change electronic signals into something understandable such as pictures and sound on a television",
+          "world_new": [
+            "piece",
+            "electronic",
+            "equipment",
+            "change",
+            "electronic",
+            "understandable",
+            "sound",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a satellite decoder.",
+              "world_new": [
+                "satellite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On top, clients need interfaces to generated encoders and decoders.",
+    "A matching statement enables a programmer to build an efficient decoder that associates single actions with either individual instructions or groups of instructions.",
+    "So, we introduce a unary symbol (decoders are simply represented by a white cell without any symbol).",
+    "This kind of generated decoder is not very flexible; to use it, a client must specify an action for each instruction and addressing mode.",
+    "This transformation involved the introduction of registers, an instruction decoder and a finite-state machine for the sequencer.",
+    "Finally, decoders are annihilated by their duals when a generalised sharing has been completely decoded.",
+    "Such a mapping amounts to an instruction decoder, which is implemented as a decision tree.",
+    "Clearly, children who were classified as good readers were much better decoders than children who had been classified as poor readers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "declaration",
+    "declare",
+    "decline",
+    "decode",
+    "decoder",
+    "decompose",
+    "decomposer",
+    "decomposition",
+    "decor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662369_b5af0b177b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662369_9c6b4404e6_o.png",
+      "id_image": "decoder_1866724"
+    }
+  ]
+}

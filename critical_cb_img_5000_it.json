@@ -1,0 +1,95 @@
+{
+  "english": "critical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phê phán",
+          "definition": "judging and analysing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has written several critical works on Shakespeare.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ trích",
+          "definition": "fault-finding",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tends to be critical of his children."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc thời điểm khó khăn",
+          "definition": "of, at or having the nature of, a crisis; very serious",
+          "world_new": [
+            "nature",
+            "serious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a critical shortage of food",
+              "world_new": [
+                "shortage",
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "After the accident, his condition was critical.",
+              "world_new": [
+                "accident",
+                "condition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The average expresses both the moderate quality of the studies and a quite critical attitude to the music teaching received.",
+    "We compare the parameter values for which there exists a strategy such that the process survives to the critical parameter of ordinary percolation.",
+    "The language must be taught as a means of intercultural communication, critical analysis and indeed, where necessary, resistance.",
+    "The cost of purpose-built manufacturing facilities and chemical synthesis are a critical barrier to the commercial development of many potential pesticides.",
+    "Here these hypotheses are replaced by the assumption that f is a nice diffeomorphism in between the critical points.",
+    "Indeed, the presupposition of reliance on such standards is that they have survived similar critical scrutiny.",
+    "The existence of discrete levels of critical water potential is suggestive of specific stresses that cells must accommodate during the acquisition of desiccation tolerance.",
+    "The great technical problem of such a system is the critical mass of a fission chain reaction, making it difficult to miniaturize a fission explosion."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crispy",
+    "criss-cross",
+    "criterion",
+    "critic",
+    "critical",
+    "critical thinking",
+    "critically",
+    "criticism",
+    "criticize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674834_13f8dc281b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674834_f311b552ea_o.png",
+      "id_image": "critical_2519404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364537_9afbea7c01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364537_db9768d080_o.png",
+      "id_image": "critical_3292661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056405_edf25e26bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056405_18d4c64ea3_o.png",
+      "id_image": "critical_4365175"
+    }
+  ]
+}

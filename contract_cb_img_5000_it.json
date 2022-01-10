@@ -1,0 +1,150 @@
+{
+  "english": "contract",
+  "phat_am": "kənˈtrӕkt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "co lại",
+          "definition": "to make or become smaller, less, shorter, tighter etc",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Metals expand when heated and contract when cooled",
+              "world_new": [
+                "expand",
+                "heated"
+              ]
+            },
+            {
+              "ex_of_definition": "‘I am’ is often contracted to ‘I’m’"
+            },
+            {
+              "ex_of_definition": "Muscles contract."
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp đồng",
+          "definition": "American ˈkontrakt to promise legally in writing",
+          "world_new": [
+            "promise",
+            "legally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They contracted to supply us with cable.",
+              "world_new": [
+                "supply",
+                "cable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiễm phải",
+          "definition": "to become infected with (a disease)",
+          "world_new": [
+            "become",
+            "infected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He contracted malaria.",
+              "world_new": [
+                "malaria"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đính ước",
+          "definition": "to promise (in marriage).",
+          "world_new": [
+            "promise"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bản hợp đồng",
+          "definition": "a legal written agreement",
+          "world_new": [
+            "legal",
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a four-year contract (of employment) with us"
+            },
+            {
+              "ex_of_definition": "The firm won a contract for three new aircraft.",
+              "world_new": [
+                "firm",
+                "aircraft"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To date, a number of projects have not met their planting targets and some have varied the length of their contracts.",
+    "In this case, the incentive for one's peers to enforce the contracts is quite direct.",
+    "Construction contracts were tendered locally and therefore came as a boost to local resource and manufacturing industries.",
+    "In contrast, contracting dynamics can be used to \"write\" the information.",
+    "In practice most contracts are for between 6 to 9 months.",
+    "Such contracts are signed by the maistry, rarely by the planter, and they are seldom, if ever, registered.",
+    "From the contracting map theorem it follows that we have a fixed point.",
+    "When the foster-parents were contracted for fostering they were committed to fulfil several duties towards the child."
+  ],
+  "list_see_also": [
+    "contraction",
+    "contractor"
+  ],
+  "list_browse": [
+    "contour",
+    "contraband",
+    "contraception",
+    "contraceptive",
+    "contract",
+    "contraction",
+    "contractor",
+    "contradict",
+    "contradiction"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661994_ee999ef04a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661994_6f50c30c8c_o.png",
+      "id_image": "contract_1441344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043660_affd979fa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043660_a74472a49d_o.png",
+      "id_image": "contract_1965670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662104_1458d484d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662104_f5df25db4f_o.png",
+      "id_image": "contract_807697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306661_322371748d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306661_990e6b87ff_o.png",
+      "id_image": "contract_914104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043695_32d6423617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043695_6a4fdc472c_o.png",
+      "id_image": "contract_924534"
+    }
+  ]
+}

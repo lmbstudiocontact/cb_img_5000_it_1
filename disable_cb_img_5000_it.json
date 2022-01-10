@@ -1,0 +1,64 @@
+{
+  "english": "disable",
+  "phat_am": "disˈeibl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tàn tật; làm cho bất lực",
+          "definition": "to reduce the ability or strength of; to cripple",
+          "world_new": [
+            "reduce",
+            "ability",
+            "strength",
+            "cripple"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was disabled during the war.",
+              "world_new": [
+                "disabled",
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "disability",
+    "disability payment",
+    "disabled",
+    "disablement"
+  ],
+  "list_browse": [
+    "dirty",
+    "dis-",
+    "disability",
+    "disability payment",
+    "disable",
+    "disabled",
+    "disablement",
+    "disadvantage",
+    "disadvantageous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319151_d3d1896466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319151_cb88208eea_o.png",
+      "id_image": "disable_2799885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319101_dd524ec471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319101_d0dd0f18b5_o.png",
+      "id_image": "disable_4370686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319076_fe69908699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319076_7ea659a847_o.png",
+      "id_image": "disable_4777564"
+    }
+  ]
+}

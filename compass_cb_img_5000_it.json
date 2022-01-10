@@ -1,0 +1,113 @@
+{
+  "english": "compass",
+  "phat_am": "ˈkampəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "la bàn",
+          "definition": "an instrument with a magnetized needle, used to find directions",
+          "world_new": [
+            "instrument",
+            "needle",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If he had carried a compass, he would not have lost his way on the hills.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "compa",
+          "definition": "an instrument with two movable legs, for drawing circles etc",
+          "world_new": [
+            "instrument",
+            "movable",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a square and compasses.",
+              "world_new": [
+                "square"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phạm vi",
+          "definition": "scope or range",
+          "world_new": [
+            "scope",
+            "range"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "within the compass of human understanding.",
+              "world_new": [
+                "human",
+                "understanding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The only tools for the copying that we can see are a pair of compasses.",
+    "Rulers, protractors and compasses can be taken into the examination.",
+    "In addition to accelerometers, compasses are introduced to the human motion capture system in order to cover joints with more than 2 degrees of freedom.",
+    "Pilots practised formation flying on the station football pitch, using tricycles fitted with radios, compasses and speed indicators.",
+    "On his left, he wields the compass and square of architecture and the tools of sculpting and painting - hammer, inkpot and quill - and a painting.",
+    "The company has continued to develop over its original field of gyros compasses, telephone equipment and other precision engineering work.",
+    "The reason was that we consider it necessary that these largely retired officers should be responsible overall for the in- stallation and testing of the compasses in ships.",
+    "We would like to know whether the aircraft compasses are tested after each long-distance section of an extended flight."
+  ],
+  "list_see_also": [
+    "compass rose"
+  ],
+  "list_browse": [
+    "comparatively",
+    "compare",
+    "comparison",
+    "compartment",
+    "compass",
+    "compass rose",
+    "compassion",
+    "compassionate",
+    "compatibility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317206_5a2bcaac4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317206_cf56f626ab_o.png",
+      "id_image": "compass_124821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432263_e5fe842944_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432263_cae20d894a_o.png",
+      "id_image": "compass_125150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432243_452bca901e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432243_7772037042_o.png",
+      "id_image": "compass_180992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317126_3a30bdaa32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317126_abbb11481f_o.png",
+      "id_image": "compass_287771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432153_edf5f17ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432153_0d5a7fac3e_o.png",
+      "id_image": "compass_290347"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "feedback",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phản hồi",
+          "definition": "advice or criticism about how successful something or someone’s work is",
+          "world_new": [
+            "advice",
+            "criticism",
+            "successful",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After the lesson, the observer provides feedback to the teacher.",
+              "world_new": [
+                "lesson",
+                "observer",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng bật trở lại",
+          "definition": "an unpleasant high noise that occurs when some of the sound produced by electrical equipment goes back into it, for example if an electric guitar is held too near an amplifier.",
+          "world_new": [
+            "unpleasant",
+            "noise",
+            "sound",
+            "electrical",
+            "equipment",
+            "example",
+            "electric",
+            "guitar",
+            "amplifier"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Disturbance and biological invasions: direct effects and feedbacks.",
+    "Positive feedbacks in the fire dynamics of closed canopy tropical forests.",
+    "Taken with the feedbacks offered by market prices, these various responses provide a powerful explanation for the 'failure' of many environmental predictions.",
+    "Positive feedbacks in the fire dynamics of closed canopy tropical forest.",
+    "During the intervention period interdialytic weight gains were recorded for patients as feedback.",
+    "The dynamic feedbacks between ecological, economic, and institutional factors drive the development of social-ecological systems over time.",
+    "Climate feedbacks at the tundra-taiga interface.",
+    "In most models, emissions are a pollution flow that disappears in each period, thus neglecting the importance of pollution stocks and of their feedbacks on production and consumption."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fee",
+    "feeble",
+    "feebly",
+    "feed",
+    "feedback",
+    "feel",
+    "feel as if / as though",
+    "feel bad (about something)",
+    "feel like"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069585_5d226c9586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069585_1004a6f2d4_o.png",
+      "id_image": "feedback_2665141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447938_7ba7a0eb89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447938_136c33ecfe_o.png",
+      "id_image": "feedback_537039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687829_cfc1b52fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687829_94de0b45a9_o.png",
+      "id_image": "feedback_813328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069620_7369c51195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069620_bb4f6b1b63_o.png",
+      "id_image": "feedback_813357"
+    }
+  ]
+}

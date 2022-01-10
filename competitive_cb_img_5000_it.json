@@ -1,0 +1,112 @@
+{
+  "english": "competitive",
+  "phat_am": "kəmˈpetətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cạnh tranh",
+          "definition": "(of a person) enjoying competition",
+          "world_new": [
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a competitive child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có sức cạnh tranh",
+          "definition": "(of a price etc) not expensive, therefore able to compete successfully with the prices etc of rivals",
+          "world_new": [
+            "price",
+            "expensive",
+            "therefore",
+            "compete",
+            "successfully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can offer extremely competitive prices to our customers.",
+              "world_new": [
+                "offer",
+                "extremely",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đua tranh",
+          "definition": "(of sport etc) organised in such a way as to produce a winner",
+          "world_new": [
+            "sport",
+            "produce",
+            "winner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I prefer hill climbing to competitive sports.",
+              "world_new": [
+                "I",
+                "prefer",
+                "hill",
+                "climbing",
+                "sports"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors consider two forms of decentralized behaviour: myopic competitive behaviour and sophisticated strategic behaviour.",
+    "Work emphasis is prevocational in nature, and it is usually assumed that individuals at this programme level are incapable of competitive employment.",
+    "The hypothesis was that early seasonal grass growth would confer a competitive advantage.",
+    "Consequently, we are at a competitive disadvantage with the executive branch in some areas, such as performance rewards.",
+    "As firms struggled to be competitive, they also often updated their production processes to produce better products.",
+    "The creation of competitive markets that enforce efficiency may, in fact, require strategic intervention on the part of the government.",
+    "They face competitive prices in both output and factor markets, so they have to maximize their benefits subject to a labor-intensive technology.",
+    "Two types of interaction (competitive or non-competitive inhibition) are allowed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "competence",
+    "competent",
+    "competently",
+    "competition",
+    "competitive",
+    "competitor",
+    "compilation",
+    "compile",
+    "compiler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360747_f66072cb77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360747_4fd49268e2_o.png",
+      "id_image": "competitive_1924386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360737_048704991f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360737_b0fceda9f2_o.png",
+      "id_image": "competitive_4729418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052995_719daec1be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052995_3500f4175c_o.png",
+      "id_image": "competitive_751798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052960_59c076200d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052960_b93cf8a92d_o.png",
+      "id_image": "competitive_994622"
+    }
+  ]
+}

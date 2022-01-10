@@ -1,0 +1,86 @@
+{
+  "english": "comparative",
+  "phat_am": "kəmˈpӕrətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc so sánh",
+          "definition": "judged by comparing with something else",
+          "world_new": [
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the comparative quiet of the suburbs.",
+              "world_new": [
+                "quiet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tương đối",
+          "definition": "(of an adjective or adverb used in comparisons) between positive and superlative, as the following underlined words",
+          "world_new": [
+            "adjective",
+            "adverb",
+            "positive",
+            "superlative",
+            "following"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bigger book",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "a better man"
+            },
+            {
+              "ex_of_definition": "Blacker is a comparative adjective",
+              "world_new": [
+                "adjective"
+              ]
+            },
+            {
+              "ex_of_definition": "(also noun) What is the comparative of ‘bad’?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further research on the cognitive basis of comparatives is therefore needed in order to resolve the issue.",
+    "English comparatives : a preliminary investigation.",
+    "The list of these environments includes coordinations, lists, markers of exception and inclusion, focus particles, comparatives, and a few others.",
+    "The choice of countries in this comparative assessment are used as ideal types or positions on a selectivist to universalist spectrum.",
+    "Our strategy for microsynteny-based comparative mapping was straightforward and simple.",
+    "Sub-analyses showed that frequency had an effect only on comparative type responses for monosyllabics, t(10)=8.67, p<0.001.",
+    "Comprehension and production of comparatives and superlatives.",
+    "The use of the comparative method has played an essential role in that respect."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "companionable",
+    "companionship",
+    "company",
+    "comparable",
+    "comparative",
+    "comparatively",
+    "compare",
+    "comparison",
+    "compartment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672144_5ce4b5475e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672144_6edc5942d4_o.png",
+      "id_image": "comparative_5835524"
+    }
+  ]
+}

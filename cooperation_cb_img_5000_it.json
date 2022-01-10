@@ -1,0 +1,91 @@
+{
+  "english": "cooperation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cộng tác",
+          "definition": "the act of working together",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cooperation between the governments of Japan and the United States."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hợp tác",
+          "definition": "willingness to act or work together",
+          "world_new": [
+            "willingness",
+            "act",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would be grateful for your co-operation.",
+              "world_new": [
+                "I",
+                "grateful",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In order for cooperation to be rational, participants must have a certain degree of confidence in each other's competence to complete their assigned tasks.",
+    "We also acknowledge the generous cooperation extended by the staff of the study hospitals throughout the study. 14.",
+    "But it also meant that the state increasingly relied on the cooperation of the religious authorities and on the lesson content they supplied.",
+    "It promotes understanding between cultures, creates the relevant platform for international cooperation, and promotes international solidarity.",
+    "There is now powerful experimental evidence that this tends to promote and maintain cooperation.",
+    "The authors show that, with a sufficiently high rewiring probability, full cooperation can be reached in all social dilemma games experimented on.",
+    "The commerce and theft of the two armies certainly suggests mercenary objectives rather than the close cooperation of allies.",
+    "Their philosophy is one of cooperation, differentiation and maximising the potential of all members of staff and adults in the school community."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coolness",
+    "coop",
+    "coop up",
+    "cooperate",
+    "cooperation",
+    "cooperative",
+    "coordinate",
+    "coordination",
+    "cop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304806_c69e88c0db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304806_9e21b7d524_o.png",
+      "id_image": "cooperation_1006631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660214_f42ac05ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660214_77ee26919b_o.png",
+      "id_image": "cooperation_1076347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304786_c83b89746e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304786_5a5a20b009_o.png",
+      "id_image": "cooperation_3317601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041670_850b861d87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041670_dc1dc10b5f_o.png",
+      "id_image": "cooperation_3386006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419848_f6581317b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419848_51625ebfff_o.png",
+      "id_image": "cooperation_567525"
+    }
+  ]
+}

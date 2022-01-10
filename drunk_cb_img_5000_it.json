@@ -1,0 +1,99 @@
+{
+  "english": "drunk",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "say rượu",
+          "definition": "overcome by having too much alcohol",
+          "world_new": [
+            "overcome",
+            "alcohol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A drunk man fell off the bus",
+              "world_new": [
+                "fell",
+                "bus"
+              ]
+            },
+            {
+              "ex_of_definition": "She was drunk with success.",
+              "world_new": [
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người say rượu",
+          "definition": "a drunk person, especially one who is often drunk",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A drunk was staggering down the street.",
+              "world_new": [
+                "staggering",
+                "street"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "drunkard",
+    "drunken",
+    "drunken driving",
+    "drunkenness"
+  ],
+  "list_browse": [
+    "drum",
+    "drum in/into",
+    "drummer",
+    "drumstick",
+    "drunk",
+    "drunkard",
+    "drunken",
+    "drunken driving",
+    "drunkenness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336351_0a4dcbddc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336351_5eaaf3b2d7_o.png",
+      "id_image": "drunk_1917681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451223_c8b4a1999e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451223_e7020ccd1c_o.png",
+      "id_image": "drunk_2132396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451203_b30b587dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451203_b6af3c86cb_o.png",
+      "id_image": "drunk_2688626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451173_20fcabc197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451173_d72b403c55_o.png",
+      "id_image": "drunk_5020390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451143_91d8944e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451143_a505b21faf_o.png",
+      "id_image": "drunk_6333490"
+    }
+  ]
+}

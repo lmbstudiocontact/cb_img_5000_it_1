@@ -1,0 +1,106 @@
+{
+  "english": "diamond",
+  "phat_am": "ˈdaiəmənd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kim cương",
+          "definition": "a very hard, colourless precious stone",
+          "world_new": [
+            "colourless",
+            "precious",
+            "stone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her brooch had three diamonds in it",
+              "world_new": [
+                "brooch",
+                "diamonds"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a diamond ring.",
+              "world_new": [
+                "ring"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mẩu kim cương",
+          "definition": "a piece of diamond (often artificial) used as a tip on eg a record-player stylus.",
+          "world_new": [
+            "piece",
+            "tip",
+            "stylus"
+          ]
+        },
+        {
+          "mean_english": "hình thoi",
+          "definition": "a kind of four-sided figure or shape; ♢",
+          "world_new": [
+            "kind",
+            "figure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a pattern of red and yellow diamonds on the floor.",
+              "world_new": [
+                "pattern",
+                "red",
+                "yellow",
+                "diamonds",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân rô",
+          "definition": "one of the playing cards of the suit diamonds, which have red symbols of this shape on them.",
+          "world_new": [
+            "cards",
+            "suit",
+            "diamonds",
+            "red",
+            "shape"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In panel b diamonds are quantiles, whereas the two curves define the 95% confidence interval.",
+    "Watered plants are represented by diamonds and broken lines, and control plants by circles and continuous lines.",
+    "Many feared that this signaled the end of diamonds.",
+    "Observed pointestimates of age-specific prevalence in the serosurvey is shown by diamonds, together with exact binomial 95 % confidence intervals.",
+    "One could therefore ask what would happen to grazing behaviour if the world price for diamonds fell.",
+    "Each vertical line represents the 10th to 90th percentile range for each year, and the diamonds indicate the median valuation error.",
+    "All future data will be consistent with this first hypothesis, since that data will consist completely of numbercards that just happen to be diamonds.",
+    "Not 'for the chamber full of diamonds ' would he gamble his enterprise against a single, merciful warning."
+  ],
+  "list_see_also": [
+    "diamonds"
+  ],
+  "list_browse": [
+    "dialectical",
+    "dialogue",
+    "dialysis",
+    "diameter",
+    "diamond",
+    "diamonds",
+    "diaphragm",
+    "diarrhoea",
+    "diary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368647_6e19e5d412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368647_9bef09327c_o.png",
+      "id_image": "diamond_218364"
+    }
+  ]
+}

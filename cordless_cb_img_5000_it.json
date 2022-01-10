@@ -1,0 +1,62 @@
+{
+  "english": "cordless",
+  "phat_am": "ˈkoːdləs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không dây",
+          "definition": "without a cord; not connected to a power supply by wires",
+          "world_new": [
+            "power",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cordless phone",
+              "world_new": [
+                "phone"
+              ]
+            },
+            {
+              "ex_of_definition": "a cordless iron.",
+              "world_new": [
+                "iron"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is clear evidence that the use of unapproved cordless telephones causes interference to other radio services, including those used by the emergency services.",
+    "A successful prosecution was brought following interference to fire brigade radio communications as a result of the use of unapproved cordless telephone.",
+    "Usually cordless, they often have a switch to deactivate the movement circuitry between use, allowing the user freedom of movement without affecting the cursor position.",
+    "In some studies, the cordless screwdriver has been shown to be the most efficient and quickest.",
+    "Let us take one small example: the aspect of the cordless telephone.",
+    "There are clear signs that, in many cases, companies are resisting a move towards cordless headsets, simply because of finance.",
+    "There has been some debate about whether the cordless headset is viable or makes sense.",
+    "Cordless power tools have made building sites much safer and often in the case of power failure we rely on batteries for back-up lighting or emergency power."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cord",
+    "cordial",
+    "cordiality",
+    "cordially",
+    "cordless",
+    "cordon",
+    "cordon off",
+    "core",
+    "coriander"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447713_124bdba5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447713_5d64a5bb7b_o.png",
+      "id_image": "cordless_2472713"
+    }
+  ]
+}

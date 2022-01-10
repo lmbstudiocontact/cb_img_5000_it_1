@@ -1,0 +1,103 @@
+{
+  "english": "dice",
+  "phat_am": "dais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súc sắc",
+          "definition": "a small cube, usually with numbered sides or faces, used in certain games",
+          "world_new": [
+            "small",
+            "cube",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is your turn to throw the dice.",
+              "world_new": [
+                "your",
+                "turn",
+                "throw"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thái hạt lựu",
+          "definition": "to cut (vegetables etc) into small cubes",
+          "world_new": [
+            "cut",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She diced the carrots for the soup.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bạc bằng súc sắc",
+          "definition": "to compete (with someone) at throwing dice; to gamble.",
+          "world_new": [
+            "compete",
+            "gamble"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After testing, it is used to make a die by pressing it against a metal disc.",
+    "Initially, a flow stream has a constant rate before entering the die, and the polymers within the stream occupy a roughly spherical conformation, maximizing entropy.",
+    "The main failure mode for die casting dies is wear or erosion.",
+    "Other features in the dies include water-cooling passages and vents along the parting lines.",
+    "The initial coin may or may not become a capped die.",
+    "Each of the 20 faces of the die has an affirmative, negative, or non-committal statement printed on it in raised letters.",
+    "Other variations include salmon, diced tomato, diced cucumber, and chopped sweet onion.",
+    "The sum of these resistances is the total thermal resistance from the die to the ambient air."
+  ],
+  "list_see_also": [
+    "dicey",
+    "dice with death",
+    "the die is cast"
+  ],
+  "list_browse": [
+    "diary",
+    "diastole",
+    "diastolic",
+    "diatomic",
+    "dice",
+    "dice with death",
+    "dicey",
+    "dictate",
+    "dictation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059985_90dd3ba95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059985_46a4f9c9ea_o.png",
+      "id_image": "dice_1469811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059935_0ed78b7389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059935_d96af5ffb8_o.png",
+      "id_image": "dice_2228426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060020_c18acea3ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060020_4b3b8b6bed_o.png",
+      "id_image": "dice_606002"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "delicate",
+  "phat_am": "ˈdelikət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mỏng manh",
+          "definition": "requiring special treatment or careful handling",
+          "world_new": [
+            "special",
+            "treatment",
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "delicate china",
+              "world_new": [
+                "china"
+              ]
+            },
+            {
+              "ex_of_definition": "a delicate situation/problem."
+            }
+          ]
+        },
+        {
+          "mean_english": "mịn màng",
+          "definition": "of fine texture etc; dainty",
+          "world_new": [
+            "fine",
+            "texture",
+            "dainty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a delicate pattern",
+              "world_new": [
+                "pattern"
+              ]
+            },
+            {
+              "ex_of_definition": "the delicate skin of a child.",
+              "world_new": [
+                "skin",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh vi",
+          "definition": "able to do fine, accurate work",
+          "world_new": [
+            "fine",
+            "accurate",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a delicate instrument.",
+              "world_new": [
+                "instrument"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngon; tinh tế",
+          "definition": "subtle",
+          "world_new": [
+            "subtle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This cheese has a delicate taste",
+              "world_new": [
+                "cheese",
+                "taste"
+              ]
+            },
+            {
+              "ex_of_definition": "a delicate shade of blue.",
+              "world_new": [
+                "shade",
+                "blue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "delicately",
+    "delicacy"
+  ],
+  "list_browse": [
+    "deli",
+    "deliberate",
+    "deliberately",
+    "delicacy",
+    "delicate",
+    "delicately",
+    "delicatessen",
+    "delicious",
+    "deliciously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660919_c434359f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660919_4c32f779e4_o.png",
+      "id_image": "delicate_525818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420513_5ee8a5e05a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420513_79716a4333_o.png",
+      "id_image": "delicate_525837"
+    }
+  ]
+}

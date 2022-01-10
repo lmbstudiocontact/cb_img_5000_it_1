@@ -1,0 +1,116 @@
+{
+  "english": "continue",
+  "phat_am": "kənˈtinjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp tục",
+          "definition": "to go on being, doing etc; to last or keep on",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She continued to run",
+              "world_new": [
+                "run"
+              ]
+            },
+            {
+              "ex_of_definition": "They continued running",
+              "world_new": [
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "He will continue in his present job",
+              "world_new": [
+                "present",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "The noise continued for several hours",
+              "world_new": [
+                "noise"
+              ]
+            },
+            {
+              "ex_of_definition": "The road continues for 150 kilometres.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp diễn",
+          "definition": "to go on (with) often after a break or pause",
+          "world_new": [
+            "break",
+            "pause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He continued his talk after the interval",
+              "world_new": [
+                "talk",
+                "interval"
+              ]
+            },
+            {
+              "ex_of_definition": "This story is continued on p.53.",
+              "world_new": [
+                "story",
+                "p"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is evidence that, for a number of years after her death, this woman continued to be venerated inside her tomb.",
+    "Features of indigenous devotional religion in fact continued to be part of his tasawwuf.",
+    "The term remission reflects remission of positive symptoms, not remission of the underlying disorder which continues to have a major negative impact despite optimal treatment.",
+    "The conclusion remarks on the continuing confusion among sociolinguists regarding the analytical relevance of gender as an external constraint on variation.",
+    "I have done quite a bit of work on that for the past couple of years and that work continues.",
+    "Food continues to be distributed from this site to this day.",
+    "Improving my competence in both languages was an intensive process that continued for the duration of my fieldwork.",
+    "All the models are then retrained and the process continues."
+  ],
+  "list_see_also": [
+    "continual",
+    "continually",
+    "continuation",
+    "continuity",
+    "continuous",
+    "continuously"
+  ],
+  "list_browse": [
+    "contingent",
+    "continual",
+    "continually",
+    "continuation",
+    "continue",
+    "continuity",
+    "continuous",
+    "continuously",
+    "contort"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306846_a509ca6094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306846_8673c4fde6_o.png",
+      "id_image": "continue_4661932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421988_6ecbd445a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421988_d0a067965b_o.png",
+      "id_image": "continue_4727045"
+    }
+  ]
+}
